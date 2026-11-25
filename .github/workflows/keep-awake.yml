@@ -1,0 +1,27 @@
+# Keeps the Streamlit Community Cloud demo from sleeping (apps sleep after 12 h without visitors):
+# every 6 hours a headless browser visits the app and presses "Yes, get this app back up!" if needed.
+name: Keep demo awake
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"     # every 6 hours (UTC)
+  workflow_dispatch: {}        # run it by hand from the Actions tab
+
+permissions:
+  contents: read
+
+jobs:
+  visit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install headless browser
+        run: |
+          pip install playwright==1.*
+          python -m playwright install --with-deps chromium
+      - name: Visit the app
+        run: python scripts/keep_awake.py "https://ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app/"
