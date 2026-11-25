@@ -17,7 +17,13 @@ value against the printed text, links brands/products/advertisers to a master da
 ID**, and hands the result to a human reviewer who confirms and saves it. Saved records and machine extractions are
 then searchable with a hybrid RAG search whose AI answers are fact-checked claim by claim.
 
-**Live demo:** https://ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app (Streamlit Community Cloud)
+| | |
+|---|---|
+| **Live working POC** | https://ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app (Streamlit Community Cloud) |
+| **Quick walkthrough video** | https://www.loom.com/share/0cf464352ff34c0da4fc91a5bff8099d |
+| **Final report (PDF)** | [Indycium_Ad_Reader_Final_Report.pdf](Indycium_Ad_Reader_Final_Report.pdf) |
+
+If the live app shows "This app has gone to sleep", click **Yes, get this app back up!** - it restarts in about a minute.
 
 ## Key features
 

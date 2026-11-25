@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Indycium Ad-Reader — Final Submission Report</title>
+<style>
+  @page { size: A4; margin: 14mm 14mm 16mm 14mm; }
+  :root {
+    --navy: #0F172A; --navy2: #1E293B; --cyan: #0EA5E9; --teal: #14B8A6; --emerald: #10B981;
+    --slate: #F8FAFC; --line: #E2E8F0; --muted: #64748B; --text: #1E293B; --amber: #F59E0B; --rose: #F43F5E;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { margin: 0; font-family: "Segoe UI", "Inter", Arial, sans-serif; color: var(--text); font-size: 10.2pt; line-height: 1.5; }
+  a { color: var(--cyan); text-decoration: none; }
+  h1, h2, h3 { color: var(--navy); margin: 0; }
+  h2 { font-size: 17pt; letter-spacing: -0.01em; }
+  h3 { font-size: 11.5pt; margin: 14px 0 6px; }
+  p { margin: 6px 0; }
+  code { font-family: "Cascadia Code", Consolas, monospace; font-size: 8.8pt; background: #EEF2F7; padding: 1px 4px; border-radius: 4px; color: #0F172A; }
+  .section { break-before: page; }
+  .avoid, .card, table, figure, .kpis, .pipeline, .links { break-inside: avoid; page-break-inside: avoid; }
+
+  /* section header */
+  .sec-head { display: flex; align-items: center; gap: 12px; margin: 0 0 12px; padding-bottom: 10px; border-bottom: 2px solid var(--line); }
+  .sec-num { width: 34px; height: 34px; border-radius: 10px; background: linear-gradient(135deg, var(--cyan), var(--emerald));
+             color: #fff; font-weight: 700; display: flex; align-items: center; justify-content: center; font-size: 13pt; }
+  .lead { color: var(--muted); font-size: 10pt; margin-bottom: 10px; }
+
+  /* cover */
+  .hero { background: linear-gradient(135deg, #0F172A 0%, #13284A 60%, #0B3B53 100%); color: #fff; border-radius: 16px;
+          padding: 26px 28px 22px; position: relative; overflow: hidden; }
+  .hero::after { content: ""; position: absolute; right: -60px; top: -60px; width: 240px; height: 240px; border-radius: 50%;
+                 background: radial-gradient(circle, rgba(14,165,233,.45), rgba(16,185,129,0) 70%); }
+  .eyebrow { text-transform: uppercase; letter-spacing: .16em; font-size: 8pt; color: #7DD3FC; font-weight: 600; }
+  .hero h1 { color: #fff; font-size: 27pt; line-height: 1.1; margin: 6px 0 6px; letter-spacing: -0.02em; }
+  .hero .sub { color: #CBD5E1; font-size: 10.5pt; max-width: 520px; }
+  .meta { display: flex; gap: 22px; margin-top: 14px; font-size: 9pt; color: #E2E8F0; }
+  .meta b { color: #fff; }
+
+  .grid2 { display: grid; grid-template-columns: 1.15fr 1fr; gap: 14px; margin-top: 14px; }
+  .card { background: var(--slate); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
+  .card h3 { margin-top: 0; }
+  .links { background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--cyan); border-radius: 12px; padding: 12px 14px; }
+  .links .row { display: flex; gap: 8px; align-items: baseline; padding: 4px 0; border-bottom: 1px dashed var(--line); font-size: 9.2pt; }
+  .links .row:last-child { border-bottom: 0; }
+  .links .k { min-width: 118px; color: var(--muted); font-size: 8.4pt; text-transform: uppercase; letter-spacing: .06em; }
+  .links .v { word-break: break-all; }
+  .links .v.quiet a { color: var(--muted); }
+
+  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 14px; }
+  .kpi { border-radius: 12px; padding: 12px; color: #fff; }
+  .kpi .n { font-size: 21pt; font-weight: 700; line-height: 1.1; }
+  .kpi .l { font-size: 8.2pt; text-transform: uppercase; letter-spacing: .08em; opacity: .9; margin-bottom: 4px; }
+  .kpi .d { font-size: 8.3pt; opacity: .92; margin-top: 3px; }
+  .k1 { background: linear-gradient(135deg, #0EA5E9, #0369A1); }
+  .k2 { background: linear-gradient(135deg, #10B981, #047857); }
+  .k3 { background: linear-gradient(135deg, #6366F1, #4338CA); }
+  .k4 { background: linear-gradient(135deg, #0F172A, #334155); }
+  .note { font-size: 8.3pt; color: var(--muted); margin-top: 8px; }
+  .note b { color: var(--text); }
+
+  ul.tight { margin: 4px 0; padding-left: 18px; } ul.tight li { margin: 2px 0; }
+
+  /* tables */
+  table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 8.8pt; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; margin: 6px 0 10px; }
+  th { background: var(--navy); color: #fff; text-align: left; font-weight: 600; padding: 7px 8px; font-size: 8.4pt; }
+  td { padding: 6px 8px; border-top: 1px solid var(--line); vertical-align: top; }
+  tr:nth-child(even) td { background: #F8FAFC; }
+  tr.win td { background: #ECFDF5 !important; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 7.8pt; font-weight: 600; white-space: nowrap; }
+  .p-green { background: #D1FAE5; color: #065F46; } .p-amber { background: #FEF3C7; color: #92400E; }
+  .p-grey { background: #E2E8F0; color: #334155; } .p-blue { background: #E0F2FE; color: #075985; }
+
+  /* pipeline */
+  .pipeline { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px 26px; margin: 6px 0 8px; position: relative; }
+  .stage { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 8px 11px; position: relative; box-shadow: 0 2px 6px rgba(15,23,42,.06); }
+  .stage .tag { font-size: 7.6pt; font-weight: 700; color: #fff; display: inline-block; padding: 1px 8px; border-radius: 999px; margin-bottom: 4px; }
+  .stage b { display: block; color: var(--navy); font-size: 10pt; }
+  .stage span { font-size: 8.3pt; color: var(--muted); display: block; line-height: 1.4; }
+  .stage.arrow::after { content: "\2192"; position: absolute; right: -21px; top: 50%; transform: translateY(-50%); color: var(--cyan); font-size: 15pt; font-weight: 700; }
+  .stage.down::after { content: "\2193"; position: absolute; left: 50%; bottom: -24px; transform: translateX(-50%); color: var(--cyan); font-size: 15pt; font-weight: 700; }
+  .stage.left::after { content: "\2190"; position: absolute; left: -21px; top: 50%; transform: translateY(-50%); color: var(--cyan); font-size: 15pt; font-weight: 700; }
+  .stage.key { border: 2px solid var(--emerald); background: #F0FDF9; }
+
+  .safeguards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+  .sg { border-radius: 10px; padding: 7px 10px; background: var(--slate); border: 1px solid var(--line); font-size: 8.6pt; }
+  .sg b { display: block; color: var(--navy); font-size: 9.4pt; margin-bottom: 2px; }
+  .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 5px; vertical-align: 0; }
+
+  /* extraction example */
+  .ex { display: grid; grid-template-columns: 130px 1fr 92px; font-size: 8.6pt; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .ex div { padding: 3px 9px; border-top: 1px solid var(--line); }
+  .ex .h { background: var(--navy); color: #fff; font-weight: 600; border-top: 0; }
+  .ex .f { color: var(--muted); font-weight: 600; background: #F8FAFC; }
+
+  /* progression */
+  .steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 8px 0 12px; }
+  .step { border-radius: 12px; padding: 11px; background: #fff; border: 1px solid var(--line); border-top: 4px solid var(--cyan); }
+  .step:nth-child(2) { border-top-color: var(--teal); } .step:nth-child(3) { border-top-color: #6366F1; } .step:nth-child(4) { border-top-color: var(--emerald); }
+  .step .big { font-size: 18pt; font-weight: 700; color: var(--navy); }
+  .step .t { font-size: 8pt; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+  .step .s { font-size: 8.3pt; color: var(--muted); }
+  .bars { margin: 6px 0 4px; }
+  .bar { display: grid; grid-template-columns: 150px 1fr 54px; align-items: center; gap: 8px; font-size: 8.6pt; margin: 4px 0; }
+  .bar .track { background: #EEF2F7; border-radius: 999px; height: 12px; overflow: hidden; }
+  .bar .fill { height: 100%; border-radius: 999px; background: linear-gradient(90deg, var(--cyan), var(--emerald)); }
+
+  /* screenshots */
+  figure { margin: 0 0 16px; }
+  figure img { display: block; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 6px 18px rgba(15,23,42,.22); border: 1px solid #CBD5E1; }
+  figcaption { margin-top: 8px; font-size: 8.8pt; color: var(--text); line-height: 1.45; }
+  figcaption b { color: var(--navy); }
+  .fig-num { display: inline-block; background: var(--cyan); color: #fff; font-weight: 700; font-size: 7.8pt; padding: 1px 7px; border-radius: 999px; margin-right: 6px; }
+
+  .feat { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .feat .card { border-top: 4px solid var(--cyan); }
+  .feat .card:nth-child(2) { border-top-color: var(--emerald); } .feat .card:nth-child(3) { border-top-color: #6366F1; } .feat .card:nth-child(4) { border-top-color: var(--amber); }
+  pre { background: var(--navy); color: #E2E8F0; border-radius: 10px; padding: 10px 12px; font-size: 8.4pt; line-height: 1.5; margin: 6px 0 10px; white-space: pre-wrap; font-family: "Cascadia Code", Consolas, monospace; }
+  .footer-note { margin-top: 14px; padding: 10px 12px; border-radius: 10px; background: #FFFBEB; border: 1px solid #FDE68A; font-size: 8.4pt; color: #78350F; }
+</style>
+</head>
+<body>
+
+<!-- ============ PAGE 1: EXECUTIVE SUMMARY ============ -->
+<div class="hero">
+  <div class="eyebrow">Final submission · Internship POC</div>
+  <h1>Indycium Ad-Reader</h1>
+  <div class="sub">AI-powered data entry that turns print, newspaper and digital advertisements — in English and Indian
+    regional languages — into verified, database-ready records.</div>
+  <div class="meta"><span>Author <b>Anirudh Chopra</b></span><span>Date <b>26 November 2026</b></span><span>Status <b>Live POC</b></span></div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h3>Problem &amp; objective</h3>
+    <p>Advertisement data entry is slow and error-prone: an operator reads each ad and retypes brand, product, headline,
+      prices, offers and contact details, then looks up the matching IDs in a master database. Ads arrive in many
+      formats and in English, Hindi, Marathi and other Indian scripts.</p>
+    <p><b>Objective:</b> automatically extract a structured record from an ad image, link it to the master database
+      <b>without ever guessing an ID</b>, and send only uncertain fields to a human reviewer — so the data is fast to
+      produce and safe to trust.</p>
+  </div>
+  <div class="links">
+    <h3 style="margin-top:0">Quick links</h3>
+    <div class="row"><span class="k">Author</span><span class="v">Anirudh Chopra</span></div>
+    <div class="row"><span class="k">Live working POC</span><span class="v"><a href="https://ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app/">ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app</a></span></div>
+    <div class="row"><span class="k">GitHub repository</span><span class="v"><a href="https://github.com/anni88git/ad-reader">github.com/anni88git/ad-reader</a></span></div>
+    <div class="row"><span class="k">Quick walkthrough video</span><span class="v quiet"><a href="https://www.loom.com/share/0cf464352ff34c0da4fc91a5bff8099d">loom.com/share/0cf464352ff34c0da4fc91a5bff8099d</a></span></div>
+    <p class="note" style="margin-top:6px">If the live app shows “This app has gone to sleep”, click <b>Yes, get this app back up!</b> — it restarts in about a minute.</p>
+  </div>
+</div>
+
+<div class="kpis">
+  <div class="kpi k1"><div class="l">Bench200 accuracy</div><div class="n">89.0%</div><div class="d">200 distinct ads · 1,614 scored values (baseline 86.4%)</div></div>
+  <div class="kpi k2"><div class="l">Confirmed precision</div><div class="n">99.0%</div><div class="d">candidate_v4 · silent errors cut 22 → 8</div></div>
+  <div class="kpi k3"><div class="l">Automated tests</div><div class="n">267</div><div class="d">pytest, all passing (25 Nov 2026)</div></div>
+  <div class="kpi k4"><div class="l">GPU hosting cost</div><div class="n">$0</div><div class="d">CPU-only app on Streamlit Community Cloud + hosted NVIDIA API (trial)</div></div>
+</div>
+
+<div class="card" style="margin-top:14px">
+  <h3>What the system does</h3>
+  <ul class="tight">
+    <li><b>Reads</b> the ad with OCR (automatic Indian-script detection) and a vision-language model, producing brand, product, headline, prices, offers, features, contacts, dealers and attributes.</li>
+    <li><b>Checks</b> every value against the printed text and an independent second model; each field is marked
+      <span class="dot" style="background:#10B981"></span>Confirmed, <span class="dot" style="background:#F59E0B"></span>Needs review or <span class="dot" style="background:#F43F5E"></span>Missing.</li>
+    <li><b>Links</b> brands, products and advertisers to the master database by string matching — IDs only ever come from existing rows.</li>
+    <li><b>Hands off</b> to a reviewer who clears the flags and saves; every correction and database addition is logged.</li>
+    <li><b>Searches</b> all records with hybrid keyword + semantic retrieval and AI answers that are fact-checked claim by claim.</li>
+  </ul>
+</div>
+<p class="note"><b>Honest caveat:</b> benchmark labels are provisional — drafted from the images before system output was
+  seen and pending human audit (0 of 200 bench200 labels human-verified). candidate_v4 figures are a development retest
+  on already-examined data, not independent proof. Source: <code>MODEL_COMPARISON.md</code>, <code>releases/</code>.</p>
+
+<!-- ============ SECTION 2: MODEL RESEARCH ============ -->
+<div class="section">
+  <div class="sec-head"><div class="sec-num">2</div><h2>Model Research &amp; Evaluation</h2></div>
+  <p class="lead">Candidates were compared on accuracy, processing speed, infrastructure and cost. Every number below is
+    copied from <code>MODEL_COMPARISON.md</code>, <code>docs/EVALUATION_REPORT.md</code> and <code>releases/</code>; anything not measured is labelled as such.</p>
+
+  <table>
+    <tr><th style="width:21%">System</th><th style="width:21%">Accuracy</th><th style="width:17%">Speed</th><th style="width:21%">Infrastructure</th><th style="width:20%">Cost &amp; verdict</th></tr>
+    <tr class="win">
+      <td><b>NVIDIA two-model pipeline</b><br><span style="font-size:8pt;color:#475569">Nemotron-3.5-Super-VL (120B-A12B) extractor + Nemotron-3-Nano-Omni (30B-A3B) reasoning verifier + RapidOCR</span></td>
+      <td>bench200 <b>89.0%</b> (v4)<br>set50 92.7% · holdout20 95.5%<br>confirmed precision <b>99.0%</b></td>
+      <td>~22 s median per vision-model call; ~40–60 s per new ad end to end</td>
+      <td>Hosted NVIDIA API Catalog; app runs on a CPU-only host — no GPU</td>
+      <td>$0 on the NVIDIA trial<br><span class="pill p-green">Recommended</span></td>
+    </tr>
+    <tr>
+      <td><b>OCR + rules</b> (no vision model)</td>
+      <td>set50 45.5% · holdout20 46.2%<br>silent errors 46.3% / 23.7%</td>
+      <td>OCR only (laptop CPU)</td>
+      <td>CPU only</td>
+      <td>Free<br><span class="pill p-grey">Baseline only</span></td>
+    </tr>
+    <tr>
+      <td><b>RapidOCR</b> (PP-OCR on ONNX Runtime)</td>
+      <td>Facts read verbatim 29/43 (67.4%); headline words 87.5% (holdout20)</td>
+      <td>13.8 s / ad (laptop CPU)</td>
+      <td>CPU; Latin, Devanagari, Tamil, Telugu, Kannada</td>
+      <td>Free, open source<br><span class="pill p-blue">Chosen OCR layer</span></td>
+    </tr>
+    <tr>
+      <td><b>PaddleOCR</b> (native)</td>
+      <td>Facts read verbatim 28/43 (65.1%); headline words 85.5% (holdout20)</td>
+      <td>91.7 s / ad (Kaggle CPU — different hardware)</td>
+      <td>CPU; ran out of memory at 4000 px; no Bengali / Gujarati model</td>
+      <td>Free, open source<br><span class="pill p-amber">Not adopted as fallback</span></td>
+    </tr>
+    <tr>
+      <td><b>Qwen3-VL</b> (4B) / <b>Qwen2.5-VL</b> (3B)</td>
+      <td><b>Not measured</b> — the free Kaggle GPU job stayed queued and the CPU runs produced no output</td>
+      <td>Not measured</td>
+      <td>Open weights; self-hosting needs a GPU. Harness ready (<code>kaggle/qwen_extract.py</code>, <code>run_eval.py ingest</code>)</td>
+      <td>Not measured<br><span class="pill p-grey">Future: different-vendor verifier</span></td>
+    </tr>
+  </table>
+
+  <h3>Why the NVIDIA two-model pipeline</h3>
+  <div class="safeguards">
+    <div class="sg"><b>Accuracy where it matters</b>The vision model reads layout, logos and regional scripts that OCR alone misses — OCR + rules reaches only ~46%.</div>
+    <div class="sg"><b>Independent second opinion</b>The verifier sees only the image (no OCR text, no first answer), so it cannot copy errors or simply agree.</div>
+    <div class="sg"><b>No GPU to run</b>Both models are hosted; the app itself runs on a free CPU host, which keeps the POC at $0.</div>
+  </div>
+
+  <h3 style="break-before:page">bench200 — frozen baseline vs. rule-set candidates (same models)</h3>
+  <table>
+    <tr><th>Metric</th><th class="num">Frozen baseline</th><th class="num">candidate_v3</th><th class="num">candidate_v4</th></tr>
+    <tr><td>Accuracy</td><td class="num">86.4%</td><td class="num">87.0%</td><td class="num"><b>89.0%</b></td></tr>
+    <tr><td>Silent errors (wrong value auto-confirmed)</td><td class="num">22</td><td class="num">8</td><td class="num"><b>8</b></td></tr>
+    <tr><td>Confirmed precision</td><td class="num">97.2%</td><td class="num">99.0%</td><td class="num"><b>99.0%</b></td></tr>
+    <tr><td>Auto-fill rate</td><td class="num">54.7%</td><td class="num">54.7%</td><td class="num">54.6%</td></tr>
+    <tr><td>Error catch rate</td><td class="num">87.8%</td><td class="num">95.3%</td><td class="num">94.8%</td></tr>
+    <tr><td>Over-flag rate (correct values sent to review)</td><td class="num">35.5%</td><td class="num">35.9%</td><td class="num">37.9%</td></tr>
+    <tr><td>Missed values</td><td class="num">39</td><td class="num">39</td><td class="num">23</td></tr>
+  </table>
+  <p class="note">The models are identical across systems; the gains come from validation rules applied to the same model outputs. Frozen baseline: English ads 88.8% vs regional-language ads 86.0%; phones 97.2% precision / 100.0% recall, websites 96.7% / 96.7%, e-mails 100.0% / 96.0%.</p>
+
+  <h3>bench200 per field — candidate_v3 → candidate_v4</h3>
+  <table>
+    <tr><th>Field</th><th class="num">Values</th><th class="num">v3 accuracy</th><th class="num">v4 accuracy</th><th class="num">v4 silent errors</th></tr>
+    <tr><td>ad_type</td><td class="num">200</td><td class="num">83.0%</td><td class="num"><b>88.5%</b></td><td class="num">2</td></tr>
+    <tr><td>brand</td><td class="num">200</td><td class="num">88.0%</td><td class="num"><b>91.0%</b></td><td class="num">0</td></tr>
+    <tr><td>category</td><td class="num">198</td><td class="num">94.4%</td><td class="num">94.4%</td><td class="num">2</td></tr>
+    <tr><td>headline</td><td class="num">199</td><td class="num">70.4%</td><td class="num">71.9%</td><td class="num">2</td></tr>
+    <tr><td>language</td><td class="num">200</td><td class="num">92.5%</td><td class="num"><b>95.0%</b></td><td class="num">2</td></tr>
+    <tr><td>price</td><td class="num">199</td><td class="num">91.0%</td><td class="num"><b>95.0%</b></td><td class="num">0</td></tr>
+    <tr><td>product</td><td class="num">200</td><td class="num">77.0%</td><td class="num">77.0%</td><td class="num">0</td></tr>
+    <tr><td>qr_code_present</td><td class="num">200</td><td class="num">100.0%</td><td class="num">100.0%</td><td class="num">0</td></tr>
+    <tr><td>sub_headline</td><td class="num">18</td><td class="num">83.3%</td><td class="num">83.3%</td><td class="num">0</td></tr>
+  </table>
+</div>
+
+<!-- ============ SECTION 3: ARCHITECTURE ============ -->
+<div class="section">
+  <div class="sec-head"><div class="sec-num">3</div><h2>System Architecture &amp; Reliability Safeguards</h2></div>
+  <p class="lead">Design rule throughout: <b>the AI proposes; deterministic checks and a human decide.</b> No value is auto-confirmed without printed evidence, and no database ID is ever produced by a model.</p>
+
+  <div class="pipeline">
+    <div class="stage arrow"><span class="tag" style="background:#0EA5E9">1 · INGEST</span><b>Ad ingestion</b><span>Upload, sample or newspaper-page region · RapidOCR with automatic Indian-script detection</span></div>
+    <div class="stage arrow"><span class="tag" style="background:#0284C7">2 · EXTRACT</span><b>VLM extraction</b><span>Nemotron-3.5-Super-VL reads the image + numbered OCR transcript → structured record</span></div>
+    <div class="stage down"><span class="tag" style="background:#6366F1">3 · VERIFY</span><b>Reasoning verifier</b><span>Nemotron-3-Nano-Omni reads the image alone; evidence gates mark each field</span></div>
+    <div class="stage"><span class="tag" style="background:#14B8A6">6 · SAVE</span><b>Saved records &amp; audit trail</b><span>Reviewer clears flags and saves; corrections and DB additions logged, undoable</span></div>
+    <div class="stage left"><span class="tag" style="background:#0F172A">5 · QUEUE</span><b>Background job queue</b><span>Persistent jobs with checkpoints, retries, stale recovery and a live progress card</span></div>
+    <div class="stage key left"><span class="tag" style="background:#10B981">4 · MATCH</span><b>Master DB matching</b><span>String matching only — <b style="display:inline;font-size:inherit">never guesses IDs</b>; uncertain or missing fields are flagged for review</span></div>
+  </div>
+
+  <h3>Reliability safeguards</h3>
+  <div class="safeguards">
+    <div class="sg"><b><span class="dot" style="background:#10B981"></span>Evidence gates</b>A value is Confirmed only if it is grounded in the printed text and agrees with the verifier; otherwise Needs review or Missing.</div>
+    <div class="sg"><b><span class="dot" style="background:#0EA5E9"></span>IDs from the database only</b>Matched · suggested · ambiguous · similar · unmatched. An ID is pre-filled only on a confirmed match.</div>
+    <div class="sg"><b><span class="dot" style="background:#6366F1"></span>Human-only additions</b>New brands/products are added only by a reviewer — duplicates refused, look-alikes must be acknowledged, every addition audited.</div>
+    <div class="sg"><b><span class="dot" style="background:#F59E0B"></span>Subjective fields reviewed</b>Headlines and sub-headlines are never silently auto-confirmed after the held-out set showed both models can agree on a wrong line.</div>
+    <div class="sg"><b><span class="dot" style="background:#14B8A6"></span>Resumable jobs</b>Each stage writes a checkpoint; a retry resumes from the failed stage without repeating model calls.</div>
+    <div class="sg"><b><span class="dot" style="background:#F43F5E"></span>Traceable numbers</b>Every benchmark figure comes from a frozen snapshot in <code>releases/</code> verified against its <code>SHA256SUMS</code>.</div>
+  </div>
+
+  <h3>Structured extraction example — Kia Sorento dealer ad <span style="font-weight:400;color:#64748B;font-size:9pt">(real Nemotron output, 16.4 s; later human-verified and saved as brand_id 1)</span></h3>
+  <div class="ex avoid">
+    <div class="h">Field</div><div class="h">Extracted value</div><div class="h">Evidence</div>
+    <div class="f">Brand</div><div>Kia</div><div>printed</div>
+    <div class="f">Product</div><div>Sorento</div><div>printed</div>
+    <div class="f">Headline</div><div>Superior tech and elegance, beyond the class.</div><div>printed</div>
+    <div class="f">Sub-headline</div><div>Movement that inspires</div><div>printed</div>
+    <div class="f">Price</div><div>₹ 27 99 000 — “Introductory price starts at”</div><div>printed</div>
+    <div class="f">Ad type</div><div>dealer</div><div>dealer contacts</div>
+    <div class="f">Category</div><div>Automobile &gt; Cars</div><div>inferred</div>
+    <div class="f">Offer</div><div>Assured Buyback – 70% Residual Value in 3 Years</div><div>printed</div>
+    <div class="f">Features</div><div>Kia AI Assistant · Digital Key 2.0 · ADAS Level 2+ · … (10 total)</div><div>printed</div>
+    <div class="f">Contact info</div><div>Allied Kia Bhuwana, Udaipur — 9289305692 · West Coast Kia Udaipur — 9351229009</div><div>printed</div>
+    <div class="f">Body copy</div><div>“Some journeys are best enjoyed together. The globally loved Kia Sorento…”</div><div>printed</div>
+  </div>
+</div>
+
+<!-- ============ SECTION 4: EVALUATION ============ -->
+<div class="section">
+  <div class="sec-head"><div class="sec-num">4</div><h2>Evaluation Progression &amp; Quality Assurance</h2></div>
+  <p class="lead">The system was evaluated in stages — from a 50-ad proof of concept, to unseen ads, to a 200-ad multi-industry, multi-language benchmark — and protected by an automated test suite.</p>
+
+  <div class="steps">
+    <div class="step"><div class="t">Stage 1 · set50 POC</div><div class="big">88.3%</div><div class="s">First honest run on 50 ads (nothing tuned); 14 silent errors / 312 confirmed.</div></div>
+    <div class="step"><div class="t">Stage 2 · tuning</div><div class="big">0</div><div class="s">Silent errors on set50 after rule fixes + headline review + independent verifier (89.3% accuracy).</div></div>
+    <div class="step"><div class="t">Stage 3 · holdout20</div><div class="big">94.5%</div><div class="s">20 unseen ads with labels drafted before any output was seen. Phones, websites, e-mails 100% P/R.</div></div>
+    <div class="step"><div class="t">Stage 4 · bench200</div><div class="big">89.0%</div><div class="s">200 distinct creatives, 13 languages, 17 industries; baseline 86.4% → candidate_v4.</div></div>
+  </div>
+
+  <h3>Accuracy by evaluation set</h3>
+  <div class="bars avoid">
+    <div class="bar"><span>OCR + rules (set50)</span><div class="track"><div class="fill" style="width:45.5%;background:#94A3B8"></div></div><b>45.5%</b></div>
+    <div class="bar"><span>set50 — first run (v1)</span><div class="track"><div class="fill" style="width:88.3%"></div></div><b>88.3%</b></div>
+    <div class="bar"><span>bench200 — frozen baseline</span><div class="track"><div class="fill" style="width:86.4%"></div></div><b>86.4%</b></div>
+    <div class="bar"><span>bench200 — candidate_v4</span><div class="track"><div class="fill" style="width:89.0%"></div></div><b>89.0%</b></div>
+    <div class="bar"><span>set50 — candidate_v4</span><div class="track"><div class="fill" style="width:92.7%"></div></div><b>92.7%</b></div>
+    <div class="bar"><span>holdout20 — candidate_v4</span><div class="track"><div class="fill" style="width:95.5%"></div></div><b>95.5%</b></div>
+  </div>
+
+  <div class="grid2" style="grid-template-columns:1fr 1fr">
+    <div class="card">
+      <h3>bench200 composition</h3>
+      <p style="font-size:9pt"><b>Languages (13):</b> English 71 · Hindi 66 · Marathi 15 · Malayalam 9 · Tamil 7 · Kannada 7 · Telugu 6 · Bengali 5 · Odia 4 · Punjabi 4 · Gujarati 3 · Urdu 2 · Manipuri 1.</p>
+      <p style="font-size:9pt"><b>Top industries:</b> FMCG 41 · Healthcare 32 · Automobile 21 · Fashion 16 · Electronics 15 · Banking &amp; Finance 15 · Education 13 · Jewellery 8 · Real Estate 8 …</p>
+      <p class="note">Sources: Navbharat Times, Amar Ujala, Maharashtra Times, Dainik Bhaskar and MAdVerse sets. 400 downloaded Hindi/Marathi ads de-duplicated to 304 distinct creatives; none overlap set50/holdout20.</p>
+    </div>
+    <div class="card">
+      <h3>Quality assurance</h3>
+      <ul class="tight">
+        <li><b>267 automated tests</b> (pytest) covering OCR script detection, validation rules, matching, review, jobs, RAG and UI flows.</li>
+        <li><b>3/3 frozen snapshots</b> — <code>bench200_frozen</code>, <code>candidate_v3</code>, <code>candidate_v4</code> — checksum-verified against <code>SHA256SUMS</code>.</li>
+        <li><b>Run-to-run noise measured:</b> re-running the same prompt changes 9 outcomes on set50, so changes under ±1 point are not claimed.</li>
+        <li><b>Adversarial checks</b> for look-alike characters, duplicates and verifier agreement on wrong lines.</li>
+      </ul>
+    </div>
+  </div>
+
+<div class="footer-note"><b>Limitations, stated plainly.</b> Benchmark labels are provisional (pending human audit); the held-out set is small (20 ads);
+    scripts without an OCR model (Bengali, Gujarati, Malayalam, Odia, Punjabi, Urdu) rely on the vision model and verifier, so most of their fields go to review;
+    about 34–39% of correct values are flagged — the deliberate price of a near-zero silent-error target. The NVIDIA trial terms do not cover production use.
+    The Qwen comparison was not completed because the free GPU job never ran.</div>
+</div>
+
+<!-- ============ SECTION 5: SCREENSHOTS ============ -->
+<div class="section">
+  <div class="sec-head"><div class="sec-num">5</div><h2>Live Application Walkthrough &amp; Screenshots</h2></div>
+  <p class="lead">Screens from the live deployment on Streamlit Community Cloud. Each shows part of a page.</p>
+
+  <figure><img src="../screenshots/02_review_form.png" alt="Review form">
+    <figcaption><span class="fig-num">Fig 1</span><b>Process advertisement — automatic form population.</b> The ad is shown with its OCR boxes beside a pre-filled, tabbed data-entry form (Identity, Creative, Price &amp; offers, Contacts &amp; dealers, Attributes).
+      Each field carries its status and a database-link outcome; here “Ferrari” is not in the master list, so only the reviewer can add it.</figcaption></figure>
+
+  <figure><img src="../screenshots/01_field_overview.png" alt="Field overview">
+    <figcaption><span class="fig-num">Fig 2</span><b>Field status &amp; database matching overview.</b> One table summarises every field: extracted value, review status and the database match.
+      IDs come only from existing records — unmatched values stay unlinked unless a reviewer adds a new record.</figcaption></figure>
+</div>
+
+<div class="section">
+  <figure><img src="../screenshots/03_jobs.png" alt="Jobs">
+    <figcaption><span class="fig-num">Fig 3</span><b>Jobs — background processing.</b> Every ad becomes a persistent job, processed by a background worker with stages, attempts and errors tracked.
+      Completed jobs open straight into review; failed or cancelled jobs resume from the step that failed.</figcaption></figure>
+
+  <figure><img src="../screenshots/04_saved_records.png" alt="Saved records">
+    <figcaption><span class="fig-num">Fig 4</span><b>Saved records — verified output with benchmarks.</b> Human-verified records with reviewer, timestamp and number of corrections, alongside the verified benchmark card (267 tests, 89.0% bench200, 99.0% confirmed precision, 3/3 snapshots).
+      Saved records appear as VERIFIED in Search &amp; RAG.</figcaption></figure>
+</div>
+
+<div class="section">
+  <figure><img src="../screenshots/05_database_additions.png" alt="Database additions">
+    <figcaption><span class="fig-num">Fig 5</span><b>Database additions — human-in-the-loop audit trail.</b> Master database counts (161 brands, 230 products, 15 advertisers) and every reviewer addition, logged with who added it and from which ad.
+      Unmatched values wait here for a reviewer; nothing is added automatically, and additions can be undone while unused.</figcaption></figure>
+
+  <figure><img src="../screenshots/06_audit_answers.png" alt="Audit answers">
+    <figcaption><span class="fig-num">Fig 6</span><b>Audit answers — measuring label quality.</b> A random sample of the drafted benchmark answers is checked field by field against the ad image.
+      Every change a reviewer makes is recorded and reported as the label error rate, turning provisional labels into audited ones.</figcaption></figure>
+</div>
+
+<div class="section">
+  <figure><img src="../screenshots/07_search_rag.png" alt="Search and RAG">
+    <figcaption><span class="fig-num">Fig 7</span><b>Search &amp; RAG — ask questions about your ads.</b> 206 indexed ad records searchable by keywords and meaning (BM25 + e5-small), with natural-language auto-filters and a “find similar ads” mode.
+      Optional AI answers cite only retrieved records and are fact-checked claim by claim by a judge model.</figcaption></figure>
+
+  <!-- ============ SECTION 6: BEYOND ============ -->
+  <div class="sec-head" style="margin-top:8px"><div class="sec-num">6</div><h2>Beyond Requirements — Value-Added Capabilities</h2></div>
+  <div class="feat">
+    <div class="card"><h3>Hybrid Search &amp; RAG engine</h3>
+      <ul class="tight"><li>Local index over saved (verified) records and machine extractions (unverified) — <b>BM25 + multilingual-e5-small</b> embeddings fused with <b>Reciprocal Rank Fusion</b>.</li>
+      <li>Natural-language auto-filters (“Hindi ads” → language = Hindi).</li>
+      <li>Grounded answers with validated citations; a mandatory <b>judge LLM</b> marks every claim verified or flagged.</li></ul></div>
+    <div class="card"><h3>Background job queue</h3>
+      <ul class="tight"><li>SQLite-backed queue with checkpoints per stage, retries with back-off and stale-job recovery.</li>
+      <li>Live processing card (stages + elapsed timer, Cancel / Retry).</li>
+      <li>Runs as a separate worker locally, or as an in-app background thread on Streamlit Cloud.</li></ul></div>
+    <div class="card"><h3>Human-in-the-loop audit logging</h3>
+      <ul class="tight"><li>Flagged fields must be checked before saving; corrections are stored with each submission.</li>
+      <li>Database additions record who, when, source ad, evidence and acknowledged look-alikes — undoable while unused.</li>
+      <li>Label audit page measures benchmark label quality.</li></ul></div>
+    <div class="card"><h3>Regional-language OCR, RAM-safe</h3>
+      <ul class="tight"><li>Latin + Devanagari by default; Telugu, Tamil and Kannada detected per ad automatically.</li>
+      <li>Only the detected script’s model is loaded, one at a time, with timeouts — safe on small CPU hosts.</li>
+      <li>Indic digits normalised; reading order and deskew handled.</li></ul></div>
+  </div>
+</div>
+
+<!-- ============ SECTION 7: SETUP ============ -->
+<div class="section">
+  <div class="sec-head"><div class="sec-num">7</div><h2>Source Code, Setup &amp; Deployment Summary</h2></div>
+
+  <h3>Local quickstart</h3>
+<pre>git clone https://github.com/anni88git/ad-reader.git
+cd ad-reader
+python -m venv .venv
+.venv\Scripts\activate            # Linux/macOS: source .venv/bin/activate
+pip install -r requirements.txt
+copy .env.example .env            # add your own NVIDIA_API_KEY (never commit it)
+streamlit run app/streamlit_app.py
+pytest -q                         # 267 tests</pre>
+  <p class="note">An optional separate worker runs with <code>python scripts/worker.py</code>; otherwise the app starts one in-process. OCR models and the e5 embedding model (~118 MB) download automatically on first use.</p>
+
+  <h3>Deployment — Streamlit Community Cloud</h3>
+  <ul class="tight">
+    <li>Deployed from GitHub (<code>anni88git/ad-reader</code>, branch <code>main</code>, main file <code>app/streamlit_app.py</code>, Python 3.12); redeploys automatically on every push.</li>
+    <li>API keys are stored only in the platform’s Secrets settings as environment variables — never in the repository.</li>
+    <li>The app starts its own background worker and warms up the OCR and embedding models after each start.</li>
+    <li>A scheduled GitHub Actions workflow visits the app every 6 hours so it stays awake for reviewers.</li>
+    <li>A <code>Dockerfile</code> (Python 3.12-slim, port 7860) runs the same app anywhere Docker does.</li>
+  </ul>
+
+  <h3>Performance</h3>
+  <table>
+    <tr><th>Case</th><th>Typical time</th></tr>
+    <tr><td>Demo samples with saved results (Kia, Horlicks, Namaste)</td><td>~5–10 s — saved OCR + extraction reused; verifier and checks run</td></tr>
+    <tr><td>A new ad (upload)</td><td>~40–60 s — CPU OCR, cloud vision model (median ~22 s per call), verifier, checks</td></tr>
+    <tr><td>First action after a cold start</td><td>A little longer while OCR / embedding models finish downloading</td></tr>
+  </table>
+
+  <h3>Repository structure</h3>
+  <table>
+    <tr><th style="width:22%">Path</th><th>Contents</th></tr>
+    <tr><td><code>adreader/</code></td><td>Pipeline: OCR, extraction, verifier, validation rules, matching, jobs, RAG</td></tr>
+    <tr><td><code>app/</code></td><td>Streamlit UI — landing page, main app, Search &amp; RAG page, theme, mascot</td></tr>
+    <tr><td><code>scripts/</code></td><td>Worker, evaluation, reporting and keep-awake scripts</td></tr>
+    <tr><td><code>tests/</code></td><td>pytest suite (267 tests)</td></tr>
+    <tr><td><code>releases/</code></td><td>Frozen benchmark snapshots with <code>SHA256SUMS</code></td></tr>
+    <tr><td><code>data/</code></td><td>Master database, drafted labels, search index, sample ads and demo caches</td></tr>
+    <tr><td><code>docs/</code>, <code>reports/</code></td><td>Evaluation report, bench200 report, screenshots and this report’s source</td></tr>
+  </table>
+
+</div>
+
+</body>
+</html>
