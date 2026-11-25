@@ -1,0 +1,51 @@
+id,file,source,language_label,category_label,brand_label,degraded_of,original
+001,data/eval/set50/images/001_kia_from_screenshot.jpg,own,English,,,,data/ads/_kia_from_screenshot.jpg
+002,data/eval/set50/images/002_002_horlicks_hi.png,own,Hindi,,,,data/ads/002_horlicks_hi.png
+003,data/eval/set50/images/003_003_namaste_butter_hi.png,own,Hindi,,,,data/ads/003_namaste_butter_hi.png
+004,data/eval/set50/images/004_car_brands_403_Volkswagen.jpg,madverse_adgal,english,vehicles/four_wheelers,Volkswagen,,NewsPaperAds/Advert_Gallery/Volkswagen/car_brands_403_Volkswagen.jpg
+005,data/eval/set50/images/005_hero_motocorp_429.jpg,madverse_adgal,english,vehicles/two_wheelers,Hero_MotoCorp,,NewsPaperAds/Advert_Gallery/Hero_MotoCorp/hero_motocorp_429.jpg
+006,data/eval/set50/images/006_maruti_suzuki_410.jpg,madverse_adgal,english,vehicles/four_wheelers,Maruti_Suzuki_Baleno,,NewsPaperAds/Advert_Gallery/Maruti_Suzuki_Baleno/maruti_suzuki_410.jpg
+007,data/eval/set50/images/007_toyota_417.jpg,madverse_adgal,english,vehicles/four_wheelers,MISC_toyota,,NewsPaperAds/Advert_Gallery/MISC_toyota/toyota_417.jpg
+008,data/eval/set50/images/008_tata_402.jpg,madverse_adgal,english,vehicles/four_wheelers,Tata_Safari,,NewsPaperAds/Advert_Gallery/Tata_Safari/tata_402.jpg
+009,data/eval/set50/images/009_LG_television_409.jpg,madverse_adgal,english,electronics/television_brands,LG_television,,NewsPaperAds/Advert_Gallery/LG_television/LG_television_409.jpg
+010,data/eval/set50/images/010_Lenovo_laptops_and_computers_403.jpg,madverse_adgal,english,electronics/computers,Lenovo_laptops_and_computers,,NewsPaperAds/Advert_Gallery/Lenovo_laptops_and_computers/Lenovo_laptops_and_computers_403.jpg
+011,data/eval/set50/images/011_Xiaomi_mobiles_400.jpg,madverse_adgal,english,electronics/mobile_devices,Xiaomi_mobiles,,NewsPaperAds/Advert_Gallery/Xiaomi_mobiles/Xiaomi_mobiles_400.jpg
+012,data/eval/set50/images/012_Hitachi_air_conditioners_404.jpg,madverse_adgal,english,electronics/air_conditioners,Hitachi_air_conditioners,,NewsPaperAds/Advert_Gallery/Hitachi_air_conditioners/Hitachi_air_conditioners_404.jpg
+013,data/eval/set50/images/013_ICICI_Bank_402.jpg,madverse_adgal,english,financial_institutions/banks,ICICI_Bank,,NewsPaperAds/Advert_Gallery/ICICI_Bank/ICICI_Bank_402.jpg
+014,data/eval/set50/images/014_LIC_400.jpg,madverse_adgal,english,financial_institutions/insurance,LIC,,NewsPaperAds/Advert_Gallery/LIC/LIC_400.jpg
+015,data/eval/set50/images/015_State_Bank_Of_India_403.jpg,madverse_adgal,english,financial_institutions/banks,State_Bank_Of_India,,NewsPaperAds/Advert_Gallery/State_Bank_Of_India/State_Bank_Of_India_403.jpg
+016,data/eval/set50/images/016_Biba_411.jpg,madverse_adgal,english,body_wear/clothing_brands,Biba,,NewsPaperAds/Advert_Gallery/Biba/Biba_411.jpg
+017,data/eval/set50/images/017_Malabar_gold_and_diamond_424.jpg,madverse_adgal,english,body_wear/jewellery,Malabar_gold_and_diamond,,NewsPaperAds/Advert_Gallery/Malabar_gold_and_diamond/Malabar_gold_and_diamond_424.jpg
+018,data/eval/set50/images/018_Fabindia_424.jpg,madverse_adgal,english,body_wear/clothing_brands,Fabindia,,NewsPaperAds/Advert_Gallery/Fabindia/Fabindia_424.jpg
+019,data/eval/set50/images/019_Haldiram_410.jpg,madverse_adgal,english,food/eateries,Haldiram,,NewsPaperAds/Advert_Gallery/Haldiram/Haldiram_410.jpg
+020,data/eval/set50/images/020_Patanjali_402.jpg,madverse_adgal,english,food/brands,Patanjali,,NewsPaperAds/Advert_Gallery/Patanjali/Patanjali_402.jpg
+021,data/eval/set50/images/021_Indigo_407.jpg,madverse_adgal,english,travel/airlines,Indigo,,NewsPaperAds/Advert_Gallery/Indigo/Indigo_407.jpg
+022,data/eval/set50/images/022_Make_MyTrip_405.jpg,madverse_adgal,english,travel/travel_connect,Make_MyTrip,,NewsPaperAds/Advert_Gallery/Make_MyTrip/Make_MyTrip_405.jpg
+023,data/eval/set50/images/023_Pantene_shampoo_402.jpg,madverse_adgal,english,cosmetics/hair_care,Pantene_shampoo,,NewsPaperAds/Advert_Gallery/Pantene_shampoo/Pantene_shampoo_402.jpg
+024,data/eval/set50/images/024_Dabur_Red_toothpaste_435.jpg,madverse_adgal,hindi,home_essentials/dental_care,Dabur_Red_toothpaste,,NewsPaperAds/Advert_Gallery/Dabur_Red_toothpaste/Dabur_Red_toothpaste_435.jpg
+025,data/eval/set50/images/025_Horlicks_nutrition_drink_411.jpg,madverse_adgal,english,drinks/health_beverages,Horlicks_nutrition_drink,,NewsPaperAds/Advert_Gallery/Horlicks_nutrition_drink/Horlicks_nutrition_drink_411.jpg
+026,data/eval/set50/images/026_Jansatta_61.jpg,madverse_epaper2,Hindi,,,,Jansatta_61.jpg
+027,data/eval/set50/images/027_Navbharat_Times_878.jpg,madverse_epaper2,Hindi,,,,Navbharat Times_878.jpg
+028,data/eval/set50/images/028_Dainik_Jagran__5.jpg,madverse_epaper2,Hindi,,,,Dainik Jagran _5.jpg
+029,data/eval/set50/images/029_Amar_Ujala__366.jpg,madverse_epaper2,Hindi,,,,Amar Ujala _366.jpg
+030,data/eval/set50/images/030_Hindustan_29.jpg,madverse_epaper2,Hindi,,,,Hindustan_29.jpg
+031,data/eval/set50/images/031_Navbharat_Times_5.jpg,madverse_epaper2,Hindi,,,,Navbharat Times_5.jpg
+032,data/eval/set50/images/032_Hari_Bhoomi__130.jpg,madverse_epaper2,Hindi,,,,Hari Bhoomi _130.jpg
+033,data/eval/set50/images/033_Dainik_Bhaskar_225.jpg,madverse_epaper2,Hindi,,,,Dainik Bhaskar_225.jpg
+034,data/eval/set50/images/034_Dainik_Bhaskar_625.jpg,madverse_epaper2,Hindi,,,,Dainik Bhaskar_625.jpg
+035,data/eval/set50/images/035_Rashtriya_Sahara_128.jpg,madverse_epaper2,Hindi,,,,Rashtriya Sahara_128.jpg
+036,data/eval/set50/images/036_Pudhari_180.jpg,madverse_epaper2,Marathi,,,,Pudhari_180.jpg
+037,data/eval/set50/images/037_Loksatta_1673.jpg,madverse_epaper2,Marathi,,,,Loksatta_1673.jpg
+038,data/eval/set50/images/038_Loksatta_1681.jpg,madverse_epaper2,Marathi,,,,Loksatta_1681.jpg
+039,data/eval/set50/images/039_Daily_Thanthi_190.jpg,madverse_epaper2,Tamil,,,,Daily Thanthi_190.jpg
+040,data/eval/set50/images/040_Andhra_Jyothi_80.jpg,madverse_epaper2,Telugu,,,,Andhra Jyothi_80.jpg
+041,data/eval/set50/images/041_V6_Velugu_30.jpg,madverse_epaper2,Telugu,,,,V6 Velugu_30.jpg
+042,data/eval/set50/images/042_Prajavani_61.jpg,madverse_epaper2,Kannada,,,,Prajavani_61.jpg
+043,data/eval/set50/images/043_Vijaya_Karnataka_350.jpg,madverse_epaper2,Kannada,,,,Vijaya Karnataka_350.jpg
+044,data/eval/set50/images/044_Mid_Day_Paper_405.jpg,madverse_epaper2,Gujarati,,,,Mid Day Paper_405.jpg
+045,data/eval/set50/images/045_Anandabazaar_Patrika_820.jpg,madverse_epaper2,Bengali,,,,Anandabazaar Patrika_820.jpg
+046,data/eval/set50/images/046_Namasthe_Telangana_8.jpg,madverse_epaper2,Telugu,,,,Namasthe Telangana_8.jpg
+047,data/eval/set50/images/047_Anandabazaar_Patrika_929.jpg,madverse_epaper2,Bengali,,,,Anandabazaar Patrika_929.jpg
+048,data/eval/set50/images/048_001_kia_from_screenshot_blur_jpeg.jpg,degraded:blur_jpeg,English,,,001,001_kia_from_screenshot_blur_jpeg.jpg
+049,data/eval/set50/images/049_004_car_brands_403_Volkswagen_tilt4.jpg,degraded:tilt4,english,vehicles/four_wheelers,Volkswagen,004,004_car_brands_403_Volkswagen_tilt4.jpg
+050,data/eval/set50/images/050_026_Jansatta_61_phone_photo.jpg,degraded:phone_photo,Hindi,,,026,026_Jansatta_61_phone_photo.jpg

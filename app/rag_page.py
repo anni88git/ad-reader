@@ -85,14 +85,30 @@ def _why(h: rag.Hit) -> list[str]:
     return out
 
 
+def _image_file(path) -> Path | None:
+    """The record's image: the stored path if it exists, else the same file under this checkout's data/ folder
+    (the index stores absolute paths from the machine that built it, e.g. a Windows laptop vs. a cloud host)."""
+    if not path:
+        return None
+    p = Path(path)
+    if p.is_file():
+        return p
+    s = str(path).replace("\\", "/")
+    if "/data/" in s:
+        q = Path(__file__).resolve().parent.parent / "data" / s.split("/data/", 1)[1]
+        if q.is_file():
+            return q
+    return None
+
+
 def _card(h: rag.Hit, score_text: str | None):
     """Compact result card: thumbnail left, key fields right, evidence in one collapsed expander."""
     d, m = h.doc, h.doc.meta
     with st.container(border=True):
         c1, c2 = st.columns([0.16, 0.84])
         with c1:
-            if d.image_path and Path(d.image_path).is_file():
-                st.image(d.image_path, width="stretch")
+            if (img := _image_file(d.image_path)) is not None:
+                st.image(str(img), width="stretch")
             else:
                 st.caption("no image")
         with c2:

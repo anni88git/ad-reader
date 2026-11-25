@@ -33,3 +33,6 @@ data/rag_index/*
 *.sqlite-shm
 *.sqlite-wal
 *.zip
+
+# Published demo images (sample ads, the images the search index shows, the audit set) are force-added by name
+# with `git add -f`; everything else in data/eval stays local.

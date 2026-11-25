@@ -1,0 +1,27 @@
+[
+ {
+  "id": "018",
+  "file": "data/eval/set50/images/018_Fabindia_424.jpg",
+  "stem": "018_Fabindia_424"
+ },
+ {
+  "id": "008",
+  "file": "data/eval/set50/images/008_tata_402.jpg",
+  "stem": "008_tata_402"
+ },
+ {
+  "id": "021",
+  "file": "data/eval/set50/images/021_Indigo_407.jpg",
+  "stem": "021_Indigo_407"
+ },
+ {
+  "id": "032",
+  "file": "data/eval/set50/images/032_Hari_Bhoomi__130.jpg",
+  "stem": "032_Hari_Bhoomi__130"
+ },
+ {
+  "id": "029",
+  "file": "data/eval/set50/images/029_Amar_Ujala__366.jpg",
+  "stem": "029_Amar_Ujala__366"
+ }
+]
