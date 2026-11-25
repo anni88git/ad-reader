@@ -42,6 +42,14 @@
   .card { background: var(--slate); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; }
   .card h3 { margin-top: 0; }
   .links { background: #fff; border: 1px solid var(--line); border-left: 4px solid var(--cyan); border-radius: 12px; padding: 12px 14px; }
+  .lbtn { display: flex; align-items: center; gap: 10px; margin: 7px 0; padding: 7px 10px; border-radius: 10px; color: #fff !important; text-decoration: none; }
+  .lbtn .ic { width: 26px; height: 26px; border-radius: 8px; background: rgba(255,255,255,.22); display: flex; align-items: center; justify-content: center; font-size: 9pt; font-weight: 700; flex: none; }
+  .lbtn .tx { display: flex; flex-direction: column; line-height: 1.25; min-width: 0; }
+  .lbtn b { font-size: 9.6pt; }
+  .lbtn small { font-size: 7.6pt; opacity: .9; text-decoration: underline; word-break: break-all; }
+  .l1 { background: linear-gradient(135deg, #0EA5E9, #0369A1); }
+  .l2 { background: linear-gradient(135deg, #1E293B, #0F172A); }
+  .l3 { background: linear-gradient(135deg, #10B981, #047857); }
   .links .row { display: flex; gap: 8px; align-items: baseline; padding: 4px 0; border-bottom: 1px dashed var(--line); font-size: 9.2pt; }
   .links .row:last-child { border-bottom: 0; }
   .links .k { min-width: 118px; color: var(--muted); font-size: 8.4pt; text-transform: uppercase; letter-spacing: .06em; }
@@ -145,9 +153,9 @@
   <div class="links">
     <h3 style="margin-top:0">Quick links</h3>
     <div class="row"><span class="k">Author</span><span class="v">Anirudh Chopra</span></div>
-    <div class="row"><span class="k">Live working POC</span><span class="v"><a href="https://ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app/">ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app</a></span></div>
-    <div class="row"><span class="k">GitHub repository</span><span class="v"><a href="https://github.com/anni88git/ad-reader">github.com/anni88git/ad-reader</a></span></div>
-    <div class="row"><span class="k">Quick walkthrough video</span><span class="v quiet"><a href="https://www.loom.com/share/0cf464352ff34c0da4fc91a5bff8099d">loom.com/share/0cf464352ff34c0da4fc91a5bff8099d</a></span></div>
+    <a class="lbtn l1" href="https://ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app/"><span class="ic">&#9654;</span><span class="tx"><b>Open the live POC &#8599;</b><small>ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app</small></span></a>
+    <a class="lbtn l2" href="https://github.com/anni88git/ad-reader"><span class="ic">&lt;/&gt;</span><span class="tx"><b>GitHub repository &#8599;</b><small>github.com/anni88git/ad-reader</small></span></a>
+    <a class="lbtn l3" href="https://www.loom.com/share/0cf464352ff34c0da4fc91a5bff8099d"><span class="ic">&#9655;</span><span class="tx"><b>Quick walkthrough video &#8599;</b><small>loom.com/share/0cf464352ff34c0da4fc91a5bff8099d</small></span></a>
     <p class="note" style="margin-top:6px">If the live app shows “This app has gone to sleep”, click <b>Yes, get this app back up!</b> — it restarts in about a minute.</p>
   </div>
 </div>
