@@ -1,13 +1,4 @@
----
-title: Indycium Ad-Reader
-emoji: 📰
-colorFrom: gray
-colorTo: indigo
-sdk: docker
-app_port: 7860
-pinned: false
-short_description: AI ad data entry - OCR, vision LLM, verifier, DB matching, RAG
----
+
 
 # Indycium Ad-Reader
 
