@@ -1,0 +1,154 @@
+{
+  "image": "data\\ads\\003_namaste_butter_hi.png",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "seconds": 23.67,
+  "tokens_in": 2986,
+  "tokens_out": 1098,
+  "ocr_seconds": {
+    "detect": 2.65,
+    "recognise": 4.82,
+    "total": 7.49
+  },
+  "raw": {
+    "language": [
+      "Hindi",
+      "English"
+    ],
+    "brand": {
+      "value": "Namaste India",
+      "evidence": "नमस्ते इंडिया",
+      "english": null
+    },
+    "product": {
+      "value": "Butter",
+      "evidence": "बटर",
+      "english": null
+    },
+    "model_variant": {
+      "value": "100 gm",
+      "evidence": "100 ग्रा.",
+      "english": null
+    },
+    "advertiser": {
+      "value": "Namaste India Foods",
+      "evidence": "www.namasteindiafoods.com",
+      "english": null
+    },
+    "ad_type": {
+      "value": "manufacturer",
+      "evidence": null,
+      "english": null
+    },
+    "category": {
+      "value": "FMCG",
+      "evidence": null,
+      "english": null
+    },
+    "headline": {
+      "value": "नमक नहीं !",
+      "evidence": "नमक नहीं !",
+      "english": "No salt!"
+    },
+    "sub_headline": {
+      "value": "लो मक्खन का असली स्वाद",
+      "evidence": "लो मक्खन का असली स्वाद",
+      "english": "Enjoy the real taste of butter"
+    },
+    "description": {
+      "value": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+      "evidence": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+      "english": "Balanced salted butter made from pure milk"
+    },
+    "body_copy_summary": [
+      "product photo",
+      "price",
+      "customer care",
+      "website",
+      "disclaimer"
+    ],
+    "prices": [
+      {
+        "amount_text": "₹48/-",
+        "label": "Promotional Offer",
+        "item": "100 ग्रा. बटर"
+      },
+      {
+        "amount_text": "₹44/-",
+        "label": "मात्र",
+        "item": "100 ग्रा. बटर"
+      }
+    ],
+    "offers": [
+      {
+        "value": "Promotional Offer",
+        "evidence": "Promotional Offer",
+        "english": null
+      }
+    ],
+    "features": [
+      {
+        "value": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+        "evidence": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+        "english": "Balanced salted butter made from pure milk"
+      }
+    ],
+    "warranty": {
+      "value": null,
+      "evidence": null,
+      "english": null
+    },
+    "phones": [
+      {
+        "value": "1800-123-0800",
+        "evidence": "Toll Free No- 1800-123-0800",
+        "english": null
+      },
+      {
+        "value": "+91-512-2240251",
+        "evidence": "+91-512-2240251",
+        "english": null
+      },
+      {
+        "value": "7988859406",
+        "evidence": "मो0 नं0- 7988859406",
+        "english": null
+      }
+    ],
+    "emails": [
+      {
+        "value": "crm@nirpl.com",
+        "evidence": "Email: crm@nirpl.com",
+        "english": null
+      }
+    ],
+    "websites": [
+      {
+        "value": "www.namasteindiafoods.com",
+        "evidence": "Website:www.namasteindiafoods.com",
+        "english": null
+      }
+    ],
+    "social_handles": [],
+    "addresses": [],
+    "dealers": [
+      {
+        "name": "दीपक सिंह",
+        "area": null,
+        "city": null,
+        "phones": [
+          "7988859406"
+        ],
+        "evidence": "जानकारी के लिये सम्पर्क करे- दीपक सिंह: मो0 नं0- 7988859406"
+      }
+    ],
+    "call_to_action": {
+      "value": "जानकारी के लिये सम्पर्क करे- दीपक सिंह: मो0 नं0- 7988859406",
+      "evidence": "जानकारी के लिये सम्पर्क करे- दीपक सिंह: मो0 नं0- 7988859406",
+      "english": "For information contact - Deepak Singh: Mobile No. - 7988859406"
+    },
+    "qr_code_present": false,
+    "disclaimer_present": true,
+    "category_attributes": {},
+    "uncertain_notes": []
+  }
+}

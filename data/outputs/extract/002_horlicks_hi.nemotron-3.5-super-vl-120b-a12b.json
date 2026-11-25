@@ -1,0 +1,102 @@
+{
+  "image": "data\\ads\\002_horlicks_hi.png",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "seconds": 21.45,
+  "tokens_in": 3115,
+  "tokens_out": 620,
+  "ocr_seconds": {
+    "detect": 4.57,
+    "recognise": 7.29,
+    "total": 11.87
+  },
+  "raw": {
+    "language": [
+      "Hindi",
+      "English"
+    ],
+    "brand": {
+      "value": "Horlicks",
+      "evidence": "Horlicks",
+      "english": null
+    },
+    "product": {
+      "value": "Horlicks Chocolate Flavour Delight",
+      "evidence": "Horlicks CHOCOLATE FLAVOUR DELIGHT",
+      "english": null
+    },
+    "model_variant": {
+      "value": "500 g",
+      "evidence": "500 g",
+      "english": null
+    },
+    "advertiser": {
+      "value": null,
+      "evidence": null,
+      "english": null
+    },
+    "ad_type": {
+      "value": "manufacturer",
+      "evidence": null,
+      "english": null
+    },
+    "category": {
+      "value": "FMCG",
+      "evidence": null,
+      "english": null
+    },
+    "headline": {
+      "value": "हॉर्लिक्स दूध की शक्ति बढ़ाए",
+      "evidence": "हॉर्लिक्स दूध की शक्ति बढ़ाए",
+      "english": "Horlicks increases the power of milk"
+    },
+    "sub_headline": {
+      "value": null,
+      "evidence": null,
+      "english": null
+    },
+    "description": {
+      "value": "हॉर्लिक्स में हैं ग्रोथ न्यूट्रीएंट्स** जो बनाए बच्चों को टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+      "evidence": "हॉर्लिक्स में हैं ग्रोथ न्यूट्रीएंट्स** जो बनाए बच्चों को टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+      "english": "Horlicks contains growth nutrients** which make children taller, stronger' and sharper**:"
+    },
+    "body_copy_summary": [
+      "product photo",
+      "feature list",
+      "disclaimer"
+    ],
+    "prices": [],
+    "offers": [],
+    "features": [
+      {
+        "value": "ग्रोथ न्यूट्रीएंट्स**",
+        "evidence": "ग्रोथ न्यूट्रीएंट्स**",
+        "english": "growth nutrients**"
+      },
+      {
+        "value": "टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+        "evidence": "टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+        "english": "taller, stronger' and sharper**:"
+      }
+    ],
+    "warranty": {
+      "value": null,
+      "evidence": null,
+      "english": null
+    },
+    "phones": [],
+    "emails": [],
+    "websites": [],
+    "social_handles": [],
+    "addresses": [],
+    "dealers": [],
+    "call_to_action": {
+      "value": null,
+      "evidence": null,
+      "english": null
+    },
+    "qr_code_present": false,
+    "disclaimer_present": true,
+    "category_attributes": {},
+    "uncertain_notes": []
+  }
+}

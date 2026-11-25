@@ -1,0 +1,241 @@
+{
+  "image": "data\\ads\\_kia_from_screenshot.jpg",
+  "model": "nvidia/nemotron-3.5-super-vl-120b-a12b",
+  "seconds": 16.43,
+  "tokens_in": 4426,
+  "tokens_out": 2162,
+  "ocr_seconds": {
+    "detect": 6.34,
+    "recognise": 27.95,
+    "total": 34.39
+  },
+  "raw": {
+    "language": [
+      "English"
+    ],
+    "brand": {
+      "value": "Kia",
+      "evidence": "Kia",
+      "english": null
+    },
+    "product": {
+      "value": "Sorento",
+      "evidence": "Sorento",
+      "english": null
+    },
+    "model_variant": {
+      "value": null,
+      "evidence": null,
+      "english": null
+    },
+    "advertiser": {
+      "value": "Kia India",
+      "evidence": "Kia Sorento",
+      "english": null
+    },
+    "ad_type": {
+      "value": "dealer",
+      "evidence": "Allied Kia Bhuwana, Udaipur Tel: 9289305692 West Coast Kia Udaipur Tel: 9351229009",
+      "english": null
+    },
+    "category": {
+      "value": "Automobile > Cars",
+      "evidence": "Kia Sorento",
+      "english": null
+    },
+    "headline": {
+      "value": "Superior tech and elegance, beyond the class.",
+      "evidence": "Superior tech and elegance, beyond the class.",
+      "english": null
+    },
+    "sub_headline": {
+      "value": "Movement that inspires",
+      "evidence": "Movement that inspires",
+      "english": null
+    },
+    "description": {
+      "value": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with three thoughtfully designed rows. With sophisticated interiors, intelligent technology, and advanced safety, it is tuned to deliver superior drives on highways and in cities. Because the journey should feel as amazing as the destination.",
+      "evidence": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with three thoughtfully designed rows. With sophisticated interiors, intelligent technology, and advanced safety, it is tuned to deliver superior drives on highways and in cities. Because the journey should feel as amazing as the destination.",
+      "english": null
+    },
+    "body_copy_summary": [
+      "product photo",
+      "feature list",
+      "price",
+      "QR code",
+      "dealer contacts",
+      "warranty",
+      "disclaimer"
+    ],
+    "prices": [
+      {
+        "amount_text": "₹ 27 99 000",
+        "label": "Introductory price starts at",
+        "item": "Kia Sorento"
+      }
+    ],
+    "offers": [
+      {
+        "value": "Assured Buyback – 70% Residual Value in 3 Years'",
+        "evidence": "Assured Buyback – 70% Residual Value in 3 Years' | ARAI Certified Hybrid Mileage 19.6 km/l",
+        "english": null
+      }
+    ],
+    "features": [
+      {
+        "value": "Kia AI Assistant (Real-time Generative AI)",
+        "evidence": "Kia AI Assistant (Real-time Generative AI)",
+        "english": null
+      },
+      {
+        "value": "Advanced Digital IRVM",
+        "evidence": "Advanced Digital IRVM",
+        "english": null
+      },
+      {
+        "value": "Remote Smart Parking Assist (RSPA)",
+        "evidence": "Remote Smart Parking Assist (RSPA)",
+        "english": null
+      },
+      {
+        "value": "Digital Key 2.0",
+        "evidence": "Digital Key 2.0",
+        "english": null
+      },
+      {
+        "value": "Dial-type Shift-by-Wire Selector",
+        "evidence": "Dial-type Shift-by-Wire Selector",
+        "english": null
+      },
+      {
+        "value": "Best-in-Segment Length (4 815 mm) & Width (1 900 mm)",
+        "evidence": "Best-in-Segment Length (4 815 mm) & Width (1 900 mm)",
+        "english": null
+      },
+      {
+        "value": "Hybrid & Diesel Powertrains",
+        "evidence": "Hybrid & Diesel Powertrains",
+        "english": null
+      },
+      {
+        "value": "All-Wheel Drive with Terrain Modes",
+        "evidence": "All-Wheel Drive with Terrain Modes",
+        "english": null
+      },
+      {
+        "value": "6 & 7-Seater Options",
+        "evidence": "6 & 7-Seater Options",
+        "english": null
+      },
+      {
+        "value": "ADAS Level 2+ with 30 Features & 10 Airbags",
+        "evidence": "ADAS Level 2+ with 30 Features & 10 Airbags",
+        "english": null
+      }
+    ],
+    "warranty": {
+      "value": "3 Years Unlimited km Warranty Extendable up to 5 Years*",
+      "evidence": "3 Years Unlimited km Warranty Extendable up to 5 Years*",
+      "english": null
+    },
+    "phones": [
+      {
+        "value": "1800 108 5005",
+        "evidence": "Call 1800 108 5005",
+        "english": null
+      },
+      {
+        "value": "9289305692",
+        "evidence": "Tel: 9289305692",
+        "english": null
+      },
+      {
+        "value": "9351229009",
+        "evidence": "Tel: 9351229009",
+        "english": null
+      }
+    ],
+    "emails": [],
+    "websites": [
+      {
+        "value": "www.kia.com",
+        "evidence": "Visit www.kia.com",
+        "english": null
+      }
+    ],
+    "social_handles": [
+      {
+        "value": "Kia India",
+        "evidence": "Look for “Kia India”@",
+        "english": null
+      }
+    ],
+    "addresses": [
+      {
+        "value": "Bhuwana, Udaipur",
+        "evidence": "Allied Kia Bhuwana, Udaipur",
+        "english": null
+      },
+      {
+        "value": "Udaipur",
+        "evidence": "West Coast Kia Udaipur",
+        "english": null
+      }
+    ],
+    "dealers": [
+      {
+        "name": "Allied Kia",
+        "area": "Bhuwana",
+        "city": "Udaipur",
+        "phones": [
+          "9289305692"
+        ],
+        "evidence": "Allied Kia Bhuwana, Udaipur Tel: 9289305692"
+      },
+      {
+        "name": "West Coast Kia",
+        "area": null,
+        "city": "Udaipur",
+        "phones": [
+          "9351229009"
+        ],
+        "evidence": "West Coast Kia Udaipur Tel: 9351229009"
+      }
+    ],
+    "call_to_action": {
+      "value": "Book now",
+      "evidence": "Book now",
+      "english": null
+    },
+    "qr_code_present": true,
+    "disclaimer_present": true,
+    "category_attributes": {
+      "fuel_type": {
+        "value": "Hybrid & Diesel",
+        "evidence": "Hybrid & Diesel Powertrains",
+        "english": null
+      },
+      "mileage": {
+        "value": "19.6 km/l",
+        "evidence": "ARAI Certified Hybrid Mileage 19.6 km/l",
+        "english": null
+      },
+      "seating_capacity": {
+        "value": "6 & 7-Seater",
+        "evidence": "6 & 7-Seater Options",
+        "english": null
+      },
+      "safety_features": {
+        "value": "ADAS Level 2+ with 30 Features & 10 Airbags",
+        "evidence": "ADAS Level 2+ with 30 Features & 10 Airbags",
+        "english": null
+      },
+      "buyback_or_finance": {
+        "value": "Assured Buyback – 70% Residual Value in 3 Years'",
+        "evidence": "Assured Buyback – 70% Residual Value in 3 Years' | ARAI Certified Hybrid Mileage 19.6 km/l",
+        "english": null
+      }
+    },
+    "uncertain_notes": []
+  }
+}

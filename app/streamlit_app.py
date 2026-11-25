@@ -148,6 +148,21 @@ def _embedded_worker():
                 time.sleep(5)
             if not j:
                 time.sleep(2)
+    def warm_up():
+        """Download / load the default OCR models and the search embedding model once, in the background, so the
+        first ad after a cold start does not pay for the downloads."""
+        for step in (lambda: ocr_mod._engine("latin"), lambda: ocr_mod._engine("devanagari")):
+            try:
+                step()
+            except Exception:
+                pass
+        try:
+            from adreader import rag
+            rag.get_embedder(download=True)
+        except Exception:
+            pass
+
+    threading.Thread(target=warm_up, daemon=True, name="adreader-warm-up").start()
     t = threading.Thread(target=loop, daemon=True, name="adreader-embedded-worker")
     t.start()
     return t
