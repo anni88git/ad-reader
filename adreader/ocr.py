@@ -79,12 +79,35 @@ def normalize_text(text: str) -> str:
 
 
 # ----------------------------------------------------------------------------- engines
+@lru_cache(maxsize=1)
+def _model_root() -> str | None:
+    """Where RapidOCR keeps / downloads its models. Default: its own package folder (unchanged locally). On hosts
+    where site-packages is read-only (e.g. Streamlit Community Cloud) use a writable cache folder instead -
+    otherwise every model download fails with 'Permission denied'. ADREADER_OCR_MODEL_DIR overrides both."""
+    import os
+    from pathlib import Path
+    override = os.getenv("ADREADER_OCR_MODEL_DIR")
+    if not override:
+        try:
+            import rapidocr
+            default = Path(rapidocr.__file__).parent / "models"
+            if os.access(default, os.W_OK):
+                return None                                  # keep RapidOCR's default location
+        except Exception:
+            pass
+    root = Path(override or (Path.home() / ".cache" / "adreader" / "rapidocr_models")).expanduser()
+    root.mkdir(parents=True, exist_ok=True)
+    return str(root)
+
+
 @lru_cache(maxsize=None)
 def _engine(lang: str):
     from rapidocr import RapidOCR
     from rapidocr.utils.typings import LangRec, ModelType, OCRVersion
 
     det = {"Det.limit_side_len": 1600, "Det.limit_type": "max", "Det.box_thresh": 0.5}
+    if (mroot := _model_root()) is not None:
+        det["Global.model_root_dir"] = mroot
     if lang == "latin":
         return RapidOCR(params=det)   # default PP-OCR rec handles Latin + digits very well
     lang_enum = {"devanagari": LangRec.DEVANAGARI, "tamil": LangRec.TA,
