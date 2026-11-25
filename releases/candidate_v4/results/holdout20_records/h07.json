@@ -1,0 +1,433 @@
+{
+ "image": "h07_tvs_416.jpg",
+ "fields": {
+  "brand": {
+   "value": "Sundram Fasteners",
+   "evidence": "Sundram Fasteners Limited",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Sundram Fasteners' (#161)"
+   ],
+   "matched_id": 161,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 161,
+     "name": "Sundram Fasteners",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Sundram Fasteners Limited",
+   "evidence": "Sundram Fasteners Limited",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "WHEN YOU PUT QUALITY FIRST, EVEN THE WORLD'S TOUGHEST EXAMINERS ARE IMPRESSED.",
+   "evidence": "WHEN YOU PUT QUALITY FIRST, EVEN THE WORLD'S TOUGHEST EXAMINERS ARE IMPRESSED.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Sundram Fasteners wins the prestigious Deming Prize for a record 17 plants in one attempt. When quality is in your DNA, everybody notices and everybody wins. We're proud that our 6 year TQM journey has culminated in us becoming the first Indian company to win the Deming prize for diversified products, multiple technologies and processes across 17 plants. We thank our customers, employees, suppliers and stakeholders for their unwavering support.",
+   "evidence": "Sundram Fasteners wins the prestigious Deming Prize for a record 17 plants in one attempt.\nWhen quality is in your DNA, everybody notices and everybody wins. We're proud that our 6 year TQM journey has culminated in us becoming the first Indian company to win the Deming prize for diversified products, multiple technologies and processes across 17 plants.\nWe thank our customers, employees, suppliers and stakeholders for their unwavering support.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Sundram Fasteners Limited",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Tyres & Parts",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #26"
+   ],
+   "matched_id": 26,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 26,
+     "name": "Automobile > Tyres & Parts",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Sundram Fasteners wins Deming Prize for 17 plants in one attempt",
+    "First Indian company to win Deming prize for diversified products, multiple technologies and processes across 17 plants",
+    "6 year TQM journey",
+    "Thanks customers, employees, suppliers and stakeholders"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Sundram Fasteners Limited announces it has won the prestigious Deming Prize for a record 17 plants in one attempt, becoming the first Indian company to win the Deming prize for diversified products, multiple technologies and processes across 17 plants after a 6 year TQM journey. The ad thanks customers, employees, suppliers and stakeholders for their support.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Sundram Fasteners wins Deming Prize for 17 plants in one attempt",
+  "First Indian company to win Deming prize for diversified products, multiple technologies and processes across 17 plants",
+  "6 year TQM journey",
+  "Thanks customers, employees, suppliers and stakeholders"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "TVS",
+   "score": 0.9988,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "Sundram Fasteners Limited",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "WHEN YOU PUT",
+   "score": 0.9929,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "QUALITY FIRST,",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "EVEN THE",
+   "score": 0.9871,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "WORLD'S",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "TOUGHEST",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "EXAMINERS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ARE IMPRESSED.",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Sundram Fasteners wins the prestigious",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Deming Prize for a record 17 plants",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "in one attempt.",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "When quality is in your DNA, everybody notices and",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "everybody wins. We're proud that our 6 year TQM journey",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "has culminated in us becoming the first Indian company",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "to win the Deming prize for diversified products, multiple",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "technologies and processes across 17 plants.",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "We thank our customers, employees, suppliers and",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "stakeholders for their unwavering support.",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 4.34,
+  "extract": 16.21
+ }
+}

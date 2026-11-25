@@ -1,0 +1,463 @@
+{
+ "image": "e085_Mathrubhumi_312.jpg",
+ "fields": {
+  "brand": {
+   "value": "Balabhumi",
+   "evidence": "BalabhumiSupplement",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Mathrubhumi",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Mathrubhumi",
+   "evidence": "മാതൃഭൂമി പതിപ്പുകൾ",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "എന്ത് വേണ്ടി കാത്തിരിക്കുക! നാട്ടിലൊരു കുഞ്ഞുങ്ങൾ!",
+   "evidence": "എന്ത് വേണ്ടി കാത്തിരിക്കുക! നാട്ടിലൊരു കുഞ്ഞുങ്ങൾ!",
+   "english": "Why wait! A child in the country!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available",
+    "second model disagrees - suggestion: ഒരു വേലക്കുറിപ്പ് തന്നെ ഇടയ്ക്കുള്ളതുമാണോ!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "കുട്ടികൾക്ക് വേണ്ടി മാത്രം വന്നതാണ് ബാലഭൂമി. കുട്ടികളുടെ മനസ്സിൽ നിറയെ കഥകൾ, കവിതകൾ, ചിത്രങ്ങൾ, കളികൾ എന്നിവയുമായി ബാലഭൂമി എത്തുന്നു. കുട്ടികളുടെ മനസ്സിൽ നിറയെ കഥകൾ, കവിതകൾ, ചിത്രങ്ങൾ, കളികൾ എന്നിവയുമായി ബാലഭൂമി എത്തുന്നു.",
+   "evidence": "കുട്ടികൾക്ക് വേണ്ടി മാത്രം വന്നതാണ് ബാലഭൂമി. കുട്ടികളുടെ മനസ്സിൽ നിറയെ കഥകൾ, കവിതകൾ, ചിത്രങ്ങൾ, കളികൾ എന്നിവയുമായി ബാലഭൂമി എത്തുന്നു. കുട്ടികളുടെ മനസ്സിൽ നിറയെ കഥകൾ, കവിതകൾ, ചിത്രങ്ങൾ, കളികൾ എന്നിവയുമായി ബാലഭൂമി എത്തുന്നു.",
+   "english": "Balabhumi is only for children. Balabhumi comes with stories, poems, pictures, games filling children's minds.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "To subscribe digital copies, visit: digital.mathrubhumi.com",
+   "evidence": "To subscribe digital copies, visit: digital.mathrubhumi.com",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: public_notice"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Media & Entertainment",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Education",
+    "category #22",
+    "record #22 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 22,
+   "candidates": [
+    {
+     "id": 22,
+     "name": "Media & Entertainment",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Malayalam",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "Malayalam: script not covered by OCR, not cross-checked",
+    "second model disagrees - suggestion: Malayalam"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 30,
+   "evidence": "₹30",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "short number '30' found in OCR but without a ₹/price marker",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Balabhumi children's magazine supplement",
+    "price Rs 30",
+    "subscribe digital copies at digital.mathrubhumi.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Balabhumi children's magazine supplement is available for Rs 30. To subscribe to digital copies, visit digital.mathrubhumi.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 30,
+     "currency": "INR",
+     "kind": "price",
+     "label": "വില",
+     "item": "Balabhumi supplement",
+     "as_printed": "₹30"
+    },
+    "evidence": "₹30",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '30' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "digital.mathrubhumi.com",
+    "evidence": "digital.mathrubhumi.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Balabhumi children's magazine supplement",
+  "price Rs 30",
+  "subscribe digital copies at digital.mathrubhumi.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ब0शदशी(लतm",
+   "score": 0.5161,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "22)",
+   "score": 0.5158,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "omuleeomo alolesomo",
+   "score": 0.7447,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "!",
+   "score": 0.6254,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "738",
+   "score": 0.7969,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "Co",
+   "score": 0.4615,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "603 a12N00o",
+   "score": 0.5746,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "ml060",
+   "score": 0.6522,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "koznisriuro",
+   "score": 0.5526,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "Cmanuanin",
+   "score": 0.5087,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "arsen)",
+   "score": 0.5156,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "a(2 & BI",
+   "score": 0.634,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "agoolen 9l6oog!",
+   "score": 0.633,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "ailer",
+   "score": 0.6779,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "Macom",
+   "score": 0.8132,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "30",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "BalabhumiSupplement",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "To subscribe digital copies, visit: digital.mathrubhumi.com",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (655x813); small print may be unreadable"
+ ],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 19.91,
+  "extract": 32.47
+ }
+}

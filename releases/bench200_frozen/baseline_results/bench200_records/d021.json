@@ -1,0 +1,623 @@
+{
+ "image": "d021_Navbharat_Times_21.jpg",
+ "fields": {
+  "brand": {
+   "value": "Kayam Churna",
+   "evidence": "KAYAM CHURNA",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: KAYAM",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Advance Granules",
+   "evidence": "ADVANCE GRANULES",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Sheth Brothers",
+   "evidence": "SHETH BROTHERS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "नया कायम चूर्ण एडवांस",
+   "evidence": "नया कायम चूर्ण एडवांस",
+   "english": "New Kayam Churna Advance",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "स्वादिष्ट दानेदार स्वरूप में",
+   "evidence": "स्वादिष्ट दानेदार स्वरूप में",
+   "english": "In tasty granular form",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (96%)",
+    "wording is not an exact match to the printed text (closest OCR reading 96% similar) - check spelling - suggestion: स्वादिष्ट दानेदार ख्वरूप में",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "एरंड तेल और गुलाब पत्ती के गुणों के साथ अब और भी अधिक असरदार कब्ज एसिडिटी और गैस पर करे वार",
+   "evidence": "एरंड तेल और गुलाब पत्ती के गुणों के साथ अब और भी अधिक असरदार कब्ज एसिडिटी और गैस पर करे वार",
+   "english": "With the benefits of castor oil and rose petals, now even more effective against constipation, acidity and gas",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #14"
+   ],
+   "matched_id": 14,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Kayam Churna Advance Granules",
+    "Ayurvedic medicine",
+    "100% Ayurvedic",
+    "Effective for constipation, acidity and gas",
+    "Available in cumin flavor",
+    "Take one spoon with meals",
+    "New advanced formula",
+    "Kayam Churna and Kayam tablets also available",
+    "Toll free number 1800 419 0807",
+    "Email contact@kayamchurna.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Kayam Churna Advance Granules is an Ayurvedic medicine for constipation, acidity and gas, made with castor oil and rose petals. It is 100% Ayurvedic, available in cumin flavor, and Kayam tablets are also available; call 1800 419 0807 or email contact@kayamchurna.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18004190807",
+     "kind": "toll_free",
+     "as_printed": "1800 419 0807"
+    },
+    "evidence": "Toll Free Number : 1800 419 0807",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [
+   {
+    "value": "contact@kayamchurna.com",
+    "evidence": "contact@kayamchurna.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "जीरा फ्लेवर में",
+    "evidence": "जीरा फ्लेवर में",
+    "english": "In cumin flavor",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (92%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "मेजरिंग स्पून के साथ",
+    "evidence": "मेजरिंग स्पून के साथ",
+    "english": "With measuring spoon",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "नया एडवांस फॉर्मूला",
+    "evidence": "नया एडवांस फॉर्मूला",
+    "english": "New advanced formula",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (76%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100% आयुर्वेदिक",
+    "evidence": "100% आयुर्वेदिक",
+    "english": "100% Ayurvedic",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Kayam Churna Advance Granules",
+  "Ayurvedic medicine",
+  "100% Ayurvedic",
+  "Effective for constipation, acidity and gas",
+  "Available in cumin flavor",
+  "Take one spoon with meals",
+  "New advanced formula",
+  "Kayam Churna and Kayam tablets also available",
+  "Toll free number 1800 419 0807",
+  "Email contact@kayamchurna.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "नया कायम",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "नया",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "कायम",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "चूर्ण एडवांस",
+   "score": 0.993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "चूर्ण",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "स्वादिष्ट दानेदार ख्वरूप में",
+   "score": 0.9509,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "एरंड तेल और गुलाब पत्ती के गुणों के साथ",
+   "score": 0.957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "अब और भी अधिक असरदार",
+   "score": 0.9805,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "कब्ज एसिडिटी और",
+   "score": 0.9668,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "गैस पर करे वार",
+   "score": 0.9758,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "जीरा प्लेवर में",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "मेजरिं स्पून के साथ",
+   "score": 0.912,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "नया एडवांस फोम्ुला",
+   "score": 0.9597,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "AYURVEDIC MEDICINE",
+   "score": 0.9869,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "100% आयुर्वेदिक",
+   "score": 0.9525,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "KAYAM",
+   "score": 0.9474,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "OFF",
+   "score": 0.9854,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 18,
+   "text": "CHURNA",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "ADVANCE",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "GRANULES",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "A ÉTC AND CAN BE TAKEN WITHOUT HARU",
+   "score": 0.8885,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 22,
+   "text": "EFUL IN CHRONIC CONSTIPATION, ACDITY",
+   "score": 0.898,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 23,
+   "text": "SHETH BROTHERS",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "BHAVNAGAR",
+   "score": 0.9996,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 25,
+   "text": "कायम चूर्ण और",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "कायम",
+   "score": 0.9881,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "कायम टेबलेट भी उपलब्ध",
+   "score": 0.991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "KAYAT",
+   "score": 0.7194,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "भावनगर वाले शेठ ब्रदर्स का आयुवौंदक उतयादन",
+   "score": 0.8519,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "Toll Free Number : 1800 419 0807",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": ":contact@kayamchurna.com",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (486x901); small print may be unreadable"
+ ],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 10.01,
+  "extract": 18.73
+ }
+}

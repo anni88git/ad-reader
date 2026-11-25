@@ -1,0 +1,89 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi"
+   ],
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Delhi State Legal Services Authority",
+   "Delhi Traffic Police",
+   "Delhi Police",
+   null
+  ]
+ },
+ "product": {
+  "any_of": [
+   "National Lok Adalat",
+   null
+  ]
+ },
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "Delhi State Legal Services Authority",
+   "दिल्ली राज्य विधिक सेवाएं प्राधिकरण",
+   "Delhi Traffic Police",
+   "Delhi State Legal Services Authority / Delhi Traffic Police",
+   null
+  ]
+ },
+ "ad_type": "public_notice",
+ "category": "Government & Public Notices",
+ "headline": {
+  "any_of": [
+   "नेशनल लोक अदालत",
+   "नेशनल लोक अदालत का आयोजन"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "13 मई, 2023",
+   "दिल्ली राज्य विधिक सेवाएं प्राधिकरण द्वारा दिल्ली यातायात पुलिस के सहयोग से",
+   "का आयोजन",
+   null
+  ]
+ },
+ "price": null,
+ "phones": {
+  "required": [
+   "01125844444"
+  ],
+  "optional": []
+ },
+ "websites": {
+  "required": [
+   "https://traffic.delhipolice.gov.in/notice/lokadalat"
+  ],
+  "optional": [
+   "https://www.facebook.com/dtptraffic",
+   "https://twitter.com/dtptraffic"
+  ]
+ },
+ "emails": [],
+ "qr_code_present": true,
+ "_uncertain_fields": []
+}

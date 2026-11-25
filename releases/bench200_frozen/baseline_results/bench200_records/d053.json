@@ -1,0 +1,672 @@
+{
+ "image": "d053_Navbharat_Times_53.jpg",
+ "fields": {
+  "brand": {
+   "value": "Amul",
+   "evidence": "अमूल",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "exact match to existing record 'Amul' (#70)"
+   ],
+   "matched_id": 70,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 70,
+     "name": "Amul",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Cow Milk",
+   "evidence": "Amul Cow Milk",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for Amul"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Amul",
+   "evidence": "अमूल",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "पेश है गाय की ममता से भरा अमूल गाय दूध",
+   "evidence": "पेश है गाय की ममता से भरा अमूल गाय दूध",
+   "english": "Presenting Amul Cow Milk filled with a mother cow's love",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: पेशा है गाय की ममता से भरा"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "वेदों में गाय के दूध को सम्पूर्ण आहार का दर्जा दिया गया है। पोषण भरा, स्वादिष्ट, पचने में आसान। इन्हीं गुणों की वजह से गाय के दूध को ममता भरा और गाय को माँ समान माना जाता है। अमूल में हम क्वॉलिटी जाँच से यह सुनिश्चित करते हैं कि गाय की यही ममता आपके परिवार तक पहुँचे।",
+   "evidence": "वेदों में गाय के दूध को सम्पूर्ण आहार का दर्जा दिया गया है। पोषण भरा, स्वादिष्ट, पचने में आसान। इन्हीं गुणों की वजह से गाय के दूध को ममता भरा और गाय को माँ समान माना जाता है। अमूल में हम क्वॉलिटी जाँच से यह सुनिश्चित करते हैं कि गाय की यही ममता आपके परिवार तक पहुँचे।",
+   "english": "The Vedas have given cow's milk the status of complete food. Nutritious, tasty, easy to digest. Because of these qualities, cow's milk is considered full of love and the cow is considered like a mother. At Amul, we ensure through quality checks that this same love of the cow reaches your family.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 500,
+   "evidence": "500 mL ₹28*",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (500)",
+    "several numbers in price text",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model read the main price as [28]"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Amul Cow Milk advertisement",
+    "500 mL ₹28* | 1 L ₹56*",
+    "Easy to digest, nutritious, 4% fat",
+    "Pasteurised homogenised cow milk",
+    "Contact numbers for Delhi, Ghaziabad, Gurugram, Faridabad, Haryana"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Amul Cow Milk is presented as nutritious, easy-to-digest milk with 4% fat, filled with a mother cow's love. It is available in 500 mL for ₹28 and 1 L for ₹56. Contact numbers are provided for Delhi, Ghaziabad, Gurugram, Faridabad, and other Haryana areas.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "01128524336",
+     "kind": "landline",
+     "as_printed": "011 - 28524336/37"
+    },
+    "evidence": "दिल्ली: 011 - 28524336/37",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01202673093",
+     "kind": "landline",
+     "as_printed": "0120-2673093"
+    },
+    "evidence": "गाज़ियाबाद: 0120-2673093",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7827255377",
+     "kind": "mobile",
+     "as_printed": "7827255377"
+    },
+    "evidence": "गाज़ियाबाद: 0120-2673093, 7827255377",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9313125999",
+     "kind": "mobile",
+     "as_printed": "9313125999"
+    },
+    "evidence": "गुरुग्राम: 9313125999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8777286447",
+     "kind": "mobile",
+     "as_printed": "8777286447"
+    },
+    "evidence": "फ़रीदाबाद: 8777286447",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9718222906",
+     "kind": "mobile",
+     "as_printed": "9718222906"
+    },
+    "evidence": "हरियाणा के बाकी क्षत्र: 9718222906",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 500,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "Amul Cow Milk",
+     "as_printed": "500 mL ₹28*"
+    },
+    "evidence": "500 mL ₹28*",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (500)",
+     "several numbers in price text",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 100000,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "Amul Cow Milk",
+     "as_printed": "1 L ₹56*"
+    },
+    "evidence": "1 L ₹56*",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (100,000)",
+     "several numbers in price text",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "EASY TO DIGEST NUTRITIOUS 4% Fat",
+    "evidence": "EASY TO DIGEST NUTRITIOUS 4% Fat",
+    "english": "Easy to digest, nutritious, 4% fat",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PASTEURISED HOMOGENISED COW MILK",
+    "evidence": "PASTEURISED HOMOGENISED COW MILK",
+    "english": "Pasteurised homogenised cow milk",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Amul Cow Milk advertisement",
+  "500 mL ₹28* | 1 L ₹56*",
+  "Easy to digest, nutritious, 4% fat",
+  "Pasteurised homogenised cow milk",
+  "Contact numbers for Delhi, Ghaziabad, Gurugram, Faridabad, Haryana"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "अमूल",
+   "score": 0.8731,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "गाय",
+   "score": 0.9687,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "दूध",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "पेश है",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "गाय की ममता से भरा",
+   "score": 0.8833,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "अमूल गाय",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "दूध",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "वेदों में गाय के दूध को सम्पूर्ण आहार का दरजा दिया गया है। पोषण भरा, स्वादि्ट, पचने में आसान।",
+   "score": 0.9798,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "इन्हीं गुणों की वजह से गाय के दूध को ममता भरा और गाय को माँ समान माना जाता है।",
+   "score": 0.9654,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "अमूल में हम क्वॉलिटी जाँच से यह सुनिश्चित करते हैं कि गाय की यही ममता आपके परिवार तक पहुचे।",
+   "score": 0.9747,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "EASY TO DIGEST",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "NUTRITIOUS",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "4%",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "Fat",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Amul",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Cow",
+   "score": 0.9299,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Milk",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "अमल",
+   "score": 0.9933,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "गाय का शुद्ध दूध",
+   "score": 0.92,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "PASTEURISED HOMOGENISED COW MILK",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "गाय की ममता से भरा",
+   "score": 0.9841,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "500 mL ₹28* | 1 L ₹56*",
+   "score": 0.925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "*एमआरपी (सभी टैक्स शामिल), ्रांसपोटेंशन और कूृलिंग चार्जेस शामिल. शरतें लागू. पूछताछ/उपलब्धता के लिए कृपया संपर्क करें",
+   "score": 0.9456,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "दिल्ली: 011 - 28524336/37; गाज़ियाबाद: 0120-2673093, 7827255377; गुरुग्राम: 9313125999; फ़रीदाबाद: 8777286447;",
+   "score": 0.9802,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "हरियाणा के बाकी क्षत्र: 9718222906",
+   "score": 0.9239,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 18.19,
+  "extract": 11.51
+ }
+}

@@ -1,0 +1,713 @@
+{
+ "image": "d353_Maharashtra_Times_53.jpg",
+ "fields": {
+  "brand": {
+   "value": "Puraniks IKIGAI",
+   "evidence": "PURANiKS IKIGAI",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "IKIGAI Phase 1 / IKIGAI Phase 2",
+   "evidence": "IKIGAI Phase 1\\nIKIGAI Phase 2",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (67%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Puraniks IKIGAI",
+   "evidence": "PURANiKS IKIGAI GB Road, Thane",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "शानदार रिस्पॉन्स नंतर सादर आहे स्पेशल 1 BHK फ्लॅट्स",
+   "evidence": "शानदार रिस्पॉन्स नंतर सादर आहे स्पेशल 1 BHK फ्लॅट्स",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 75% similar) - check spelling - suggestion: रिस्पॉन्स",
+    "second model disagrees - suggestion: शानदार रिस्पॉन्स नंतर सादर आहे स्पेशल 1 BHK फ्लॅट्स",
+    "headline looks like a fragment; second model's longer headline contains it and is printed in the ad (OCR)",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "नंतर सादर आहे स्पेशल 1 BHK फ्लंट्स",
+   "evidence": "नंतर सादर आहे स्पेशल 1 BHK फ्लंट्स",
+   "english": "Now presenting special 1 BHK flats",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ₹ 39.99L* मध्ये"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "₹39.99L* मध्ये",
+   "evidence": "₹39.99L* मध्ये",
+   "english": "₹39.99L* only",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": "नंतर सादर आहे स्पेशल 1 BHK फ्लंट्स",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": "नंतर सादर आहे स्पेशल 1 BHK फ्लंट्स",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Hindi, English"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 3999000,
+   "evidence": "₹39.99L*",
+   "english": null,
+   "confidence": 0.35,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "'3999' appears in the ad as a quantity/unit, not as a price",
+    "too uncertain to fill - shown as a suggestion only",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees",
+    "both models read this amount with a ₹ sign; the 'quantity' check matched a nearby number - confirm",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model saw a QR code; detector could not confirm (small print?)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Puraniks IKIGAI special 1 BHK flats",
+    "₹39.99 Lakh only",
+    "2 BHK also available at ₹69.99 Lakh",
+    "₹4,999/- fixed EMI for 24 months",
+    "Amenities: clubhouse, swimming pool, children's play area",
+    "MahaRERA registered projects"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Puraniks IKIGAI is offering special 1 BHK flats starting at ₹39.99 Lakh, with 2 BHK flats also available at ₹69.99 Lakh. A fixed EMI of ₹4,999 per month for 24 months is available on loans through Bajaj Housing Finance Ltd. Amenities include a clubhouse, swimming pool, and children's play area.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "02268493345",
+     "kind": "landline",
+     "as_printed": "022 6849 3345"
+    },
+    "evidence": "022 6849 3345",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 3999000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "मध्ये",
+     "item": "1 BHK flats",
+     "as_printed": "₹39.99L*"
+    },
+    "evidence": "₹39.99L*",
+    "english": null,
+    "confidence": 0.35,
+    "status": "missing",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "'3999' appears in the ad as a quantity/unit, not as a price",
+     "too uncertain to fill - shown as a suggestion only",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 6999000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "मध्ये देखील उपलब्ध",
+     "item": "2 BHK flats",
+     "as_printed": "₹69.99 लाख*"
+    },
+    "evidence": "₹69.99 लाख*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (6,999,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 4999,
+     "currency": "INR",
+     "kind": "price",
+     "label": "24 महिन्यांसाठी फिक्स्ड ईएमआई**",
+     "item": "Fixed EMI",
+     "as_printed": "₹4,999/-"
+    },
+    "evidence": "₹4,999/-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (4,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "maharera.mahaonline.gov.in",
+    "evidence": "Project details are available on the website: http://maharera.mahaonline.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "GB Road, Thane",
+    "evidence": "GB Road, Thane",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "क्लबहाऊस | स्विमिंग पूल | चिल्ड्रन्स प्ले एरिया",
+    "evidence": "सुविधा: क्लबहाऊस | स्विमिंग पूल | चिल्ड्रन्स प्ले एरिया",
+    "english": "Clubhouse | Swimming pool | Children's play area",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (82%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "MahaRERA Reg. No.: IKIGAI Phase 1 P51700006605",
+    "evidence": "MahaRERA Reg. No.: IKIGAI Phase 1 P51700006605",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "identifier digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MahaRERA Reg. No.: IKIGAI Phase 2 P51700051124",
+    "evidence": "MahaRERA Reg. No.: IKIGAI Phase 2 P51700051124",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "identifier digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "Fixed EMI offer applicable only on loans sanctioned and disbursed through Bajaj Housing Finance Ltd. Standard T&C apply.",
+    "evidence": "**Fixed EMI offer applicable only on loans sanctioned and disbursed through Bajaj Housing Finance Ltd. Standard T&C apply.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "IKIGAI Phase 1 / IKIGAI Phase 2",
+   "evidence": "IKIGAI Phase 1\\nIKIGAI Phase 2",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (67%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "GB Road, Thane",
+   "evidence": "GB Road, Thane",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "configuration": {
+   "value": "1 BHK / 2 BHK",
+   "evidence": "स्पेशल 1 BHK फ्लंट्स\\n2 बीएचके",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (68%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "rera_number": {
+   "value": "P51700006605 / P51700051124",
+   "evidence": "IKIGAI Phase 1 P51700006605\\nIKIGAI Phase 2 P51700051124",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (60%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "amenities": {
+   "value": "क्लबहाऊस | स्विमिंग पूल | चिल्ड्रन्स प्ले एरिया",
+   "evidence": "सुविधा: क्लबहाऊस | स्विमिंग पूल | चिल्ड्रन्स प्ले एरिया",
+   "english": "Clubhouse | Swimming pool | Children's play area",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (82%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Puraniks IKIGAI special 1 BHK flats",
+  "₹39.99 Lakh only",
+  "2 BHK also available at ₹69.99 Lakh",
+  "₹4,999/- fixed EMI for 24 months",
+  "Amenities: clubhouse, swimming pool, children's play area",
+  "MahaRERA registered projects"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "02268493345",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "PURANiKS",
+   "score": 0.847,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "IKIGAI",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "GB Road,Thane",
+   "score": 0.979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "रिस्पॉन्स",
+   "score": 0.9797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "शानदार",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "नंतर सादर आहे स्पेशल 1 BHK फ्लंट्स",
+   "score": 0.9442,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "39.99L",
+   "score": 0.9773,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "मध्ये",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "MahaRERA Reg. No.:",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "2बीएचके 369.99लाख\" मध्ये देखील उपलब्ध",
+   "score": 0.9646,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "₹4,119/- 24 महिन्यांसाठी फिक्स्ड ईएमआई*",
+   "score": 0.9356,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "MahaRERA Reg. No.:",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "ऑमिनिटीज: क्लबहाऊस | स्विमिंग पूल | चिल्न्स प्ले एरिया",
+   "score": 0.9441,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "*Price Includes taxes. Excludes general charges, payable at the time of possession. **Fixed EMI offer",
+   "score": 0.9903,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "IKIGAI Phase 1",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "applicable only on loans sanctioned and disbursed through Bajaj Housing Finance Ltd. Standard T&C apply.",
+   "score": 0.9916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "IKIGAI Phase 2",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "P51700006605",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Project details are available on the website: http://maharera.mahaonline.gov.in",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "P51700051124",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 12.74,
+  "extract": 33.44
+ }
+}

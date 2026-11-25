@@ -1,0 +1,356 @@
+{
+ "image": "e013_Sakshi__60.jpg",
+ "fields": {
+  "brand": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "headline": {
+   "value": "RANKED AMONG TOP 25",
+   "evidence": "RANKED AMONG TOP 25",
+   "english": "Ranked among top 25",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: RANKED AMONG"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "SELF FINANCED INSTITUTES IN THE COUNTRY IN ARIIA 2020",
+   "evidence": "SELF FINANCED INSTITUTES IN THE COUNTRY IN ARIIA 2020",
+   "english": "Self financed institutes in the country in ARIIA 2020",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: TOP 25"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ATAL RANKING OF INSTITUTIONS ON INNOVATION ACHIEVEMENTS BY MINISTRY OF HRD, GOVT. OF INDIA",
+   "evidence": "ATAL RANKING OF INSTITUTIONS ON INNOVATION ACHIEVEMENTS BY MINISTRY OF HRD, GOVT. OF INDIA",
+   "english": "Atal Ranking of Institutions on Innovation Achievements by Ministry of HRD, Govt. of India",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.3,
+   "status": "missing",
+   "reasons": [
+    "'None' is not a valid ad type"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Ranked among top 25 self financed institutes in the country in ARIIA 2020",
+    "Atal Ranking of Institutions on Innovation Achievements",
+    "By Ministry of HRD, Govt. of India"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The institution is ranked among the top 25 self-financed institutes in India in ARIIA 2020, an Atal Ranking of Institutions on Innovation Achievements by the Ministry of HRD, Government of India.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Ranked among top 25 self financed institutes in the country in ARIIA 2020",
+  "Atal Ranking of Institutions on Innovation Achievements",
+  "By Ministry of HRD, Govt. of India"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "RANKED AMONG",
+   "score": 0.9895,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "TOP",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "25",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "SELF FINANCED INSTITUTES",
+   "score": 0.9732,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "IN THE COUNTRY IN",
+   "score": 0.9416,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "ARIIA 2020",
+   "score": 0.9512,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "ATAL RANKING OFINSTITUTIONS",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "ONINNOVATIONACHIEVEMENTS",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "BY MINISTRY OF HRD, GOVT. OF INDIA",
+   "score": 0.9488,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (551x802); small print may be unreadable"
+ ],
+ "record_flags": [
+  "no brand identified - manual entry required"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.11,
+  "extract": 15.89
+ }
+}

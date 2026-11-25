@@ -1,0 +1,641 @@
+{
+ "image": "e057_Sambad_15189.jpg",
+ "fields": {
+  "brand": {
+   "value": "Wildcraft",
+   "evidence": "WILDCRAFT",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Wildcraft",
+   "evidence": "WILDCRAFT",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ବୁଲିବା ଆରମ୍ୱାଦ୍ଧ ବାହିଁ ବାହାଗୁଡ଼ିଆ",
+   "evidence": "ବୁଲିବା ଆରମ୍ୱାଦ୍ଧ ବାହିଁ ବାହାଗୁଡ଼ିଆ",
+   "english": "Start walking, carry your backpack",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (0%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: ପୁର୍ବତାକ ଆଗରକାଶ ବାହୁ ବ୍ରୁକ୍ଷ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "READY FOR ANYTHING",
+   "evidence": "READY FOR ANYTHING",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "5 YEARS INTERNATIONAL WARRANTY",
+   "evidence": "INTERNATIONAL\n5 YEARS\nWARRANTY",
+   "english": "5 Years International Warranty",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (70%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "give a missed call on 8655097266",
+   "evidence": "give a missed call on 8655097266",
+   "english": "Give a missed call on 8655097266 for corporate or trade enquiries",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "wildcraft.com",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel > Watches & Accessories",
+   "evidence": "GEAR | CLOTHING | FOOTWEAR",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #29"
+   ],
+   "matched_id": 29,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 29,
+     "name": "Fashion & Apparel > Watches & Accessories",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Odia",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Odia: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Wildcraft backpack with S-Shaped Shoulder Strap for superior comfort",
+    "Shoulder Pad Cushion",
+    "Sternum Strap improves load distribution",
+    "Back System: Super Glide Air Mesh",
+    "Organizers",
+    "5 Years International Warranty",
+    "Detachable Waterproof Rain Cover",
+    "Available at Exclusive Wildcraft Stores and leading retail outlets near you",
+    "For Corporate or Trade Enquiries, give a missed call on 8655097266"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Wildcraft backpacks are ready for anything, featuring S-shaped shoulder straps, sternum strap for load distribution, super glide air mesh back system, and organizers. They come with a 5-year international warranty and detachable waterproof rain cover. Available at exclusive Wildcraft stores and leading retail outlets; for corporate or trade enquiries, give a missed call on 8655097266.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8655097266",
+     "kind": "mobile",
+     "as_printed": "8655097266"
+    },
+    "evidence": "give a missed call on 8655097266",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "wildcraft.com",
+    "evidence": "wildcraft.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "S-Shaped Shoulder Strap: For Superior Comfort",
+    "evidence": "S-Shaped Shoulder Strap:\nFor Superior Comfort",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Shoulder Pad Cushion",
+    "evidence": "Shoulder\nPad Cushion",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Sternum Strap: Improves Load Distribution",
+    "evidence": "Sternum Strap:\nImproves Load\nDistribution",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Back System: Super Glide Air Mesh",
+    "evidence": "Back System:\nSuper Glide\nAir Mesh",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Organizers",
+    "evidence": "Organizers",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Detachable Waterproof Rain Cover",
+    "evidence": "DETACHABLE\nWATERPROOF\nRAIN COVER",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (69%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Wildcraft backpack with S-Shaped Shoulder Strap for superior comfort",
+  "Shoulder Pad Cushion",
+  "Sternum Strap improves load distribution",
+  "Back System: Super Glide Air Mesh",
+  "Organizers",
+  "5 Years International Warranty",
+  "Detachable Waterproof Rain Cover",
+  "Available at Exclusive Wildcraft Stores and leading retail outlets near you",
+  "For Corporate or Trade Enquiries, give a missed call on 8655097266"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "wildcraft.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "GEAR I CLOTHING I FOOTWEAR",
+   "score": 0.98,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "a6049 21060zQ",
+   "score": 0.6809,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "als gge",
+   "score": 0.6882,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "S-Shaped Shoulder Strap:",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Shoulder",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "For Superior Comfort",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Pad Cushion",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Sternum Strap:",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Improves Load",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Distribution",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Back System:",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Super Glide",
+   "score": 0.9565,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Air Mesh",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Organizers",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "WILDCRAFT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "YEARS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "WATERPROOF",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "READY FOR ANYTHING",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "WARRAN",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Available at Exclusive Wildcraft Stores",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "For Corporate or Trade Enquiries,",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "and leading retail outlets near you!",
+   "score": 0.9939,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "give a missed call on 8655097266",
+   "score": 0.9841,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Flipkart",
+   "score": 0.9991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "Myntra",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "lifestyle",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "SPAR",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "CENTRO",
+   "score": 0.9511,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "SOUR ITTIE TUUN INDRE",
+   "score": 0.5339,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 9.72,
+  "extract": 27.7
+ }
+}

@@ -1,0 +1,940 @@
+{
+ "image": "h17_Loksatta_1310.jpg",
+ "fields": {
+  "brand": {
+   "value": "Runwal",
+   "evidence": "RUNWAL",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Renault"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Renault",
+     "score": 61.5
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "MyCity",
+   "evidence": "RUNWAL MYCITY",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Runwal",
+   "evidence": "RUNWAL MYCITY",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "उन्हाळ्याचा पुरेपूर आनंद लुटा!!",
+   "evidence": "उन्हाळ्याचा पुरेपूर आनंद लुटा!!",
+   "english": "Enjoy the full pleasure of summer!!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (76%)",
+    "second model disagrees - suggestion: उन्हाळाच्या पूरपूर आनंद लूटा!!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "आता तुमचा प्रतयेक उन्हाळा रुणवाल मायसिटीमधील वास्तव्यासह अविस्मरणीय करा. आमच्या 156 एकर सुसंकलित टाऊनशिपमध्ये मोठा स्विमिंग पूल, क्रिकेटची मैदाने आणि हिरव्यागार जागापासून उद्यानांपर्यंत सर्व काही आहे. अशी 100+ अत्याधुनिक सुखसुविधांसह हा टाऊनशिपची रचना तुम्हाला उन्हाळ्याचा आनंददायी अनुभव मिळवून देण्यासाठी सज आहे.",
+   "evidence": "आता तुमचा प्रतयेक उन्हाळा रुणवाल मायसिटीमधील वास्तव्यासह अविस्मरणीय करा. आमच्या 156 एकर सुसंकलित टाऊनशिपमध्ये मोठा स्विमिंग पूल, क्रिकेटची मैदाने आणि हिरव्यागार जागापासून उद्यानांपर्यंत सर्व काही आहे. अशी 100+ अत्याधुनिक सुखसुविधांसह हा टाऊनशिपची रचना तुम्हाला उन्हाळ्याचा आनंददायी अनुभव मिळवून देण्यासाठी सज आहे.",
+   "english": "Make every summer unforgettable with Runwal MyCity. Our 156-acre integrated township features a large swimming pool, cricket grounds, greenery, gardens, and more. With 100+ ultra-modern amenities, this township is designed to give you a joyful summer experience.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (96%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "आजच तुमचे घर बुक करा आणि रुणवाल मायसिटीमध्ये राहण्याचा आनंद सख्वत: अनुभवा!",
+   "evidence": "आजच तुमचे घर बुक करा आणि रुणवाल मायसिटीमध्ये राहण्याचा आनंद सख्वत: अनुभवा!",
+   "english": "Book your home today and experience the joy of living in Runwal MyCity!",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 65,
+   "evidence": "65",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "short number '65' found in OCR but without a ₹/price marker",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model read the main price as [6500000]"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Runwal MyCity township in Kalyan - Shil Rd, Dombivli East",
+    "156 acre integrated township",
+    "100+ ultra-modern amenities",
+    "2 BHK homes starting from ₹65 lakh",
+    "Zero stamp duty and registration",
+    "RERA registered project"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Runwal MyCity offers 2 BHK homes starting from ₹65 lakh in a 156-acre township with 100+ amenities, including zero stamp duty and registration. Book your home now to enjoy a joyful summer experience.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "89313142",
+     "kind": "landline",
+     "as_printed": "8931 3142"
+    },
+    "evidence": "8931 3142",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 65,
+     "currency": "INR",
+     "kind": "price",
+     "label": "लाखांपासून सुरू",
+     "item": "2 बीएचके घरे",
+     "as_printed": "65"
+    },
+    "evidence": "65",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '65' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": null,
+     "currency": "INR",
+     "kind": "price",
+     "label": "स्टॅम्प ड्युटी आणि रजिस्ट्रेशन",
+     "item": "2 बीएचके घरे",
+     "as_printed": "शून्य"
+    },
+    "evidence": "शून्य",
+    "english": null,
+    "confidence": 0.0,
+    "status": "missing",
+    "reasons": [
+     "not found in the ad",
+     "no number found",
+     "too uncertain to fill - shown as a suggestion only",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "maharera.mahaonline.gov.in",
+    "evidence": "https://maharera.mahaonline.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "KALYAN - SHIL RD, DOMBIVLI EAST",
+    "evidence": "KALYAN - SHIL RD, DOMBIVLI EAST",
+    "english": "Kalyan - Shil Rd, Dombivli East",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "जीवनशैलीला अनुरूप 100+ सुखसुविधा",
+    "evidence": "जीवनशैलीला अनुरूप 100+ सुखसुविधा",
+    "english": "100+ amenities suited to lifestyle",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "पोडियम गार्डन्स",
+    "evidence": "पोडियम गार्डन्स",
+    "english": "Podium gardens",
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (57%); devanagari text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "रायन इंटरनॅशनल स्कूल",
+    "evidence": "रायन इंटरनॅशनल स्कूल",
+    "english": "Ryan International School",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (78%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "5 एकर स्पोर्ट्स अकॅडमी",
+    "evidence": "5 एकर स्पोर्ट्स अकॅडमी",
+    "english": "5 acre sports academy",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (74%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "उत्कृष्ट कनेक्टिव्हिटी",
+    "evidence": "उत्कृष्ट कनेक्टिव्हिटी",
+    "english": "Excellent connectivity",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "6 एकर सेंट्रल पार्क",
+    "evidence": "6 एकर सेंट्रल पार्क",
+    "english": "6 acre central park",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "MyCity Phase I Part I - P51700000528",
+    "evidence": "MyCity Phase I Part I - P51700000528",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Phase I Part II - P51700009168",
+    "evidence": "Phase I Part II - P51700009168",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Phase II Cluster 4 - P51700008440",
+    "evidence": "Phase II Cluster 4 - P51700008440",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Phase II Cluster 5 Part I - P51700019085",
+    "evidence": "Phase II Cluster 5 Part I - P51700019085",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Cluster 5 Part II - P51700032157",
+    "evidence": "Cluster 5 Part II - P51700032157",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Cluster 5 Part III - P51700027171",
+    "evidence": "Cluster 5 Part III - P51700027171",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "identifier digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "शून्य स्टॅम्प ड्युटी आणि रजिस्ट्रेशन",
+    "evidence": "शून्य स्टॅम्प ड्युटी आणि रजिस्ट्रेशन",
+    "english": "Zero stamp duty and registration",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (88%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "Runwal MyCity",
+   "evidence": "RUNWAL MYCITY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "KALYAN - SHIL RD, DOMBIVLI EAST",
+   "evidence": "KALYAN - SHIL RD, DOMBIVLI EAST",
+   "english": "Kalyan - Shil Rd, Dombivli East",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "configuration": {
+   "value": "2 बीएचके",
+   "evidence": "2 बीएचके",
+   "english": "2 BHK",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "rera_number": {
+   "value": "MyCity Phase I Part I - P51700000528, Phase I Part II - P51700009168, Phase II Cluster 4 - P51700008440, Phase II Cluster 5 Part I - P51700019085, Cluster 5 Part II - P51700032157, Cluster 5 Part III - P51700027171",
+   "evidence": "Registration number MyCity Phase I Part I - P51700000528, Phase I Part II - P51700009168, Phase II Cluster 4 - P51700008440, Phase II Cluster 5 Part I - P51700019085, Cluster 5 Part II - P51700032157, Cluster 5 Part III - P51700027171",
+   "english": "RERA registration numbers for various phases",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "numbers not found in OCR text"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "amenities": {
+   "value": "जीवनशैलीला अनुरूप 100+ सुखसुविधा, पोडियम गार्डन्स, रायन इंटरनॅशनल स्कूल, 5 एकर स्पोर्ट्स अकॅडमी, उत्कृष्ट कनेक्टिव्हिटी, 6 एकर सेंट्रल पार्क",
+   "evidence": "जीवनशैलीला अनुरूप 100+ सुखसुविधा, पोडियम गार्डन्स, रायन इंटरनॅशनल स्कूल, 5 एकर स्पोर्ट्स अकॅडमी, उत्कृष्ट कनेक्टिव्हिटी, 6 एकर सेंट्रल पार्क",
+   "english": "100+ lifestyle amenities, podium gardens, Ryan International School, 5 acre sports academy, excellent connectivity, 6 acre central park",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (77%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Runwal MyCity township in Kalyan - Shil Rd, Dombivli East",
+  "156 acre integrated township",
+  "100+ ultra-modern amenities",
+  "2 BHK homes starting from ₹65 lakh",
+  "Zero stamp duty and registration",
+  "RERA registered project"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "3",
+   "score": 0.8599,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "RUNWAL",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "With you, always...",
+   "score": 0.9848,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "ince 1978",
+   "score": 0.8438,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 5,
+   "text": "पुरेपूर आनद तुटा!!",
+   "score": 0.8054,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "आता तुमचा प्रतयेक उन्हाळा रुणवाल मायसिटीमधील वास्तव्यासह अविस्मरणीय करा. आमच्या 156 एकर",
+   "score": 0.9474,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "सुसंकलित टाऊनशिपमध्ये मोठा स्विमिंग पूल, क्रिकेटची मैदाने आणि हिरव्यागार जागापासून उदधयानांपर्यत सर्व काही",
+   "score": 0.9554,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "आहे अशा 100+ अत्याधुनिक सुखसुविधांसह हा टाऊनशिपची रचनातुम्हाला उन्हावळ्याचा आनंददायी",
+   "score": 0.9441,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "अनुभव मिळवून दधायला सज आहे.",
+   "score": 0.9328,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "आजच तुमचे घर बुक करा आणि रुणवाल मायसिटीमध्ये राहण्याचा आनंद सख्वत: अनुभवा!",
+   "score": 0.9715,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "जीवनशैलीला अनुरूप",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "रायन इंटरनेंशनल",
+   "score": 0.9236,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "उत्कृष्ट",
+   "score": 0.9542,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "100+ सुखसुविधा",
+   "score": 0.9803,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "कनेक्टिव्हिटी",
+   "score": 0.9343,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "पोडिअम",
+   "score": 0.963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "5 एकर स्पोर्ट्स",
+   "score": 0.9241,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "6 एकर",
+   "score": 0.9387,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "गार्डन्स",
+   "score": 0.9475,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "अकेंडमी",
+   "score": 0.8594,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 21,
+   "text": "सेंट्रल पार्क",
+   "score": 0.9469,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "65",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "प्रशस्त",
+   "score": 0.9312,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "RUNWAL",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "2 बीएचके",
+   "score": 0.9195,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "き",
+   "score": 0.7982,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "MYCITY",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "घरे",
+   "score": 0.991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "लाखांपासून सुरू",
+   "score": 0.9342,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "शून्य स्टूंप ड्चुटी आणि रजिस्ट्रेशन",
+   "score": 0.9392,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "KALYAN - SHIL RD, DOMBIVLI EAST",
+   "score": 0.9808,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "P51700027171. Available on the website https://maharera.mahaonline.gov.in.",
+   "score": 0.9928,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "Registration number MyCity Phase I Part I- P51700000528, Phase I Part II- P51700009168, Phase II Cluster 4 - P51700008440, Phase II Cluster 5 Part I- P51700019085, Cluster 5 Part II - P51700032157, Cluster 5 PartIII -",
+   "score": 0.936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "The images and other details herein are only indicative. The Developer / Owner reserves the right to change any or all of these in the interest of the development, as per provision of law. Artist's impressions are used to illustrate amenities,",
+   "score": 0.9859,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "specifications, images, and other detail. Tolerance and/or contract of any type shall be between the Developer/Owner and the recipient. No booking or allotment shall be deemed to have been made on the basis of this electronic / printed material.",
+   "score": 0.9893,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 36,
+   "text": "Any Purchaser / Lessee of this development shall be governed by the terms and conditions of the agreement for sale/lease by the Developer/Owner. The Developer/Owner does not warrant or assume any liability or responsibility for the accuracy",
+   "score": 0.9973,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 37,
+   "text": "or completeness of any information contained herein. Project is financed by ICICI Bank Ltd. No-objection certificate of ICICI Bank Ltd. will be required to be obtainedprior to entering into any agreement in Maharashtra. You are required to verify",
+   "score": 0.9909,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 38,
+   "text": "all the details, including area, amenities, services, terms of sales and payments and other relevant terms independently with the Developer's sales team only, by physically visiting the project site and through the authorized project website of RERA.",
+   "score": 0.9939,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "Government taxes and other charges applicable",
+   "score": 0.9901,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 17.41,
+  "extract": 16.92
+ }
+}

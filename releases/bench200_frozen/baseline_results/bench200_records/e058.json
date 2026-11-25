@@ -1,0 +1,655 @@
+{
+ "image": "e058_Prameya_502.jpg",
+ "fields": {
+  "brand": {
+   "value": "WEFE Internet",
+   "evidence": "WEFE Internet",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: WEFE",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Internet",
+   "evidence": "GET CONNECTED WITH WEFE INTERNET",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "WEFE Internet",
+   "evidence": "WEFE Internet",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "GET CONNECTED WITH WEFE INTERNET",
+   "evidence": "GET CONNECTED WITH WEFE INTERNET",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Because buffering is for breakfast, not browsing!",
+   "evidence": "Because buffering is for breakfast, not browsing!",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "350+ FTA CHANNELS PLAYBOX TV",
+   "evidence": "350+ FTA CHANNELS PLAYBOX TV",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Contact: 0674 6607080, 90909 08888",
+   "evidence": "Contact: 0674 6607080, 90909 08888",
+   "english": "Call 0674 6607080 or 90909 08888",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "WEFE Internet",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: service_provider"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Telecom & Internet",
+   "evidence": "WEFE Internet",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #15"
+   ],
+   "matched_id": 15,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 15,
+     "name": "Telecom & Internet",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 399,
+   "evidence": "₹ 399",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "short number '399' found in OCR but without a ₹/price marker",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "WEFE Internet connection",
+    "350+ FTA channels with Playbox TV",
+    "40 Mbps Unlimited Internet at Rs 399",
+    "Contact numbers and website provided"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "WEFE Internet offers 40 Mbps unlimited internet for Rs 399 with 350+ FTA channels on Playbox TV; contact 0674 6607080 or 90909 08888 or visit www.wefe.in.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "6746607080",
+     "kind": "mobile",
+     "as_printed": "0674 6607080"
+    },
+    "evidence": "Contact: 0674 6607080, 90909 08888",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9090908888",
+     "kind": "mobile",
+     "as_printed": "90909 08888"
+    },
+    "evidence": "Contact: 0674 6607080, 90909 08888",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 399,
+     "currency": "INR",
+     "kind": "price",
+     "label": "40 Mbps* Unlimited Internet",
+     "item": "Internet plan",
+     "as_printed": "₹ 399"
+    },
+    "evidence": "₹ 399",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '399' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.wefe.in",
+    "evidence": "www.wefe.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "prameyaodia",
+    "evidence": "prameyaodia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [
+   {
+    "value": "350+ FTA CHANNELS",
+    "evidence": "350+ FTA CHANNELS",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PLAYBOX TV",
+    "evidence": "PLAYBOX TV",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "40 Mbps* Unlimited Internet",
+    "evidence": "40 Mbps* Unlimited Internet",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "RNI REGD NO: ODIODI/2011/37619",
+    "evidence": "RNI REGD NO: ODIODI/2011/37619",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "POSTAL REGD NO: BN/208/18-20",
+    "evidence": "POSTAL REGD NO: BN/208/18-20",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "WEFE Internet connection",
+  "350+ FTA channels with Playbox TV",
+  "40 Mbps Unlimited Internet at Rs 399",
+  "Contact numbers and website provided"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "diital",
+   "score": 0.9976,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "edition",
+   "score": 0.9998,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 3,
+   "text": "RNI REGD NO: ODIODI/2011/37619",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "POSTAL REGD NO: BN/208/18-20",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "prameyaodia",
+   "score": 0.9947,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "prameyaodia",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "27 MARCH 2023 MONDAY",
+   "score": 0.9976,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 8,
+   "text": "99 9099 69न",
+   "score": 0.6246,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "WEFE",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Internet",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "GET",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "CONNECTED WITH",
+   "score": 0.9692,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "WEFE INTERNET",
+   "score": 0.9744,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Because buffering is for breakfast,",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "not browsing!",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "350+FTA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "CHANNELS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "CHH",
+   "score": 0.9924,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "PLAYBOX TV",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "0",
+   "score": 0.8842,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 21,
+   "text": "0",
+   "score": 0.9892,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 22,
+   "text": "WEFE",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "40 Mbps*",
+   "score": 0.9638,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "399",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Unlimited Internet",
+   "score": 0.9872,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Contact: 0674 6607080, 90909 08888",
+   "score": 0.9831,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "www.wefe.in",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.82,
+  "extract": 9.08
+ }
+}

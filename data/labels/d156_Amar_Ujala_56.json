@@ -1,0 +1,72 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "112 Saal ki Budhiya ki Ghuti",
+   "Vaidya Revati Prasad",
+   "Babam"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "112 Saal ki Budhiya ki Ghuti",
+   "Budhiya ki Ghuti"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG > Personal & Home Care"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "112 साल की बुढ़िया की घुटी",
+   "आयुर्वेद का वरदान आपके बच्चों के लिए"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "sub_headline": {
+  "any_of": [
+   "स्वस्थ शिशु खुशहाल परिवार",
+   null
+  ]
+ },
+ "language": {
+  "any_of": [
+   [
+    "Hindi"
+   ],
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

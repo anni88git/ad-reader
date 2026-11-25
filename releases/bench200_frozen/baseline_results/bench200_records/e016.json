@@ -1,0 +1,1944 @@
+{
+ "image": "e016_Vaartha_16.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Baleno",
+   "evidence": "BALENO",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Baleno' (#12)"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Baleno",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: NEXA MUSHEERABAD (THE MITHRA AGENCIES) / NEXA RAIDURGAM (PAVAN MOTORS PVT. LTD.) / NEXA LUMBINI PARK (RKS MOTORS) / NEXA MALAKPET (GEM MOTORS INDIA PVT LTD) / NEXA KUKATPALLY (ADARSHA AUTO WORLD PVT. LTD.) / NEXA GACHIBOWLI (JAYABHERI AUTOMOTIVE) / NEXA QCITY ROAD (SAI SERVICE PVT LTD) / NEXA BANJARA HILLS (VARUN MOTORS) / NEXA JUBLIEE (RKS MOTORS) / NEXA LB NAGAR (KALYANI MOTORS) / NEXA BEGUMPET (VARUN MOTORS) / NEXA ATTAPUR (ADARSHA AUTO WORLD PVT. LTD.) / NEXA MIYAPUR (JAYABHERI AUTOMOTIVE) / NEXA BOWENPALLY (AUTOFIN LIMITED) / NEXA SAINIKPURI (VARUN MOTORS) / NEXA WARANGAL EAST (ADARSHA AUTO WORLD PVT. LTD.) / NEXA RAMPUR (ADARSHA AUTO WORLD PVT. LTD.) / NEXA NIZAMABAD EAST (VARUN MOTORS) / NEXA NALGONDA NORTH (PAVAN MOTORS PVT LTD) / NEXA WYRA ROAD (PARAMSHIVA MOTORS) / NEXA MAHABUBNAGAR SOUTH (SRI JAYARAMA MOTORS PVT. LTD.) / NEXA MANCHERIAL CENTRAL (ADARSHA AUTO WORLD PVT. LTD.)",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)",
+    "record #9 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 9,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "BOLD. INTUITIVE. INTELLIGENT.",
+   "evidence": "BOLD. INTUITIVE. INTELLIGENT.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "CREATE. INSPIRE.",
+   "evidence": "CREATE. INSPIRE.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Driving the New Age Baleno is pure thrill. It's power packed with hi-tech features that take your driving experience to a whole new level. Get ready to drive the bold side of technology.",
+   "evidence": "Driving the New Age Baleno is pure thrill. It's power packed with hi-tech features that take your driving experience to a whole new level. Get ready to drive the bold side of technology.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Scan the QR code to know how tech goes bold.",
+   "evidence": "Scan the QR code to know how tech goes bold.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://qr.page/g/2qqXpLcPYcY)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://qr.page/g/2qqXpLcPYcY",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "New Age Baleno with hi-tech features",
+    "360 View Camera",
+    "Head Up Display",
+    "22.86cm SmartPlay Pro+",
+    "6 Airbags",
+    "In-built Suzuki Connect",
+    "NEXA Safety Shield",
+    "Contact dealers in Hyderabad and other cities",
+    "Smart Finance available"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki is advertising the New Age Baleno with hi-tech features like 360 View Camera, Head Up Display, 22.86cm SmartPlay Pro+, 6 Airbags, and In-built Suzuki Connect. Readers can contact dealers in Hyderabad and other cities or book online.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002006392",
+     "kind": "toll_free",
+     "as_printed": "1800-200-6392"
+    },
+    "evidence": "1800-200-[6392]",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "1800102",
+     "kind": "landline",
+     "as_printed": "1800-102-NEXA"
+    },
+    "evidence": "1800-102-[NEXA]",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04067263455",
+     "kind": "landline",
+     "as_printed": "04067263455"
+    },
+    "evidence": "PH: 04067263455",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071327134",
+     "kind": "landline",
+     "as_printed": "04071327134"
+    },
+    "evidence": "PH: 04071327134",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04067263307",
+     "kind": "landline",
+     "as_printed": "04067263307"
+    },
+    "evidence": "PH: 04067263307",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04047474949",
+     "kind": "landline",
+     "as_printed": "04047474949"
+    },
+    "evidence": "PH: 04047474949",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326576",
+     "kind": "landline",
+     "as_printed": "04071326576"
+    },
+    "evidence": "PH: 04071326576",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04067263427",
+     "kind": "landline",
+     "as_printed": "04067263427"
+    },
+    "evidence": "PH: 04067263427",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04066588133",
+     "kind": "landline",
+     "as_printed": "04066588133"
+    },
+    "evidence": "PH: 04066588133",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04067263433",
+     "kind": "landline",
+     "as_printed": "04067263433"
+    },
+    "evidence": "PH: 04067263433",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04066588489",
+     "kind": "landline",
+     "as_printed": "04066588489"
+    },
+    "evidence": "PH: 04066588489",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326633",
+     "kind": "landline",
+     "as_printed": "04071326633"
+    },
+    "evidence": "PH: 04071326633",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071327598",
+     "kind": "landline",
+     "as_printed": "040-71327598"
+    },
+    "evidence": "PH: 040-71327598",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071328907",
+     "kind": "landline",
+     "as_printed": "04071328907"
+    },
+    "evidence": "PH: 04071328907",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9100053502",
+     "kind": "mobile",
+     "as_printed": "9100053502"
+    },
+    "evidence": "PH. 9100053502",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326637",
+     "kind": "landline",
+     "as_printed": "04071326637"
+    },
+    "evidence": "PH: O4071326637",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "DIGIT CONFLICT: model read 04071326637, OCR reads 04071326633",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326630",
+     "kind": "landline",
+     "as_printed": "04071326630"
+    },
+    "evidence": "PH: 04071326630",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326593",
+     "kind": "landline",
+     "as_printed": "04071326593"
+    },
+    "evidence": "PH: O4071326593",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326572",
+     "kind": "landline",
+     "as_printed": "04071326572"
+    },
+    "evidence": "PH: 04071326572",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326631",
+     "kind": "landline",
+     "as_printed": "04071326631"
+    },
+    "evidence": "PH: 04071326631",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326557",
+     "kind": "landline",
+     "as_printed": "04071326557"
+    },
+    "evidence": "PH: 04071326557",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326638",
+     "kind": "landline",
+     "as_printed": "04071326638"
+    },
+    "evidence": "PH: 04071326638",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04071326553",
+     "kind": "landline",
+     "as_printed": "04071326553"
+    },
+    "evidence": "PH: 04071326553",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04067263320",
+     "kind": "landline",
+     "as_printed": "04067263320"
+    },
+    "evidence": "PH: 04067263320",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.nexaexperience.com",
+    "evidence": "www.nexaexperience.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "360 View Camera",
+    "evidence": "360 View Camera",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Head Up Display",
+    "evidence": "Head Up Display",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "22.86cm SmartPlay Pro+",
+    "evidence": "22.86cm SmartPlay Pro+",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "6 Airbags",
+    "evidence": "6 Airbags^",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "In-built Suzuki Connect",
+    "evidence": "In-built Suzuki Connect",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DUAL FRONT AIRBAGS",
+    "evidence": "DUAL FRONT AIRBAGS",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ABS WITH EBD",
+    "evidence": "ABS WITH EBD",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PEDESTRIAN PROTECTION COMPLIANCE",
+    "evidence": "PEDESTRIAN PROTECTION COMPLIANCE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "COMPLIANT WITH - FULL FRONTAL IMPACT FRONTAL OFFSET IMPACT SIDE IMPACT",
+    "evidence": "COMPLIANT WITH - FULL FRONTAL IMPACT FRONTAL OFFSET IMPACT SIDE IMPACT",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "NEXA MUSHEERABAD (THE MITHRA AGENCIES)",
+     "area": "MUSHEERABAD",
+     "city": "HYDERABAD",
+     "phones": [
+      "04067263455"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "HYDERABAD: NEXA MUSHEERABAD (THE MITHRA AGENCIES PH: 04067263455)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA RAIDURGAM (PAVAN MOTORS PVT. LTD.)",
+     "area": "RAIDURGAM",
+     "city": "HYDERABAD",
+     "phones": [
+      "04071327134"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA RAIDURGAM (PAVAN MOTORS PVT. LTD. PH: 04071327134)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA LUMBINI PARK (RKS MOTORS)",
+     "area": "LUMBINI PARK",
+     "city": "HYDERABAD",
+     "phones": [
+      "04067263307"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA LUMBINI PARK (RKS MOTORS PH: 04067263307)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MALAKPET (GEM MOTORS INDIA PVT LTD)",
+     "area": "MALAKPET",
+     "city": "HYDERABAD",
+     "phones": [
+      "04047474949"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 1,
+       "name": "Kia India",
+       "score": 67.4
+      }
+     ],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA MALAKPET (GEM MOTORS INDIA PVT LTD PH: 04047474949)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia India; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA KUKATPALLY (ADARSHA AUTO WORLD PVT. LTD.)",
+     "area": "KUKATPALLY",
+     "city": "HYDERABAD",
+     "phones": [
+      "04071326576"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA KUKATPALLY (ADARSHA AUTO WORLD PVT. LTD. PH: 04071326576)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA GACHIBOWLI (JAYABHERI AUTOMOTIVE)",
+     "area": "GACHIBOWLI",
+     "city": "HYDERABAD",
+     "phones": [
+      "04067263427"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA GACHIBOWLI (JAYABHERI AUTOMOTIVE PH: 04067263427)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA QCITY ROAD (SAI SERVICE PVT LTD)",
+     "area": "QCITY ROAD",
+     "city": "HYDERABAD",
+     "phones": [
+      "04066588133"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA QCITY ROAD (SAI SERVICE PVT LTD PH: 04066588133)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA BANJARA HILLS (VARUN MOTORS)",
+     "area": "BANJARA HILLS",
+     "city": "HYDERABAD",
+     "phones": [
+      "04067263433"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA BANJARA HILLS (VARUN MOTORS PH: 04067263433)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA JUBLIEE (RKS MOTORS)",
+     "area": "JUBLIEE",
+     "city": "HYDERABAD",
+     "phones": [
+      "04066588489"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA JUBLIEE (RKS MOTORS PH: 04066588489)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA LB NAGAR (KALYANI MOTORS)",
+     "area": "LB NAGAR",
+     "city": "HYDERABAD",
+     "phones": [
+      "04071326633"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "NEXA LB NAGAR (KALYANI MOTORS PH: 04071326633)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA BEGUMPET (VARUN MOTORS)",
+     "area": "BEGUMPET",
+     "city": "SECUNDERABAD",
+     "phones": [
+      "04071327598"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BEGUMPET: NEXA BEGUMPET (VARUN MOTORS PH: 040-71327598)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Hyderabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA ATTAPUR (ADARSHA AUTO WORLD PVT. LTD.)",
+     "area": "ATTAPUR",
+     "city": "SECUNDERABAD",
+     "phones": [
+      "04071328907"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ATTAPUR: NEXA ATTAPUR (ADARSHA AUTO WO RLD PVT. LTD. PH: 04071328907)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Hyderabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MIYAPUR (JAYABHERI AUTOMOTIVE)",
+     "area": "MIYAPUR",
+     "city": "SECUNDERABAD",
+     "phones": [
+      "9100053502"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MIYAPUR: NEXA MIYAPUR (JAYABHERI AUTOMOTIVE PH. 9100053502)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Hyderabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA BOWENPALLY (AUTOFIN LIMITED)",
+     "area": "BOWENPALLY",
+     "city": "SECUNDERABAD",
+     "phones": [
+      "04071326637"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SECUNDERABAD: NEXA BOWENPALLY (AUTOFIN LIMITED PH: O4071326637)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Hyderabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SAINIKPURI (VARUN MOTORS)",
+     "area": "SAINIKPURI",
+     "city": "SECUNDERABAD",
+     "phones": [
+      "04071326630"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 60.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NEXA SAINIKPURI (VARUN MOTORS PH: 04071326630)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors; city: no exact record; closest: Hyderabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA WARANGAL EAST (ADARSHA AUTO WORLD PVT. LTD.)",
+     "area": "WARANGAL EAST",
+     "city": "WARANGAL",
+     "phones": [
+      "04071326593"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WARANGAL: NEXA WARANGAL EAST (ADARSHA AUTO WORLD PVT, LTD. PH: O4071326593)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Varanasi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA RAMPUR (ADARSHA AUTO WORLD PVT. LTD.)",
+     "area": "RAMPUR",
+     "city": "KARIMNAGAR",
+     "phones": [
+      "04071326572"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KARIMNAGAR: NEXA RAMPUR (ADARSHA AUTO WORLD PVT. LTD. PH: 04071326572)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA NIZAMABAD EAST (VARUN MOTORS)",
+     "area": "NIZAMABAD EAST",
+     "city": "NIZAMABAD",
+     "phones": [
+      "04071326631"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NIZAMABAD: NEXA NIZAMABAD EAST (VARUN MOTORS PH: 04071326631)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Ahmedabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA NALGONDA NORTH (PAVAN MOTORS PVT LTD)",
+     "area": "NALGONDA NORTH",
+     "city": "NALGONDA",
+     "phones": [
+      "04071326557"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NALGONDA: NEXA NALGONDA NORTH (PAVAN MOTORS PVT LTD PH: 04071326557)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Noida"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA WYRA ROAD (PARAMSHIVA MOTORS)",
+     "area": "WYRA ROAD",
+     "city": "KHAMMAM",
+     "phones": [
+      "04071326638"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KHAMMAM: NEXA WYRA ROAD (PARAMSHIVA MOTORS PH: 04071326638)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MAHABUBNAGAR SOUTH (SRI JAYARAMA MOTORS PVT. LTD.)",
+     "area": "MAHABUBNAGAR SOUTH",
+     "city": "MAHABUBNAGAR",
+     "phones": [
+      "04071326553"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MAHABUBNAGAR: NEXA MAHABUBNAGAR SOUTH (SRI JAYARAMA MOTORS PVT. LTD. PH: 04071326553)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MANCHERIAL CENTRAL (ADARSHA AUTO WORLD PVT. LTD.)",
+     "area": "MANCHERIAL CENTRAL",
+     "city": "MANCHERIAL",
+     "phones": [
+      "04067263320"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MANCHERIAL: NEXA MANCHERIAL CENTRAL (ADARSHA AUTO WORLD PVT. LTD. PH: 04067263320)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Ranchi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "safety_features": {
+   "value": "DUAL FRONT AIRBAGS, ABS WITH EBD, PEDESTRIAN PROTECTION COMPLIANCE, COMPLIANT WITH - FULL FRONTAL IMPACT, FRONTAL OFFSET IMPACT, SIDE IMPACT",
+   "evidence": "DUAL FRONT AIRBAGS ABS WITH EBD PEDESTRIAN PROTECTION COMPLIANCE COMPLIANT WITH - FULL FRONTAL IMPACT FRONTAL OFFSET IMPACT SIDE IMPACT",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "SMART FINANCE AN ONLINE END-TO-END CAR FINANCE SOLUTION",
+   "evidence": "SMART FINANCE AN ONLINE END-TO-END CAR FINANCE SOLUTION",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "New Age Baleno with hi-tech features",
+  "360 View Camera",
+  "Head Up Display",
+  "22.86cm SmartPlay Pro+",
+  "6 Airbags",
+  "In-built Suzuki Connect",
+  "NEXA Safety Shield",
+  "Contact dealers in Hyderabad and other cities",
+  "Smart Finance available"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "NEXA",
+   "score": 0.9659,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "MARUTI SUZUKI",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "BOLD. INTUITIVE. INTELLIGENT.",
+   "score": 0.9781,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Driving the New Age Balenois pure thrill. It's power packed with",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "hi-tech features that take your driving experience to a whole",
+   "score": 0.9677,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "new level. Get ready to drive the bold side of technology.",
+   "score": 0.9753,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "CREATE.INSPIRE.",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "BALENO",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "THE NEW AGE",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Scan the QR code",
+   "score": 0.9794,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "BALENO",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "to know how",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "tech goes bold.",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "TECH GOES BOLD",
+   "score": 0.9562,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "1st in Segment",
+   "score": 0.9981,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "1st in Segment",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "DUAL FRONT AIRBAGS",
+   "score": 0.9779,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "ABS WITH EBD",
+   "score": 0.996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "NEXA",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "PEDESTRIAN PROTECTION",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Safety Shield",
+   "score": 0.9882,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "COMPLIANCE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "12:34",
+   "score": 0.9971,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "COMPLIANT WITH -",
+   "score": 0.9853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "o",
+   "score": 0.9691,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "Standard Accoss All Vatiants",
+   "score": 0.8732,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "FULL FRONTAL IMPACT",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "AO",
+   "score": 0.6486,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "FRONTAL OFFSET IMPACT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "SIDE IMPACT",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "360 View Camera",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "Head Up Display",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "22.86cm SmartPlay Pro+",
+   "score": 0.9802,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "6 Airbags^",
+   "score": 0.9678,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "In-built Suzuki Connect",
+   "score": 0.9881,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Feature and accessories shown may not be part of standard",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "fitment. Black glass shade on the vehicle is due to lighting",
+   "score": 0.9898,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "effect Images used are for illustration purposes only.",
+   "score": 0.9744,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "Contact us at",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "HYDERABAD: NEXA MUSHEERABAD (THE MITHRA AGENCIES PH: 04067263455), NEXA RAIDURGAM (PAVAN MOTORS PVT. LTD. PH: 04071327134), NEXA LUMBINI PARK (RKS MOTORS PH: 04067263307),",
+   "score": 0.9809,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 41,
+   "text": "SMART FINANCE",
+   "score": 0.9773,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "1800-200-[6392]",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "NEXA MALAKPET (GEM MOTORS INDIA PVT LTD PH: 04047474949), NEXA KUKATPALLY (ADARSHA AUTO WORLD PVT. LTD. PH: 04071326576), NEXA GACHIBOWLI (JAYABHERI AUTOMOTIVE PH: 04067263427),",
+   "score": 0.9892,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 44,
+   "text": "AN ONLINE END-TO-END",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "NEXA QCITY ROAD (SAI SERVICE PVT LTD PH: 04066588133), NEXA BANJARA HILLS (VARUN MOTORS PH: 04067263433), NEXA JUBLIEE (RKS MOTORS PH: 04066588489), NEXA LB NAGAR (KALYANI MOTORS PH: 04071326633),",
+   "score": 0.9873,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 46,
+   "text": "CAR FINANCE SOLUTION",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "1800-102-[NEXA]",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "BEGUMPET: NEXA BEGUMPET (VARUN MOTORS PH: 040-71327598), ATTAPUR: NEXA ATTAPUR (ADARSHA AUTO WO RLD PVT. LTD. PH: 04071328907), MIYAPUR: NEXA MIYAPUR (JAYABHERI AUTOMOTIVE PH. 9100053502),",
+   "score": 0.9811,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 49,
+   "text": "SECUNDERABAD: NEXA BOWENPALLY (AUTOFIN LIMITED PH: O4071326637), NEXA SAINIKPURI (VARUN MOTORS PH: 04071326630), WARANGAL: NEXA WARANGAL EAST (ADARSHA AUTO WORLD PVT, LTD. PH: O4071326593),",
+   "score": 0.9898,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 50,
+   "text": "Multiple financiers",
+   "score": 0.9988,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 51,
+   "text": "KARIMNAGAR: NEXA RAMPUR (ADARSHA AUTO WORLD PVT. LTD. PH: 04071326572), NIZAMABAD: NEXA NIZAMABAD EAST (VARUN MOTORS PH: 04071326631), NALGONDA: NEXA NALGONDA NORTH (PAVAN MOTORS PVT LTD PH: 04071326557),",
+   "score": 0.9895,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 52,
+   "text": "Digital Document Upload",
+   "score": 0.9958,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "KHAMMAM: NEXA WYRA ROAD (PARAMSHIVA MOTORS PH: 04071326638), MAHABUBNAGAR: NEXA MAHABUBNAGAR SOUTH (SRI JAYARAMA MOTORS PVT. LTD. PH: 04071326553),",
+   "score": 0.9889,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 54,
+   "text": "www.nexaexperience.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "MANCHERIAL: NEXA MANCHERIAL CENTRAL (ADARSHA AUTO WORLD PVT. LTD. PH: 04067263320).",
+   "score": 0.9751,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "Live Loan status",
+   "score": 0.97,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "NOW YOU CAN ALSO BOOK ONLINE",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 58,
+   "text": "Complete transparency",
+   "score": 0.9872,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 59,
+   "text": "(associated fees & charges)",
+   "score": 0.9382,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 60,
+   "text": "*T&C apply. Offers may vary across variants. Maruti Suzuki reserves the right to withdraw offers at any point in time. Smart Finance available only in select cities. Creative Visualization. Black Glass on vehicle is due to lighting effect ^For details on funcioning of safety features including air bag, kindly refer to the Owners manual.",
+   "score": 0.9878,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "15 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 24.97,
+  "extract": 61.32
+ }
+}

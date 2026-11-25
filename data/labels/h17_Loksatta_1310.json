@@ -1,0 +1,101 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Marathi"
+   ],
+   [
+    "Marathi",
+    "English"
+   ],
+   [
+    "Marathi",
+    "Hindi"
+   ],
+   [
+    "Marathi",
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Runwal",
+   "Runwal MyCity"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Runwal MyCity",
+   "MyCity"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   "2 BHK",
+   "2 बीएचके",
+   null
+  ]
+ },
+ "ad_type": "real_estate_developer",
+ "category": "Real Estate",
+ "headline": "उन्हाळ्याचा पुरेपूर आनंद लुटा!!",
+ "sub_headline": {
+  "any_of": [
+   "आजच तुमचे घर बुक करा आणि रुणवाल मायसिटीमध्ये राहण्याचा आनंद स्वत: अनुभवा!",
+   null
+  ]
+ },
+ "price": 6500000,
+ "websites": {
+  "required": [],
+  "optional": [
+   "https://maharera.mahaonline.gov.in"
+  ]
+ },
+ "emails": [],
+ "qr_code_present": false,
+ "reference_numbers": {
+  "required": [
+   "P51700000528"
+  ],
+  "optional": [
+   "P51700009168",
+   "P51700008440",
+   "P51700019085",
+   "P51700032157",
+   "P51700027171"
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  },
+  {
+   "field": "price",
+   "why": "ambiguous"
+  }
+ ]
+}

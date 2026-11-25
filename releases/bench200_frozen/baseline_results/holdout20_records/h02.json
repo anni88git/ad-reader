@@ -1,0 +1,730 @@
+{
+ "image": "h02_Titan_watches_423.jpg",
+ "fields": {
+  "brand": {
+   "value": "Titan",
+   "evidence": "TITAN",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Titan' (#116)"
+   ],
+   "matched_id": 116,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 116,
+     "name": "Titan",
+     "score": 100.0
+    },
+    {
+     "id": 4,
+     "name": "Tata Motors",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Titan",
+   "evidence": "TITAN",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "UP TO 40% OFF*",
+   "evidence": "UP TO 40% OFF*",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 62% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "15th DEC ONWARDS",
+   "evidence": "15th DEC ONWARDS",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "TITAN",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel > Watches & Accessories",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #29"
+   ],
+   "matched_id": 29,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 29,
+     "name": "Fashion & Apparel > Watches & Accessories",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Titan watches up to 40% off",
+    "15th Dec onwards",
+    "Additional 5% off for Encircle members till 17th Dec",
+    "Available at World of Titan, Helios, Shoppers Stop, Lifestyle, Central, leading department stores and all authorised Titan dealers",
+    "Shop online: Titan.co.in, Lio, Flipkart, Myntra, Amazon Fashion",
+    "Toll-free helpline / For Corporate Enquiries: 1800-266-0123"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Titan watches are available with up to 40% off starting 15th December. Encircle members get an additional 5% off until 17th December. Watches can be purchased at World of Titan, Helios, Shoppers Stop, Lifestyle, Central, leading department stores and all authorised Titan dealers, or online at Titan.co.in, Lio, Flipkart, Myntra and Amazon Fashion.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002660123",
+     "kind": "toll_free",
+     "as_printed": "1800-266-0123"
+    },
+    "evidence": "1800-266-0123",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "titan.co.in",
+    "evidence": "TITAN.CO.IN",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (89%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "TRENDY LEATHER STRAP",
+    "evidence": "TRENDY LEATHER STRAP",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NAUTICAL BLUE DIAL WITH DAY-DATE",
+    "evidence": "NAUTICAL BLUE DIAL WITH DAY-DATE",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (74%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MULTI-FUNCTION WITH DATE",
+    "evidence": "MULTI-FUNCTION WITH DATE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "UP TO 40% OFF*",
+    "evidence": "UP TO 40% OFF*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ADDITIONAL 5% OFF* FOR ENCIRCLE MEMBERS TILL 17th DEC",
+    "evidence": "ADDITIONAL 5% OFF* FOR ENCIRCLE MEMBERS TILL 17th DEC",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "WORLD of TITAN",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WORLD of TITAN",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "HELIOS",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HELIOS",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHOPPERS STOP",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHOPPERS STOP",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Lifestyle",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Lifestyle",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "CENTRAL",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "CENTRAL",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (71%) - possible misreading or invention",
+     "dealer name not confirmed by OCR",
+     "too uncertain to fill - shown as a suggestion only",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "discount": {
+   "value": "UP TO 40% OFF*",
+   "evidence": "UP TO 40% OFF*",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "15th DEC ONWARDS",
+   "evidence": "15th DEC ONWARDS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "ADDITIONAL 5% OFF* FOR ENCIRCLE MEMBERS TILL 17th DEC",
+   "evidence": "ADDITIONAL 5% OFF* FOR ENCIRCLE MEMBERS TILL 17th DEC",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "TITAN",
+   "evidence": "TITAN",
+   "english": "Titan",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "store_name": {
+   "value": "WORLD of TITAN / HELIOS / SHOPPERS STOP / Lifestyle / CENTRAL",
+   "evidence": "WORLD of TITAN / HELIOS / SHOPPERS STOP / Lifestyle / CENTRAL",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (87%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Titan watches up to 40% off",
+  "15th Dec onwards",
+  "Additional 5% off for Encircle members till 17th Dec",
+  "Available at World of Titan, Helios, Shoppers Stop, Lifestyle, Central, leading department stores and all authorised Titan dealers",
+  "Shop online: Titan.co.in, Lio, Flipkart, Myntra, Amazon Fashion",
+  "Toll-free helpline / For Corporate Enquiries: 1800-266-0123"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "TITAN",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "TRENDY LEATHER STRAP",
+   "score": 0.9657,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "40%",
+   "score": 0.9997,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "UPTO",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "NAUTICAL BLUE DIAL",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "OFF",
+   "score": 0.9411,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "TITAN",
+   "score": 0.9849,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "15th DEC ONWARDS",
+   "score": 0.9734,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ENCIRCLE MEMBERS TILL 17th DEC",
+   "score": 0.9852,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "ADDITIONAL 5% OFF* FOR",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "MULTI-FUNCTION",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "WITH DATE",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Adde suo!puo3.",
+   "score": 0.881,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "Available at: WORLD of TITANHELIOS |SHOPPERS STOP ifestyle",
+   "score": 0.9393,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "Shop online: TITAN.C.INCLiQ |Flipkartymtra | Amazon Fashion Toll-free helpline / For Corporate Enquiries: 1800-266-0123",
+   "score": 0.9478,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "CENTEA",
+   "score": 0.7023,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "1, leading department stores and all authorised Titan dealers",
+   "score": 0.9932,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.27,
+  "extract": 35.61
+ }
+}

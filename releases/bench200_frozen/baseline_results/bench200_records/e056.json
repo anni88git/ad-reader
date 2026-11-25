@@ -1,0 +1,1117 @@
+{
+ "image": "e056_Prameya_467.jpg",
+ "fields": {
+  "brand": {
+   "value": "Malabar Gold & Diamonds",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Malabar Gold & Diamonds' (#46)"
+   ],
+   "matched_id": 46,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 46,
+     "name": "Malabar Gold & Diamonds",
+     "score": 100.0
+    },
+    {
+     "id": 48,
+     "name": "Senco Gold & Diamonds",
+     "score": 79.3
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Malabar Gold & Diamonds",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "AKSHAYA TRITIYA",
+   "evidence": "AKSHAYA TRITIYA",
+   "english": "Akshaya Tritiya",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (90%)",
+    "wording is not an exact match to the printed text (closest OCR reading 93% similar) - check spelling - suggestion: AKSHAYA GRITIYA",
+    "second model disagrees - suggestion: CELEBRATE THE BEAUTY OF LIFE"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "CELEBRATE THE BEAUTY OF LIFE",
+   "evidence": "CELEBRATE THE BEAUTY OF LIFE",
+   "english": "Celebrate the beauty of life",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (96%)",
+    "wording is not an exact match to the printed text (closest OCR reading 96% similar) - check spelling - suggestion: CELEORATE THE BEAUTY OF LIFE",
+    "second model disagrees - suggestion: ADVANCE BOOKING COMMENCED"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "At Malabar Gold & Diamonds, we are proud to have been amongst the first in the industry to have adopted HUID. As a responsible jeweller, we take our commitment to customers very seriously and have ensured 100% HUID compliance so that you can shop with complete peace of mind.",
+   "evidence": "At Malabar Gold & Diamonds, we are proud to have been amongst the first in the industry to have adopted HUID. As a responsible jeweller, we take our commitment to customers very seriously and have ensured 100% HUID compliance so that you can shop with complete peace of mind.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "ADVANCE BOOKING COMMENCED",
+   "evidence": "ADVANCE BOOKING COMMENCED",
+   "english": "Advance booking commenced",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: manufacturer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Jewellery",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #10"
+   ],
+   "matched_id": 10,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 10,
+     "name": "Jewellery",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 30000,
+   "evidence": "Rs.30,000/-",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (30,000)",
+    "several prices: confirm which is the current price / old (struck-out) price"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Akshaya Tritiya jewellery offer",
+    "Advance booking commenced",
+    "Get value equivalent to 100 mg gold coin with every purchase of Rs.30,000/-",
+    "For Diamond, Gemstone & Polki designs value will be equivalent to 250 mg gold coin",
+    "Making charges 4.9% onwards",
+    "Golden gift with every purchase",
+    "HUID compliance on all Malabar products",
+    "10 Malabar promises"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Malabar Gold & Diamonds is running an Akshaya Tritiya promotion with advance booking commenced, a golden gift on purchases of Rs.30,000/-, value equivalent to gold coins on diamond/gemstone/polki designs, and making charges from 4.9% onwards. All products carry HUID mark; visit stores in Bhubaneswar or Cuttack or buy online.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "655916",
+     "kind": "landline",
+     "as_printed": "80DB655916"
+    },
+    "evidence": "TEL: 80DB655916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "6742542916",
+     "kind": "mobile",
+     "as_printed": "06742542916"
+    },
+    "evidence": "06742542916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "67429139161",
+     "kind": "unknown",
+     "as_printed": "G67429139161"
+    },
+    "evidence": "TEL:G67429139161",
+    "english": null,
+    "confidence": 0.3,
+    "status": "missing",
+    "reasons": [
+     "not a valid Indian phone number (11 digits)",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "6712303916",
+     "kind": "mobile",
+     "as_printed": "06712303916"
+    },
+    "evidence": "TEL:06712303916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 30000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "with every purchase of",
+     "item": "gold coin value equivalent",
+     "as_printed": "Rs.30,000/-"
+    },
+    "evidence": "Rs.30,000/-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (30,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": null,
+     "currency": "INR",
+     "kind": "price",
+     "label": "MAKING CHARGES",
+     "item": "onwards",
+     "as_printed": "4.9%"
+    },
+    "evidence": "4.9%",
+    "english": null,
+    "confidence": 0.0,
+    "status": "missing",
+    "reasons": [
+     "not found in the ad",
+     "percentage, not an amount",
+     "too uncertain to fill - shown as a suggestion only",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "malabargoldanddiamonds.com",
+    "evidence": "mMelabargoIdanddMMOndSCOM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "RUPALI SQUARE, SAHEED NAGAR, BHUBANESWAR",
+    "evidence": "RUPALI SQUARE, SAHEED NAGAR, BHUBANESWAR",
+    "english": "Rupali Square, Saheed Nagar, Bhubaneswar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEAR POLICE STATION, CHANDRASEKHARPUR, BHUBANESWAR",
+    "evidence": "NEAR POLICE STATION, CHANDRASEKHARPUR, BHUBANESWAR",
+    "english": "Near Police Station, Chandrasekharpur, Bhubaneswar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CANTONMENT ROAD, CUTTACK",
+    "evidence": "CANTONMENT ROAD, CUTTACK",
+    "english": "Cantonment Road, Cuttack",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "HUID: THE FINAL MARK IN GOLD EXCELLENCE",
+    "evidence": "HUID: THE FINAL MARK IN GOLD EXCELLENCE",
+    "english": "HUID: The final mark in gold excellence",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ALL MALABAR PRODUCTS CARRY HUID MARK",
+    "evidence": "ALL MALABAR PRODUCTS CARRY HUID MARK",
+    "english": "All Malabar products carry HUID mark",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "10 MALABAR PROMISES",
+    "evidence": "10 MALABAR PROMISES",
+    "english": "10 Malabar promises",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "Get value equivalent to 100 mg gold coin* with every purchase of Rs.30,000/-",
+    "evidence": "Get value equivalent to 100 mg gold coin* with every purchase of Rs.30,000/-",
+    "english": "Get value equivalent to 100 mg gold coin with every purchase of Rs.30,000/-",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "For Diamond, Gemstone & Polki designs value will be equivalent to 250 mg gold coin.",
+    "evidence": "For Diamond, Gemstone & Polki designs value will be equivalent to 250 mg gold coin.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "GOLDEN GIFT",
+    "evidence": "GOLDEN GIFT",
+    "english": "Golden gift",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Saheed Nagar",
+     "city": "Bhubaneswar",
+     "phones": [
+      "655916",
+      "6742542916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 42,
+     "city_id": null
+    },
+    "evidence": "RUPALI SQUARE, SAHEED NAGAR, BHUBANESWAR. TEL: 80DB655916, 06742542916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bhubaneswar' (#42)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Chandrasekharpur",
+     "city": "Bhubaneswar",
+     "phones": [
+      "67429139161"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 42,
+     "city_id": null
+    },
+    "evidence": "NEAR POLICE STATION, CHANDRASEKHARPUR, BHUBANESWAR.TEL:G67429139161",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bhubaneswar' (#42)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Cantonment Road",
+     "city": "Cuttack",
+     "phones": [
+      "6712303916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "CANTONMENT ROAD, CUTTACK.TEL:06712303916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Kolkata"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "metal": {
+   "value": "Gold",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "making_charge_offer": {
+   "value": "4.9%",
+   "evidence": "MAKING CHARGES 4.9% ONWARDS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "festival": {
+   "value": "AKSHAYA TRITIYA",
+   "evidence": "AKSHAYA TRITIYA",
+   "english": "Akshaya Tritiya",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (90%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Akshaya Tritiya jewellery offer",
+  "Advance booking commenced",
+  "Get value equivalent to 100 mg gold coin with every purchase of Rs.30,000/-",
+  "For Diamond, Gemstone & Polki designs value will be equivalent to 250 mg gold coin",
+  "Making charges 4.9% onwards",
+  "Golden gift with every purchase",
+  "HUID compliance on all Malabar products",
+  "10 Malabar promises"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "30",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "MALABAR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "GOLD&DIAMONDS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "CELEORATE THE BEAUTY OF LIFE",
+   "score": 0.9445,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "AKSHAYA",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "7195",
+   "score": 0.804,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "GRITIYA",
+   "score": 0.9532,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "BEIND HOHE",
+   "score": 0.6967,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "PROEPERTY",
+   "score": 0.9079,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "CAAFTEDIN",
+   "score": 0.8574,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "GOLD",
+   "score": 0.9283,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "ADVANCE BOOKING COMMENCED",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Book your jewellery by paying",
+   "score": 0.9912,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "minimum 10% onwards in advance &",
+   "score": 0.9946,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "get the jewellery at the booked rate or",
+   "score": 0.9821,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "prevailing rate, whichever is lower.",
+   "score": 0.9676,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "Get value equivalent",
+   "score": 0.9958,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "For Diamond, Gemstone",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "MAKING CHARGES",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "to 100 mg gold coin",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "4.9%",
+   "score": 0.9992,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 22,
+   "text": "GOLDEN",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "& Polki designs value",
+   "score": 0.9931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "GIFT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "with every purchase",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "will be equivalent",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "of Rs.30,000/-",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "to 250 mg gold coin.",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "ONWARDS",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "HUID:THE FINAL MARK IN GOLD EXCELLENCE",
+   "score": 0.978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "At Malabar Gold & Diamonds, we are proud to have been amongst the first in the industry to have adopted HUID.",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "As a responsible jeweller, we take our commitment to customers very seriously and have ensured 100% HUID compliance",
+   "score": 0.983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "so that you can shop with complete peace of mind.",
+   "score": 0.9751,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "ALLMALABAR PRODUCTS CARRYHUID MARK",
+   "score": 0.9708,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "10 MALABAR PROMISES",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "COMPLETE",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "ASGURED LIFETIME",
+   "score": 0.9496,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "ZERO DEDUCTION",
+   "score": 0.9858,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "106%HUID",
+   "score": 0.9567,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "TESTED & CERTIFIED",
+   "score": 0.9395,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "TRANSPARENCY",
+   "score": 0.9956,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "MAINTENANCE",
+   "score": 0.9716,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "GOLD EXCHANGE",
+   "score": 0.963,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "COMPLIANT COLD",
+   "score": 0.9409,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "DIAMONDS",
+   "score": 0.9383,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "GUARANTEED",
+   "score": 0.9804,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "COMPLIMENTARY",
+   "score": 0.9778,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "FAIR PRICE",
+   "score": 0.9949,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "RESPONSIBLY",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "FAIRLABOUR",
+   "score": 0.9869,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 51,
+   "text": "BUTBACK",
+   "score": 0.9091,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "INSURANCE",
+   "score": 0.9692,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "POUCY",
+   "score": 0.9814,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "SOURCED PRODUCTS",
+   "score": 0.9819,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "PRACTICES",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "RUPALI SQUARE, SAHEED NAGAR, BHUBANESWAR. TEL: 80DB655916, 06742542916| NEAR POLICE STATION, CHANDRASEKHARPUR,",
+   "score": 0.9587,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "BHUBANESWAR.TEL:G67429139161CANTONMENT ROAD.CUTTACK.TEL:06712303916",
+   "score": 0.9692,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 58,
+   "text": "BUY ONLINE AT: mMelabargoIdanddMMOndSCOM HINDIA T USA I SINGAPORE I MALAYSIA IUAE I QATAR TKSA I OMAN I KUWAIT I BAHRAIN",
+   "score": 0.8618,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (484x781); small print may be unreadable"
+ ],
+ "record_flags": [
+  "model note: OCR transcript contains garbled digits in phone numbers and website; image text used where legible. Phone numbers appear to contain OCR errors (e.g., 80DB655916, G67429139161). Website URL is heavily distorted in OCR; inferred as malabargoldanddiamonds.com from context but not clearly legible in image.",
+  "25 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 18.65,
+  "extract": 90.22
+ }
+}

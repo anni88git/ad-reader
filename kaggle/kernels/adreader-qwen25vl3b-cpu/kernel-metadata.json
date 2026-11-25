@@ -1,0 +1,19 @@
+{
+ "id": "annichopra/adreader-qwen25vl3b-cpu",
+ "title": "adreader-qwen25vl3b-cpu",
+ "code_file": "run.py",
+ "language": "python",
+ "kernel_type": "script",
+ "is_private": "true",
+ "enable_gpu": "false",
+ "enable_tpu": "false",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "annichopra/adreader-holdout20"
+ ],
+ "competition_sources": [],
+ "kernel_sources": [],
+ "model_sources": [
+  "qwen-lm/qwen2.5-vl/transformers/3b-instruct/2"
+ ]
+}

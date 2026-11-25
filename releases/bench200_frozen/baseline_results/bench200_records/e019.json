@@ -1,0 +1,468 @@
+{
+ "image": "e019_Namasthe_Telangana_75.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI COMMERCIAL",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Super Carry",
+   "evidence": "NEW SUPER CARRY",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (77%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI COMMERCIAL",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "కొత్త సూపర్ క్యారీ సూపర్ పవర్తో !",
+   "evidence": "కొత్త సూపర్ క్యారీ సూపర్ పవర్తో !",
+   "english": "New Super Carry with Super Power!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: కాలే సుమారు కావాలి సుమారు మేరే!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Commercial Vehicles",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #4"
+   ],
+   "matched_id": 4,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 4,
+     "name": "Automobile > Commercial Vehicles",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Telugu",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Maruti Suzuki Commercial Super Carry",
+    "CNG + Petrol option",
+    "Save up to ₹30,100"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki Commercial advertises the New Super Carry commercial vehicle with CNG and petrol options, claiming savings of up to ₹30,100.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "CNG + PETROL",
+    "evidence": "CNG + PETROL",
+    "english": "CNG + Petrol",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (56%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "SAVE UP TO ₹30 100",
+    "evidence": "SAVE UP TO ₹30 100",
+    "english": "Save up to ₹30,100",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "fuel_type": {
+   "value": [
+    "Petrol",
+    "CNG"
+   ],
+   "evidence": "CNG + PETROL",
+   "english": "CNG + Petrol",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (56%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "normalised from 'CNG + PETROL'"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ev_type": {
+   "value": "Non-EV",
+   "evidence": "CNG + PETROL",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "derived by rule from fuel types ['Petrol', 'CNG'] (only fully electric = EV)",
+    "fuel type itself needs review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Maruti Suzuki Commercial Super Carry",
+  "CNG + Petrol option",
+  "Save up to ₹30,100"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MARUTI SUZUKI COMMERCIAL",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "కొత్త",
+   "score": 0.8712,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "సూపర్ క్యారీ",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "సూపర్ పవర్తో !",
+   "score": 0.9721,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "CNG",
+   "score": 0.8434,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "SAVE OP TO",
+   "score": 0.9794,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "TAL",
+   "score": 0.4813,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "30100",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "SUPER",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "MLW",
+   "score": 0.7788,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "CARRY",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "三三三三三",
+   "score": 0.6853,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "三三二三三三",
+   "score": 0.7873,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [
+  "image looks blurry (sharpness 67)"
+ ],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.71,
+  "extract": 23.05
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Tata Motors",
+   "Tata"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Safari, Tigor, Tiago, Nexon, Altroz, Punch, Harrier"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Automobile > Cars",
+   "Automobile"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "इस मानसून, टाटा मोटर्स के साथ अपने सफर को सुरक्षित बनाएं"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

@@ -1,0 +1,635 @@
+{
+ "image": "d377_Maharashtra_Times_77.jpg",
+ "fields": {
+  "brand": {
+   "value": "Jeans Junction",
+   "evidence": "Jeans Junction",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Jeans Junction",
+   "evidence": "Jeans Junction",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "SUMMER 2023 COLLECTION",
+   "evidence": "SUMMER 2023 COLLECTION",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "Jeans Junction",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "Jeans Junction",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Jeans Junction Summer 2023 Collection",
+    "JJ for Men & Women",
+    "Store locations and phone numbers in Thane"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Jeans Junction advertises its Summer 2023 Collection for men and women. It lists three store locations in Thane (W) with telephone numbers for each branch.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "67939999",
+     "kind": "landline",
+     "as_printed": "6793 9999"
+    },
+    "evidence": "Tel: 6793 9999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "67909999",
+     "kind": "landline",
+     "as_printed": "6790 9999"
+    },
+    "evidence": "Tel: 6790 9999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9076021999",
+     "kind": "mobile",
+     "as_printed": "9076021999"
+    },
+    "evidence": "Tel: 9076021999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "67959999",
+     "kind": "landline",
+     "as_printed": "6795 9999"
+    },
+    "evidence": "JJ FOR WOMEN : Dutta Niwas, Gokhale Road, Naupada, Thane (W). Tel: 6795 9999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Hotel Tip Top Plaza, L.B.S. Marg, Thane (W).",
+    "evidence": "Hotel Tip Top Plaza, L.B.S. Marg, Thane (W).",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Barve Wadi, Gokhale Road, Naupada, Thane (W).",
+    "evidence": "Barve Wadi, Gokhale Road, Naupada, Thane (W).",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Dutta Niwas, Gokhale Road, Naupada, Thane (W).",
+    "evidence": "Dutta Niwas, Gokhale Road, Naupada, Thane (W).",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "11, Uttung CHS, Sambhaji Path, Near School No 19, Vishnu Nagar, Thane (W).",
+    "evidence": "11, Uttung CHS, Sambhaji Path, Near School No 19, Vishnu Nagar, Thane (W).",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Jeans Junction",
+     "area": "L.B.S. Marg",
+     "city": "Thane (W)",
+     "phones": [
+      "67939999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JJ FOR MEN & WOMEN : JJ FOR MEN : Hotel Tip Top Plaza, L.B.S. Marg, Thane (W). Tel: 6793 9999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jeans Junction",
+     "area": "Gokhale Road, Naupada",
+     "city": "Thane (W)",
+     "phones": [
+      "67909999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JJ FOR MEN : Barve Wadi, Gokhale Road, Naupada, Thane (W). Tel: 6790 9999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jeans Junction",
+     "area": "Gokhale Road, Naupada",
+     "city": "Thane (W)",
+     "phones": [
+      "67959999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JJ FOR WOMEN : Dutta Niwas, Gokhale Road, Naupada, Thane (W). Tel: 6795 9999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jeans Junction",
+     "area": "Vishnu Nagar",
+     "city": "Thane (W)",
+     "phones": [
+      "9076021999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "11, Uttung CHS, Sambhaji Path, Near School No 19, Vishnu Nagar, Thane (W). Tel: 9076021999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Jeans Junction Summer 2023 Collection",
+  "JJ for Men & Women",
+  "Store locations and phone numbers in Thane"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "SUMMER 2023",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "COLLECTION",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Jeans Junction",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "6z/90/asndu)",
+   "score": 0.772,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "JJ FOR MEN & WOMEN : JJ FOR MEN :",
+   "score": 0.9443,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "JJ FOR WOMEN:",
+   "score": 0.9849,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Hotel Tip Top Plaza,",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Barve Wadi, Gokhale Road, Dutta Niwas, Gokhale Road,",
+   "score": 0.9955,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": "L.B.S. Marg, Thane (W).",
+   "score": 0.9776,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Naupada, Thane (W).",
+   "score": 0.9889,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Naupada, Thane (W). Tel: 6795 9999",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Tel: 6793 9999",
+   "score": 0.9883,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Tel: 6790 9999",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "11, UttungCHS, Sambhaji Path, Near School No 19,",
+   "score": 0.9825,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Vishnu Nagar, Thane (W). Tel: 9076021999",
+   "score": 0.9945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (732x885); small print may be unreadable"
+ ],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 7.37,
+  "extract": 27.02
+ }
+}

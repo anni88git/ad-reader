@@ -1,0 +1,68 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Collegian",
+   "Collegian Cream",
+   "Dr. Saheb"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Collegian Cream",
+   "Collegian Acne Clear Cream",
+   "Acne Clear Cream"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG > Personal & Home Care"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "कॉलेजियन क्रीम",
+   "पूर्णतः आयुर्वेदिक, स्वदेशी एवं ईमानदार क्रीम याने कॉलेजियन क्रीम"
+  ]
+ },
+ "price": 99,
+ "qr_code_present": true,
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ],
+   [
+    "Hindi"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

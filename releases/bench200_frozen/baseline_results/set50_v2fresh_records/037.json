@@ -1,0 +1,773 @@
+{
+ "image": "037_Loksatta_1673.jpg",
+ "fields": {
+  "brand": {
+   "value": "Fivebric",
+   "evidence": "FIVEBRIC",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Fivebric Realty Pvt Ltd",
+   "evidence": "FIVEBRIC REALTY PVT LTD",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (78%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "30 लाखात फ्लॅट घेण्यापेक्षा.. ₹ 3 लाखात प्लॉट घ्या..",
+   "evidence": "30 लाखात फ्लॅट घेण्यापेक्षा.. ₹ 3 लाखात प्लॉट घ्या..",
+   "english": "Instead of a flat for 30 lakhs.. get a plot for 3 lakhs..",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (95%)",
+    "wording is not an exact match to the printed text (closest OCR reading 97% similar) - check spelling - suggestion: 30 लाखात फ्लॉट घेण्यापेक्षा. 3 लाखात प्लॉट घ्या..",
+    "second model disagrees - suggestion: 30 लाखात फ्लॅट घेण्यापेक्षा.. ₹ 3 लाखात फ्लॅट घ्या.."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "नवी मुंबई इंटर नॅशनल एअरपोर्ट परिसरात",
+   "evidence": "नवी मुंबई इंटर नॅशनल एअरपोर्ट परिसरात",
+   "english": "Near Navi Mumbai International Airport",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (97%)",
+    "wording is not an exact match to the printed text (closest OCR reading 97% similar) - check spelling - suggestion: नवी मुंबई इंटर नंशनल एअरपोर्ट परिसरात",
+    "second model disagrees - suggestion: नवी मुंबई इंटर नेशनल एअरपोर्ट परिसरात"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 300000,
+   "evidence": "₹ 3 लाखात",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "short number '3' found in OCR but without a ₹/price marker",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Plot for 3 lakhs near Navi Mumbai International Airport",
+    "Limited offer only 26 Booking",
+    "Connectivity: Sea link, International Airport, Local Train, Metro Train, Virar Alibag Corridor",
+    "Special Offer BUY 3 GET 1 FREE",
+    "0% interest EMI facility available",
+    "Phone 8081 300 300",
+    "Office Mayuresh Square Bldg, Office No:606, 6th Floor, Sec-15, opposite to NMMC Head office, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+    "Website www.fivebricrealty.in"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Get a plot for 3 lakhs near Navi Mumbai International Airport instead of a flat for 30 lakhs. Limited offer for only 26 bookings. Special offer: buy 3 get 1 free. 0% interest EMI available. Call 8081 300 300 or visit the office in CBD Belapur, Navi Mumbai.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8081300300",
+     "kind": "mobile",
+     "as_printed": "8081 300 300"
+    },
+    "evidence": "8081 300 300",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 300000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "3 लाखात",
+     "item": "प्लॉट",
+     "as_printed": "₹ 3 लाखात"
+    },
+    "evidence": "₹ 3 लाखात",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '3' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 3000000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "30 लाखात",
+     "item": "फ्लॅट",
+     "as_printed": "30 लाखात"
+    },
+    "evidence": "30 लाखात",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '30' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.fivebricrealty.in",
+    "evidence": "www.fivebricrealty.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Mayuresh Square Bldg, Office No:606, 6th Floor, Sec-15, opposite to NMMC Head office, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+    "evidence": "Mayuresh Square Bldg, Office No:606, 6th Floor, Sec-15, opposite to NMMC Head office, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Sea link",
+    "evidence": "Sea link",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "International Airport",
+    "evidence": "International Airport",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Local Train",
+    "evidence": "Local Train",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Metro Train",
+    "evidence": "Metro Train",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Virar Alibag Corridor",
+    "evidence": "Virar Alibag Corridor",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Limited offer only 26 Booking",
+    "evidence": "Limited offer only 26 Booking",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BUY 3 GET 1 FREE",
+    "evidence": "Special Offer BUY 3 GET 1 FREE",
+    "english": "Special Offer BUY 3 GET 1 FREE",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "0% व्याजदर EMI सुविधा उपलब्ध",
+    "evidence": "0% व्याजदर EMI सुविधा उपलब्ध",
+    "english": "0% interest EMI facility available",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Fivebric Realty Pvt Ltd",
+     "area": "CBD Belapur",
+     "city": "Navi Mumbai",
+     "phones": [
+      "8081300300"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FIVEBRIC REALTY PVT LTD Mayuresh Square Bldg, Office No:606, 6th Floor, Sec-15, opposite to NMMC Head office, CBD Belapur, Navi Mumbai, Maharashtra 400614 8081 300 300 www.fivebricrealty.in",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (96%)",
+     "dealer name not confirmed by OCR",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "location": {
+   "value": "नवी मुंबई इंटर नॅशनल एअरपोर्ट परिसरात",
+   "evidence": "नवी मुंबई इंटर नॅशनल एअरपोर्ट परिसरात",
+   "english": "Near Navi Mumbai International Airport",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (97%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "amenities": {
+   "value": [
+    {
+     "value": "Sea link",
+     "evidence": "Sea link",
+     "english": "Sea link"
+    },
+    {
+     "value": "International Airport",
+     "evidence": "International Airport",
+     "english": "International Airport"
+    },
+    {
+     "value": "Local Train",
+     "evidence": "Local Train",
+     "english": "Local Train"
+    },
+    {
+     "value": "Metro Train",
+     "evidence": "Metro Train",
+     "english": "Metro Train"
+    },
+    {
+     "value": "Virar Alibag Corridor",
+     "evidence": "Virar Alibag Corridor",
+     "english": "Virar Alibag Corridor"
+    }
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.35,
+   "status": "missing",
+   "reasons": [
+    "model gave no evidence quote",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Plot for 3 lakhs near Navi Mumbai International Airport",
+  "Limited offer only 26 Booking",
+  "Connectivity: Sea link, International Airport, Local Train, Metro Train, Virar Alibag Corridor",
+  "Special Offer BUY 3 GET 1 FREE",
+  "0% interest EMI facility available",
+  "Phone 8081 300 300",
+  "Office Mayuresh Square Bldg, Office No:606, 6th Floor, Sec-15, opposite to NMMC Head office, CBD Belapur, Navi Mumbai, Maharashtra 400614",
+  "Website www.fivebricrealty.in"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "30 लाखात फ्लॉट घेण्यापेक्षा.",
+   "score": 0.9782,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "3 लाखात",
+   "score": 0.9184,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "ऱ",
+   "score": 0.57,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "प्लॉट घ्या..",
+   "score": 0.9785,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "नवी मुंबई इंटर नंशनल एअरपोर्ट परिसरात",
+   "score": 0.9731,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Limited offer",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "only",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "26",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 9,
+   "text": "Booking",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "CONNECTIVITY",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "Sea link",
+   "score": 0.9867,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Special Offer",
+   "score": 0.9569,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "International Airport",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "BUY 3 GET",
+   "score": 0.9281,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Local Train",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "1 FREE",
+   "score": 0.9494,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Metro Train",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Virar Alibag Corridor",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "0% व्याजदर EMI सुविधा उपलब्ध",
+   "score": 0.9563,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "8081 300 300",
+   "score": 0.9785,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Mayuresh Square Bldg, Office No:606, 6th Floor, Sec-15,",
+   "score": 0.9946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "FIVEBRIC",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "opposite to NMMC Head office, CBD Belapur, Navi",
+   "score": 0.9951,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Mumbai, Maharashtra 400614 www.fivebricrealty.in",
+   "score": 0.9925,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 12.37,
+  "extract": 12.08
+ }
+}

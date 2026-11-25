@@ -1,0 +1,79 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Anchor"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Anchor White",
+   "Anchor White toothpaste",
+   "Anchor White All Round Protection"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Personal & Home Care",
+   "FMCG"
+  ]
+ },
+ "price": {
+  "any_of": [
+   25,
+   null
+  ]
+ },
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Manipuri",
+    "English"
+   ],
+   [
+    "Meitei",
+    "English"
+   ],
+   [
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "language",
+   "why": "drafter unsure"
+  },
+  {
+   "field": "price",
+   "why": "drafter unsure"
+  }
+ ],
+ "_drafter_note": "dataset metadata says Assamese but the script is Meetei Mayek (Manipuri); headline not labelled (drafter cannot read Meetei Mayek reliably)"
+}

@@ -1,0 +1,1304 @@
+{
+ "image": "d032_Navbharat_Times_32.jpg",
+ "fields": {
+  "brand": {
+   "value": "Amrita Vishwa Vidyapeetham",
+   "evidence": "AMRITA VISHWA VIDYAPEETHAM",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: AMRITA",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "MBBS",
+   "evidence": "एमबीबीएस 2023 के पहले बैच",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Amrita School of Medicine, Faridabad Campus",
+   "evidence": "SCHOOL OF MEDICINE Faridabad Campus",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "हेल्थकेयर का \"कल\" बनिये",
+   "evidence": "हेल्थकेयर का \"कल\" बनिये",
+   "english": "Become the \"tomorrow\" of healthcare",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 76% similar) - check spelling - suggestion: हेल्थकेयर का",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "भारत के सबसे बड़े हेल्थकेयर कैंपस में से एक में एमबीबीएस 2023 के पहले बैच का दाखिला शुरू",
+   "evidence": "भारत के सबसे बड़े हेल्थकेयर कैंपस में से एक में एमबीबीएस 2023 के पहले बैच का दाखिला शुरू",
+   "english": "Admissions open for the first batch of MBBS 2023 at one of India's largest healthcare campuses",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 70% similar) - check spelling",
+    "second model disagrees - suggestion: भारत के सबसे बड़े हेल्थकेयर कैंपस में से एक में एमबीबीएस 2023 के पहले बेच का दाखिला शुल्क"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "अमृता स्कूल ऑफ मेडिसिन क्यों? भारत के विशालतम निजी अस्पताल के साथ संलग्न दुनिया भर की करीब 287 यूनिवर्सिटीज (विश्वविद्यालयों) के साथ गठजोड़ हरा भरा कैंपस, जो फैला है 1 करोड़ वर्ग फुट से अधिक क्षेत्र में भारत भर के शीर्ष मेडिकल कॉलेजेस की फैकल्टी अंतर्राष्ट्रीय यूनिवर्सिटीज के इलेक्टिव्स से संवाद करने का मौका मिलेगा यहां है विश्व मान्य इन-हाउस रिसर्च एंड इनोवेशन सेंटर अत्याधुनिक सिमुलेशन सेंटर अद्यतन ई- लाइब्रेरी जर्नल्स सिखाने और मरीज देखभाल के लिये अत्याधुनिक सुविधा",
+   "evidence": "अमृता स्कूल ऑफ मेडिसिन क्यों? भारत के विशालतम निजी अस्पताल के साथ संलग्न दुनिया भर की करीब 287 यूनिवर्सिटीज (विश्वविद्यालयों) के साथ गठजोड़ हरा भरा कैंपस, जो फैला है 1 करोड़ वर्ग फुट से अधिक क्षेत्र में भारत भर के शीर्ष मेडिकल कॉलेजेस की फैकल्टी अंतर्राष्ट्रीय यूनिवर्सिटीज के इलेक्टिव्स से संवाद करने का मौका मिलेगा यहां है विश्व मान्य इन-हाउस रिसर्च एंड इनोवेशन सेंटर अत्याधुनिक सिमुलेशन सेंटर अद्यतन ई- लाइब्रेरी जर्नल्स सिखाने और मरीज देखभाल के लिये अत्याधुनिक सुविधा",
+   "english": "Why Amrita School of Medicine? Affiliated with India's largest private hospital, tie-ups with around 287 universities worldwide, green campus spread over more than 1 crore sq ft, faculty from top medical colleges across India, opportunity to interact with international university electives, world-recognized in-house research and innovation center, state-of-the-art simulation center, updated e-library journals, state-of-the-art facilities for teaching and patient care",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (79%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "प्रवेश वर्ष 2023 के लिए ओपन हाउस सत्र पात्र आवेदकों और उनके माता-पिता के लिए दिनांक 15 जुलाई (शनिवार) समय दोप. 3 से शाम 5 बजे स्थान सेमिनार हॉल, यू जी फ्लोर, अमृता अस्पताल",
+   "evidence": "प्रवेश वर्ष 2023 के लिए ओपन हाउस सत्र पात्र आवेदकों और उनके माता-पिता के लिए दिनांक 15 जुलाई (शनिवार) समय दोप. 3 से शाम 5 बजे स्थान सेमिनार हॉल, यू जी फ्लोर, अमृता अस्पताल",
+   "english": "Attend open house session for admission year 2023 for eligible applicants and their parents on 15 July (Saturday) from 3 PM to 5 PM at Seminar Hall, UG Floor, Amrita Hospital",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "recruitment",
+   "evidence": "एमबीबीएस 2023 के पहले बैच का दाखिला शुरू",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees",
+    "ad mentions 'दाखिला' - an admissions / course ad is not job recruitment (suggestion: service_provider)",
+    "category is Education but ad type is recruitment - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": "SCHOOL OF MEDICINE Faridabad Campus",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://amrita.edu/wp-content/uploads/2023/06/school-medicine-faridabad-prospectus-updated-version-final-2023.pdf)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://amrita.edu/wp-content/uploads/2023/06/school-medicine-faridabad-prospectus-updated-version-final-2023.pdf",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "MBBS 2023 first batch admissions open",
+    "One of India's largest healthcare campuses",
+    "Affiliated with Amrita Hospital",
+    "2600 beds ultra-modern infrastructure",
+    "81 super-specialties",
+    "64 modular operation theaters",
+    "534 critical care beds",
+    "Open house session on 15 July 2023"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Amrita School of Medicine, Faridabad Campus is opening admissions for the first MBBS 2023 batch at one of India's largest healthcare campuses. Prospective students and parents can attend an open house session on 15 July 2023 from 3 PM to 5 PM at the seminar hall, Amrita Hospital, or call 85 95 52 32 00 for admission details.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8595523200",
+     "kind": "mobile",
+     "as_printed": "85 95 52 32 00"
+    },
+    "evidence": "ADMISSION - AMRITA SCHOOL OF MEDICINE: 85 95 52 32 00",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "amrita.edu/mbbs",
+    "evidence": "amrita.edu/mbbs",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "ugadmission@fbd.amrita.edu",
+    "evidence": "ugadmission@fbd.amrita.edu",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "enquiry@fbd.amrita.edu",
+    "evidence": "enquiry@fbd.amrita.edu",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "माता अमृतानंदमयी मार्ग, सेक्टर 88, दिल्ली एनसीआर, फरीदाबाद, हरियाणा-121002",
+    "evidence": "माता अमृतानंदमयी मार्ग, सेक्टर 88, दिल्ली एनसीआर, फरीदाबाद, हरियाणा-121002",
+    "english": "Mata Amritanandamayi Marg, Sector 88, Delhi NCR, Faridabad, Haryana-121002",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "भारत के विशालतम निजी अस्पताल के साथ संलग्न",
+    "evidence": "भारत के विशालतम निजी अस्पताल के साथ संलग्न",
+    "english": "Affiliated with India's largest private hospital",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "दुनिया भर की करीब 287 यूनिवर्सिटीज (विश्वविद्यालयों) के साथ गठजोड़",
+    "evidence": "दुनिया भर की करीब 287 यूनिवर्सिटीज (विश्वविद्यालयों) के साथ गठजोड़",
+    "english": "Tie-ups with around 287 universities worldwide",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (93%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "हरा भरा कैंपस, जो फैला है 1 करोड़ वर्ग फुट से अधिक क्षेत्र में",
+    "evidence": "हरा भरा कैंपस, जो फैला है 1 करोड़ वर्ग फुट से अधिक क्षेत्र में",
+    "english": "Green campus spread over more than 1 crore sq ft",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "भारत भर के शीर्ष मेडिकल कॉलेजेस की फैकल्टी",
+    "evidence": "भारत भर के शीर्ष मेडिकल कॉलेजेस की फैकल्टी",
+    "english": "Faculty from top medical colleges across India",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "अंतर्राष्ट्रीय यूनिवर्सिटीज के इलेक्टिव्स से संवाद करने का मौका मिलेगा",
+    "evidence": "अंतर्राष्ट्रीय यूनिवर्सिटीज के इलेक्टिव्स से संवाद करने का मौका मिलेगा",
+    "english": "Opportunity to interact with international university electives",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (75%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "यहां है विश्व मान्य इन-हाउस रिसर्च एंड इनोवेशन सेंटर",
+    "evidence": "यहां है विश्व मान्य इन-हाउस रिसर्च एंड इनोवेशन सेंटर",
+    "english": "World-recognized in-house research and innovation center",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (93%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "अत्याधुनिक सिमुलेशन सेंटर",
+    "evidence": "अत्याधुनिक सिमुलेशन सेंटर",
+    "english": "State-of-the-art simulation center",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "अद्यतन ई- लाइब्रेरी जर्नल्स",
+    "evidence": "अद्यतन ई- लाइब्रेरी जर्नल्स",
+    "english": "Updated e-library journals",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (87%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "सिखाने और मरीज देखभाल के लिये अत्याधुनिक सुविधा",
+    "evidence": "सिखाने और मरीज देखभाल के लिये अत्याधुनिक सुविधा",
+    "english": "State-of-the-art facilities for teaching and patient care",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "2600 बेड्स अल्ट्रा-मॉडर्न इंफ्रास्ट्रक्चर के साथ",
+    "evidence": "2600 बेड्स अल्ट्रा-मॉडर्न इंफ्रास्ट्रक्चर के साथ",
+    "english": "2600 beds with ultra-modern infrastructure",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (93%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "81 अत्याधुनिक स्पेश्यालिटीज़",
+    "evidence": "81 अत्याधुनिक स्पेश्यालिटीज़",
+    "english": "81 state-of-the-art super-specialties",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (89%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "64 मॉड्यूलर ऑपरेशन थिएटर्स",
+    "evidence": "64 मॉड्यूलर ऑपरेशन थिएटर्स",
+    "english": "64 modular operation theaters",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (65%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "534 क्रिटिकल केयर बेड्स",
+    "evidence": "534 क्रिटिकल केयर बेड्स",
+    "english": "534 critical care beds",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "DEEMED TO BE UNIVERSITY UNDER SECTION 3 OF UGC ACT. 1956",
+    "evidence": "DEEMED TO BE UNIVERSITY UNDER SECTION 3 OF UGC ACT. 1956",
+    "english": "Deemed to be University under Section 3 of UGC Act, 1956",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "No.1 IN INDIA THE IMPACT RANKINGS 2023",
+    "evidence": "No.1 IN INDIA THE IMPACT RANKINGS 2023",
+    "english": "No.1 in India The Impact Rankings 2023",
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "6TH RANKED MEDICAL COLLEGE AMRITA SCHOOL OF MEDICINE, KOCHI NIRF GOVT. OF INDIA 2023",
+    "evidence": "6TH RANKED MEDICAL COLLEGE AMRITA SCHOOL OF MEDICINE, KOCHI NIRF GOVT. OF INDIA 2023",
+    "english": "6th Ranked Medical College Amrita School of Medicine, Kochi NIRF Govt. of India 2023",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NAAC A++ ACCREDITED",
+    "evidence": "NAAC A++ ACCREDITED",
+    "english": "NAAC A++ Accredited",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CATEGORY 1 GRADED AUTONOMY UGC, GOVT. OF INDIA",
+    "evidence": "CATEGORY 1 GRADED AUTONOMY UGC, GOVT. OF INDIA",
+    "english": "Category 1 Graded Autonomy UGC, Govt. of India",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "20 YEARS OF SHAPING YOUNG MINDS",
+    "evidence": "20 YEARS OF SHAPING YOUNG MINDS",
+    "english": "20 Years of Shaping Young Minds",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Amrita Hospital Faridabad",
+     "area": "Sector 88",
+     "city": "Faridabad",
+     "phones": [
+      "8595523200"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 22,
+     "city_id": null
+    },
+    "evidence": "AMRITA HOSPITAL FARIDABAD Embrace Good Health 2600 बेड्स अल्ट्रा-मॉडर्न इंफ्रास्ट्रक्चर के साथ 81 अत्याधुनिक स्पेश्यालिटीज़ 64 मॉड्यूलर ऑपरेशन थिएटर्स 534 क्रिटिकल केयर बेड्स माता अमृतानंदमयी मार्ग, सेक्टर 88, दिल्ली एनसीआर, फरीदाबाद, हरियाणा-121002",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (91%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Faridabad' (#22)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Amrita School of Medicine, Faridabad Campus",
+   "evidence": "SCHOOL OF MEDICINE Faridabad Campus",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "MBBS",
+   "evidence": "एमबीबीएस 2023 के पहले बैच",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "admission_dates": {
+   "value": "प्रवेश वर्ष 2023",
+   "evidence": "प्रवेश वर्ष 2023 के लिए ओपन हाउस सत्र",
+   "english": "Admission year 2023",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "mode": {
+   "value": "ओपन हाउस सत्र",
+   "evidence": "प्रवेश वर्ष 2023 के लिए ओपन हाउस सत्र",
+   "english": "Open house session",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "MBBS 2023 first batch admissions open",
+  "One of India's largest healthcare campuses",
+  "Affiliated with Amrita Hospital",
+  "2600 beds ultra-modern infrastructure",
+  "81 super-specialties",
+  "64 modular operation theaters",
+  "534 critical care beds",
+  "Open house session on 15 July 2023"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "No.1",
+   "score": 0.9248,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "THE",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "IMPACT",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "nirf",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "THRANKED",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "NAAC A++",
+   "score": 0.9798,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "CATEGORY 1",
+   "score": 0.9702,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "AMRITA",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "SCHOOL OF",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "RANKINGS 2023",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "6",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "ACCREDITED",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "GRADED AUTONOMY",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "IN INDIA",
+   "score": 0.9701,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "MEDICAL COLLEGE",
+   "score": 0.9961,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "UGC, GOVT. OF INDIA",
+   "score": 0.9555,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "MEDICINE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "AMRITA SCHOOL OF",
+   "score": 0.9835,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "OYEARS",
+   "score": 0.9975,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "VISHWA VIDYAPEETHAM",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "GOVT. OF INDIA",
+   "score": 0.9539,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "DEEMED TO BE UNIVERSITY UNDER SECTION 3 OF UGC ACT. 1956",
+   "score": 0.9935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Faridabad Campus",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "2023",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "MEDICINE, KOCHI",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "OF SHAPING YOUNG MINDS",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "अमृता स्कूृल ऑफ मेडिसिन क्यों?",
+   "score": 0.9516,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "हेल्थकेयर का",
+   "score": 0.9876,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "भारत के विशालतम निजी अस्पताल के साथ संलग्र",
+   "score": 0.9585,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "\"कल\" बनिये",
+   "score": 0.9659,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "दुनिया भर की करीब 287 युनिवसिटीज़ (विश्वविद्यालयों) के साथ गठजो़",
+   "score": 0.9733,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "हरा भरा कैंपस, जो फैला है 1 करोड़ वर्ग फुट से अधिक ्ेत्र में",
+   "score": 0.962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "भारत भर के शीर्ष मेडिकल कॉलेजेस की फैकल्टी",
+   "score": 0.967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "भारत के सबसे बड़े हेल्थकेयर कैंपस में से एक में",
+   "score": 0.9834,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "इंटरनेशनल युनिवसिटीज के इलेक्टिक्स से संवाद करने का मौका मिलेगा",
+   "score": 0.9673,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "यहां है विश्व मान्य इन-हाऊस रिसर्च एंड इन्नवेशन सेंटर",
+   "score": 0.9508,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "एमबीबीएस 2023 के पहले बैच",
+   "score": 0.9881,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "अत्याधुनिक सिमुलेशन सेंटर",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "अद्यतन ई- लायबेरी जर्नल्स",
+   "score": 0.935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "का दाखिला शुरू",
+   "score": 0.9697,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "सिखाने और मरीज देखभाल के लिये अत्याधुनिक सुविधा",
+   "score": 0.9703,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "amrita.edu/mbbs",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "DF--S87",
+   "score": 0.8553,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 44,
+   "text": "AMRITA",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "बेडस अल्ट्रा-मॉडर्न",
+   "score": 0.9044,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "मॉड्चुलर",
+   "score": 0.8747,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 47,
+   "text": "प्रवेश वर्ष 2023 के लिए ओपन हाउस सत्र",
+   "score": 0.9791,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "2600",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "81",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 50,
+   "text": "अत्याधुनिक",
+   "score": 0.9126,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "64",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 52,
+   "text": "534",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "क्रिटिकल",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "HOSPITAL",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "इंफ्रेास्टक्चेर के साथ",
+   "score": 0.8465,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "स्पेश्याॉलिटीज़",
+   "score": 0.916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "ऑपरेंशन थिएटर्स",
+   "score": 0.9331,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "केयर बेड्स",
+   "score": 0.9266,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "पात्र आवेदकों और उनके माता-पिता के लिए",
+   "score": 0.9656,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "Embrace Good Health",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "ugadmission@fbd.amrita.edu",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "माता अमृतानंदमयी मार्ग, सेक्टर 88,",
+   "score": 0.941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "दिनांक 15 जुलाई (शनिवार)",
+   "score": 0.9782,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "प्रॉस्पेक्ट्स",
+   "score": 0.9377,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 65,
+   "text": "enquiry@fbd.amrita.edu",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "दिल्ली एनसीआर, फरीदाबाद,",
+   "score": 0.993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "डाउनलोड करने के",
+   "score": 0.9366,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 68,
+   "text": "हरियाणा-121002",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "समय",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "दोप. 3 से शाम 5 बजे",
+   "score": 0.9561,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "लिए स्कैन करें",
+   "score": 0.9833,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 72,
+   "text": "रूट मैप के लिए",
+   "score": 0.9986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 73,
+   "text": "स्थान",
+   "score": 0.919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "सेमिनार हॉॅल, यू जी फ्लोर,",
+   "score": 0.9617,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 75,
+   "text": "स्कैन करें",
+   "score": 0.9486,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 76,
+   "text": "ADMISSION - AMRITA SCHOOL OF MEDICINE:",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "85 95 52 32 00",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 78,
+   "text": "अमृता अस्पताल",
+   "score": 0.9578,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 18.36,
+  "extract": 31.06
+ }
+}

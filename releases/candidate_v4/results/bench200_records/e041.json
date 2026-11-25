@@ -1,0 +1,515 @@
+{
+ "image": "e041_Mid_Day_Paper_564.jpg",
+ "fields": {
+  "brand": {
+   "value": "Usha Ascot",
+   "evidence": "USHAASCOT",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Usha Ascot",
+   "evidence": "USHAASCOT",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Ask for WEEKDAYS SPECIAL Offer",
+   "evidence": "Ask for WEEKDAYS SPECIAL Offer",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (85%)",
+    "a larger printed line exists ('Adde suogpuoy.', 2.1x the headline size) - check which line is the main headline",
+    "second model disagrees - suggestion: Make Mon-Thu Better..."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Make Mon-Thu Better...",
+   "evidence": "Make Mon-Thu Better...",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (97%)",
+    "wording is not an exact match to the printed text (closest OCR reading 97% similar) - check spelling - suggestion: Make Mon-Thu Bette...",
+    "second model disagrees - suggestion: Ask for WEEKDAYS SPECIAL Offer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Ask for WEEKDAYS SPECIAL Offer",
+   "evidence": "Ask for WEEKDAYS SPECIAL Offer",
+   "english": "Ask for the weekdays special offer",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (85%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: real_estate_developer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Travel & Hospitality",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Real Estate",
+    "category #18",
+    "record #18 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 18,
+   "candidates": [
+    {
+     "id": 18,
+     "name": "Travel & Hospitality",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Weekdays special offer at Usha Ascot",
+    "Mumbai and Matheran contact numbers provided",
+    "Address: Nr. Jain Temple, Matheran",
+    "Email and website for booking"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Usha Ascot is offering a weekdays special offer. Contact Mumbai or Matheran numbers, email booking@ushaascot.com, or visit ushaascot.com to book.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "02269314400",
+     "kind": "landline",
+     "as_printed": "+91 22 69314400 / 22078292"
+    },
+    "evidence": "Mumbai: +91 22 69314400 / 22078292",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02269314422",
+     "kind": "landline",
+     "as_printed": "+91 22 69314422"
+    },
+    "evidence": "Matheran: +91 22 69314422",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "ushaascot.com",
+    "evidence": "booking@ushaascot.com | ushaascot.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "booking@ushaascot.com",
+    "evidence": "booking@ushaascot.com | ushaascot.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Nr. Jain Temple, Matheran",
+    "evidence": "Nr. Jain Temple, Matheran",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "WEEKDAYS SPECIAL Offer",
+    "evidence": "Ask for WEEKDAYS SPECIAL Offer",
+    "english": "Weekdays special offer",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (85%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Usha Ascot",
+     "area": "Nr. Jain Temple",
+     "city": "Matheran",
+     "phones": [
+      "02269314422"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "USHAASCOT Matheran: +91 22 69314422 Nr. Jain Temple, Matheran",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "location": {
+   "value": "Matheran",
+   "evidence": "Matheran: +91 22 69314422 Nr. Jain Temple, Matheran",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Weekdays special offer at Usha Ascot",
+  "Mumbai and Matheran contact numbers provided",
+  "Address: Nr. Jain Temple, Matheran",
+  "Email and website for booking"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Make Mon-Thu Bette...",
+   "score": 0.9397,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Ask for",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "WEEKDAYS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "SPECIAL",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Adde suogpuoy.",
+   "score": 0.8699,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "USHAASCOT",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Mumbai: +91 22 69314400 / 22078292",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Matheran: +9122 69314422",
+   "score": 0.9729,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Nr. Jain Temple, Matheran",
+   "score": 0.9824,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "booking@ushaascot.com|ushaascot.com",
+   "score": 0.987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "masha",
+   "score": 0.8025,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.12,
+  "extract": 23.98
+ }
+}

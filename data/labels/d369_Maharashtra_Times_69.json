@@ -1,0 +1,69 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Galaxy",
+   "Proviso Group",
+   "Galaxy Proviso",
+   "Passcode Growth Sector"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Passcode Growth Sector",
+   "Growth Sector Airoli",
+   "Passcode Growth Sector Airoli",
+   "1, 2 and 3 BHK homes"
+  ]
+ },
+ "ad_type": "real_estate_developer",
+ "category": {
+  "any_of": [
+   "Real Estate"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "प्रगतीची नव्याने व्याख्या सांगणारा पत्ता !",
+   "प्रगतीची नव्याने व्याख्या सांगणारा पत्ता"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Marathi",
+    "English"
+   ],
+   [
+    "Marathi"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

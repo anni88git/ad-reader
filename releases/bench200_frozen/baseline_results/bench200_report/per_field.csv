@@ -1,0 +1,10 @@
+system,field,values_scored,accuracy_pct,confirmed_values,silent_errors,silent_error_rate_pct,confirmed_precision_pct,auto_fill_rate_pct,error_catch_rate_pct,over_flag_rate_pct,missed_values
+nemotron+nano,brand,200,88.0,63,0,0.0,100.0,31.7,100.0,64.0,15
+nemotron+nano,product,200,77.0,6,0,0.0,100.0,4.5,100.0,93.2,9
+nemotron+nano,ad_type,200,83.0,123,5,4.1,95.9,59.0,84.8,28.9,1
+nemotron+nano,category,198,94.4,172,6,3.5,96.5,83.8,45.5,11.2,0
+nemotron+nano,headline,199,70.4,46,3,6.5,93.5,21.6,94.4,69.3,5
+nemotron+nano,price,199,89.4,9,1,11.1,88.9,22.9,91.7,65.2,9
+nemotron+nano,language,200,89.5,169,7,4.1,95.9,81.0,66.7,9.5,0
+nemotron+nano,qr_code_present,200,100.0,189,0,0.0,100.0,94.5,,5.5,0
+nemotron+nano,sub_headline,18,83.3,0,0,,,0.0,100.0,100.0,0

@@ -1,0 +1,1329 @@
+{
+ "image": "d067_Navbharat_Times_67.jpg",
+ "fields": {
+  "brand": {
+   "value": "Malabar Gold & Diamonds",
+   "evidence": "मलाबार गोल्ड & डायमंडस",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "exact match to existing record 'Malabar Gold & Diamonds' (#46)"
+   ],
+   "matched_id": 46,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 46,
+     "name": "Malabar Gold & Diamonds",
+     "score": 100.0
+    },
+    {
+     "id": 48,
+     "name": "Senco Gold & Diamonds",
+     "score": 79.3
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Sparkle of Heaven",
+   "evidence": "SPARKLE OF HEAVEN",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "no products on record for Malabar Gold & Diamonds"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Malabar Gold & Diamonds",
+   "evidence": "मलाबार गोल्ड & डायमंडस",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "SPARKLE OF HEAVEN",
+   "evidence": "SPARKLE OF HEAVEN",
+   "english": "Sparkle of Heaven",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "a larger printed line exists ('mine', 2.1x the headline size) - check which line is the main headline",
+    "headline is only the brand/product name",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "mine diamonds unlimited Presents",
+   "evidence": "mine diamonds unlimited Presents",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 84% similar) - check spelling - suggestion: mine diamonds unlimited",
+    "second model disagrees - suggestion: diamonds unlimited"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "हीरों से जड़ी हुई शानदार और अलौकिक ज्वेलरी। आज की महिलाओं के लिए बनाया गया यह कलेक्शन उनकी अनुपम सुंदरता का प्रतीक है।",
+   "evidence": "हीरों से जड़ी हुई शानदार और अलौकिक ज्वेलरी। आज की महिलाओं के लिए बनाया गया यह कलेक्शन उनकी अनुपम सुंदरता का प्रतीक है।",
+   "english": "Stunning and exquisite diamond jewellery. This collection, made for today's women, is a symbol of their unparalleled beauty.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "BUY ONLINE AT: malabargoldanddiamonds.com",
+   "evidence": "BUY ONLINE AT: malabargoldanddiamonds.com",
+   "english": "Buy online at malabargoldanddiamonds.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (97%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "DELHI NCR STORES: ... BUY ONLINE AT: malabargoldanddiamonds.com OVER 320 STORES ACROSS 11 COUNTRIES",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Jewellery",
+   "evidence": "हीरों से जड़ी हुई शानदार और अलौकिक ज्वेलरी। आज की महिलाओं के लिए बनाया गया यह कलेक्शन उनकी अनुपम सुंदरता का प्रतीक है।",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #10"
+   ],
+   "matched_id": 10,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 10,
+     "name": "Jewellery",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Diamond jewellery collection for women",
+    "28 quality checks",
+    "Complimentary insurance",
+    "Buyback guarantee",
+    "100% exchange value on diamond jewellery",
+    "Lifetime maintenance",
+    "Responsible sourcing",
+    "Delhi NCR store addresses and phone numbers",
+    "Buy online at malabargoldanddiamonds.com",
+    "Over 320 stores across 11 countries"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Malabar Gold & Diamonds presents the Sparkle of Heaven diamond jewellery collection for women, featuring 28 quality checks, complimentary insurance, buyback guarantee, 100% exchange value, lifetime maintenance, and responsible sourcing. Visit Delhi NCR stores or buy online at malabargoldanddiamonds.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8089525916",
+     "kind": "mobile",
+     "as_printed": "8089525916, 8089532916"
+    },
+    "evidence": "BUNGALOW ROAD, KAMLA NAGAR.TEL:8089525916,8089532916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01139400916",
+     "kind": "landline",
+     "as_printed": "011-39400916"
+    },
+    "evidence": "PUSA ROAD, KAROL BAGH.TEL: 011-39400916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01140041916",
+     "kind": "landline",
+     "as_printed": "011-40041916, 9717860916"
+    },
+    "evidence": "SOUTHEXTENSION PART-2.TEL:011-40041916, 9717860916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01147071916",
+     "kind": "landline",
+     "as_printed": "011-47071916, 9990083916"
+    },
+    "evidence": "PP TRADE CENTRE, PITAMPURA. TEL:011-47071916, 9990083916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01161340395",
+     "kind": "landline",
+     "as_printed": "011-61340395, 7994435397"
+    },
+    "evidence": "VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01122050916",
+     "kind": "landline",
+     "as_printed": "011-22050916, 8810645620"
+    },
+    "evidence": "VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01242574916",
+     "kind": "landline",
+     "as_printed": "0124-2574916, 7994435381"
+    },
+    "evidence": "GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01244240003",
+     "kind": "landline",
+     "as_printed": "0124-4240003, 9562387916"
+    },
+    "evidence": "MGF METR0POLITAN MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01204241916",
+     "kind": "landline",
+     "as_printed": "0120-4241916, 7994435386"
+    },
+    "evidence": "SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01202985916",
+     "kind": "landline",
+     "as_printed": "0120-2985916, 9811759742"
+    },
+    "evidence": "AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8089520916",
+     "kind": "mobile",
+     "as_printed": "8089520916, 8089502916"
+    },
+    "evidence": "HISAR. TEL: 8089520916, 8089502916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717860916",
+     "kind": "mobile",
+     "as_printed": "9717860916"
+    },
+    "evidence": "DELHI NCR STORES:BUNGALOW ROAD, KAMLA NAGAR.TEL:8089525916,8089532916 | PUSA ROAD, KAROL BAGH.TEL: 011-39400916 |SOUTHEXTENSION PART-2.TEL:011-40041916, 9717860916 | PP TRADE CENTRE, PITAMPURA.",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9990083916",
+     "kind": "mobile",
+     "as_printed": "9990083916"
+    },
+    "evidence": "TEL:011-47071916, 9990083916 |VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397 | VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620 | GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381 | MGF METR0POLITAN",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7994435397",
+     "kind": "mobile",
+     "as_printed": "7994435397"
+    },
+    "evidence": "TEL:011-47071916, 9990083916 |VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397 | VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620 | GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381 | MGF METR0POLITAN",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8810645620",
+     "kind": "mobile",
+     "as_printed": "8810645620"
+    },
+    "evidence": "TEL:011-47071916, 9990083916 |VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397 | VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620 | GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381 | MGF METR0POLITAN",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7994435381",
+     "kind": "mobile",
+     "as_printed": "7994435381"
+    },
+    "evidence": "TEL:011-47071916, 9990083916 |VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397 | VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620 | GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381 | MGF METR0POLITAN",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9562387916",
+     "kind": "mobile",
+     "as_printed": "9562387916"
+    },
+    "evidence": "MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916 | SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386 | AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742 | HISAR. TEL: 8089520916, 8089502916",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7994435386",
+     "kind": "mobile",
+     "as_printed": "7994435386"
+    },
+    "evidence": "MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916 | SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386 | AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742 | HISAR. TEL: 8089520916, 8089502916",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811759742",
+     "kind": "mobile",
+     "as_printed": "9811759742"
+    },
+    "evidence": "MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916 | SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386 | AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742 | HISAR. TEL: 8089520916, 8089502916",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8089502916",
+     "kind": "mobile",
+     "as_printed": "8089502916"
+    },
+    "evidence": "MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916 | SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386 | AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742 | HISAR. TEL: 8089520916, 8089502916",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "malabargoldanddiamonds.com",
+    "evidence": "BUY ONLINE AT: malabargoldanddiamonds.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "BUNGALOW ROAD, KAMLA NAGAR",
+    "evidence": "BUNGALOW ROAD, KAMLA NAGAR.TEL:8089525916,8089532916",
+    "english": "Bungalow Road, Kamla Nagar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PUSA ROAD, KAROL BAGH",
+    "evidence": "PUSA ROAD, KAROL BAGH.TEL: 011-39400916",
+    "english": "Pusa Road, Karol Bagh",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SOUTHEXTENSION PART-2",
+    "evidence": "SOUTHEXTENSION PART-2.TEL:011-40041916, 9717860916",
+    "english": "South Extension Part-2",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PP TRADE CENTRE, PITAMPURA",
+    "evidence": "PP TRADE CENTRE, PITAMPURA. TEL:011-47071916, 9990083916",
+    "english": "PP Trade Centre, Pitampura",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "VEGAS MALL, DWARKA",
+    "evidence": "VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397",
+    "english": "Vegas Mall, Dwarka",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "VIKAS MARG, PREET VIHAR",
+    "evidence": "VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620",
+    "english": "Vikas Marg, Preet Vihar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "GOLD SOUK, GURUGRAM",
+    "evidence": "GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381",
+    "english": "Gold Souk, Gurugram",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MGF METR0POLITAN MALL, MG ROAD, GURUGRAM",
+    "evidence": "MGF METR0POLITAN MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916",
+    "english": "MGF Metropolitan Mall, MG Road, Gurugram",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SECTOR 18, NOIDA",
+    "evidence": "SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386",
+    "english": "Sector 18, Noida",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AMBEDKAR ROAD, GHAZIABAD",
+    "evidence": "AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742",
+    "english": "Ambedkar Road, Ghaziabad",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "HISAR",
+    "evidence": "HISAR. TEL: 8089520916, 8089502916",
+    "english": "Hisar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "हीरों से जड़ी हुई शानदार और अलौकिक ज्वेलरी। आज की महिलाओं के लिए बनाया गया यह कलेक्शन उनकी अनुपम सुंदरता का प्रतीक है।",
+    "evidence": "हीरों से जड़ी हुई शानदार और अलौकिक ज्वेलरी। आज की महिलाओं के लिए बनाया गया यह कलेक्शन उनकी अनुपम सुंदरता का प्रतीक है।",
+    "english": "Stunning and exquisite diamond jewellery. This collection, made for today's women, is a symbol of their unparalleled beauty.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "जांचे-परखे और प्रमाणित हीरे | 28 क्रॉलिटी चेक | कॉम्प्लमेंटरी इंश्योरेंस | बायबैक की गारंटी",
+    "evidence": "जांचे-परखे और प्रमाणित हीरे | 28 क्रॉलिटी चेक | कॉम्प्लमेंटरी इंश्योरेंस | बायबैक की गारंटी",
+    "english": "Tested and certified diamonds | 28 quality checks | Complimentary insurance | Buyback guarantee",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "डायमंड ज्वैलरी पर 100% एक्सचेंज वैल्यू | आजीवन मेंटेनेंस | जिम्मेदार स्रोत",
+    "evidence": "डायमंड ज्वैलरी पर 100% एक्सचेंज वैल्यू | आजीवन मेंटेनेंस | जिम्मेदार स्रोत",
+    "english": "100% exchange value on diamond jewellery | Lifetime maintenance | Responsible sourcing",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Bungalow Road, Kamla Nagar",
+     "city": "Delhi",
+     "phones": [
+      "8089525916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 2,
+     "city_id": null
+    },
+    "evidence": "DELHI NCR STORES:BUNGALOW ROAD, KAMLA NAGAR.TEL:8089525916,8089532916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Delhi' (#2)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Pusa Road, Karol Bagh",
+     "city": "Delhi",
+     "phones": [
+      "01139400916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 2,
+     "city_id": null
+    },
+    "evidence": "PUSA ROAD, KAROL BAGH.TEL: 011-39400916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Delhi' (#2)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "South Extension Part-2",
+     "city": "Delhi",
+     "phones": [
+      "01140041916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 2,
+     "city_id": null
+    },
+    "evidence": "SOUTHEXTENSION PART-2.TEL:011-40041916, 9717860916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Delhi' (#2)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "PP Trade Centre, Pitampura",
+     "city": "Delhi",
+     "phones": [
+      "01147071916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 2,
+     "city_id": null
+    },
+    "evidence": "PP TRADE CENTRE, PITAMPURA. TEL:011-47071916, 9990083916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Delhi' (#2)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Vegas Mall, Dwarka",
+     "city": "Delhi",
+     "phones": [
+      "01161340395"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 2,
+     "city_id": null
+    },
+    "evidence": "VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Delhi' (#2)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Vikas Marg, Preet Vihar",
+     "city": "Delhi",
+     "phones": [
+      "01122050916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 2,
+     "city_id": null
+    },
+    "evidence": "VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Delhi' (#2)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Gold Souk",
+     "city": "Gurugram",
+     "phones": [
+      "01242574916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "MGF Metropolitan Mall, MG Road",
+     "city": "Gurugram",
+     "phones": [
+      "01244240003"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "MGF METR0POLITAN MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Sector 18",
+     "city": "Noida",
+     "phones": [
+      "01204241916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Ambedkar Road",
+     "city": "Ghaziabad",
+     "phones": [
+      "01202985916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "Hisar",
+     "city": "Hisar",
+     "phones": [
+      "8089520916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HISAR. TEL: 8089520916, 8089502916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Amritsar"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Diamond jewellery collection for women",
+  "28 quality checks",
+  "Complimentary insurance",
+  "Buyback guarantee",
+  "100% exchange value on diamond jewellery",
+  "Lifetime maintenance",
+  "Responsible sourcing",
+  "Delhi NCR store addresses and phone numbers",
+  "Buy online at malabargoldanddiamonds.com",
+  "Over 320 stores across 11 countries"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "मलाबार",
+   "score": 0.9018,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "गोल्ड & डायमंडस",
+   "score": 0.9351,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "mine",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "diamonds unlimited",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "SPARKLE OF HEAVEN",
+   "score": 0.9672,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Presents",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "हीरों से जड़ी हुई",
+   "score": 0.9633,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "शानदार और अलौकिक",
+   "score": 0.9405,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ज्वेलरी। आज की",
+   "score": 0.9689,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "महिलाओं के लिए",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "बनाया गया यह",
+   "score": 0.9744,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "कलेक्शन उनकी अनुपम",
+   "score": 0.9846,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "सुंदरता का प्रतीक है।",
+   "score": 0.944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "*",
+   "score": 0.6389,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "जांचे-परखे और प्रमाणित हीरे | 28 क्रॉलिटी चेक | कॉम्प्लमेंटरी इंश्योरेंस | बायबैक की गारंटी",
+   "score": 0.9573,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "डायमंड ज्वैलरी पर 100% एक्सचेंज वैल्यू | आजीवन मेंटेनेंस | जिम्मेदार स्रोत",
+   "score": 0.9667,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "DELHI NCR STORES:BUNGALOW ROAD, KAMLA NAGAR.TEL:8089525916,8089532916 | PUSA ROAD, KAROL BAGH.TEL: 011-39400916 |SOUTHEXTENSION PART-2.TEL:011-40041916, 9717860916 | PP TRADE CENTRE, PITAMPURA.",
+   "score": 0.9468,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "TEL:011-47071916, 9990083916 |VEGAS MALL, DWARKA. TEL:011-61340395, 7994435397 | VIKAS MARG, PREET VIHAR.TEL: 011-22050916, 8810645620 | GOLD SOUK, GURUGRAM. TEL: 0124-2574916, 7994435381 | MGF METR0POLITAN",
+   "score": 0.9671,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "MALL, MG ROAD, GURUGRAM TEL: 0124-4240003, 9562387916 | SECTOR 18, NOIDA. TEL: 0120-4241916, 7994435386 | AMBEDKAR ROAD, GHAZIABAD. TEL: 0120-2985916, 9811759742 | HISAR. TEL: 8089520916, 8089502916",
+   "score": 0.9735,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "BUY ONLINEAT: malabargoIdanddiamonds.com OVER 32OSTORESACROSS11COUNTRIES",
+   "score": 0.9789,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "9 phone(s) and 0 ID(s) found by pattern that the model missed"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 20.52,
+  "extract": 44.57
+ }
+}

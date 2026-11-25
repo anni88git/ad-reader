@@ -1,0 +1,78 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "AFAIRS",
+   "Admissions Fair",
+   "Admissions Fair 2023",
+   "18th Admissions Fair 2023"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "18th Admissions Fair 2023"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "other",
+   "service_provider"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Education",
+   "Media & Entertainment"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "12 ক্লাস EXAMS এর পর সঠিক কলেজ বেছে নিন।",
+   "18th Admissions Fair 2023"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "phones": [
+  "9674805912"
+ ],
+ "websites": [
+  "admissionsfair.in"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Bengali",
+    "English"
+   ],
+   [
+    "English",
+    "Bengali"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

@@ -1,0 +1,1775 @@
+{
+ "image": "d048_Navbharat_Times_48.jpg",
+ "fields": {
+  "brand": {
+   "value": "MG",
+   "evidence": "MG",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'MG Motor' (#8)"
+   ],
+   "matched_id": 8,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 8,
+     "name": "MG Motor",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "ZS EV, Comet EV, Astor, Gloster BlackStorm, Hector",
+   "evidence": "ZS EV COMET EV ASTOR GLOSTER BLACKSTORM HECTOR",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ZS EV",
+    "ambiguous: several records match (Hector, Gloster, Comet EV)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 77,
+     "name": "Hector",
+     "score": 96.0
+    },
+    {
+     "id": 80,
+     "name": "Gloster",
+     "score": 96.0
+    },
+    {
+     "id": 81,
+     "name": "Comet EV",
+     "score": 72.9
+    }
+   ],
+   "db_match": "ambiguous"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "MG Motor India",
+   "evidence": "WWW.MGMOTOR.CO.IN",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: MG Delhi Motinagar / MG Delhi Safdarjung / MG Delhi West Prashant Vihar / MG Faridabad / MG Ghaziabad / MG Gurugram 32nd Milestone / MG Gurugram Golf Course Road / MG Lajpat Nagar / MG Noida / MG Patparganj / MG Rohtak / MG Sonipat / MG Gwalior",
+    "no exact record; closest: Hyundai Motor India Ltd, Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 8,
+     "name": "Hyundai Motor India Ltd",
+     "score": 84.0
+    },
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "MONSOON FEST",
+   "evidence": "MONSOON FEST",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "GET BEST BENEFITS ON YOUR FAVOURITE MG",
+   "evidence": "GET BEST BENEFITS ON YOUR FAVOURITE MG",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "BUY BEFORE PRICE INCREASE. OFFER LASTS TILL 31ST JULY, 2023. CALL 1800 100 6464 FOR BOOKING.",
+   "evidence": "BUY BEFORE PRICE INCREASE. OFFER LASTS TILL 31ST JULY, 2023. CALL 1800 100 6464 FOR BOOKING.",
+   "english": "Buy before price increase. Offer lasts till 31st July 2023. Call 1800 100 6464 for booking.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (94%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "WWW.MGMOTOR.CO.IN",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "ZS EV COMET EV ASTOR GLOSTER BLACKSTORM HECTOR",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 2338000,
+   "evidence": "₹23.38 LAKH*",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (2,338,000)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://www.mgmotor.co.in/tools/test-drive)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://www.mgmotor.co.in/tools/test-drive",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "MG Monsoon Fest offers best benefits on MG cars",
+    "ZS EV price starts at ₹23.38 Lakh",
+    "Comet EV price starts at ₹7.98 Lakh",
+    "Astor price starts at ₹10.81 Lakh",
+    "Gloster BlackStorm price starts at ₹38.08 Lakh",
+    "Hector price starts at ₹14.99 Lakh",
+    "Offers last till 31st July 2023",
+    "Call 1800 100 6464 for booking"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "MG Monsoon Fest offers best benefits on MG cars including ZS EV, Comet EV, Astor, Gloster BlackStorm and Hector. Prices start from ₹7.98 Lakh. Offers last till 31st July 2023. Call 1800 100 6464 for booking.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001006464",
+     "kind": "toll_free",
+     "as_printed": "1800 100 6464"
+    },
+    "evidence": "CALL 1800 100 6464 FOR BOOKING.",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9311583430",
+     "kind": "mobile",
+     "as_printed": "+919311583430"
+    },
+    "evidence": "MG Delhi Motinagar (+919311583430)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7758973353",
+     "kind": "mobile",
+     "as_printed": "+917758973353"
+    },
+    "evidence": "MG Delhi Safdarjung (+917758973353)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9311583431",
+     "kind": "mobile",
+     "as_printed": "+919311583431"
+    },
+    "evidence": "MG Delhi West Prashant Vihar (+919311583431)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9899483333",
+     "kind": "mobile",
+     "as_printed": "+919899483333"
+    },
+    "evidence": "MG Faridabad (+919899483333)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9311379635",
+     "kind": "mobile",
+     "as_printed": "+919311379635"
+    },
+    "evidence": "MG Ghaziabad (+919311379635)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9711358888",
+     "kind": "mobile",
+     "as_printed": "+919711358888"
+    },
+    "evidence": "MG Gurugram 32nd Milestone (+919711358888)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7758973188",
+     "kind": "mobile",
+     "as_printed": "+917758973188"
+    },
+    "evidence": "MG Gurugram Golf Course Road (+917758973188)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8448514093",
+     "kind": "mobile",
+     "as_printed": "+918448514093"
+    },
+    "evidence": "MG Lajpat Nagar (+918448514093)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289373420",
+     "kind": "mobile",
+     "as_printed": "+919289373420"
+    },
+    "evidence": "MG Noida (+919289373420)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289462292",
+     "kind": "mobile",
+     "as_printed": "+919289462292"
+    },
+    "evidence": "MG Patparganj (+919289462292)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303764068",
+     "kind": "mobile",
+     "as_printed": "+917303764068"
+    },
+    "evidence": "MG Rohtak (+917303764068)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9311583861",
+     "kind": "mobile",
+     "as_printed": "+919311583861"
+    },
+    "evidence": "MG Sonipat (+919311583861)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 2338000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "PRICE STARTS AT",
+     "item": "ZS EV",
+     "as_printed": "₹23.38 LAKH*"
+    },
+    "evidence": "₹23.38 LAKH*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (2,338,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 798000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "PRICE STARTS AT",
+     "item": "COMET EV",
+     "as_printed": "₹7.98 LAKH*"
+    },
+    "evidence": "₹7.98 LAKH*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (798,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1081000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "PRICE STARTS AT",
+     "item": "ASTOR",
+     "as_printed": "₹10.81 LAKH*"
+    },
+    "evidence": "₹10.81 LAKH*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (1,081,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 3808000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "PRICE STARTS AT",
+     "item": "GLOSTER BLACKSTORM",
+     "as_printed": "₹38.08 LAKH*"
+    },
+    "evidence": "₹38.08 LAKH*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (3,808,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1499000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "PRICE STARTS AT",
+     "item": "HECTOR",
+     "as_printed": "₹14.99 LAKH*"
+    },
+    "evidence": "₹14.99 LAKH*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (1,499,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.mgmotor.co.in",
+    "evidence": "WWW.MGMOTOR.CO.IN",
+    "english": "www.mgmotor.co.in",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "50.3 kWh PRISMATIC CELL BATTERY",
+    "evidence": "50.3 kWh PRISMATIC CELL BATTERY",
+    "english": "50.3 kWh prismatic cell battery",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "461*^ KMS ON A SINGLE CHARGE",
+    "evidence": "461*^ KMS ON A SINGLE CHARGE",
+    "english": "461 kms on a single charge",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE HOME CHARGER OF 7.3 kWh & INSTALLATION",
+    "evidence": "FREE HOME CHARGER OF 7.3 kWh & INSTALLATION",
+    "english": "Free home charger of 7.3 kWh & installation",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "230~ KMS ON A SINGLE CHARGE",
+    "evidence": "230~ KMS ON A SINGLE CHARGE",
+    "english": "230 kms on a single charge",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹519#/MONTH CHARGING COST",
+    "evidence": "₹519#/MONTH CHARGING COST",
+    "english": "₹519 per month charging cost",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MANUAL AND AUTOMATIC TRANSMISSION",
+    "evidence": "MANUAL AND AUTOMATIC TRANSMISSION",
+    "english": "Manual and automatic transmission",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AUTONOMOUS LEVEL-2 ADAS*\"\"",
+    "evidence": "AUTONOMOUS LEVEL-2 ADAS*\"\"",
+    "english": "Autonomous Level-2 ADAS",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "4X2 & 4X4",
+    "evidence": "4X2 & 4X4",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "7 TERRAIN MODES",
+    "evidence": "7 TERRAIN MODES",
+    "english": "7 terrain modes",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AVAILABLE IN 5, 6 & 7 SEATER",
+    "evidence": "AVAILABLE IN 5, 6 & 7 SEATER",
+    "english": "Available in 5, 6 & 7 seater",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "₹75000 TO ₹225000*",
+    "evidence": "₹75000 TO ₹225000*",
+    "english": "₹75000 to ₹225000 benefits",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹75000 TO ₹125000*",
+    "evidence": "₹75000 TO ₹125000*",
+    "english": "₹75000 to ₹125000 benefits",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹60000 TO ₹100000*",
+    "evidence": "₹60000 TO ₹100000*",
+    "english": "₹60000 to ₹100000 upgrade bonus",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "OF ₹50000*",
+    "evidence": "OF ₹50000*",
+    "english": "₹50000 exchange bonus",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BEST EXCHANGE PRICE CHALLENGE**",
+    "evidence": "BEST EXCHANGE PRICE CHALLENGE**",
+    "english": "Best exchange price challenge",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ATTRACTIVE FINANCE OPTIONS**",
+    "evidence": "ATTRACTIVE FINANCE OPTIONS**",
+    "english": "Attractive finance options",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ZERO DOWN PAYMENT**",
+    "evidence": "ZERO DOWN PAYMENT**",
+    "english": "Zero down payment",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "MG Delhi Motinagar",
+     "area": "Motinagar",
+     "city": "Delhi NCR",
+     "phones": [
+      "9311583430"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Delhi Motinagar (+919311583430)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Delhi Safdarjung",
+     "area": "Safdarjung",
+     "city": "Delhi NCR",
+     "phones": [
+      "7758973353"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Delhi Safdarjung (+917758973353)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Delhi West Prashant Vihar",
+     "area": "West Prashant Vihar",
+     "city": "Delhi NCR",
+     "phones": [
+      "9311583431"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Delhi West Prashant Vihar (+919311583431)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Faridabad",
+     "area": null,
+     "city": "Delhi NCR",
+     "phones": [
+      "9899483333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Faridabad (+919899483333)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Ghaziabad",
+     "area": null,
+     "city": "Delhi NCR",
+     "phones": [
+      "9311379635"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Ghaziabad (+919311379635)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Gurugram 32nd Milestone",
+     "area": "32nd Milestone",
+     "city": "Delhi NCR",
+     "phones": [
+      "9711358888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Gurugram 32nd Milestone (+919711358888)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Gurugram Golf Course Road",
+     "area": "Golf Course Road",
+     "city": "Delhi NCR",
+     "phones": [
+      "7758973188"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Gurugram Golf Course Road (+917758973188)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Lajpat Nagar",
+     "area": "Lajpat Nagar",
+     "city": "Delhi NCR",
+     "phones": [
+      "8448514093"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Lajpat Nagar (+918448514093)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Noida",
+     "area": null,
+     "city": "Delhi NCR",
+     "phones": [
+      "9289373420"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Noida (+919289373420)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Patparganj",
+     "area": null,
+     "city": "Delhi NCR",
+     "phones": [
+      "9289462292"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Patparganj (+919289462292)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Rohtak",
+     "area": null,
+     "city": "Rohtak",
+     "phones": [
+      "7303764068"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Rohtak (+917303764068)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Kota"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Sonipat",
+     "area": null,
+     "city": "Sonipat",
+     "phones": [
+      "9311583861"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Sonipat (+919311583861)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MG Gwalior",
+     "area": null,
+     "city": "Gwalior",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MG Gwalior",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Bengaluru"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "transmission": {
+   "value": "MANUAL AND AUTOMATIC TRANSMISSION",
+   "evidence": "MANUAL AND AUTOMATIC TRANSMISSION",
+   "english": "Manual and automatic transmission",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "seating_capacity": {
+   "value": "5, 6 & 7 SEATER",
+   "evidence": "AVAILABLE IN 5, 6 & 7 SEATER",
+   "english": "5, 6 & 7 seater",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "safety_features": {
+   "value": "AUTONOMOUS LEVEL-2 ADAS*\"\"",
+   "evidence": "AUTONOMOUS LEVEL-2 ADAS*\"\"",
+   "english": "Autonomous Level-2 ADAS",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "ATTRACTIVE FINANCE OPTIONS**",
+   "evidence": "ATTRACTIVE FINANCE OPTIONS**",
+   "english": "Attractive finance options",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "MG Monsoon Fest offers best benefits on MG cars",
+  "ZS EV price starts at ₹23.38 Lakh",
+  "Comet EV price starts at ₹7.98 Lakh",
+  "Astor price starts at ₹10.81 Lakh",
+  "Gloster BlackStorm price starts at ₹38.08 Lakh",
+  "Hector price starts at ₹14.99 Lakh",
+  "Offers last till 31st July 2023",
+  "Call 1800 100 6464 for booking"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MONSOON FEST",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "GET BEST BENEFITS ON YOUR FAVOURITE MG",
+   "score": 0.9805,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "AA",
+   "score": 0.7917,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "BEST EXCHANGE",
+   "score": 0.9855,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "ATTRACTIVE",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "ZERO DOWN",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "PRICE CHALLENGE**",
+   "score": 0.971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "FINANCE OPTIONS**",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ऱ",
+   "score": 0.6501,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "PAYMENT**",
+   "score": 0.9924,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "MD",
+   "score": 0.9177,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "HECTOR",
+   "score": 0.9935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "THE ALL NEW",
+   "score": 0.9875,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 14,
+   "text": "COMETEV",
+   "score": 0.9735,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "ASTOR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "ZS EV",
+   "score": 0.9082,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "THE ADVANCED",
+   "score": 0.9953,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "THE NEXT-GEN",
+   "score": 0.9859,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "GLOSTER",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ZSE",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "COMETEV",
+   "score": 0.97,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "ASTOR",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "HECTOR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "BLACKSTORM",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "PRICE STARTS AT 23.38 LAKH*",
+   "score": 0.9961,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "PRICE STARTS AT 7.98 LAKH*",
+   "score": 0.998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "PRICE STARTS AT 10.81 LAKH*",
+   "score": 0.9789,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "PRICE STARTS AT 38.08 LAKH>",
+   "score": 0.9957,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "PRICE STARTS AT 14.99 LAKH*",
+   "score": 0.989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "BENEFITS FROM",
+   "score": 0.9762,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "230~ KMS ON A SINGLE CHARGE",
+   "score": 0.9503,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "BENEFITS FROM",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "UPGRADE BONUS FROM",
+   "score": 0.9946,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "EXCHANGE BONUS",
+   "score": 0.9799,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "75000TO225000*",
+   "score": 0.9792,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "75000 TOI25000*",
+   "score": 0.9317,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "60000TO100000*",
+   "score": 0.9745,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "OF T50 000*",
+   "score": 0.8156,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "519#/MONTH CHARGING COST",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "50.3 kWh PRISMATIC CELL BATTERY",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "MANUAL AND AUTOMATIC TRANSMISSION",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "4X2 & 4X4",
+   "score": 0.9954,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "AVAILABLE IN 5, 6 & 7 SEATER",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "46I*^ KMS ON A SINGLE CHARGE",
+   "score": 0.9703,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "AUTONOMOUS LEVEL-2 ADAS*",
+   "score": 0.9794,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "7 TERRAIN MODES",
+   "score": 0.9886,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "AUTONOMOUS LEVEL-2 ADAS\"\"",
+   "score": 0.9782,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "FREE HOME CHARGER OF 7.3 kWh & INSTALLATION",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "SCAN THE CODE",
+   "score": 0.9904,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "BUY BEFORE PRICE INCREASE. OFFER LASTS TILL 3IST JULY, 2023.",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "TO BOOK YOUR",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "TEST DRIVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "CALL 1800 100 6464 FOR BOOKING.",
+   "score": 0.9597,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "VISITYOUR NEAREST MG SHOWROOM TODAY",
+   "score": 0.9471,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "WWW.MGMOTOR.CO.IN",
+   "score": 0.9851,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "*Ex-showroom. All variants showcased are top models. ^^The range figure is based on ICAT certification in test conditions. Performance figures may differ in conditions other than test conditions. Vehicle body colour may differ due to the printing process. Images used in this ad are for representation purposes only. In",
+   "score": 0.9933,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 57,
+   "text": "view of our policy of continuously improving our products, we reserve the right to alter specifications, features and designs without prior notice and without liability. All variants are subject to availability. Please check details with your nearest MG dealer for the latest information. Accessories and features shown in the",
+   "score": 0.9949,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 58,
+   "text": "pictures may not be a part of standard equipment and will differ according to the variant. Available in select cities. The offer is valid on select variants & models only. Advanced Driver Assistance Systems (ADAS) are not a substitute for human eye and driver vigilance. It is a driver assist system that enhances driving",
+   "score": 0.9934,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 59,
+   "text": "experience and safety. The driver shall remain responsible for safe, vigilant and attentive driving. ~The range figure is based on internal test at ARAl under standard test conditions. Actual performance figures may differ in conditions other than test conditions. \"Running cost calculated over l000 km per month as applicable",
+   "score": 0.9917,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 60,
+   "text": "in Delhi NCR. \"Starting price for Gloster (Non-BlackStorm) variant starts at 38.08 Lakh. Gloster BlackStorm starts at 40.30 Lakh. **T&C Apply.",
+   "score": 0.984,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 61,
+   "text": "NCR: Delhi NCR: MG Delhi Motinagar (+919311583430), MG Delhi Safdarjung (+917758973353), MG Delhi West Prashant Vihar (+919311583431), MG Faridabad (+919899483333), MG Ghaziabad (+919311379635), MG Gurugram 32nd Milestone (+919711358888), MG Gurugram Golf",
+   "score": 0.991,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 62,
+   "text": "Course Road (+917758973188), MG Lajpat Nagar (+918448514093), MG Noida (+919289373420), MG Patparganj (+919289462292). HARYANA: Rohtak: MG Rohtak (+917303764068) Sonipat: MG Sonipat (+919311583861). MADHYA PRADESH: Gwalior: MG Gwalior",
+   "score": 0.9847,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "15 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 23.56,
+  "extract": 63.6
+ }
+}

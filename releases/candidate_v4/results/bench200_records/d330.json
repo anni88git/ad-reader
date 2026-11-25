@@ -1,0 +1,820 @@
+{
+ "image": "d330_Maharashtra_Times_30.jpg",
+ "fields": {
+  "brand": {
+   "value": "Stay-On",
+   "evidence": "Stay-On",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Raymond, Sony"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 73,
+     "name": "Raymond",
+     "score": 61.5
+    },
+    {
+     "id": 141,
+     "name": "Sony",
+     "score": 60.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Stay-On Power Capsules",
+   "evidence": "Stay-On POWER CAPSULES",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Shree Maruti Herbal",
+   "evidence": "Maruti Herbal",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "जगाओं प्यार दुबारा...",
+   "evidence": "जगाओं प्यार दुबारा...",
+   "english": "Wake up love again...",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (69%)",
+    "a larger printed line exists ('स्टे-ऑन', 1.6x the headline size) - check which line is the main headline",
+    "second model disagrees - suggestion: जगआओ प्यार दुबारा..."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "'स्टे-ऑन' आयुर्वेदिक कॅप्सूलमध्ये 16 पेक्षा अधिक परिक्षण केलेल्या आयुर्वेदिक जडी-बुटीचे एक वेगळेच मिश्रण आहे. जे आपल्या शरीराला-मनाला नव यौवन, रोग प्रतिरोधिक शक्ती, स्फूर्ती, जोश, उत्साह, आणि ताकद यांचा एक वेगळाच अनुभव देईल",
+   "evidence": "'स्टे-ऑन' आयुर्वेदिक कॅप्सूलमध्ये 16 पेक्षा अधिक परिक्षण केलेल्या आयुर्वेदिक जडी-बुटीचे एक वेगळेच मिश्रण आहे. जे आपल्या शरीराला-मनाला नव यौवन, रोग प्रतिरोधिक शक्ती, स्फूर्ती, जोश, उत्साह, आणि ताकद यांचा एक वेगळाच अनुभव देईल",
+   "english": "Stay-On Ayurvedic capsules contain a unique blend of more than 16 tested Ayurvedic herbs that give your body-mind a new experience of youth, immunity, energy, enthusiasm, and strength.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (92%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "स्े है सर्व पेंक केमिस्टमध्ये उपलब्ध",
+   "evidence": "स्े है सर्व पेंक केमिस्टमध्ये उपलब्ध",
+   "english": "Available at all chemists",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: FMCG > Personal & Home Care",
+    "category #14",
+    "record #14 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 14,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Marathi, English",
+    "77 Devanagari words read but almost none are common Hindi words - could be Marathi / another language, or OCR misreading another script (Gurmukhi, Bengali, Gujarati)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 295,
+   "evidence": "10 cap pack 295/-",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (10)",
+    "several numbers in price text",
+    "no currency symbol",
+    "only an MRP is printed - the MRP is the selling price",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Stay-On Ayurvedic capsules with 16+ tested herbs",
+    "10 cap pack Rs 295/-, 30 cap pack Rs 695/-",
+    "Available at all chemists",
+    "Call 70396 77941",
+    "Website: www.shreemarutiherbal.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Stay-On Ayurvedic capsules and spray for men's performance; capsules cost Rs 295 for 10 and Rs 695 for 30; available at chemists; call 70396 77941 or visit www.shreemarutiherbal.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7039677941",
+     "kind": "mobile",
+     "as_printed": "70396 77941"
+    },
+    "evidence": "70396 77941",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 10,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "Stay-On capsules 10 cap pack",
+     "as_printed": "10 cap pack 295/-"
+    },
+    "evidence": "10 cap pack 295/-",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (10)",
+     "several numbers in price text",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 30,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "Stay-On capsules 30 cap pack",
+     "as_printed": "30 cap pack 695/-"
+    },
+    "evidence": "30 cap pack 695/-",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (30)",
+     "several numbers in price text",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.shreemarutiherbal.com",
+    "evidence": "www.shreemarutiherbal.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "16 पेक्षा अधिक परिक्षण केलेल्या आयुर्वेदिक जडी-बुटीचे एक वेगळेच मिश्रण",
+    "evidence": "16 पेक्षा अधिक परिक्षण केलेल्या आयुर्वेदिक जडी-बुटीचे एक वेगळेच मिश्रण आहे",
+    "english": "Unique blend of more than 16 tested Ayurvedic herbs",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "पहिल्या दिवसापासूनच फरक अनुभवा",
+    "evidence": "पहिल्या दिवसापासूनच फरक अनुभवा",
+    "english": "Feel the difference from the first day",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "फक्त 28* दिवसांचा कोर्स करा एक कप्सूल सकाळी आणि संध्याकाळी दुधा सोबत रोज घ्या.",
+    "evidence": "फक्त 28* दिवसांचा कोर्स करा एक कप्सूल सकाळी आणि संध्याकाळी दुधा सोबत रोज घ्या.",
+    "english": "Take one capsule with milk morning and evening for just 28 days course.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CLINICALLY TESTED",
+    "evidence": "CLINICALLY TESTED",
+    "english": "Clinically Tested",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (44%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100% AYURVEDIC",
+    "evidence": "100% AYURVEDIC",
+    "english": "100% Ayurvedic",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (50%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Stay-On Ayurvedic capsules with 16+ tested herbs",
+  "10 cap pack Rs 295/-, 30 cap pack Rs 695/-",
+  "Available at all chemists",
+  "Call 70396 77941",
+  "Website: www.shreemarutiherbal.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Maruti Herbal",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "दिर्घकाळ",
+   "score": 0.9719,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "परफॉर्म",
+   "score": 0.9744,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "करे",
+   "score": 0.9591,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "जगाओं",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "व्यार",
+   "score": 0.7452,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "STRAWBE",
+   "score": 0.9752,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "दुबारा...",
+   "score": 0.7848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "1TIME",
+   "score": 0.9875,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "Stay-On",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Prolong",
+   "score": 0.9915,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 12,
+   "text": "FLAVOURED",
+   "score": 0.9887,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "MRP:",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "ONLY",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "30 cap pack 695/-",
+   "score": 0.945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "10 cap pack295-",
+   "score": 0.9386,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "FOR",
+   "score": 0.9929,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Stay-On",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "Stay-On",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "MEN",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "-POSER",
+   "score": 0.8264,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 22,
+   "text": "feree",
+   "score": 0.5553,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "MER",
+   "score": 0.7294,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "ONLY",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "'स्टे-ऑन'आयुरवदिक कंप्सूलमध्ये 16 पेक्षा अधिक",
+   "score": 0.9407,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "CAPSULES",
+   "score": 0.9615,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "परिक्षण केलेल्या आयुर्ेंदिक जडी-बुटींचे एक",
+   "score": 0.8737,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "वेगळेच मिश्रण आहे. जे आपल्या शरीराला-मनाला",
+   "score": 0.9519,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "GESTE",
+   "score": 0.6745,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "नव यौवन, रोग प्रतिरोधिक शक्त, स्फू्ती, जोश,",
+   "score": 0.8484,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "स्टे-ऑन",
+   "score": 0.9465,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "उत्साह, आणि ताकद यांचा एक वेगळाच अनुभव देईल",
+   "score": 0.944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "पहिल्या दिवसापासूनच फरक अनुभवा",
+   "score": 0.9556,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "स्टे-ऑन",
+   "score": 0.9498,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "प्रोलाँग—",
+   "score": 0.8831,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 36,
+   "text": "100%",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "फक्त 28* दिवसांचा कोर्स करा एक कप्सूल",
+   "score": 0.9284,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "स्प्रे",
+   "score": 0.912,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "ARURVEBC",
+   "score": 0.696,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "सकाळी आणि संध्याकाळी दुधा सोबत रोज घ्या.",
+   "score": 0.9134,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "स्टेऑन : कंप्सुल, ऑइल, ओरल लिक्यिड,",
+   "score": 0.9373,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "पॉवर",
+   "score": 0.8124,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 43,
+   "text": "H",
+   "score": 0.941,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 44,
+   "text": "स्े है सर्व पेंक केमिस्टमध्ये उपलब्ध",
+   "score": 0.8745,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "www.shreemarutiherbal.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "7039677941",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "www.shreemarutiherba",
+   "score": 0.95,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "केमिस्टमध्ये उपलब्ध",
+   "score": 0.956,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "www.shreemarutiherba",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (676x610); small print may be unreadable"
+ ],
+ "record_flags": [
+  "model note: The ad contains text in both Hindi and Marathi scripts mixed together. Some Marathi words like 'कॅप्सूल' appear alongside Hindi. The brand logo shows 'Maruti Herbal' at top left. The website appears as www.shreemarutiherbal.com in the bottom green section. The phone number 70396 77941 is printed at the bottom right.",
+  "9 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 14.19,
+  "extract": 16.32
+ }
+}

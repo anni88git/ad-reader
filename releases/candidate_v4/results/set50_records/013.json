@@ -1,0 +1,906 @@
+{
+ "image": "013_ICICI_Bank_402.jpg",
+ "fields": {
+  "brand": {
+   "value": "ICICI Bank",
+   "evidence": "ICICI Bank",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'ICICI Bank' (#58)"
+   ],
+   "matched_id": 58,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 58,
+     "name": "ICICI Bank",
+     "score": 100.0
+    },
+    {
+     "id": 144,
+     "name": "Yes Bank",
+     "score": 62.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "iMobile Pay",
+   "evidence": "iMobile Pay",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for ICICI Bank"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "ICICI Bank",
+   "evidence": "ICICI Bank",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "POORE INDIA KA PAYMENT APP",
+   "evidence": "POORE INDIA KA PAYMENT APP",
+   "english": "India's Payment App",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "INTRODUCING iMobile Pay",
+   "evidence": "INTRODUCING iMobile Pay",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 100% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "LINK SAVINGS ACCOUNT OF ANY BANK PAY ANYONE ON ANY PAYMENT APP",
+   "evidence": "LINK SAVINGS ACCOUNT OF ANY BANK PAY ANYONE ON ANY PAYMENT APP",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "SCAN THE QR CODE TO DOWNLOAD",
+   "evidence": "SCAN THE QR CODE TO DOWNLOAD",
+   "english": "Scan the QR code to download",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": "ICICI Bank iMobile Pay",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: service_provider",
+    "second model says service_provider; in this disagreement the second model has been right every time measured - confirm",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Banking & Finance",
+   "evidence": "ICICI Bank iMobile Pay",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #12"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Banking & Finance",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "Hindi: OCR found no devanagari text",
+    "second model disagrees - suggestion: English",
+    "removed Hindi: OCR found no text in that script and the second model does not list it - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://go.onelink.me/qA1O/iMobilePayPrint?af_qr=true)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://go.onelink.me/qA1O/iMobilePayPrint?af_qr=true",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "ICICI Bank iMobile Pay app",
+    "Link savings account of any bank",
+    "Pay anyone on any payment app",
+    "Powered with UPI",
+    "Scan QR code to download",
+    "Get ₹25 cashback on first transaction",
+    "Link any savings account from any bank in India",
+    "Pay shopkeepers or friends using Google Pay, PhonePe, Paytm etc.",
+    "Pay bills and do DTH & FASTag recharge instantly",
+    "Apply for Personal Loans and Credit Cards"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "ICICI Bank iMobile Pay is a UPI-powered payment app that lets you link any bank savings account and pay anyone on any payment app. Scan the QR code to download and get ₹25 cashback on your first transaction.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.icicibank.com",
+    "evidence": "www.icicibank.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "LINK SAVINGS ACCOUNT OF ANY BANK",
+    "evidence": "LINK SAVINGS ACCOUNT OF ANY BANK",
+    "english": "Link savings account of any bank",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PAY ANYONE ON ANY PAYMENT APP",
+    "evidence": "PAY ANYONE ON ANY PAYMENT APP",
+    "english": "Pay anyone on any payment app",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Powered with UPI",
+    "evidence": "Powered with UPI",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Bill Pay & Recharge",
+    "evidence": "Bill Pay & Recharge",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Mobile Postpaid, DTH, Landline/Broadband, Electricity, Piped Gas, LPG Cylinder Booking, Water, FASTag",
+    "evidence": "Mobile Postpaid, DTH, Landline/Broadband, Electricity, Piped Gas, LPG Cylinder Booking, Water, FASTag",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (56%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Send Money, Collect Money, Pending Requests",
+    "evidence": "Send Money, Collect Money, Pending Requests",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (58%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "GET ₹25 CASHBACK on your first transaction*",
+    "evidence": "GET ₹25 CASHBACK on your first transaction*",
+    "english": "Get ₹25 cashback on your first transaction",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "product_type": {
+   "value": "Payment App / Banking App",
+   "evidence": "iMobile Pay Powered with UPI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "eligibility": {
+   "value": "Link any of your Savings Accounts from any bank in India",
+   "evidence": "No problem! You can link any of your Savings Accounts from any bank in India.",
+   "english": "Link any savings account from any bank in India",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "ICICI Bank iMobile Pay app",
+  "Link savings account of any bank",
+  "Pay anyone on any payment app",
+  "Powered with UPI",
+  "Scan QR code to download",
+  "Get ₹25 cashback on first transaction",
+  "Link any savings account from any bank in India",
+  "Pay shopkeepers or friends using Google Pay, PhonePe, Paytm etc.",
+  "Pay bills and do DTH & FASTag recharge instantly",
+  "Apply for Personal Loans and Credit Cards"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ICICIBank",
+   "score": 0.9744,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "iMobile Pay",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "POORE INDIA KA",
+   "score": 0.9524,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "PAYMENT APP",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Hi Arti",
+   "score": 0.9876,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "0",
+   "score": 0.8761,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 7,
+   "text": "XYZ Bank",
+   "score": 0.9774,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "artiraut@icici",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": "LINK SAVINGS ACCOUNT",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "OF ANY BANK",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "PAY ANYONE ON",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Mond",
+   "score": 0.7428,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "Pegding",
+   "score": 0.7279,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "ANY PAYMENT APP",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Bill Pay & Recharge",
+   "score": 0.9734,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "日",
+   "score": 0.4775,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "8",
+   "score": 0.5546,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "Mobil",
+   "score": 0.6026,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "DTH",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "INTRODUCING",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "1",
+   "score": 0.7265,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "0",
+   "score": 0.4941,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "iMobile Pay",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Electricity",
+   "score": 0.986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Piped Gas",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "0°",
+   "score": 0.8827,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 27,
+   "text": "+",
+   "score": 0.9871,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "Water",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "FASTag",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "See More",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "Powered with",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "UPI>",
+   "score": 0.9894,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "°0",
+   "score": 0.491,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "Offers",
+   "score": 0.8955,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "A",
+   "score": 0.788,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "Scan To Pay",
+   "score": 0.9443,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 37,
+   "text": "SCAN THE QR CODE TO DOWNLOAD",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "GET25 CASHBACK",
+   "score": 0.9762,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "on your first transaction*",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "But I don't have an ICICl Bank account!",
+   "score": 0.9752,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "No problem! You can link any of your Savings Accounts",
+   "score": 0.9846,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "from any bank in India.",
+   "score": 0.9831,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "Can I pay to shopkeepers or friends who",
+   "score": 0.9984,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "use Google Pay, PhonePe, Paytm, etc.?",
+   "score": 0.9839,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "Yes! You can safely send money to, or receive money",
+   "score": 0.9905,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "from all payment apps that use UPI.",
+   "score": 0.9829,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "What if I don't have their account or",
+   "score": 0.9919,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "UPI details?",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "Just select their mobile number from your",
+   "score": 0.9923,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "phone's address book. We'll do the rest!",
+   "score": 0.9964,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 51,
+   "text": "Can I do bill payments and recharges?",
+   "score": 0.9957,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "Yes, you can pay bills and do DTH & FASTag",
+   "score": 0.9893,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "recharge instantly!",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "So, is iMobile Pay just a payment app?",
+   "score": 0.9937,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "No, it's a banking app too! You can apply for Personal",
+   "score": 0.9948,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "Loans and Credit Cards with great offers.",
+   "score": 0.9877,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "*Offer valid tillFebruary 28, 2021 for the first 1 lakh users, on transaction value above 150. Offer is not applicable on fund transfer made to",
+   "score": 0.9611,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 58,
+   "text": "products,gods,servicesandoffers.Nothingcontainedhereinshallconstituteorbedeemedtoconstituteanadvice,invitationorsolicitation",
+   "score": 0.9224,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 59,
+   "text": "self. Terms and Conditions of ICICI Bank as at www.icicibank.com and third parties apply. ICICI Bank is not responsible for third party",
+   "score": 0.9792,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 60,
+   "text": "to purchase any products/services of third parties. Screen shown here is a modified representation.",
+   "score": 0.9929,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "20 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 17.17,
+  "extract": 26.53
+ }
+}

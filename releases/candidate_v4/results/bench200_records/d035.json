@@ -1,0 +1,1318 @@
+{
+ "image": "d035_Navbharat_Times_35.jpg",
+ "fields": {
+  "brand": {
+   "value": "Aquaguard",
+   "evidence": "Aquaguard®",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Jaguar"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 158,
+     "name": "Jaguar",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Aquaguard",
+   "evidence": "Aquaguard®",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Karan Enterprise / Lucky Electricals / Kohli Appliances Mart / Mega Electronics / Kapsons Enterprises / Omega Marketing / Ashirwad Electrical / Gupta Electrical Works / Sachdewa Electronic / Mayur Emporium / New Khurana Electronics / Royal Kitchen Appliances / Jindal Electronics / Gourav Electronics / Triveni Flectronics / Jain Flectronics And Gift Center / Mehta Enterprises / Malik",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "नल से कपड़ा# तो सर से कपड़ा हटेगा",
+   "evidence": "नल से कपड़ा# तो सर से कपड़ा हटेगा",
+   "english": "If cloth is removed from tap, then cloth is removed from head",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 84% similar) - check spelling - suggestion: नल से कपड़ा सर से कपड़ा",
+    "second model disagrees - suggestion: नल से कपड़ा# होतेगा"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Home Appliances",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #27"
+   ],
+   "matched_id": 27,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 27,
+     "name": "Retail & Consumer Electronics > Home Appliances",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 6499,
+   "evidence": "₹6499",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (6,499)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Aquaguard water purifier",
+    "RO, RO+UV and UV variants remove 99.99% unseen germs",
+    "6 litre storage tank",
+    "Price ₹6499 per month",
+    "Available at leading retail outlets in East and West Delhi"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Aquaguard water purifier available at ₹6499 per month; RO/RO+UV/UV variants remove 99.99% unseen germs; 6 litre storage tank; call listed dealers in East and West Delhi.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9211509060",
+     "kind": "mobile",
+     "as_printed": "9211509060"
+    },
+    "evidence": "Karan Enterprise - 9211509060",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8802640415",
+     "kind": "mobile",
+     "as_printed": "8802640415"
+    },
+    "evidence": "Lucky Electricals – 8802640415",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891011182",
+     "kind": "mobile",
+     "as_printed": "9891011182"
+    },
+    "evidence": "Kohli Appliances Mart - 9891011182",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810757171",
+     "kind": "mobile",
+     "as_printed": "9810757171"
+    },
+    "evidence": "Mega Electronics – 9810757171",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891007771",
+     "kind": "mobile",
+     "as_printed": "9891007771"
+    },
+    "evidence": "Kapsons Enterprises - 9891007771",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9212448758",
+     "kind": "mobile",
+     "as_printed": "9212448758"
+    },
+    "evidence": "Omega Marketing - 9212448758",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9868186554",
+     "kind": "mobile",
+     "as_printed": "9868186554"
+    },
+    "evidence": "Ashirwad Electrical - 9868186554",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9958257010",
+     "kind": "mobile",
+     "as_printed": "9958257010"
+    },
+    "evidence": "Gupta Electrical Works - 9958257010",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9711119953",
+     "kind": "mobile",
+     "as_printed": "9711119953"
+    },
+    "evidence": "Sachdewa Electronic - 9711119953",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811358550",
+     "kind": "mobile",
+     "as_printed": "9811358550"
+    },
+    "evidence": "Mayur Emporium - 9811358550",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9910854221",
+     "kind": "mobile",
+     "as_printed": "9910854221"
+    },
+    "evidence": "New Khurana Electronics - 9910854221",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9899539168",
+     "kind": "mobile",
+     "as_printed": "9899539168"
+    },
+    "evidence": "Royal Kitchen Appliances - 9899539168",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9910900556",
+     "kind": "mobile",
+     "as_printed": "9910900556"
+    },
+    "evidence": "Jindal Electronics - 9910900556",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818864196",
+     "kind": "mobile",
+     "as_printed": "9818864196"
+    },
+    "evidence": "Gourav Electronics - 9818864196",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999704129",
+     "kind": "mobile",
+     "as_printed": "9999704129"
+    },
+    "evidence": "Triveni Flectronics - 9999704129",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810584442",
+     "kind": "mobile",
+     "as_printed": "9810584442"
+    },
+    "evidence": "Jain Flectronics And Gift Center - 9810584442",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818825886",
+     "kind": "mobile",
+     "as_printed": "9818825886"
+    },
+    "evidence": "Mehta Enterprises - 9818825886",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 6499,
+     "currency": "INR",
+     "kind": "price",
+     "label": "घर लाइए",
+     "item": "Aquaguard",
+     "as_printed": "₹6499"
+    },
+    "evidence": "₹6499",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (6,499)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "RO,RO+UV और UV वेरियंट में 99.99% अनदेखे कीटाणुओं को निकाले",
+    "evidence": "RO,RO+UV और UV वेरियंट में 99.99% अनदेखे कीटाणुओं को निकाले",
+    "english": "In RO, RO+UV and UV variants, remove 99.99% unseen germs",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "6 लीटर के बड़े स्टोरेज टैंक के साथ पानी साफ़ तो हम सेफ",
+    "evidence": "6 लीटर के बड़े स्टोरेज टैंक के साथ पानी साफ़ तो हम सेफ",
+    "english": "Clean water with large 6 litre storage tank, then we are safe",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (90%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Karan Enterprise",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "9211509060"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: Karan Enterprise - 9211509060",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Lucky Electricals",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "8802640415"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: ... Lucky Electricals – 8802640415",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Kohli Appliances Mart",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "9891011182"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: ... Kohli Appliances Mart - 9891011182",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Mega Electronics",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "9810757171"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: ... Mega Electronics – 9810757171",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Kapsons Enterprises",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "9891007771"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: ... Kapsons Enterprises - 9891007771",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Omega Marketing",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "9212448758"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: ... Omega Marketing - 9212448758",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Ashirwad Electrical",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "9868186554"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: ... Ashirwad Electrical - 9868186554",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Gupta Electrical Works",
+     "area": null,
+     "city": "EAST Delhi",
+     "phones": [
+      "9958257010"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Available at all leading retail outlets: EAST Delhi: ... Gupta Electrical Works - 9958257010",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sachdewa Electronic",
+     "area": null,
+     "city": "WEST Delhi",
+     "phones": [
+      "9711119953"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WEST Delhi: Sachdewa Electronic - 9711119953",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Mayur Emporium",
+     "area": null,
+     "city": "WEST Delhi",
+     "phones": [
+      "9811358550"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WEST Delhi: ... Mayur Emporium - 9811358550",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "New Khurana Electronics",
+     "area": null,
+     "city": "WEST Delhi",
+     "phones": [
+      "9910854221"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WEST Delhi: ... New Khurana Electronics - 9910854221",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Royal Kitchen Appliances",
+     "area": null,
+     "city": "WEST Delhi",
+     "phones": [
+      "9899539168"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WEST Delhi: ... Royal Kitchen Appliances - 9899539168",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jindal Electronics",
+     "area": null,
+     "city": "WEST Delhi",
+     "phones": [
+      "9910900556"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WEST Delhi: ... Jindal Electronics - 9910900556",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Gourav Electronics",
+     "area": null,
+     "city": "WEST Delhi",
+     "phones": [
+      "9818864196"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WEST Delhi: ... Gourav Electronics - 9818864196",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Triveni Flectronics",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9999704129"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Triveni Flectronics - 9999704129",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jain Flectronics And Gift Center",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9810584442"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Jain Flectronics And Gift Center - 9810584442",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Mehta Enterprises",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9818825886"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Mehta Enterprises - 9818825886",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malik",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Malik",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "products_on_offer": {
+   "value": "Aquaguard",
+   "evidence": "Aquaguard®",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "घर लाइए ₹6499 में",
+   "evidence": "घर लाइए ₹6499 में Aquaguard®",
+   "english": "Bring home Aquaguard at ₹6499",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (96%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Aquaguard water purifier",
+  "RO, RO+UV and UV variants remove 99.99% unseen germs",
+  "6 litre storage tank",
+  "Price ₹6499 per month",
+  "Available at leading retail outlets in East and West Delhi"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Aquaguard®",
+   "score": 0.9853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "नल से कपड़ा",
+   "score": 0.9668,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "सर से कपड़ा",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "#",
+   "score": 0.9975,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "तो",
+   "score": 0.991,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 6,
+   "text": "हटेगा",
+   "score": 0.7653,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "हटेगा",
+   "score": 0.9831,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "=",
+   "score": 0.5774,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "घर लाइर ₹6499में",
+   "score": 0.9188,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Aquaguard",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Aquaguard®",
+   "score": 0.9597,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "RO,RO+UV",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "99.99%",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "और uv वेरियंट में",
+   "score": 0.9454,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "अनदेखे कीटाणुओं",
+   "score": 0.9901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "को निकाले",
+   "score": 0.9709,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "6 लीटर के बड़",
+   "score": 0.9613,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "पानी साफ़",
+   "score": 0.9133,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "स्टोरेज टैंक के साथ",
+   "score": 0.9669,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "तो हम सेफ",
+   "score": 0.9784,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Available at all leading retail outlets: EAST Delhi: Karan Enterprise - 9211509060, Lucky Electricals – 8802640415, Kohli Appliances Mart -",
+   "score": 0.9898,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 22,
+   "text": "9891011182, Mega Electronics – 9810757171, Kapsons Enterprises - 9891007771, Omega Marketing - 9212448758, Ashirwad Electrical -",
+   "score": 0.9791,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 23,
+   "text": "9868186554, Gupta Electrical Works - 9958257010, WEST Delhi: Sachdewa Electronic - 9711119953, Mayur Emporium - 9811358550, New",
+   "score": 0.9725,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 24,
+   "text": "Khurana Electronics - 9910854221, Royal Kitchen Appliances - 9899539168, Jindal Electronics - 9910900556, Gourav Electronics -",
+   "score": 0.9815,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 25,
+   "text": "9818864196. Triveni Flectronics - 9999704129. Jain Flectronics And Gift Center - 9810584442. Mehta Enterprises - 9818825886, Malik",
+   "score": 0.9432,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 28.16,
+  "extract": 24.06
+ }
+}

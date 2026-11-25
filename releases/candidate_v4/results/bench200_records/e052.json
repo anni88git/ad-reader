@@ -1,0 +1,1218 @@
+{
+ "image": "e052_Malyalam_Manorama_86.jpg",
+ "fields": {
+  "brand": {
+   "value": "TRENDS",
+   "evidence": "TRENDS",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Citroen"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 13,
+     "name": "Citroen",
+     "score": 61.5
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "TRENDS",
+   "evidence": "TRENDS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "SALE",
+   "evidence": "SALE",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (50%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "GET THEM TALKING",
+   "evidence": "GET THEM TALKING",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "TRENDS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "TRENDS MAN TRENDS WOMAN TRENDS junior TRENDS FOOTWEAR",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English",
+    "Malayalam"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Malayalam: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 3999,
+   "evidence": "₹3999",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (3,999)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "TRENDS sale",
+    "₹3999 or ₹3999",
+    "Malayalam text about ₹3999 and ₹2000 EMI",
+    "Valid until 25 June 2023",
+    "Categories: TRENDS MAN, TRENDS WOMAN, TRENDS junior, TRENDS FOOTWEAR"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "TRENDS is having a sale. Prices shown are ₹3999 or ₹3999. There is an offer involving ₹3999 and ₹2000 EMI. The offer is valid until 25 June 2023. Shop at TRENDS for Men, Women, Junior and Footwear.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 3999,
+     "currency": "INR",
+     "kind": "price",
+     "label": "price",
+     "item": "products",
+     "as_printed": "₹3999"
+    },
+    "evidence": "₹3999",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (3,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 3999,
+     "currency": "INR",
+     "kind": "price",
+     "label": "price",
+     "item": "products",
+     "as_printed": "₹3999"
+    },
+    "evidence": "₹3999",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (3,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 3999,
+     "currency": "INR",
+     "kind": "price",
+     "label": "price",
+     "item": "products",
+     "as_printed": "₹3999"
+    },
+    "evidence": "₹3999",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (3,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 2000,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "products",
+     "as_printed": "₹2000*"
+    },
+    "evidence": "₹2000*",
+    "english": null,
+    "confidence": 0.35,
+    "status": "missing",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "'2000' appears in the ad as a quantity/unit, not as a price",
+     "too uncertain to fill - shown as a suggestion only",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "₹3999 അല്ലെങ്കിൽ ₹3999 വിൽപ്പനയ്ക്ക് വarshikamayi + ₹2000* വിൽപ്പനയ്ക്ക് കൂട്ടിയിരിക്കുക",
+    "evidence": "₹3999 അല്ലെങ്കിൽ ₹3999 വിൽപ്പനയ്ക്ക് വarshikamayi + ₹2000* വിൽപ്പനയ്ക്ക് കൂട്ടിയിരിക്കുക",
+    "english": "₹3999 or ₹3999 for sale annually + ₹2000* for sale together",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "malayalam script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ഓഫർ gültി 25 ജൂൺ 2023 വരെ",
+    "evidence": "ഓഫർ gülti 25 ജൂൺ 2023 വരെ",
+    "english": "Offer valid until 25 June 2023",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "malayalam script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "TRENDS",
+   "evidence": "TRENDS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "TRENDS MAN TRENDS WOMAN TRENDS junior TRENDS FOOTWEAR",
+   "evidence": "TRENDS MAN TRENDS WOMAN TRENDS junior TRENDS FOOTWEAR",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "₹3999 അല്ലെങ്കിൽ ₹3999",
+   "evidence": "₹3999 അല്ലെങ്കിൽ ₹3999",
+   "english": "₹3999 or ₹3999",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "₹2000*",
+   "evidence": "₹2000*",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "25 ജൂൺ 2023 വരെ",
+   "evidence": "25 ജൂൺ 2023 വരെ",
+   "english": "Until 25 June 2023",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "TRENDS sale",
+  "₹3999 or ₹3999",
+  "Malayalam text about ₹3999 and ₹2000 EMI",
+  "Valid until 25 June 2023",
+  "Categories: TRENDS MAN, TRENDS WOMAN, TRENDS junior, TRENDS FOOTWEAR"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "100008m0220092r20",
+   "score": 0.5457,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "239",
+   "score": 0.4757,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "200392",
+   "score": 0.5884,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "m002",
+   "score": 0.5871,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "9003042",
+   "score": 0.5531,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "200a8",
+   "score": 0.4623,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "0000821",
+   "score": 0.4919,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "TRENDS",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "28103928m302",
+   "score": 0.7311,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "2P103998M369",
+   "score": 0.5975,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "980309",
+   "score": 0.5292,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "20198980309",
+   "score": 0.6012,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "B8m0398M302",
+   "score": 0.5244,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "980J898M362",
+   "score": 0.5496,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "3828m309",
+   "score": 0.8036,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "9003998m369",
+   "score": 0.5614,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "2000698ma02",
+   "score": 0.6432,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "2003998m302",
+   "score": 0.604,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "90039980369",
+   "score": 0.57,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "98103926m309",
+   "score": 0.7918,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "20m0028m",
+   "score": 0.5614,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "GET THEM TALKING",
+   "score": 0.978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "20ma6a8ma",
+   "score": 0.623,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "2E1038:Y98M309",
+   "score": 0.5682,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "3R28m302281013928m302",
+   "score": 0.6463,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "HG98m302",
+   "score": 0.8413,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 27,
+   "text": "CALIFORNIA",
+   "score": 0.9951,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "000a028ma02",
+   "score": 0.7045,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "ap008ra8ma0220m028m002",
+   "score": 0.5732,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "2003028ma102",
+   "score": 0.7099,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "3U03998M209",
+   "score": 0.642,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "BEVERLYHILS",
+   "score": 0.9854,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "2000998m309",
+   "score": 0.7337,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "2e03926m309",
+   "score": 0.5661,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "98m13926m309",
+   "score": 0.5776,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "T",
+   "score": 0.6661,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "28ma02",
+   "score": 0.6901,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "26m309",
+   "score": 0.7947,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "281013998M309",
+   "score": 0.7054,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "0000028ma102",
+   "score": 0.6482,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 41,
+   "text": "20000",
+   "score": 0.457,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 42,
+   "text": "13998M309",
+   "score": 0.6627,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 43,
+   "text": "N",
+   "score": 0.9706,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 44,
+   "text": "NIWYORK",
+   "score": 0.8553,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 45,
+   "text": "28m3102",
+   "score": 0.7397,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 46,
+   "text": "98/03998m302",
+   "score": 0.6354,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 47,
+   "text": "22039:28m309",
+   "score": 0.6482,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 48,
+   "text": "2em30a",
+   "score": 0.6348,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 49,
+   "text": "281013998M309",
+   "score": 0.7081,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 50,
+   "text": "2003028ma102",
+   "score": 0.657,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "201038",
+   "score": 0.6787,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 52,
+   "text": "2000S<98m362",
+   "score": 0.534,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 53,
+   "text": "20032",
+   "score": 0.4998,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "28M302",
+   "score": 0.6337,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 55,
+   "text": "980139 98m302",
+   "score": 0.5892,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 56,
+   "text": "20101998m309",
+   "score": 0.7602,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 57,
+   "text": "2E0392Y28M309",
+   "score": 0.6665,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 58,
+   "text": "13628m309",
+   "score": 0.6311,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 59,
+   "text": "28103926m302",
+   "score": 0.6746,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 60,
+   "text": "22103898m",
+   "score": 0.662,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 61,
+   "text": "e0aaraema",
+   "score": 0.4886,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 62,
+   "text": "9003828m309",
+   "score": 0.5421,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 63,
+   "text": "281038980309",
+   "score": 0.6883,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 64,
+   "text": "20030:28m302",
+   "score": 0.6944,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 65,
+   "text": "9828m309",
+   "score": 0.7621,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 66,
+   "text": "98013928m309",
+   "score": 0.7353,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 67,
+   "text": "28039>28m262",
+   "score": 0.6652,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 68,
+   "text": "20019980302",
+   "score": 0.5865,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 69,
+   "text": "20000",
+   "score": 0.6987,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 70,
+   "text": "EI0Je26m302",
+   "score": 0.6254,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 71,
+   "text": "13928m302",
+   "score": 0.6669,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 72,
+   "text": "2803926m302",
+   "score": 0.7085,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 73,
+   "text": "22013828m309",
+   "score": 0.6208,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 74,
+   "text": "28039:26m302",
+   "score": 0.7047,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 75,
+   "text": "98m302",
+   "score": 0.5693,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 76,
+   "text": "m30a",
+   "score": 0.6099,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 77,
+   "text": "emana",
+   "score": 0.7076,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 78,
+   "text": "emora",
+   "score": 0.6865,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 79,
+   "text": "880102",
+   "score": 0.6063,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 80,
+   "text": "maoa",
+   "score": 0.557,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 81,
+   "text": "26m302",
+   "score": 0.6732,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 82,
+   "text": "203998m382",
+   "score": 0.5153,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 83,
+   "text": "3999",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "3999",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "201030",
+   "score": 0.4597,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 86,
+   "text": "20033",
+   "score": 0.549,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 87,
+   "text": "326302",
+   "score": 0.4879,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 88,
+   "text": "3999 nǐ 3999 ne",
+   "score": 0.8047,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 89,
+   "text": "28M302",
+   "score": 0.7978,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 90,
+   "text": "0M6 + 2000*e 2",
+   "score": 0.7548,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 91,
+   "text": "TRENDS",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 92,
+   "text": "TRENDS",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "TRENDS",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "TRENDS",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 95,
+   "text": "ajamgl 2alag2: m. nlng (ej: cmpadalag naa. 2o asan2 2gwnerga. 2 mgali mmle mlga agegjenmg nllegmn",
+   "score": 0.6089,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 96,
+   "text": "6n (nelo 25 2023 N6A",
+   "score": 0.7152,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 97,
+   "text": "MAN",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "WOMAN",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "junior",
+   "score": 0.992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 100,
+   "text": "FOOTWEAR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 101,
+   "text": "m. a . m e l asen m a",
+   "score": 0.5079,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 102,
+   "text": "022000 5 (500 28 45m el g5 g 28",
+   "score": 0.5596,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: Malayalam text in the ad is partially transcribed based on visual recognition; exact script may vary.",
+  "model note: The Malayalam offer text appears to contain a typo or non-standard spelling ('varshikamayi' instead of expected word).",
+  "model note: The disclaimer text at the bottom is too small to read accurately and is marked as present but not transcribed.",
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 39.97,
+  "extract": 29.59
+ }
+}

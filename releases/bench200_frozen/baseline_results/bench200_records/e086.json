@@ -1,0 +1,598 @@
+{
+ "image": "e086_Mathrubhumi_437.jpg",
+ "fields": {
+  "brand": {
+   "value": "Quickwash",
+   "evidence": "QUICKWASH",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "power laundry",
+   "evidence": "power laundry",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Quickwash",
+   "evidence": "QUICKWASH",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ഉണക്കലോണ്ടർ",
+   "evidence": "ഉണക്കലോണ്ടർ",
+   "english": "Dry Cleaner",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available",
+    "second model disagrees - suggestion: ഉപവകാശലായിരം ദുർഭാഗ്യം അല്ലേ എല്ലാംക്കും"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "നിങ്ങളുടെ വസ്ത്രങ്ങൾ നല്ലതാക്കുന്നു",
+   "evidence": "നിങ്ങളുടെ വസ്ത്രങ്ങൾ നല്ലതാക്കുന്നു",
+   "english": "Makes your clothes good",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available",
+    "second model disagrees - suggestion: Dry Cleaning Wash & Dry Ironing Wash and Iron Wash & Fold Starching Stain Removing"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Home Appliances",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: FMCG > Personal & Home Care",
+    "category #27",
+    "record #27 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 27,
+   "candidates": [
+    {
+     "id": 27,
+     "name": "Retail & Consumer Electronics > Home Appliances",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Malayalam",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Malayalam: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Quickwash power laundry services",
+    "Dry cleaning, wash & dry, ironing, wash and iron, wash & fold, starching, stain removing",
+    "Free pickup and free delivery",
+    "The best laundry day",
+    "Contact numbers 813 8888 814 and 813 8888 814",
+    "Location: Uppalam Bridge Varkala"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Quickwash power laundry offers dry cleaning, wash & dry, ironing, wash and iron, wash & fold, starching and stain removing with free pickup and free delivery. Call 813 8888 814 or 813 8888 814, located at Uppalam Bridge Varkala.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8138888814",
+     "kind": "mobile",
+     "as_printed": "813 8888 814"
+    },
+    "evidence": "813 8888 814",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Uppalam Bridge Varkala",
+    "evidence": "Uppalam Bridge Varkala",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (65%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "DRY CLEANING",
+    "evidence": "DRY CLEANING",
+    "english": "Dry cleaning",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (82%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "WASH & DRY",
+    "evidence": "WASH & DRY",
+    "english": "Wash & dry",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "IRONING",
+    "evidence": "IRONING",
+    "english": "Ironing",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (86%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "WASH AND IRON",
+    "evidence": "WASH AND IRON",
+    "english": "Wash and iron",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "WASH & FOLD",
+    "evidence": "WASH & FOLD",
+    "english": "Wash & fold",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "STARCHING",
+    "evidence": "STARCHING",
+    "english": "Starching",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (89%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "STAIN REMOVING",
+    "evidence": "STAIN REMOVING",
+    "english": "Stain removing",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "FREE PICKUP",
+    "evidence": "FREE PICKUP",
+    "english": "Free pickup",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (80%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE DELIVERY",
+    "evidence": "FREE DELIVERY",
+    "english": "Free delivery",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (46%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Quickwash power laundry services",
+  "Dry cleaning, wash & dry, ironing, wash and iron, wash & fold, starching, stain removing",
+  "Free pickup and free delivery",
+  "The best laundry day",
+  "Contact numbers 813 8888 814 and 813 8888 814",
+  "Location: Uppalam Bridge Varkala"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "QUICKWASH",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "powerlaundry",
+   "score": 0.9961,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "(auem3s (ug 8a03.l8010",
+   "score": 0.5624,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "DRY CLLAMING",
+   "score": 0.9635,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "WASH & DRY",
+   "score": 0.9933,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "IROMING",
+   "score": 0.9543,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "WASH AND IRON",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "WASH & FOLD",
+   "score": 0.9627,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "STARCHUNG",
+   "score": 0.9538,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "STAIN REMOVING",
+   "score": 0.9824,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "sTand riaggas ndya eht",
+   "score": 0.4826,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "aponl ay ailath stead",
+   "score": 0.649,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "FREE PCKUS",
+   "score": 0.7945,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "THE NT MT SLAUNDY DAY",
+   "score": 0.6711,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "midhd ahulaum",
+   "score": 0.6154,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "BE DEEDENN",
+   "score": 0.4653,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "815 8388 812",
+   "score": 0.7317,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "Uppldameedu Bridge",
+   "score": 0.8255,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (434x447); small print may be unreadable"
+ ],
+ "record_flags": [
+  "model note: Malayalam text in the ad is partially unclear; headline and sub-headline are transcribed based on visual reading. OCR lines [003], [011], [012], [014], [015], [016] are not clearly legible and are not used as evidence.",
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 17.11,
+  "extract": 40.7
+ }
+}

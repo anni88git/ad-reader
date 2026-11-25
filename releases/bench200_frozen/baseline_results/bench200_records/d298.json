@@ -1,0 +1,1663 @@
+{
+ "image": "d298_Dainik_Bhaskar_98.jpg",
+ "fields": {
+  "brand": {
+   "value": "Honda",
+   "evidence": "HONDA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "matched 'Honda Cars' (#7): tie between 2 records resolved by ad category"
+   ],
+   "matched_id": 7,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 7,
+     "name": "Honda Cars",
+     "score": 96.0
+    },
+    {
+     "id": 20,
+     "name": "Honda Motorcycle & Scooter India",
+     "score": 96.0
+    },
+    {
+     "id": 3,
+     "name": "Hyundai",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "City",
+   "evidence": "NEW CITY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'City' (#73)"
+   ],
+   "matched_id": 73,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 73,
+     "name": "City",
+     "score": 100.0
+    },
+    {
+     "id": 74,
+     "name": "City e:HEV",
+     "score": 96.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Honda Cars India Limited",
+   "evidence": "Honda Cars India Limited urges drivers to follow traffic rules which are meant to keep them safe on roads.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Elegant Honda / Joy Honda / Courtesy Honda / Elegant Honda / Courtesy Honda / Pace Honda / Harmony Honda / Joy Honda / Pace Honda / Malwa Honda / Joy Honda / Elegant Honda",
+    "no exact record; closest: Kia India, Hyundai Motor India Ltd"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    },
+    {
+     "id": 8,
+     "name": "Hyundai Motor India Ltd",
+     "score": 63.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "THINKS AHEAD",
+   "evidence": "THINKS AHEAD",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 71% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "The Honda Sensing° Enabled New City",
+   "evidence": "The Honda Sensing° Enabled New City",
+   "english": "The Honda Sensing Enabled New City",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "THINKS ABOUT THE NEXT MOVE. SEES FURTHER. SEES AHEAD.",
+   "evidence": "THINKS ABOUT THE NEXT MOVE. SEES FURTHER. SEES AHEAD.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "10 YEAR ANYTIME WARRANTY*",
+   "evidence": "10 YEAR ANYTIME WARRANTY*",
+   "english": "10 YEAR ANYTIME WARRANTY",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Scan now to Book or Buy Honda From Home",
+   "evidence": "Scan now to Book or Buy Honda From Home",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Honda Cars India Limited urges drivers to follow traffic rules which are meant to keep them safe on roads.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "The Honda Sensing° Enabled New City",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://www.hondacarindia.com/honda-from-home?utm_source=printad&utm_medium=jdap&utm_campaign=junejdap)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://www.hondacarindia.com/honda-from-home?utm_source=printad&utm_medium=jdap&utm_campaign=junejdap",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Honda Sensing enabled New City",
+    "Special benefits up to ₹50000 plus assured gifts on every purchase",
+    "Choose your gift: 1 gram gold coin, gift card up to ₹10000, fuel voucher of ₹9000, branded 1.5 split AC worth ₹35000, iPad 10.2-inch 9th generation Wi-Fi 64 GB, branded 138cm smart LED TV, iPhone 14 128 GB",
+    "Special offers for doctors, finance professionals, lawyers, architect & teachers/professors",
+    "Seat belts for all safety for all",
+    "Honda Auto Terrace car exchange",
+    "Honda ProCARE customer service",
+    "10 year anytime warranty",
+    "Scan now to book or buy Honda from home"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Honda is advertising the new City with Honda Sensing. Special benefits up to ₹50000 plus assured gifts on every purchase, with a choice of gifts including gold coin, gift card, fuel voucher, AC, iPad, TV or iPhone. Special offers are available for doctors, finance professionals, lawyers, architects and teachers/professors. Readers can scan to book or buy Honda from home.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9992221954",
+     "kind": "mobile",
+     "as_printed": "9992221954"
+    },
+    "evidence": "AMBALA CANTT.: Elegant Honda - 9992221954",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9992221959",
+     "kind": "mobile",
+     "as_printed": "9992221959"
+    },
+    "evidence": "AMBALA CANTT.: Elegant Honda - 9992221959",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7419770000",
+     "kind": "mobile",
+     "as_printed": "7419770000"
+    },
+    "evidence": "HISSAR: Joy Honda - 7419770000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8222099991",
+     "kind": "mobile",
+     "as_printed": "08222099991"
+    },
+    "evidence": "HISSAR: Joy Honda - 08222099991",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9896062000",
+     "kind": "mobile",
+     "as_printed": "9896062000"
+    },
+    "evidence": "KARNAL : Courtesy Honda - 9896062000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9996020160",
+     "kind": "mobile",
+     "as_printed": "9996020160"
+    },
+    "evidence": "KARNAL : Courtesy Honda - 9996020160",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9992221986",
+     "kind": "mobile",
+     "as_printed": "9992221986"
+    },
+    "evidence": "KURUKSHETRA: Elegant Honda - 9992221986",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7082118804",
+     "kind": "mobile",
+     "as_printed": "07082118804"
+    },
+    "evidence": "PANIPAT: Courtesy Honda - 07082118804",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9996003881",
+     "kind": "mobile",
+     "as_printed": "09996003881"
+    },
+    "evidence": "PANIPAT: Courtesy Honda - 09996003881",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7056000033",
+     "kind": "mobile",
+     "as_printed": "07056000033"
+    },
+    "evidence": "PALWAL: Pace Honda - 07056000033",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01830392101",
+     "kind": "landline",
+     "as_printed": "01830392101"
+    },
+    "evidence": "PALWAL: Pace Honda - 01830392101",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01725066666",
+     "kind": "landline",
+     "as_printed": "0172-5066666"
+    },
+    "evidence": "PANCHKULA: Harmony Honda - 0172-5066666",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7087303804",
+     "kind": "mobile",
+     "as_printed": "7087303804"
+    },
+    "evidence": "PANCHKULA: Harmony Honda - 7087303804",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8607777210",
+     "kind": "mobile",
+     "as_printed": "8607777210"
+    },
+    "evidence": "ROHTAK: Joy Honda - 8607777210",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8222991310",
+     "kind": "mobile",
+     "as_printed": "08222991310"
+    },
+    "evidence": "REWARI: Pace Honda - 08222991310",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8222991301",
+     "kind": "mobile",
+     "as_printed": "08222991301"
+    },
+    "evidence": "REWARI: Pace Honda - 08222991301",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9467800902",
+     "kind": "mobile",
+     "as_printed": "9467800902"
+    },
+    "evidence": "SONIPAT: Malwa Honda - 9467800902",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9467800921",
+     "kind": "mobile",
+     "as_printed": "9467800921"
+    },
+    "evidence": "SONIPAT: Malwa Honda - 9467800921",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9254025311",
+     "kind": "mobile",
+     "as_printed": "9254025311"
+    },
+    "evidence": "SIRSA: Joy Honda - 9254025311",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9992221966",
+     "kind": "mobile",
+     "as_printed": "9992221966"
+    },
+    "evidence": "YAMUNANAGAR: Elegant Honda - 9992221966",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.hondacarindia.com",
+    "evidence": "For more details, visit www.hondacarindia.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "corporatenorth@hondacarindia.com",
+    "evidence": "For Corporate Sales enquiries, write to corporatenorth@hondacarindia.com.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "autoterrace@hondacarindia.com",
+    "evidence": "To exchange any existing car with a Honda car, write to autoterrace@hondacarindia.com.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Honda Sensing° Enabled New City",
+    "evidence": "The Honda Sensing° Enabled New City",
+    "english": "The Honda Sensing Enabled New City",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SEAT BELTS FOR ALL SAFETY FOR ALL",
+    "evidence": "SEAT BELTS FOR ALL SAFETY FOR ALL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Special Benefits of Upto ₹50 000 + Get assured gifts* on every PURCHASE",
+    "evidence": "Special Benefits of Upto ₹50 000 + Get assured gifts* on every PURCHASE",
+    "english": "Special Benefits of Upto ₹50000 + Get assured gifts on every purchase",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Choose Your Gift: 1 Gram Gold Coin (22 Carat)",
+    "evidence": "Choose Your Gift 1 Gram Gold Coin (22 Carat)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Gift Card upto ₹10000/-",
+    "evidence": "Gift Card upto ₹10000/-",
+    "english": "Gift Card up to ₹10000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Fuel Voucher of ₹9000/-",
+    "evidence": "Fuel Voucher of ₹9000/-",
+    "english": "Fuel Voucher of ₹9000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Branded 1.5 Split AC worth ₹35000/-",
+    "evidence": "Branded 1.5 Split AC worth ₹35000/-",
+    "english": "Branded 1.5 Split AC worth ₹35000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "iPad 10.2-inch 9th Generation, Wi-Fi 64 GB",
+    "evidence": "iPad 10.2-inch 9th Generation, Wi-Fi 64 GB",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Branded 138cm Smart LED TV",
+    "evidence": "Branded 138cm Smart LED TV",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "iPhone 14 128 GB",
+    "evidence": "iPhone 14 128 GB",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Special Offers for Doctors, Finance Professionals, Lawyers, Architect & Teachers/Professors.",
+    "evidence": "Special Offers for Doctors, Finance Professionals, Lawyers, Architect & Teachers/Professors.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Elegant Honda",
+     "area": "AMBALA CANTT.",
+     "city": null,
+     "phones": [
+      "9992221954",
+      "9992221959"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "AMBALA CANTT.: Elegant Honda - 9992221954 · AMBALA CANTT.: Elegant Honda - 9992221959",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Joy Honda",
+     "area": "HISSAR",
+     "city": null,
+     "phones": [
+      "7419770000",
+      "8222099991"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HISSAR: Joy Honda - 7419770000, 08222099991",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Courtesy Honda",
+     "area": "KARNAL",
+     "city": null,
+     "phones": [
+      "9896062000",
+      "9996020160"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KARNAL : Courtesy Honda - 9896062000, 9996020160",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Elegant Honda",
+     "area": "KURUKSHETRA",
+     "city": null,
+     "phones": [
+      "9992221986"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KURUKSHETRA: Elegant Honda - 9992221986",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Courtesy Honda",
+     "area": "PANIPAT",
+     "city": null,
+     "phones": [
+      "7082118804",
+      "9996003881"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PANIPAT: Courtesy Honda - 07082118804, 09996003881",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pace Honda",
+     "area": "PALWAL",
+     "city": null,
+     "phones": [
+      "7056000033",
+      "01830392101"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PALWAL: Pace Honda - 07056000033, 01830392101",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Harmony Honda",
+     "area": "PANCHKULA",
+     "city": null,
+     "phones": [
+      "01725066666",
+      "7087303804"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PANCHKULA: Harmony Honda - 0172-5066666, 7087303804",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Joy Honda",
+     "area": "ROHTAK",
+     "city": null,
+     "phones": [
+      "8607777210"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ROHTAK: Joy Honda - 8607777210",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pace Honda",
+     "area": "REWARI",
+     "city": null,
+     "phones": [
+      "8222991310",
+      "8222991301"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "REWARI: Pace Honda - 08222991310, 08222991301",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Malwa Honda",
+     "area": "SONIPAT",
+     "city": null,
+     "phones": [
+      "9467800902",
+      "9467800921"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SONIPAT: Malwa Honda - 9467800902, 9467800921",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Joy Honda",
+     "area": "SIRSA",
+     "city": null,
+     "phones": [
+      "9254025311"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SIRSA: Joy Honda - 9254025311",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Elegant Honda",
+     "area": "YAMUNANAGAR",
+     "city": null,
+     "phones": [
+      "9992221966"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "YAMUNANAGAR: Elegant Honda - 9992221966",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "safety_features": {
+   "value": "SEAT BELTS FOR ALL SAFETY FOR ALL",
+   "evidence": "SEAT BELTS FOR ALL SAFETY FOR ALL",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "Honda Auto Terrace CAR EXCHANGE",
+   "evidence": "Honda Auto Terrace CAR EXCHANGE",
+   "english": "Honda Auto Terrace Car Exchange",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Honda Sensing enabled New City",
+  "Special benefits up to ₹50000 plus assured gifts on every purchase",
+  "Choose your gift: 1 gram gold coin, gift card up to ₹10000, fuel voucher of ₹9000, branded 1.5 split AC worth ₹35000, iPad 10.2-inch 9th generation Wi-Fi 64 GB, branded 138cm smart LED TV, iPhone 14 128 GB",
+  "Special offers for doctors, finance professionals, lawyers, architect & teachers/professors",
+  "Seat belts for all safety for all",
+  "Honda Auto Terrace car exchange",
+  "Honda ProCARE customer service",
+  "10 year anytime warranty",
+  "Scan now to book or buy Honda from home"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "HONDA",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "THINKS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "THINKS ABOUT THE NEXT MOVE. SEES FURTHER. SEES AHEAD.",
+   "score": 0.987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "The Honda Sensing° Enabled New City",
+   "score": 0.9821,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "AHEAD",
+   "score": 0.9835,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "CITY",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "NEW",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "NEW",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Honda",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "CITY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "SENSING",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Choose",
+   "score": 0.9926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Special Benefits of Upto",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Yout",
+   "score": 0.8939,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "CIRT",
+   "score": 0.5,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "Gift",
+   "score": 0.7685,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "50000",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Get assured",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "gifts* on every",
+   "score": 0.966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "PURCHASE",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Choose",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "1 Gram Gold",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Gift Card",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Fuel Voucher",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Branded 1.5 Split AC",
+   "score": 0.975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "iPad 10.2-inch",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Branded 138cm",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "iPhone 14",
+   "score": 0.9524,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "Your Gift",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "Coin (22 Carat)",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "upto 10000/-",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "of 9000/-",
+   "score": 0.965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "worth 35000/-",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "9th Generation, Wi-Fi 64 GB",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "Smart LED TV",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "128 GB",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "Special Offers for Doctors, Finance Professionals, Lawyers, Architect & Teachers/Professors.",
+   "score": 0.9924,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "*Actual product may diffr from image shown herein I *Gift Card of 5000/- onwards, subject o maximum 10000- *Here Benefit ouchers stand for Discounts & Deals offered by selected participating brands on purchasing of their",
+   "score": 0.9747,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "product/services. ITerms & Conditions apply. iPhone is a trademark of Apple Inc., registered in the U.S. and other countries. ipad is a trademark of Apple Inc., registered in the U.S. and other countries. Offers mentioned are from dealers.",
+   "score": 0.9483,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "SEAT BELTS",
+   "score": 0.9795,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "Honda",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "Honda",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "FOR ALL",
+   "score": 0.9936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "AutsTerrace",
+   "score": 0.9826,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "ProCARE",
+   "score": 0.996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "Scan now to Book or Buy",
+   "score": 0.9818,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "SAFETY",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "FOR ALL",
+   "score": 0.9757,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "CUSTOMER SERVICE",
+   "score": 0.9936,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "ANYTIME WARRANTY",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "Honda From Home",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "For Corporate Sales enquiries, write to corporatenorth@hondacarindia.com. To exchange any existing car with a Honda car, write to autoterrace@hondacarindia.com. Images used are computer generated/enhanced for creative representation purpose and may vary from the actual product.'Warranty of unlimited kilometres in a 3-year period from the date of sale of new vehicle comes as part of standard purchase. Honda Sensing is a driver assist system",
+   "score": 0.9912,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 53,
+   "text": "or your nearest Honda dealership. *Terms and conditions apply.",
+   "score": 0.9913,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "that enhances driving experience and safety while driving on roads. Drivers shall remain responsible for safe and vigilant driving. It is recommended to read the instructions in the owners' manual/guide before using the vehicle. Honda Sensing cannot substitute human acumen and vigilance while driving. Honda Cars India Limited urges drivers to follow traffic rules which are meant to keep them safe on roads. For more details, visit www.hondacarindia.com",
+   "score": 0.9874,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 55,
+   "text": "·AMBALA CANTT.: ElegantHonda-9992221954· AMBALA CANTT.: ElegantHonda - 9992221959·HISSAR: JoyHonda - 7419770000,08222099991· KARNAL : Courtesy Honda - 9896062000, 9996020160",
+   "score": 0.9632,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 56,
+   "text": "•KURUKSHETRA: Elegant Honda - 9992221986· PANIPAT: Courtesy Honda - 07082118804,09996003881· PALWAL: Pace Honda - 07056000033,01830392101· PANCHKULA: HarmonyHonda- 0172-5066666, 7087303804",
+   "score": 0.9632,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 57,
+   "text": "·ROHTAK:JoyHonda-8607777210·REWARI:PaceHonda-08222991310,08222991301·SONIPAT:Malwa Honda-9467800902,9467800921·SIRSA:JoyHonda-9254025311·YAMUNANAGAR:ElegantHonda-9992221966",
+   "score": 0.994,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 26.32,
+  "extract": 54.62
+ }
+}

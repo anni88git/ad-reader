@@ -1,0 +1,64 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Manappuram Finance",
+   "Manappuram",
+   "Manappuram Finance Limited"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Gold Loan",
+   "Manappuram Doorstep Gold Loan"
+  ]
+ },
+ "ad_type": "service_provider",
+ "category": {
+  "any_of": [
+   "Banking & Finance"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "तैयार हो जाइए आगामी कृषि मौसम केलिए हमारे किफायती गोल्ड लोन के साथ"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "websites": [
+  "manappuram.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

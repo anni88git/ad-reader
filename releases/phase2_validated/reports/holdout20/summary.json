@@ -1,0 +1,233 @@
+{
+ "labelled_ads": 20,
+ "systems": {
+  "nemotron": {
+   "records": 20,
+   "labelled_without_record": 0,
+   "values_scored": 199,
+   "accuracy_pct": 94.5,
+   "confirmed_values": 90,
+   "silent_errors": 0,
+   "silent_error_rate_pct": 0.0,
+   "confirmed_precision_pct": 100.0,
+   "auto_fill_rate_pct": 57.3,
+   "error_catch_rate_pct": 100.0,
+   "over_flag_rate_pct": 38.4,
+   "missed_values": 2,
+   "lists": {
+    "phones": {
+     "tp": 7,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    },
+    "websites": {
+     "tp": 16,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    },
+    "emails": {
+     "tp": 2,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    },
+    "reference_numbers": {
+     "tp": 6,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    }
+   },
+   "ids": {},
+   "by_group": {
+    "english": {
+     "values_scored": 118,
+     "accuracy_pct": 94.1,
+     "confirmed_values": 58,
+     "silent_errors": 0,
+     "silent_error_rate_pct": 0.0,
+     "confirmed_precision_pct": 100.0,
+     "auto_fill_rate_pct": 60.4,
+     "error_catch_rate_pct": 100.0,
+     "over_flag_rate_pct": 34.8,
+     "missed_values": 1
+    },
+    "regional": {
+     "values_scored": 81,
+     "accuracy_pct": 95.1,
+     "confirmed_values": 32,
+     "silent_errors": 0,
+     "silent_error_rate_pct": 0.0,
+     "confirmed_precision_pct": 100.0,
+     "auto_fill_rate_pct": 52.5,
+     "error_catch_rate_pct": 100.0,
+     "over_flag_rate_pct": 43.9,
+     "missed_values": 1
+    }
+   },
+   "avg_seconds_per_ad": 46.8
+  },
+  "nemotron+nano": {
+   "records": 20,
+   "labelled_without_record": 0,
+   "values_scored": 199,
+   "accuracy_pct": 94.5,
+   "confirmed_values": 96,
+   "silent_errors": 0,
+   "silent_error_rate_pct": 0.0,
+   "confirmed_precision_pct": 100.0,
+   "auto_fill_rate_pct": 61.1,
+   "error_catch_rate_pct": 100.0,
+   "over_flag_rate_pct": 34.2,
+   "missed_values": 2,
+   "lists": {
+    "phones": {
+     "tp": 7,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    },
+    "websites": {
+     "tp": 16,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    },
+    "emails": {
+     "tp": 2,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    },
+    "reference_numbers": {
+     "tp": 6,
+     "fp": 0,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 100.0
+    }
+   },
+   "ids": {},
+   "by_group": {
+    "english": {
+     "values_scored": 118,
+     "accuracy_pct": 94.1,
+     "confirmed_values": 62,
+     "silent_errors": 0,
+     "silent_error_rate_pct": 0.0,
+     "confirmed_precision_pct": 100.0,
+     "auto_fill_rate_pct": 64.6,
+     "error_catch_rate_pct": 100.0,
+     "over_flag_rate_pct": 30.3,
+     "missed_values": 1
+    },
+    "regional": {
+     "values_scored": 81,
+     "accuracy_pct": 95.1,
+     "confirmed_values": 34,
+     "silent_errors": 0,
+     "silent_error_rate_pct": 0.0,
+     "confirmed_precision_pct": 100.0,
+     "auto_fill_rate_pct": 55.7,
+     "error_catch_rate_pct": 100.0,
+     "over_flag_rate_pct": 40.4,
+     "missed_values": 1
+    }
+   },
+   "avg_seconds_per_ad": 46.8
+  },
+  "ocr_rules": {
+   "records": 20,
+   "labelled_without_record": 0,
+   "values_scored": 199,
+   "accuracy_pct": 46.2,
+   "confirmed_values": 59,
+   "silent_errors": 14,
+   "silent_error_rate_pct": 23.7,
+   "confirmed_precision_pct": 76.3,
+   "auto_fill_rate_pct": 28.8,
+   "error_catch_rate_pct": 72.5,
+   "over_flag_rate_pct": 11.8,
+   "missed_values": 56,
+   "lists": {
+    "phones": {
+     "tp": 7,
+     "fp": 1,
+     "fn": 0,
+     "confirmed_fp": 1,
+     "precision_pct": 87.5,
+     "recall_pct": 100.0
+    },
+    "websites": {
+     "tp": 18,
+     "fp": 6,
+     "fn": 1,
+     "confirmed_fp": 6,
+     "precision_pct": 75.0,
+     "recall_pct": 94.7
+    },
+    "emails": {
+     "tp": 2,
+     "fp": 1,
+     "fn": 0,
+     "confirmed_fp": 1,
+     "precision_pct": 66.7,
+     "recall_pct": 100.0
+    },
+    "reference_numbers": {
+     "tp": 0,
+     "fp": 0,
+     "fn": 1,
+     "confirmed_fp": 0,
+     "precision_pct": null,
+     "recall_pct": 0.0
+    }
+   },
+   "ids": {},
+   "by_group": {
+    "english": {
+     "values_scored": 118,
+     "accuracy_pct": 50.0,
+     "confirmed_values": 38,
+     "silent_errors": 5,
+     "silent_error_rate_pct": 13.2,
+     "confirmed_precision_pct": 86.8,
+     "auto_fill_rate_pct": 34.7,
+     "error_catch_rate_pct": 80.8,
+     "over_flag_rate_pct": 10.8,
+     "missed_values": 33
+    },
+    "regional": {
+     "values_scored": 81,
+     "accuracy_pct": 40.7,
+     "confirmed_values": 21,
+     "silent_errors": 9,
+     "silent_error_rate_pct": 42.9,
+     "confirmed_precision_pct": 57.1,
+     "auto_fill_rate_pct": 19.7,
+     "error_catch_rate_pct": 64.0,
+     "over_flag_rate_pct": 14.3,
+     "missed_values": 23
+    }
+   },
+   "avg_seconds_per_ad": 13.8
+  }
+ }
+}

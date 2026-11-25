@@ -1,0 +1,853 @@
+{
+ "image": "d383_Maharashtra_Times_83.jpg",
+ "fields": {
+  "brand": {
+   "value": "Baali",
+   "evidence": "Baali",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Bata, Bajaj Auto"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 111,
+     "name": "Bata",
+     "score": 66.7
+    },
+    {
+     "id": 21,
+     "name": "Bajaj Auto",
+     "score": 60.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Advance Ayurvedic Medicinal Oil",
+   "evidence": "Baali ADVANCE AYURVEDIC MEDICINAL OIL",
+   "english": "Baali Advance Ayurvedic Medicinal Oil",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Everlove Cosmetics & Beauty Care Private Limited",
+   "evidence": "EVERLOVE COSHETICS& BEAUTY CARE PRIVATE LIMITED",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (78%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Milan Trading Co.",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "गळत्या केसां साठी",
+   "evidence": "गळत्या केसां साठी",
+   "english": "For falling hair",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: गाळत्या केसां साठी"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "तेल पाक विधिसह बनवले आहे",
+   "evidence": "तेल पाक विधिसह बनवले आहे",
+   "english": "Made with oil cooking method",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 89% similar) - check spelling - suggestion: तेल पाक विधिसह Baalǐ बनवले आहे",
+    "second model disagrees - suggestion: नाव एक... फायदा अनेक..."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "नाव एक... फायदे अनेक...",
+   "evidence": "नाव एक... फायदे अनेक...",
+   "english": "One name... many benefits...",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "For Trade Enquiry Please call",
+   "evidence": "For Trade Enquiry Please call",
+   "english": "Call for trade enquiry",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #25"
+   ],
+   "matched_id": 25,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Baali Advance Ayurvedic Medicinal Oil",
+    "claims to control hair fall, dandruff, split ends, premature greying",
+    "helps hair growth, reduces dandruff, strengthens hair",
+    "7 days visible results",
+    "available at medical and ayurvedic stores",
+    "trade enquiry phone number provided"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Baali Advance Ayurvedic Medicinal Oil is marketed by Everlove Cosmetics & Beauty Care Private Limited. It claims to address hair fall, dandruff, split ends, premature greying and to help hair growth, with visible results in 7 days. It is available at medical and ayurvedic stores; trade enquiries can call Milan Trading Co. on +91 74200 84833.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7420084833",
+     "kind": "mobile",
+     "as_printed": "+91 74200 84833"
+    },
+    "evidence": "+91 74200 84833",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [
+   {
+    "value": "info@everlove.in",
+    "evidence": "info@everlove.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "गळते केस",
+    "evidence": "गळते केस",
+    "english": "Hair fall",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कोंड्याची समस्या",
+    "evidence": "कोंड्याची समस्या",
+    "english": "Dandruff problem",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (93%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "दोन तोंडी केस",
+    "evidence": "दोन तोंडी केस",
+    "english": "Split ends",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "पांढरे केस",
+    "evidence": "पांढरे केस",
+    "english": "Premature greying / white hair",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "रखरखीत केस",
+    "evidence": "रखरखीत केस",
+    "english": "Well-maintained hair",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NATURAL REMEDY FOR HAIR FALL CONTROLS",
+    "evidence": "NATURAL REMEDY FOR HAIR FALL CONTROLS",
+    "english": "Natural remedy for hair fall controls",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PREMATURE GREYING",
+    "evidence": "PREMATURE GREYING",
+    "english": "Premature greying",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "HELPS HAIR GROWTH",
+    "evidence": "HELPS HAIR GROWTH",
+    "english": "Helps hair growth",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "REDUCES GANDRUFF",
+    "evidence": "REDUCES GANDRUFF",
+    "english": "Reduces dandruff",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "STRENGTHENS HAIR",
+    "evidence": "STRENGTHENS HAIR",
+    "english": "Strengthens hair",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (60%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "TM",
+    "evidence": "TM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "चांगल्या परिणाम करिता ७ दिवस वापरून पहा",
+    "evidence": "चांगल्या परिणाम करिता ७ दिवस वापरून पहा",
+    "english": "Use for 7 days for good results",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Milan Trading Co.",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7420084833"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Milan Trading Co. +91 74200 84833",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Baali Advance Ayurvedic Medicinal Oil",
+  "claims to control hair fall, dandruff, split ends, premature greying",
+  "helps hair growth, reduces dandruff, strengthens hair",
+  "7 days visible results",
+  "available at medical and ayurvedic stores",
+  "trade enquiry phone number provided"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "गळत्या केैसां",
+   "score": 0.872,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "गळत्या",
+   "score": 0.9394,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "केसां",
+   "score": 0.8493,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "साठी",
+   "score": 0.8314,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Baal",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "TM",
+   "score": 0.9996,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "तेल पाक विधिसह",
+   "score": 0.9803,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Baalǐ",
+   "score": 0.8911,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 9,
+   "text": "बनवले आहे",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "ADVANCE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Ae^ Aew wnsey # odoy Apns |eoju!o jedsy,",
+   "score": 0.7457,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "ADVANCE",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "AYURVEDIC MEDICINAL OIL",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "AYURVEDIC MEDICINAL OIL",
+   "score": 0.9685,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "नाव एक...",
+   "score": 0.9708,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "फायदे अनेक...",
+   "score": 0.9386,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "• गळते केस",
+   "score": 0.9574,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "7",
+   "score": 0.9953,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "Baali",
+   "score": 0.9381,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ADVANCE",
+   "score": 0.9179,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "कोंड्चाची समस्या",
+   "score": 0.9526,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "चांगल्या",
+   "score": 0.8858,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "परिणाम करिता",
+   "score": 0.9569,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "• दोन तोंडी केस",
+   "score": 0.9277,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "7 दिवस",
+   "score": 0.9373,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "NATURAL REMEDY FOR HAIR FALL CONTROLS",
+   "score": 0.946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "• पांढरे केस",
+   "score": 0.9616,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "वापरून पहा",
+   "score": 0.9892,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "PREMATURE GREYING",
+   "score": 0.993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "रखरखीत केस",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "HELPS HAIR GROWTH",
+   "score": 0.9684,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "AEPERS SPUIT ENDS",
+   "score": 0.8236,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "Marketed by",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "REDUCES GANDRUFF",
+   "score": 0.9357,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "अधिक जानकारी साठी",
+   "score": 0.9822,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "EVERLOVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "info@everlove.in",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "COSHETICS& BEAUTY CARE",
+   "score": 0.9673,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "PORE HNTURE A PURE BAUTY",
+   "score": 0.7076,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "Available at :",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "For Trade Enquiry Please call",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "Medical & Ayurvedic Stores",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "Milan Trading Co. +91 74200 84833",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (772x587); small print may be unreadable"
+ ],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 13.24,
+  "extract": 8.73
+ }
+}

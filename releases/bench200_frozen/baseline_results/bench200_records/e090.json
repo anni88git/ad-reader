@@ -1,0 +1,517 @@
+{
+ "image": "e090_SpiceJet_435.jpg",
+ "fields": {
+  "brand": {
+   "value": "SpiceJet",
+   "evidence": "SpiceJet",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'SpiceJet' (#148)"
+   ],
+   "matched_id": 148,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 148,
+     "name": "SpiceJet",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "SpiceJet",
+   "evidence": "SpiceJet",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "SPICEJET IS SEEKING WOMAN-POWER TO POWER ITS FLIGHTS.",
+   "evidence": "SPICEJET IS SEEKING WOMAN-POWER TO POWER ITS FLIGHTS.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Red.Hot.Spicy.",
+   "evidence": "Red.Hot.Spicy.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "This International Women's Day, SpiceJet is hiring women pilots for its B737 NG and Q400 fleet.",
+   "evidence": "This International Women's Day, SpiceJet is hiring women pilots for its B737 NG and Q400 fleet.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "For more details, contact anushree.varma@spicejet.com",
+   "evidence": "For more details, contact anushree.varma@spicejet.com",
+   "english": "Contact anushree.varma@spicejet.com for more details",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "recruitment",
+   "evidence": "This International Women's Day, SpiceJet is hiring women pilots for its B737 NG and Q400 fleet.",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Recruitment",
+   "evidence": "This International Women's Day, SpiceJet is hiring women pilots for its B737 NG and Q400 fleet.",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #20",
+    "brand 'SpiceJet' is filed under 'Travel & Hospitality' in the master data",
+    "record #20 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 20,
+   "candidates": [
+    {
+     "id": 20,
+     "name": "Recruitment",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "SpiceJet hiring women pilots for B737 NG and Q400 fleet",
+    "Eligibility: Current CPL/ATPL/Frozen ATPL",
+    "Venue: Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022",
+    "Date: 8th March, 2018",
+    "Reporting time: 0900 hours",
+    "Dress code: Formal white shirt and black trousers",
+    "Contact: anushree.varma@spicejet.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "SpiceJet is hiring women pilots for its B737 NG and Q400 fleet on International Women's Day. Eligible candidates with Current CPL/ATPL/Frozen ATPL should report on 8th March 2018 at 0900 hours at Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022, wearing a formal white shirt and black trousers. For more details, contact anushree.varma@spicejet.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [
+   {
+    "value": "anushree.varma@spicejet.com",
+    "evidence": "anushree.varma@spicejet.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022",
+    "evidence": "Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (98%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "organisation": {
+   "value": "SpiceJet",
+   "evidence": "SpiceJet",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "positions": {
+   "value": "women pilots",
+   "evidence": "SpiceJet is hiring women pilots for its B737 NG and Q400 fleet.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qualification": {
+   "value": "Current CPL/ATPL/Frozen ATPL",
+   "evidence": "Eligibility: Current CPL/ATPL/Frozen ATPL",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "last_date": {
+   "value": "8th March, 2018",
+   "evidence": "Date: 8th March, 2018",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "how_to_apply": {
+   "value": "Reporting time: 0900 hours Dress code: Formal white shirt and black trousers Venue: Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022",
+   "evidence": "Reporting time: 0900 hours Dress code: Formal white shirt and black trousers Venue: Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022",
+   "english": "Report at 0900 hours on 8th March 2018 at Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022, wearing formal white shirt and black trousers",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (99%)",
+    "numbers not found in OCR text"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "SpiceJet hiring women pilots for B737 NG and Q400 fleet",
+  "Eligibility: Current CPL/ATPL/Frozen ATPL",
+  "Venue: Building No. 363, Udyog Vihar Phase-II, Sector 20, Gurugram, Haryana - 122022",
+  "Date: 8th March, 2018",
+  "Reporting time: 0900 hours",
+  "Dress code: Formal white shirt and black trousers",
+  "Contact: anushree.varma@spicejet.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "SpiceJet",
+   "score": 0.9807,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Red.Hot. Spicy.",
+   "score": 0.974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "SPICEJETIS SEEKING",
+   "score": 0.9856,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "WOMAN-POWER TO",
+   "score": 0.9649,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "POWER ITS FLIGHTS.",
+   "score": 0.9814,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "This International Women's Day, SpiceJet is hiring women pilots for",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "its B737 NG and Q400 fleet.",
+   "score": 0.9885,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Eligibility: Current CPL/ATPL/Frozen ATPL",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Venue: Building No. 363, Udyog Vihar Phase-Il,",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Sector 20, Gurugram, Haryana - 122022",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Date: 8th March, 2018",
+   "score": 0.9762,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Reporting time: 0900 hours",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Dress code: Formal white shirt",
+   "score": 0.9879,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "and black trousers",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "For more details, contact anushree.varma@spicejet.com",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 9.66,
+  "extract": 29.99
+ }
+}

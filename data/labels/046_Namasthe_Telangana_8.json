@@ -1,0 +1,55 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "product",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Maruti Suzuki",
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": "Beat the Price Hike.",
+ "sub_headline": {
+  "any_of": [
+   "Buy a Maruti Suzuki Arena car now.",
+   null
+  ]
+ },
+ "price": null,
+ "websites": [
+  "www.marutisuzuki.com"
+ ],
+ "emails": [
+  "nishant.vijayvergia@maruti.co.in"
+ ],
+ "qr_code_present": true,
+ "_uncertain_fields": [
+  {
+   "field": "price",
+   "why": "suspicious"
+  }
+ ]
+}

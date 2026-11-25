@@ -1,0 +1,628 @@
+{
+ "image": "d222_Dainik_Bhaskar_22.jpg",
+ "fields": {
+  "brand": {
+   "value": "Kayam",
+   "evidence": "KAYAM",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Kalyan Jewellers"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 45,
+     "name": "Kalyan Jewellers",
+     "score": 72.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Kayam Churna / Kayam Tablet",
+   "evidence": "कायम चूर्ण / कायम टेबलेट",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Sheth Bros",
+   "evidence": "SHETH BROS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "कब्ज को कायम रखे दूरररर...",
+   "evidence": "कब्ज को कायम रखे दूरररर...",
+   "english": "Keep constipation away forever...",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 86% similar) - check spelling - suggestion: को कायम रखे ं दूरररर...",
+    "second model disagrees - suggestion: कब्ज को कायाम रखे दुररस्तर..."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #14"
+   ],
+   "matched_id": 14,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Kayam Churna and Kayam Tablet shown",
+    "Ayurvedic medicine",
+    "For constipation, acidity, gas, indigestion"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Kayam Churna and Kayam Tablet are Ayurvedic medicines for constipation, acidity, gas and indigestion.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "AYURVEDIC MEDICINE",
+    "evidence": "AYURVEDIC MEDICINE",
+    "english": "Ayurvedic medicine",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NO SIDE EFFECTS",
+    "evidence": "NO SIDE EFFECTS",
+    "english": "No side effects",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (46%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "RELIEVES CONSTIPATION",
+    "evidence": "RELIEVES CONSTIPATION",
+    "english": "Relieves constipation",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (40%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "RELIEVES ACIDITY",
+    "evidence": "RELIEVES ACIDITY",
+    "english": "Relieves acidity",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (40%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "RELIEVES GAS",
+    "evidence": "RELIEVES GAS",
+    "english": "Relieves gas",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (36%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "RELIEVES INDIGESTION",
+    "evidence": "RELIEVES INDIGESTION",
+    "english": "Relieves indigestion",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (42%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Kayam Churna and Kayam Tablet shown",
+  "Ayurvedic medicine",
+  "For constipation, acidity, gas, indigestion"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "कब्ज",
+   "score": 0.9563,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "को",
+   "score": 0.9997,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "कायम",
+   "score": 0.9447,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "रखे",
+   "score": 0.9243,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "ं दूरररर...",
+   "score": 0.8669,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "KAYAM",
+   "score": 0.885,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "AYURVEDIC MEDICINE",
+   "score": 0.9611,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "CHURNA",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "कायम",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "चूर्ण",
+   "score": 0.944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "कॉर्यम",
+   "score": 0.816,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "आयुजटिक",
+   "score": 0.6638,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "yoi . vée",
+   "score": 0.5267,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "bake",
+   "score": 0.6841,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "MBETAENPERACOTM",
+   "score": 0.6433,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "perdr a svéé as",
+   "score": 0.4906,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "en, fered",
+   "score": 0.4631,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "SHETH BROS",
+   "score": 0.963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "KAYAM",
+   "score": 0.9822,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "AYUITECKC",
+   "score": 0.7335,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "TABLET",
+   "score": 0.9696,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "SHETH MRDS",
+   "score": 0.6937,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "कायम",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "चूर्ण",
+   "score": 0.984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "कायम",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "टेबलेट",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "कब्ज़,",
+   "score": 0.9772,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "एसिडिटी,",
+   "score": 0.9868,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "गैस,",
+   "score": 0.9908,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "अपच",
+   "score": 0.9985,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 31,
+   "text": "का",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "सही",
+   "score": 0.9944,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "उपाय",
+   "score": 0.9963,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (554x613); small print may be unreadable"
+ ],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 11.95,
+  "extract": 20.95
+ }
+}

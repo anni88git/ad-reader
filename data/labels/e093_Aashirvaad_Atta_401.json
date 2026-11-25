@@ -1,0 +1,66 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Aashirvaad",
+   "Aashirvaad Svasti",
+   "ITC"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Aashirvaad Svasti Pure Cow Ghee",
+   "Svasti Pure Cow Ghee",
+   "Aashirvaad Svasti"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Food & Beverages",
+   "FMCG"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Maa kehti hai, cooking mein short-cut loge toh swaad kho doge"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "sub_headline": {
+  "any_of": [
+   "Presenting Aashirvaad Svasti ghee made using special 'SloCook' Process",
+   null
+  ]
+ },
+ "websites": [
+  "aashirvaadsvasti.in"
+ ],
+ "_uncertain_fields": []
+}

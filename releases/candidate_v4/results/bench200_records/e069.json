@@ -1,0 +1,507 @@
+{
+ "image": "e069_Sunsilk_shampoo_411.jpg",
+ "fields": {
+  "brand": {
+   "value": "Sunsilk",
+   "evidence": "sunsilk",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Sunsilk' (#96)"
+   ],
+   "matched_id": 96,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 96,
+     "name": "Sunsilk",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Shine Shampoo",
+   "evidence": "SHINE SHAMPOO",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: 24K GOLD PLATED HAIR ADORNMENTS",
+    "no products on record for Sunsilk"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Sunsilk",
+   "evidence": "sunsilk",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ISS DIWALI, CHAMAK HOGI AUR BHI BRIGHT WITH BAAL THAT SHINES DAY TO NIGHT",
+   "evidence": "ISS DIWALI,\nCHAMAK HOGI AUR BHI BRIGHT\nWITH BAAL THAT SHINES\nDAY TO NIGHT",
+   "english": "This Diwali, the sparkle will be even brighter with hair that shines day to night",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Get free*24k gold plated hair jewellery with Sunsilk!",
+   "evidence": "Get free*24k gold plated\nhair jewellery with Sunsilk!",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Jewellery",
+    "category #25",
+    "record #25 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 25,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "Hindi: OCR found no devanagari text",
+    "second model disagrees - suggestion: English",
+    "removed Hindi: OCR found no text in that script and the second model does not list it - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Sunsilk Shine Shampoo with free 24k gold plated hair jewellery",
+    "Offer valid till stocks last",
+    "Available in select outlets"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Sunsilk is offering a free piece of 24K gold plated hair jewellery with select shampoo bottles this Diwali; the offer is valid till stocks last.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "FREE 24K GOLD PLATED HAIR ACCESSORY",
+    "evidence": "FREE 24K GOLD PLATED\nHAIR ACCESSORY",
+    "english": "Free 24K gold plated hair accessory",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (80%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "2501.2017B",
+    "evidence": "2501.2017B",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "1 piece of 24K Gold Plated Hair Jewellery MRP (inclusive of all taxes). Free with Select Sunsilk 180ml and 340ml/650ml Shampoo Bottles.",
+    "evidence": "*1 piece of 24K Gold Plated Hair Jewellery MRP (inclusive of all taxes). Free with Select\nSunsilk 180ml and 340ml/650ml Shampoo Bottles.",
+    "english": "One piece of 24K gold plated hair jewellery free with select Sunsilk shampoo bottles",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Offer valid till stocks last",
+    "evidence": "Offer valid till stocks last",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "festival": {
+   "value": "DIWALI",
+   "evidence": "ISS DIWALI,",
+   "english": "Diwali",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Sunsilk Shine Shampoo with free 24k gold plated hair jewellery",
+  "Offer valid till stocks last",
+  "Available in select outlets"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "*",
+   "score": 0.8945,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "EE 2NK GOLD PLATED",
+   "score": 0.8886,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "sunsilk",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "CO-CREATIONS",
+   "score": 0.9981,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 5,
+   "text": "SHINE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "FREE",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "SHAMPOO",
+   "score": 0.9371,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "ISS DIWALI,",
+   "score": 0.9543,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "CHAMAK HOGI AUR BHI BRIGHT",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "WITH BAAL THAT SHINES",
+   "score": 0.9787,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "DAY TO NIGHT",
+   "score": 0.9577,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Get free*24k gold plated",
+   "score": 0.9826,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "hair jewellery with Sunsilk!",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "sunsilk",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Sunsilk 180ml, 340ml and 650ml Shampoo Bottles. Available in select outlets.",
+   "score": 0.9886,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 16,
+   "text": "*1 piece of 24K Gold Plated Hair Jewellery MRP (inclusive of all taxes). Free with Select",
+   "score": 0.9856,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Otfer valid till stocks last.",
+   "score": 0.9477,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "2501.2017B",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (529x871); small print may be unreadable"
+ ],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.27,
+  "extract": 25.16
+ }
+}

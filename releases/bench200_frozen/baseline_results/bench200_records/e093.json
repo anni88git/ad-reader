@@ -1,0 +1,674 @@
+{
+ "image": "e093_Aashirvaad_Atta_401.jpg",
+ "fields": {
+  "brand": {
+   "value": "Aashirvaad Svasti",
+   "evidence": "AASHIRVAAD svasti",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Aashirvaad",
+    "partial match only - confirm: Aashirvaad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 84,
+     "name": "Aashirvaad",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Pure Cow Ghee",
+   "evidence": "PURE COW GHEE",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Aashirvaad Svasti",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Aashirvaad Svasti",
+   "evidence": "AASHIRVAAD svasti",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Maa kehti hai, cooking mein short-cut loge toh swaad kho doge",
+   "evidence": "Maa kehti hai,\ncooking mein short-cut loge toh\nswaad kho doge",
+   "english": "Mother says, if you take short-cuts in cooking, you will lose the taste",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 100% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Presenting Aashirvaad Svasti ghee made using special 'SloCook' Process",
+   "evidence": "Presenting Aashirvaad Svasti ghee made using special 'SloCook' Process",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Maa always says,\n\"Never take short-cuts in cooking!\"\nIntroducing Aashirvaad Svasti\nPure Cow Ghee\nwhich has been prepared with\nspecial 'SloCook' Process.\nIn this process, ghee is cooked over\ngradually increased temperatures\nfor about 3.5 hours\nwhich enhances its\nnatural aroma and taste.",
+   "evidence": "Maa always says,\n\"Never take short-cuts in cooking!\"\nIntroducing Aashirvaad Svasti\nPure Cow Ghee\nwhich has been prepared with\nspecial 'SloCook' Process.\nIn this process, ghee is cooked over\ngradually increased temperatures\nfor about 3.5 hours\nwhich enhances its\nnatural aroma and taste.",
+   "english": "Mother always says, never take short-cuts in cooking! Introducing Aashirvaad Svasti Pure Cow Ghee which has been prepared with special 'SloCook' Process. In this process, ghee is cooked over gradually increased temperatures for about 3.5 hours which enhances its natural aroma and taste.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Visit us at: www.aashirvaadsvasti.in",
+   "evidence": "Visit us at: www.aashirvaadsvasti.in",
+   "english": "Visit www.aashirvaadsvasti.in",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "Hindi: OCR found no devanagari text",
+    "second model disagrees - suggestion: English",
+    "removed Hindi: OCR found no text in that script and the second model does not list it - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Aashirvaad Svasti Pure Cow Ghee",
+    "made using special SloCook Process",
+    "cooked over gradually increased temperatures for about 3.5 hours",
+    "enhances natural aroma and taste"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Aashirvaad Svasti Pure Cow Ghee is made using the special SloCook Process, where ghee is cooked over gradually increased temperatures for about 3.5 hours to enhance its natural aroma and taste. Visit www.aashirvaadsvasti.in for more information.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.aashirvaadsvasti.in",
+    "evidence": "Visit us at: www.aashirvaadsvasti.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "SloCook Process",
+    "evidence": "SloCook -PROCESS-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "COOKED FOR 3.5 HOURS",
+    "evidence": "COOKED FOR 3.5 HOURS",
+    "english": "Cooked for 3.5 hours",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Pure Cow Ghee",
+    "evidence": "PURE COW GHEE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Rich Aroma",
+    "evidence": "Rich Aroma",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Aashirvaad Svasti Pure Cow Ghee",
+  "made using special SloCook Process",
+  "cooked over gradually increased temperatures for about 3.5 hours",
+  "enhances natural aroma and taste"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Maa kehti hai,",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Endsring Valon",
+   "score": 0.8041,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "cooking mein short-cut loge toh",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "swaad kho doge",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Presenting Aashirvaad Svasti ghee made using special `SloCook´ Process",
+   "score": 0.977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "SPECIAL",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "SloCook",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "AASHIRUAAD",
+   "score": 0.8494,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "-PROCESS-",
+   "score": 0.9759,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "svasti",
+   "score": 0.9839,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "C",
+   "score": 0.6357,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "COKEDOR3SSHONS",
+   "score": 0.6955,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "Aedirsall aoe",
+   "score": 0.5081,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "Richhh Aoma",
+   "score": 0.7639,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "AASHIRVAAD",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "prdiet t jenit",
+   "score": 0.5366,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "Maa always says,",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "svasti",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "\"Never take short-cuts in cooking!\"",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "PURE COW GHEE",
+   "score": 0.984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Introducing Aashirvaad Svasti",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "Pure Cow Ghee",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "AASHIRVAAD",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "SIook",
+   "score": 0.7251,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "-ROCCS-",
+   "score": 0.6158,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "which has been prepared with",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "svasti",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "special 'SloCook'Process.",
+   "score": 0.9821,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "In this process, ghee is cooked over",
+   "score": 0.9846,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "PURE COW GHEE",
+   "score": 0.9947,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "gradually increased temperatures",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "SloCook",
+   "score": 0.9634,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "-PROCESS",
+   "score": 0.788,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "for about 3.5 hours",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "SloCool",
+   "score": 0.9806,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 36,
+   "text": "which enhances its",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "natural aroma and taste.",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "D",
+   "score": 0.6178,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "Serving Suggestion",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "Creative Visualization",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "Visit us at: www.aashirvaadsvasti.in",
+   "score": 0.9879,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "*Approximate values",
+   "score": 0.9974,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 10.56,
+  "extract": 17.98
+ }
+}

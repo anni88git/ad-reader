@@ -1,0 +1,71 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Renault",
+ "product": {
+  "any_of": [
+   "Kiger",
+   "Renault Kiger",
+   "New Renault Kiger"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "Petrol RXE"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": {
+  "any_of": [
+   "New Renault Kiger sporty smart stunning",
+   "sporty smart stunning"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "sporty smart stunning",
+   "special loyalty benefits",
+   null
+  ]
+ },
+ "price": 545000,
+ "websites": {
+  "required": [
+   "renault.co.in"
+  ],
+  "optional": [
+   "www.renault.co.in/offers"
+  ]
+ },
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

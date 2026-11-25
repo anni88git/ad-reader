@@ -1,0 +1,635 @@
+{
+ "image": "048_001_kia_from_screenshot_blur_jpeg.jpg",
+ "fields": {
+  "brand": {
+   "value": "Kia",
+   "evidence": "Kia",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Kia' (#1)"
+   ],
+   "matched_id": 1,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 100.0
+    },
+    {
+     "id": 126,
+     "name": "Nokia",
+     "score": 75.0
+    },
+    {
+     "id": 80,
+     "name": "Kissan",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Sorento",
+   "evidence": "Sorento",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Sorento' (#1)"
+   ],
+   "matched_id": 1,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Sorento",
+     "score": 100.0
+    },
+    {
+     "id": 3,
+     "name": "Sonet",
+     "score": 66.7
+    },
+    {
+     "id": 2,
+     "name": "Seltos",
+     "score": 61.5
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Kia India",
+   "evidence": "Kia",
+   "english": null,
+   "confidence": 0.5,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value is not supported by its own evidence quote",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Allied Kia / West Coast Kia",
+    "exact match to existing record 'Kia India' (#1)",
+    "record #1 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 1,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 100.0
+    },
+    {
+     "id": 8,
+     "name": "Hyundai Motor India Ltd",
+     "score": 67.4
+    },
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 67.4
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "Superior tech and elegance, beyond the class.",
+   "evidence": "Superior tech and elegance, beyond the class.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Movement that inspires",
+   "evidence": "Movement that inspires",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (50%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: Introductory price starts at"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with those thoughtfully designed rows, 8-way sophisticated interiors, intelligent technology, and advanced safety. It is tuned to deliver superior drives on highways and in cities. Because the journey should feel as amazing as the destination.",
+   "evidence": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with those thoughtfully designed rows, 8-way sophisticated interiors, intelligent technology, and advanced safety. It is tuned to deliver superior drives on highways and in cities. Because the journey should feel as amazing as the destination.",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (43%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Book now",
+   "evidence": "Book now",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (43%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 2799000,
+   "evidence": "₹ 27 99 000",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (2,799,000)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model saw a QR code; detector could not confirm (small print?)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Kia Sorento with feature list",
+    "introductory price Rs 27 99 000",
+    "scan QR to book",
+    "toll-free and dealer numbers",
+    "3+2 year warranty",
+    "2 dealers in Udaipur"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Kia Sorento is advertised with an introductory price starting at ₹ 27 99 000. Readers can book now, call the toll-free number, visit the website, or scan the QR code.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001025005",
+     "kind": "toll_free",
+     "as_printed": "1800 102 5005"
+    },
+    "evidence": "Call 1800 102 5005",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 2799000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Introductory price starts at",
+     "item": "Kia Sorento",
+     "as_printed": "₹ 27 99 000"
+    },
+    "evidence": "₹ 27 99 000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (2,799,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.kia.com",
+    "evidence": "Visit www.kia.com",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (42%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "Kia India",
+    "evidence": "Look for 'Kia India'",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (40%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "Bhawani, Udaipur",
+    "evidence": "Allied Kia Bhawani, Udaipur",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (37%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Udaipur",
+    "evidence": "West Coast Kia Udaipur",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (42%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "8-way sophisticated interiors",
+    "evidence": "8-way sophisticated interiors",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (50%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "intelligent technology",
+    "evidence": "intelligent technology",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (48%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "advanced safety",
+    "evidence": "advanced safety",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (57%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Allied Kia",
+     "area": "Bhawani",
+     "city": "Udaipur",
+     "phones": [],
+     "advertiser_candidates": [
+      {
+       "id": 2,
+       "name": "Allied Kia",
+       "score": 100.0
+      }
+     ],
+     "suggested_advertiser_id": 2,
+     "advertiser_id": null,
+     "suggested_city_id": 10,
+     "city_id": null
+    },
+    "evidence": "Allied Kia Bhawani, Udaipur",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (37%) - possible misreading or invention",
+     "dealer name not confirmed by OCR",
+     "too uncertain to fill - shown as a suggestion only",
+     "dealer: exact match to existing record 'Allied Kia' (#2); city: exact match to existing record 'Udaipur' (#10)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "West Coast Kia",
+     "area": null,
+     "city": "Udaipur",
+     "phones": [],
+     "advertiser_candidates": [
+      {
+       "id": 3,
+       "name": "West Coast Kia",
+       "score": 100.0
+      }
+     ],
+     "suggested_advertiser_id": 3,
+     "advertiser_id": null,
+     "suggested_city_id": 10,
+     "city_id": null
+    },
+    "evidence": "West Coast Kia Udaipur",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (42%) - possible misreading or invention",
+     "dealer name not confirmed by OCR",
+     "too uncertain to fill - shown as a suggestion only",
+     "dealer: exact match to existing record 'West Coast Kia' (#3); city: exact match to existing record 'Udaipur' (#10)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Kia Sorento with feature list",
+  "introductory price Rs 27 99 000",
+  "scan QR to book",
+  "toll-free and dealer numbers",
+  "3+2 year warranty",
+  "2 dealers in Udaipur"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Kia Sorento",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Superior tech and elegance.",
+   "score": 0.9718,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "beyond the class.",
+   "score": 0.9725,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "K",
+   "score": 0.9116,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "2799000",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "wer Tat mpen",
+   "score": 0.6526,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "三三品册",
+   "score": 0.7521,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "Kia Service",
+   "score": 0.998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (922x745); small print may be unreadable",
+  "image looks blurry (sharpness 47)"
+ ],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.76,
+  "extract": 21.96
+ }
+}

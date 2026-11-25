@@ -1,0 +1,68 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Dayananda Sagar University",
+   "DSU"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Admissions Open 2022",
+   "DSAT"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "other"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Education > Universities & Colleges",
+   "Education"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Admissions Open 2022",
+   "A Place to Grow, Excel, Invent & Innovate!"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "websites": [
+  "dsu.edu.in"
+ ],
+ "emails": [
+  "dsat@dsu.edu.in"
+ ],
+ "_uncertain_fields": []
+}

@@ -1,0 +1,666 @@
+{
+ "image": "d009_Navbharat_Times_9.jpg",
+ "fields": {
+  "brand": {
+   "value": "Orasore",
+   "evidence": "ORASORE",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Mouth Ulcer Tablet",
+   "evidence": "Mouth Ulcer Tablet",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Wings Pharma",
+   "evidence": "WINGS PHARMA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "मुँह के छाले",
+   "evidence": "मुँह के छाले",
+   "english": "Mouth Ulcers",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (90%)",
+    "wording is not an exact match to the printed text (closest OCR reading 90% similar) - check spelling - suggestion: मूुहके छाले",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "जेल दर्द से तुरन्त राहत",
+   "evidence": "जेल दर्द से तुरन्त राहत",
+   "english": "Gel instant relief from pain",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (84%)",
+    "wording is not an exact match to the printed text (closest OCR reading 91% similar) - check spelling - suggestion: दर्द से तुरन्त राहत",
+    "second model disagrees - suggestion: जैल वदर से तुरन्त राहत"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "मिस कॉल दीजिए",
+   "evidence": "मिस कॉल दीजिए",
+   "english": "Give a missed call",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #14"
+   ],
+   "matched_id": 14,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Orasore gel and tablet for mouth ulcers",
+    "Gel gives instant relief from pain",
+    "Tablet gives relief from within",
+    "Apply 3 times a day, one time",
+    "Take tablet morning and evening for 5 days after meals with water",
+    "Available at medical stores",
+    "Missed call on 801-008-4499"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Orasore gel and tablets provide relief from mouth ulcers. The gel gives instant pain relief; take one tablet morning and evening for 5 days after meals with water. Available at medical stores. Give a missed call on 801-008-4499.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8010084499",
+     "kind": "mobile",
+     "as_printed": "801-008-4499"
+    },
+    "evidence": "801-008-4499",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "दर्द से तुरन्त राहत",
+    "evidence": "दर्द से तुरन्त राहत",
+    "english": "Instant relief from pain",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "दे अंदर से राहत",
+    "evidence": "दे अंदर से राहत",
+    "english": "Gives relief from within",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "EFFECTIVE RELIEF FROM MOUTH ULCERS",
+    "evidence": "EFFECTIVE RELIEF FROM MOUTH ULCERS",
+    "english": "Effective relief from mouth ulcers",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Orasore gel and tablet for mouth ulcers",
+  "Gel gives instant relief from pain",
+  "Tablet gives relief from within",
+  "Apply 3 times a day, one time",
+  "Take tablet morning and evening for 5 days after meals with water",
+  "Available at medical stores",
+  "Missed call on 801-008-4499"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "मूुहके",
+   "score": 0.8669,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "छाले",
+   "score": 0.9885,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "ओरासोर",
+   "score": 0.9965,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "2022p",
+   "score": 0.5513,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "Ritaffayin Folic Acid,",
+   "score": 0.7672,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "BactliesSpores lablets",
+   "score": 0.7059,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "जैल",
+   "score": 0.9963,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "टैबलेट",
+   "score": 0.9843,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": "ORASORE",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "दर्द से तुरन्त",
+   "score": 0.9425,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "राहत",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "दे अंदर से राहत",
+   "score": 0.9933,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Mouth Ulcer Tablet",
+   "score": 0.9039,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "ORASORE",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "10 lablet",
+   "score": 0.5671,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "24",
+   "score": 0.5821,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "uepsfyd oyj iq popaup se obesag,",
+   "score": 0.8016,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "3",
+   "score": 0.9985,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "ORASORE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "MOUTH",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "सुबह",
+   "score": 0.9976,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "ULCERS",
+   "score": 0.969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "शाम",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "Mouth Ulcer",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "घंटे में",
+   "score": 0.9492,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 26,
+   "text": "minute",
+   "score": 0.9899,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 27,
+   "text": "5दिन",
+   "score": 0.9575,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "Tablet",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "एक बार",
+   "score": 0.9331,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "WINGS",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "ORASORE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "खाने के बाद",
+   "score": 0.9349,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "EFFECTINE RELIEF FROM MOUTH ULCERS",
+   "score": 0.9137,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "PHARMA",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "2minute",
+   "score": 0.9964,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 36,
+   "text": "पानी के साथ लें",
+   "score": 0.9748,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 37,
+   "text": "मिस कॉल दीजिए",
+   "score": 0.9625,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "मेडिकल",
+   "score": 0.9853,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "स्टोर",
+   "score": 0.9924,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "पर",
+   "score": 0.9997,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 41,
+   "text": "उपलब्ध",
+   "score": 0.973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "801-008-4499",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (705x606); small print may be unreadable"
+ ],
+ "record_flags": [
+  "9 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 21.91,
+  "extract": 6.95
+ }
+}

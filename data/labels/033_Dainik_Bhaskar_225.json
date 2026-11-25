@@ -1,0 +1,78 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "Hindi"
+ ],
+ "brand": "Dainik Bhaskar",
+ "product": {
+  "any_of": [
+   "Bhaskar Quiz League",
+   "भास्कर क्विज लीग"
+  ]
+ },
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "service_provider",
+   "other"
+  ]
+ },
+ "category": "Media & Entertainment",
+ "headline": {
+  "any_of": [
+   "यदि हर रोज़ आप देख रहे हैं क्रिकेट, तो हर रोज़ आप जीत सकते हैं ढेरों इनाम",
+   "यदि हर रोज़ आप देख रहे हैं क्रिकेट, तो हर रोज़ आप जीत सकते हैं ढेरों",
+   "भास्कर क्विज लीग"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "तो अभी खोलिये स्पोर्ट्स पेज, और खेलिए भास्कर क्विज लीग",
+   "पढ़ो और जीतो",
+   "सच्ची बात, बेधड़क",
+   "भास्कर क्विज लीग पढ़ो और जीतो",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "ambiguous"
+  },
+  {
+   "field": "ad_type",
+   "why": "ambiguous"
+  },
+  {
+   "field": "category",
+   "why": "ambiguous"
+  },
+  {
+   "field": "language",
+   "why": "ambiguous"
+  }
+ ]
+}

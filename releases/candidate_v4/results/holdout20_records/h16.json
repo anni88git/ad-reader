@@ -1,0 +1,662 @@
+{
+ "image": "h16_Daily_Thanthi_148.jpg",
+ "fields": {
+  "brand": {
+   "value": "Epson",
+   "evidence": "EPSON",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Pepsi, Sony"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 90,
+     "name": "Pepsi",
+     "score": 66.7
+    },
+    {
+     "id": 141,
+     "name": "Sony",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "EcoTank",
+   "evidence": "EcoTank",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: L3260",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": "L3260",
+   "evidence": "L3260",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Epson",
+   "evidence": "EPSON",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "சூழல் புரட்சியில் ஒன்று சேர்ந்திடுவீர்",
+   "evidence": "சூழல் புரட்சியில் ஒன்று சேர்ந்திடுவீர்",
+   "english": "Join the environmental revolution",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: குழல் புரட்சியில் ஒன்று சேர்ந்திடுவீர்"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "உங்கள் வீட்டிலும் வேலை செய்யும் இடத்திலும் சூழலுக்கேற்ற மலிவான பிரிண்டிங்கிற்கு மாறிடுங்கள்",
+   "evidence": "உங்கள் வீட்டிலும் வேலை செய்யும் இடத்திலும் சூழலுக்கேற்ற மலிவான பிரிண்டிங்கிற்கு மாறிடுங்கள்",
+   "english": "Switch to eco-friendly affordable printing at home and workplace",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "மேலும் விவரங்களுக்கு அழைக்க வேண்டிய தொலைபேசி எண்கள் 97916 52148.",
+   "evidence": "மேலும் விவரங்களுக்கு அழைக்க வேண்டிய தொலைபேசி எண்கள் 97916 52148.",
+   "english": "Call 97916 52148 for more details.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Home Appliances",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "nothing in the ad names a product this sub-category covers - the master list may lack the right sub-category; confirm (or use the top level)",
+    "category #27",
+    "record #27 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 27,
+   "candidates": [
+    {
+     "id": 27,
+     "name": "Retail & Consumer Electronics > Home Appliances",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Tamil",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://jointherevolution.co.in/EcoTankPrinters)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://jointherevolution.co.in/EcoTankPrinters",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Epson EcoTank printer L3260",
+    "Heat-Free Technology",
+    "low power consumption",
+    "low e-waste",
+    "low printing cost",
+    "call 97916 52148 for details",
+    "visit epson.co.in/EcoTank"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Epson EcoTank L3260 printer with Heat-Free Technology offers low power consumption, low e-waste and low printing cost; call 97916 52148 for more details or visit epson.co.in/EcoTank.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9791652148",
+     "kind": "mobile",
+     "as_printed": "97916 52148"
+    },
+    "evidence": "97916 52148",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "epson.co.in/ecotank",
+    "evidence": "epson.co.in/EcoTank",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "மிகக் குறைவான மின்சார பயன்பாடு*",
+    "evidence": "மிகக் குறைவான மின்சார பயன்பாடு*",
+    "english": "Very low power consumption*",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "குறைவான இ-வேஸ்ட்*",
+    "evidence": "குறைவான இ-வேஸ்ட்*",
+    "english": "Low e-waste*",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "மலிவான பிரிண்டிங் விலை*",
+    "evidence": "மலிவான பிரிண்டிங் விலை*",
+    "english": "Affordable printing price*",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "products_on_offer": {
+   "value": "Epson EcoTank L3260",
+   "evidence": "Epson EcoTank L3260",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Epson EcoTank printer L3260",
+  "Heat-Free Technology",
+  "low power consumption",
+  "low e-waste",
+  "low printing cost",
+  "call 97916 52148 for details",
+  "visit epson.co.in/EcoTank"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "EPSON",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "சூழல் புரட்சியில்",
+   "score": 0.9818,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "ஒன்று",
+   "score": 0.9671,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "சேர்ந்திடுவீர்",
+   "score": 0.9907,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "உங்கள் வீட்டிலும் வேலை செய்யும்",
+   "score": 0.975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "இடத்திலும் சூழலுக்கேற்ற மலிவான",
+   "score": 0.962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "மிகக் குறைவான்",
+   "score": 0.96,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "பிரிண்டிங்கிற்கு மாறிடுங்கள்",
+   "score": 0.9583,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "மின்சார ப்யன்பாடு",
+   "score": 0.9605,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "குறைவான",
+   "score": 0.9644,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "இ-வேஸ்ட்*",
+   "score": 0.937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "மலிவான்",
+   "score": 0.9681,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "ऱ",
+   "score": 0.6787,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "பிரிண்டிங் விலை*",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "EPSON",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Eddtank",
+   "score": 0.8201,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "P0.",
+   "score": 0.4896,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "GODY",
+   "score": 0.7215,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "L3260",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "POWERED BY",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "HEAT-FREETECHNOLOGY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "*மேலும் அறிய,",
+   "score": 0.9598,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "INDIA'S",
+   "score": 0.9949,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "குறித்து அறிய",
+   "score": 0.9847,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "ப்ராடக்ட்கள்",
+   "score": 0.9703,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "எப்சன் ஈகோஃீஃடேங்க் பிரிண்டர்கள்",
+   "score": 0.9745,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "No.",
+   "score": 0.9994,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "πepson.co.in/EcoTank",
+   "score": 0.9729,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "INKJET",
+   "score": 0.9887,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "செய்திடுங்கள்",
+   "score": 0.9888,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "ஸ்ேகேன்",
+   "score": 0.9458,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "PRINTER",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "மேலும் விவரங்களுக்கு அழைக்க வேண்டிய தொலைபேசி எண்கள் 97916 52148.",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "Source: IDC Asia Pacific Hardcopy Peripheral Tracker CY2022. Volume market share of A4 Inkjet printers and MFPs.",
+   "score": 0.9869,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "8 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 13.43,
+  "extract": 9.67
+ }
+}

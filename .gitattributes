@@ -1,0 +1,3 @@
+# Release snapshots are verified byte-for-byte against SHA256SUMS: never convert their line endings.
+releases/** -text
+*.sqlite binary

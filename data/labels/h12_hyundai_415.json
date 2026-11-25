@@ -1,0 +1,78 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Hyundai",
+ "product": {
+  "any_of": [
+   "Aura",
+   "Hyundai Aura",
+   "Hyundai AURA"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "1.2 l Eco TORQ",
+   "Diesel",
+   "1.2 l Eco TORQ Diesel",
+   "1.2 l U2"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": "Diesel fuels weekends.",
+ "sub_headline": {
+  "any_of": [
+   "Hyundai AURA fuelled by 1.2 l Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "Hyundai presents the widest and the most powerful range of diesel engines.",
+   null
+  ]
+ },
+ "price": null,
+ "emails": [],
+ "qr_code_present": false,
+ "category_attributes": {
+  "fuel_type": {
+   "any_of": [
+    [
+     "Diesel"
+    ],
+    null
+   ]
+  },
+  "ev_type": {
+   "any_of": [
+    "Non-EV",
+    null
+   ]
+  }
+ },
+ "_uncertain_fields": []
+}

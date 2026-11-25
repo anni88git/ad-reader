@@ -1,0 +1,708 @@
+{
+ "image": "e076_Ajit_Jalandhar_375.jpg",
+ "fields": {
+  "brand": {
+   "value": "Black Diamond",
+   "evidence": "Black Diamond",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Kali Mehndi",
+   "evidence": "काली मेंहदी",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: Kali Methane",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "headline": {
+   "value": "मुन्ड़े हैं परेशां न काल दीन परेशां",
+   "evidence": "मुन्ड़े हैं परेशां न काल दीन परेशां",
+   "english": "Boys are worried, no black hair worry",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (41%); devanagari text is hard for OCR",
+    "second model disagrees - suggestion: M.D.D. है प्यारिश रे नाल दिल प्यारिश"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "मरिंसी हैं बाल नाल तुरबन",
+   "evidence": "मरिंसी हैं बाल नाल तुरबन",
+   "english": "Dyed hair, natural turban",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (35%); devanagari text is hard for OCR",
+    "second model disagrees - suggestion: मिठी रे वुलन नाल अवघुन"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "अपने बालोंंकी ? तुरली घुर भत्तभ वे रेच",
+   "evidence": "अपने बालोंंकी ? तुरली घुर भत्तभ वे रेच",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (63%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #25"
+   ],
+   "matched_id": 25,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees",
+    "62 Devanagari words read but almost none are common Hindi words - could be Marathi / another language, or OCR misreading another script (Gurmukhi, Bengali, Gujarati)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 30,
+   "evidence": "30/-",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (30)",
+    "no currency symbol",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Black Diamond Kali Mehndi hair dye",
+    "99.9% pure henna powder",
+    "no ammonia, no PPD",
+    "no side effects",
+    "30 rupees for 2 extra packets, 15 rupees for 1 extra packet"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Black Diamond Kali Mehndi is a natural hair dye made from 99.9% pure henna powder with no ammonia or PPD and no side effects. Extra sachets cost 30 rupees for 2 or 15 rupees for 1; order via Amazon or call +91-9354335279.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9354335279",
+     "kind": "mobile",
+     "as_printed": "+91-9354335279"
+    },
+    "evidence": "+91-9354335279",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 30,
+     "currency": "INR",
+     "kind": "price",
+     "label": "3े 2 थप्च रेललर",
+     "item": "extra packets",
+     "as_printed": "30/-"
+    },
+    "evidence": "30/-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (30)",
+     "no currency symbol",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 15,
+     "currency": "INR",
+     "kind": "price",
+     "label": "शा 1 थण डर",
+     "item": "extra packet",
+     "as_printed": "15-"
+    },
+    "evidence": "15-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (15)",
+     "no currency symbol",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [
+   {
+    "value": "wdbnndtoanaoca Emat tonnctirDjalcom",
+    "evidence": "wdbnndtoanaoca Emat tonnctirDjalcom",
+    "english": null,
+    "confidence": 0.3,
+    "status": "missing",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "not a valid e-mail address",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "99.9% कालू है विथ भउरन रेट",
+    "evidence": "99.9% कालू है विथ भउरन रेट",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (37%); devanagari text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कालू है वच्ची रे गाट",
+    "evidence": "कालू है वच्ची रे गाट",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (44%); devanagari text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कालू है भउरन है भव् थामवट",
+    "evidence": "कालू है भउरन है भव् थामवट",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (35%); devanagari text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कालू है नू है भउर रेट",
+    "evidence": "कालू है नू है भउर रेट",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (31%); devanagari text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "SINCE 1975",
+    "evidence": "SINCE 1975",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Black Diamond Kali Mehndi hair dye",
+  "99.9% pure henna powder",
+  "no ammonia, no PPD",
+  "no side effects",
+  "30 rupees for 2 extra packets, 15 rupees for 1 extra packet"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "इभ वि म्रभ बौभडी चै.. धब मछे दल",
+   "score": 0.771,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "घेत्वीभडी चठ. छ् लही ्उेभल वबे",
+   "score": 0.6775,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "Diamond",
+   "score": 0.9396,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "ब्लैक",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "SINCE1975",
+   "score": 0.9953,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "डाईमन्ड",
+   "score": 0.8835,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "मरिंट द्णले",
+   "score": 0.6605,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "काली मेंहदी",
+   "score": 0.9921,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "वेभत वलत दित",
+   "score": 0.6765,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "उवकुक वैभीवल",
+   "score": 0.5176,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "edg",
+   "score": 0.8389,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "वैभीवर",
+   "score": 0.8251,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "H.63",
+   "score": 0.9449,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "वठ ने उबहे हल",
+   "score": 0.5482,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "हवमर यंणरे चर",
+   "score": 0.4904,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "Hfjetè",
+   "score": 0.8953,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "वाक",
+   "score": 0.7426,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "तप्ल बतपुत",
+   "score": 0.6094,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "भडे वुभ्म्लटी ? इुत्ली घुर भत्तभ वे रेच",
+   "score": 0.7362,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "मुफ्ता।2मरण के समपर",
+   "score": 0.6248,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "वपो भररी रे गाट",
+   "score": 0.6125,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "SHAMTA",
+   "score": 0.8737,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 23,
+   "text": "HAIR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "99.9%",
+   "score": 0.8568,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "COLOUR",
+   "score": 0.9981,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "Perésxe 167585",
+   "score": 0.4913,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "MIMUTES",
+   "score": 0.9208,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "Black Diamond",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "दस हुसक उ भव् थ।",
+   "score": 0.4501,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "Kali Mehunda",
+   "score": 0.8467,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "30/- 3े 2 थप्च रेललर 15- शा 1 थण डर",
+   "score": 0.5598,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "faxfagt)ré +91-9354335279",
+   "score": 0.7992,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "à",
+   "score": 0.5559,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "amazon",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "wdbnndtoanaoca Emat tonnctirDjalcom",
+   "score": 0.5592,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (448x483); small print may be unreadable"
+ ],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.49,
+  "extract": 26.89
+ }
+}

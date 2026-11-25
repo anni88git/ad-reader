@@ -1,0 +1,79 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Tamil",
+    "English"
+   ],
+   [
+    "Tamil"
+   ]
+  ]
+ },
+ "brand": "Epson",
+ "product": {
+  "any_of": [
+   "EcoTank",
+   "Epson EcoTank",
+   "EcoTank printers",
+   "Epson EcoTank printers",
+   "L3260"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "L3260"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Retail & Consumer Electronics",
+   "Retail & Consumer Electronics > Mobiles & Computers",
+   "Retail & Consumer Electronics > Home Appliances"
+  ]
+ },
+ "headline": "சூழல் புரட்சியில் ஒன்று சேர்ந்திடுவீர்",
+ "sub_headline": {
+  "any_of": [
+   "உங்கள் வீட்டிலும் வேலை செய்யும் இடத்திலும் சூழலுக்கேற்ற மலிவான பிரிண்டிங்கிற்கு மாறிடுங்கள்",
+   "Powered by Heat-Free Technology",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "9791652148"
+ ],
+ "websites": [
+  "epson.co.in/EcoTank"
+ ],
+ "emails": [],
+ "qr_code_present": true,
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

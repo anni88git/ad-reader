@@ -1,0 +1,70 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Muthoot Finance",
+   "Muthoot"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Gold Loan",
+   "Muthoot Finance Gold Loan",
+   "Gold Loan@Home"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "manufacturer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Banking & Finance"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "खोलिये खुशियों की तिजोरी!"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ],
+   [
+    "Hindi"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

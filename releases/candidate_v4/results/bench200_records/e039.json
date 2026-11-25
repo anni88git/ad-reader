@@ -1,0 +1,935 @@
+{
+ "image": "e039_Mid_Day_Paper_688.jpg",
+ "fields": {
+  "brand": {
+   "value": "Fashion Factory",
+   "evidence": "FASHION FACTORY",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Reliance",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Reliance",
+   "evidence": "Reliance",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "partial match only - confirm: Reliance Digital"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 15,
+     "name": "Reliance Digital",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "NO CONDITIONS SALE",
+   "evidence": "NO CONDITIONS SALE",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 77% similar) - check spelling - suggestion: CONDITIONS",
+    "second model disagrees - suggestion: NOW OPEN IN MUMBAI"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "FLAT 50% OFF",
+   "evidence": "FLAT 50% OFF",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (67%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: NO CONDITIONS SALE"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ON ALL APPARELS, LUGGAGE AND FOOTWEAR",
+   "evidence": "ON ALL APPARELS, LUGGAGE AND FOOTWEAR",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Scan for store location",
+   "evidence": "Scan for store location",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "FASHION FACTORY BRANDS FOR LESS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "FASHION FACTORY BRANDS FOR LESS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://relff.com/F50print?r=qr)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://relff.com/F50print?r=qr",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Fashion Factory No Conditions Sale",
+    "Flat 50% off on all apparel, luggage and footwear",
+    "Till 16th April",
+    "Now open in Mumbai",
+    "Brands include Levi's, Puma, Spyker, Pepe Jeans London, Raymond, Adidas, Lee, Skechers, Park Avenue, Lee Cooper, Killer, Wrangler",
+    "Store manager phone numbers listed",
+    "Scan QR for store location"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Fashion Factory is having a No Conditions Sale with flat 50% off on all apparel, luggage and footwear until 16th April. The store is now open in Mumbai with multiple locations listed.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9372509669",
+     "kind": "mobile",
+     "as_printed": "9372509669"
+    },
+    "evidence": "STORE MANAGER :9372509669 / 9833109010 / 9819607655",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9833109010",
+     "kind": "mobile",
+     "as_printed": "9833109010"
+    },
+    "evidence": "STORE MANAGER :9372509669 / 9833109010 / 9819607655",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9819607655",
+     "kind": "mobile",
+     "as_printed": "9819607655"
+    },
+    "evidence": "STORE MANAGER :9372509669 / 9833109010 / 9819607655",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "@rel_fashionfactory",
+    "evidence": "@rel_fashionfactory",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "@FashionF_IND",
+    "evidence": "@FashionF_IND",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "ANDHERI (E), TIMES SQUARE",
+    "evidence": "STORES IN MUMBAI:ANDHERI (E), TIMES SQUARE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KANDIVALI (W), MAHAVIR NAGAR, IST FLOOR,V SOUK MALL",
+    "evidence": "KANDIVALI (W), MAHAVIR NAGAR, IST FLOOR,V SOUK MALL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KALYAN, SARVODAY MALL",
+    "evidence": "KALYAN, SARVODAY MALL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MALAD (W), UMANG TOWER, MINDSPACE",
+    "evidence": "MALAD (W), UMANG TOWER, MINDSPACE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MIRA ROAD, SPACE 912, PLEASANT PARK",
+    "evidence": "MIRA ROAD, SPACE 912, PLEASANT PARK",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "THANE (R MALL, GHODBUNDER ROAD | KORUM MALL)",
+    "evidence": "THANE (R MALL, GHODBUNDER ROAD | KORUM MALL)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "VASHI, RAGHULEELA MALL",
+    "evidence": "VASHI, RAGHULEELA MALL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "VASAI (W), DATTANI CUBE MALL, NEAR SMART BAZAAR",
+    "evidence": "VASAI (W), DATTANI CUBE MALL, NEAR SMART BAZAAR",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "FLAT 50% OFF",
+    "evidence": "FLAT 50% OFF",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (67%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Fashion Factory",
+     "area": "Mumbai",
+     "city": "Mumbai",
+     "phones": [
+      "9372509669",
+      "9833109010",
+      "9819607655"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI:ANDHERI (E), TIMES SQUARE KANDIVALI (W), MAHAVIR NAGAR, IST FLOOR,V SOUK MALL KALYAN, SARVODAY MALL | MALAD (W), UMANG TOWER, MINDSPACE | MIRA ROAD, SPACE 912, PLEASANT PARK THANE (R MALL, GHODBUNDER ROAD | KORUM MALL) VASHI, RAGHULEELA MALL | VASAI (W), DATTANI CUBE MALL, NEAR SMART BAZAAR STORE MANAGER :9372509669 / 9833109010 / 9819607655",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Fashion Factory",
+   "evidence": "FASHION FACTORY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "ALL APPARELS, LUGGAGE AND FOOTWEAR",
+   "evidence": "ON ALL APPARELS, LUGGAGE AND FOOTWEAR",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "FLAT 50% OFF",
+   "evidence": "FLAT 50% OFF",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (67%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "Till 16th April",
+   "evidence": "Till 16th April",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Fashion Factory No Conditions Sale",
+  "Flat 50% off on all apparel, luggage and footwear",
+  "Till 16th April",
+  "Now open in Mumbai",
+  "Brands include Levi's, Puma, Spyker, Pepe Jeans London, Raymond, Adidas, Lee, Skechers, Park Avenue, Lee Cooper, Killer, Wrangler",
+  "Store manager phone numbers listed",
+  "Scan QR for store location"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Reliance",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "NOW",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Growth is Life",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "OPEN",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "IN",
+   "score": 0.9993,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 6,
+   "text": "MUMBAI",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "FASHION",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "NO",
+   "score": 0.9996,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 9,
+   "text": "FACTORY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "CONDITIONS",
+   "score": 0.9783,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "BRANDS FOR LESS",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "SALE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "50FF",
+   "score": 0.9747,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "Till 16th April",
+   "score": 0.9683,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "FLAT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Levi's",
+   "score": 0.8457,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "spykar2",
+   "score": 0.986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "PepeJeams.",
+   "score": 0.9053,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "PUMA",
+   "score": 0.9975,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "LONDON",
+   "score": 0.9999,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 21,
+   "text": "R raymond",
+   "score": 0.9403,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "Lee",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "@",
+   "score": 0.6695,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "adidas",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "SKECHERS",
+   "score": 0.9999,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "LeeCoper",
+   "score": 0.9112,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "KILLER>K",
+   "score": 0.9582,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "Wrangler",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "PARK AVENUE",
+   "score": 0.9751,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 30,
+   "text": "this is us",
+   "score": 0.9083,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "ON ALL APPARELS,",
+   "score": 0.9869,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "STORES IN MUMBAI:ANDHERI (E), TIMES SQUARE",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "LUGGAGEAND FOOTWEAR",
+   "score": 0.9814,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "KANDIVALI (W), MAHAVIR NAGAR, IST FLOOR,V SOUK MALL",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "KALYAN, SARVODAY MALL | MALAD (W), UMANG TOWER,",
+   "score": 0.9673,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "MINDSPACE | MIRA ROAD, SPACE 912, PLEASANT PARK",
+   "score": 0.9803,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "THANE (R MALL, GHODBUNDER ROAD | KORUM MALL)",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "VASHI, RAGHULEELA MALL I VASAI (W), DATTANI CUBE MALL,",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "NEAR SMART BAZAAR",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "STOREMANAGER:9372509669/9833109010/9819607655",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "@rel_fashionfactory",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "@FashionF_IND",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "@rel.fashionfactory",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "Scan for store location",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "image looks blurry (sharpness 34)"
+ ],
+ "record_flags": [
+  "10 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 14.6,
+  "extract": 28.55
+ }
+}

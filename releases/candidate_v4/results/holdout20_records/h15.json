@@ -1,0 +1,1477 @@
+{
+ "image": "h15_Mid_Day_Paper_624.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Nexa Black Edition",
+   "evidence": "INTRODUCING NEXA BLACK EDITION.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Nexa Nerul / Nexa Vashi Palm Beach Road / Nexa Vile Parle West / Nexa Andheri East / Nexa Lower Parel / Nexa Bhandup / Nexa Kandivali S.V.Road / Nexa Vasai / Nexa Kurla West / Nexa Kalyan Bhiwandi Road / Nexa Thane South / Nexa Kharghar",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)",
+    "record #9 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 9,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "INTRODUCING NEXA BLACK EDITION.",
+   "evidence": "INTRODUCING NEXA BLACK EDITION.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Drive towards exclusive experiences.",
+   "evidence": "Drive towards exclusive experiences.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "CREATE. INSPIRE.",
+   "evidence": "CREATE. INSPIRE.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "SCAN THE QR CODE TO EXPERIENCE THE WORLD OF NEXA.",
+   "evidence": "SCAN THE QR CODE TO EXPERIENCE THE WORLD OF NEXA.",
+   "english": "Scan the QR code to experience the world of Nexa.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "INTRODUCING NEXA BLACK EDITION.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "INTRODUCING NEXA BLACK EDITION.",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://qrgo.page.link/EmtMn)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://qrgo.page.link/EmtMn",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Nexa Black Edition introduced",
+    "Drive towards exclusive experiences",
+    "Create. Inspire.",
+    "Scan QR code to experience the world of Nexa",
+    "Scan QR code to book your test drive now",
+    "Visit your nearest Nexa dealership to avail exciting benefits",
+    "Smart Finance online end-to-end car finance solution",
+    "Contact us at 1800-200-6392, 1800-102-NEXA",
+    "www.nexaexperience.com",
+    "Now you can also book online",
+    "Multiple Nexa dealerships listed across Mumbai, Navi Mumbai, Kalyan, Thane, Kharghar"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki is introducing the Nexa Black Edition with exclusive experiences. Readers can scan QR codes to experience the world of Nexa or book a test drive, visit their nearest Nexa dealership for benefits, and contact via toll-free numbers or the website for Smart Finance car finance solutions.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002006392",
+     "kind": "toll_free",
+     "as_printed": "1800-200-6392"
+    },
+    "evidence": "1800-200-[6392]",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "1800102",
+     "kind": "landline",
+     "as_printed": "1800-102-NEXA"
+    },
+    "evidence": "1800-102-[NEXA]",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18002100021",
+     "kind": "toll_free",
+     "as_printed": "18002100021"
+    },
+    "evidence": "PH: 18002100021",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02266143801",
+     "kind": "landline",
+     "as_printed": "022-66143801"
+    },
+    "evidence": "022-66143801",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9326928297",
+     "kind": "mobile",
+     "as_printed": "9326928297"
+    },
+    "evidence": "PH: 9326928297",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9028146999",
+     "kind": "mobile",
+     "as_printed": "9028146999"
+    },
+    "evidence": "PH: 9028146999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8591202269",
+     "kind": "mobile",
+     "as_printed": "8591202269"
+    },
+    "evidence": "8591202269",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8600288888",
+     "kind": "mobile",
+     "as_printed": "8600288888"
+    },
+    "evidence": "PH: 8600288888",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7506704714",
+     "kind": "mobile",
+     "as_printed": "7506704714"
+    },
+    "evidence": "PH: 7506704714",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9930246246",
+     "kind": "mobile",
+     "as_printed": "9930246246"
+    },
+    "evidence": "PH: 9930246246",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8828199999",
+     "kind": "mobile",
+     "as_printed": "8828199999"
+    },
+    "evidence": "PH: 8828199999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8369078401",
+     "kind": "mobile",
+     "as_printed": "91-8369078401"
+    },
+    "evidence": "PH: 91-8369078401",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9594632000",
+     "kind": "mobile",
+     "as_printed": "9594632000"
+    },
+    "evidence": "PH: 9594632000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8689808888",
+     "kind": "mobile",
+     "as_printed": "8689808888"
+    },
+    "evidence": "8689808888",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9702919919",
+     "kind": "mobile",
+     "as_printed": "9702919919"
+    },
+    "evidence": "PH: 9702919919",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7777002830",
+     "kind": "mobile",
+     "as_printed": "7777002830"
+    },
+    "evidence": "PH: 7777002830",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8291101002",
+     "kind": "mobile",
+     "as_printed": "8291101002"
+    },
+    "evidence": "PH: 8291101002",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.nexaexperience.com",
+    "evidence": "www.nexaexperience.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "NEXA NERUL",
+    "evidence": "NAVI MUMBAI: NEXA NERUL (AUTOMOTIVE MANUFACTURER PVT. LTD.",
+    "english": "Nexa Nerul",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA VASHI PALM BEACH ROAD",
+    "evidence": "NEXA VASHI PALM BEACH ROAD (MY CAR (PUNE) PVT. LTD.",
+    "english": "Nexa Vashi Palm Beach Road",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA VILE PARLE WEST",
+    "evidence": "WEST MUMBAI: NEXA VILE PARLE WEST (MY CAR PUNE PVT. LTD.",
+    "english": "Nexa Vile Parle West",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA ANDHERI EAST",
+    "evidence": "NEXA ANDHERI EAST (SHIVAMAUTOZONE",
+    "english": "Nexa Andheri East",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA LOWER PAREL",
+    "evidence": "SOUTH MUMBAI: NEXA LOWER PAREL (SAI SERVICE PVT. LTD.",
+    "english": "Nexa Lower Parel",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA BHANDUP",
+    "evidence": "EAST MUMBAI: NEXA BHANDUP (KTS AUTOMOTORS PVT. LTD.",
+    "english": "Nexa Bhandup",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA KANDIVALI S.V.ROAD",
+    "evidence": "NORTH MUMBAI:NEXA KANDIVALI S.V.ROAD (SHIVAM AUTOZONE",
+    "english": "Nexa Kandivali S.V.Road",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA VASAI",
+    "evidence": "NEXA VASAI (SAI SERVICE PVT. LTD.",
+    "english": "Nexa Vasai",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA KURLA WEST",
+    "evidence": "CENTRAL MUMBAI: NEXA KURLA WEST (FORTPOINT AUTOMOTIVE CARS PVT. LTD.",
+    "english": "Nexa Kurla West",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA KALYAN BHIWANDI ROAD",
+    "evidence": "KALYAN: NEXA KALYAN BHIWANDI ROAD (AHER AUTOPRIME LLP.",
+    "english": "Nexa Kalyan Bhiwandi Road",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA THANE SOUTH",
+    "evidence": "THANE: NEXA THANE SOUTH (EXCEL AUTOVISTA",
+    "english": "Nexa Thane South",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NEXA KHARGHAR",
+    "evidence": "KHARGHAR: NEXA KHARGHAR (SIMRAN MOTORS PVT. LTD.",
+    "english": "Nexa Kharghar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "7 INSPIRING FUTURE",
+    "evidence": "7 INSPIRING FUTURE",
+    "english": "7 Inspiring Future",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "VISIT YOUR NEAREST NEXA DEALERSHIP TO AVAIL EXCITING BENEFITS.",
+    "evidence": "VISIT YOUR NEAREST NEXA DEALERSHIP TO AVAIL EXCITING BENEFITS.",
+    "english": "Visit your nearest Nexa dealership to avail exciting benefits.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Nexa Nerul",
+     "area": "Nerul",
+     "city": "Navi Mumbai",
+     "phones": [
+      "18002100021",
+      "02266143801"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NAVI MUMBAI: NEXA NERUL (AUTOMOTIVE MANUFACTURER PVT. LTD. PH: 18002100021, 022-66143801)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Vashi Palm Beach Road",
+     "area": "Vashi Palm Beach Road",
+     "city": "Navi Mumbai",
+     "phones": [
+      "9326928297"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA VASHI PALM BEACH ROAD (MY CAR (PUNE) PVT. LTD. PH: 9326928297)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Vile Parle West",
+     "area": "Vile Parle West",
+     "city": "West Mumbai",
+     "phones": [
+      "9028146999",
+      "8591202269"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "WEST MUMBAI: NEXA VILE PARLE WEST (MY CAR PUNE PVT. LTD. PH: 9028146999, 8591202269)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Andheri East",
+     "area": "Andheri East",
+     "city": "West Mumbai",
+     "phones": [
+      "8600288888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA ANDHERI EAST (SHIVAMAUTOZONE PH: 8600288888)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Lower Parel",
+     "area": "Lower Parel",
+     "city": "South Mumbai",
+     "phones": [
+      "7506704714"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SOUTH MUMBAI: NEXA LOWER PAREL (SAI SERVICE PVT. LTD. PH: 7506704714)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Bhandup",
+     "area": "Bhandup",
+     "city": "East Mumbai",
+     "phones": [
+      "9930246246"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "EAST MUMBAI: NEXA BHANDUP (KTS AUTOMOTORS PVT. LTD. PH: 9930246246)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Kandivali S.V.Road",
+     "area": "Kandivali S.V.Road",
+     "city": "North Mumbai",
+     "phones": [
+      "8828199999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NORTH MUMBAI:NEXA KANDIVALI S.V.ROAD (SHIVAM AUTOZONE PH: 8828199999)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Vasai",
+     "area": "Vasai",
+     "city": "North Mumbai",
+     "phones": [
+      "8369078401"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 60.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NEXA VASAI (SAI SERVICE PVT. LTD. PH: 91-8369078401)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Kurla West",
+     "area": "Kurla West",
+     "city": "Central Mumbai",
+     "phones": [
+      "9594632000",
+      "8689808888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "CENTRAL MUMBAI: NEXA KURLA WEST (FORTPOINT AUTOMOTIVE CARS PVT. LTD. PH: 9594632000, 8689808888)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Mumbai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Kalyan Bhiwandi Road",
+     "area": "Kalyan Bhiwandi Road",
+     "city": "Kalyan",
+     "phones": [
+      "9702919919"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KALYAN: NEXA KALYAN BHIWANDI ROAD (AHER AUTOPRIME LLP. PH: 9702919919)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Thane South",
+     "area": "Thane South",
+     "city": "Thane",
+     "phones": [
+      "7777002830"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "THANE: NEXA THANE SOUTH (EXCEL AUTOVISTA PH: 7777002830)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Nexa Kharghar",
+     "area": "Kharghar",
+     "city": "Kharghar",
+     "phones": [
+      "8291101002"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KHARGHAR: NEXA KHARGHAR (SIMRAN MOTORS PVT. LTD. PH: 8291101002)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "SMART FINANCE AN ONLINE END-TO-END CAR FINANCE SOLUTION",
+   "evidence": "SMART FINANCE AN ONLINE END-TO-END CAR FINANCE SOLUTION",
+   "english": "Smart Finance an online end-to-end car finance solution",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Nexa Black Edition introduced",
+  "Drive towards exclusive experiences",
+  "Create. Inspire.",
+  "Scan QR code to experience the world of Nexa",
+  "Scan QR code to book your test drive now",
+  "Visit your nearest Nexa dealership to avail exciting benefits",
+  "Smart Finance online end-to-end car finance solution",
+  "Contact us at 1800-200-6392, 1800-102-NEXA",
+  "www.nexaexperience.com",
+  "Now you can also book online",
+  "Multiple Nexa dealerships listed across Mumbai, Navi Mumbai, Kalyan, Thane, Kharghar"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MARUTISUZUKI",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "NEXA",
+   "score": 0.9905,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "INTRODUCING NEXA BLACK EDITION.",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Drive towards exclusive experiences.",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "CREATE.INSPIRE.",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "MARUTI SUZUKI",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "NEXA",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "FF",
+   "score": 0.4792,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "XLB",
+   "score": 0.8752,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 10,
+   "text": "IGNIS",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "NEXA",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "7",
+   "score": 0.9996,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "SCAN THE QR CODE",
+   "score": 0.9839,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "SCAN THE QR CODE",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "TO EXPERIENCE",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "TO BOOK YOUR",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "INSPIRING",
+   "score": 0.9761,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "FUTURE",
+   "score": 0.9593,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "THE WORLD OF NEXA.",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "TEST DRIVE NOW.",
+   "score": 0.9987,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "VISIT YOUR NEAREST NEXA DEALERSHIP TO AVAIL EXCITING BENEFITS.",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "Contact us at",
+   "score": 0.9425,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "NAVI MUMBAI: NEXA NERUL (AUTOMOTIVE MANUFACTURER PVT. LTD. PH: 18002100021, 022-66143801), NEXA VASHI PALM BEACH ROAD (MY CAR (PUNE) PVT. LTD. PH: 9326928297),",
+   "score": 0.9893,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 24,
+   "text": "SMART FINANCE",
+   "score": 0.9799,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "1800-200-[6392]",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "WEST MUMBAI: NEXA VILE PARLE WEST (MY CAR PUNE PVT. LTD. PH: 9028146999, 8591202269), NEXA ANDHERI EAST (SHIVAMAUTOZONE PH: 8600288888),",
+   "score": 0.9821,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 27,
+   "text": "AN ONLINE END-TO-END",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "SOUTH MUMBAI: NEXA LOWER PAREL (SAI SERVICE PVT. LTD. PH: 7506704714), EAST MUMBAI: NEXA BHANDUP (KTS AUTOMOTORS PVT. LTD. PH: 9930246246),",
+   "score": 0.9916,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 29,
+   "text": "CAR FINANCE SOLUTION",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "1800-102-[NEXA]",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "NORTH MUMBAI:NEXA KANDIVALI S.V.ROAD (SHIVAM AUTOZONE PH: 8828199999), NEXA VASAI (SAI SERVICE PVT. LTD. PH: 91-8369078401),",
+   "score": 0.9931,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 32,
+   "text": "canw more..",
+   "score": 0.6648,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "CENTRAL MUMBAI: NEXA KURLA WEST (FORTPOINT AUTOMOTIVE CARS PVT. LTD. PH: 9594632000, 8689808888),",
+   "score": 0.9907,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "Multiple financiers",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "www.nexaexperience.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "KALYAN: NEXA KALYAN BHIWANDI ROAD (AHER AUTOPRIME LLP. PH: 9702919919), THANE: NEXA THANE SOUTH (EXCEL AUTOVISTA PH: 7777002830),",
+   "score": 0.9937,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 37,
+   "text": "Digital Document Upload",
+   "score": 0.9798,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "NOW YOU CAN ALSO BOOK ONLINE",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "KHARGHAR: NEXA KHARGHAR (SIMRAN MOTORS PVT. LTD. PH: 8291101002).",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "Live Loan status",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "Complete transparency",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "9 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.92,
+  "extract": 45.23
+ }
+}

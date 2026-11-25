@@ -1,0 +1,345 @@
+{
+ "image": "e078_Ajit_Jalandhar_739.jpg",
+ "fields": {
+  "brand": {
+   "value": "Panama",
+   "evidence": "Panama",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: SWAL",
+    "no exact record; closest: Puma"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 112,
+     "name": "Puma",
+     "score": 60.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "SWAL",
+   "evidence": "SWAL",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "किसान चिंता छोड़ लीजिए पंची... पंचामा का चार महीने में चार गुना!",
+   "evidence": "किसान चिंता छोड़ लीजिए पंची... पंचामा का चार महीने में चार गुना!",
+   "english": "Farmers, stop worrying about Panchi... Pancha quadruples in four months!",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (20%); devanagari text is hard for OCR",
+    "second model disagrees - suggestion: ਪ੍ਰਾਪਤ ਦਾ ਬਾਰ ਮਬ 'ਤੇ ਢਾਕੀ !"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "SFB किसानों के लिए एक नया समाधान है। किसानों की फसल में वृद्धि के लिए एक नया समाधान।",
+   "evidence": "SFB किसानों के लिए एक नया समाधान है। किसानों की फसल में वृद्धि के लिए एक नया समाधान।",
+   "english": "SFB is a new solution for farmers. A new solution for increasing crop yield.",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (24%); devanagari text is hard for OCR"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "nothing in the ad names a product this sub-category covers - the master list may lack the right sub-category; confirm (or use the top level)",
+    "category #25",
+    "record #25 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 25,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "Hindi: OCR found no devanagari text",
+    "second model disagrees - suggestion: Punjabi, English",
+    "removed Hindi: OCR found no text in that script and the second model does not list it - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Panama product advertisement",
+    "SFB solution for farmers",
+    "claims crop growth in four months"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "missing",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Panama product advertisement",
+  "SFB solution for farmers",
+  "claims crop growth in four months"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "SWAL",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "ag Gu t...",
+   "score": 0.6267,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "पशाभा",
+   "score": 0.7174,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "SFB",
+   "score": 0.8493,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Panama",
+   "score": 0.6853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "पहभा",
+   "score": 0.7312,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (395x226); small print may be unreadable"
+ ],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 4.65,
+  "extract": 17.38
+ }
+}

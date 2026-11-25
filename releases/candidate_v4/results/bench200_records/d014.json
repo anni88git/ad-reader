@@ -1,0 +1,573 @@
+{
+ "image": "d014_Navbharat_Times_14.jpg",
+ "fields": {
+  "brand": {
+   "value": "Kanodia",
+   "evidence": "KANODIA",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Kia, Skoda, Fabindia"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 80.0
+    },
+    {
+     "id": 9,
+     "name": "Skoda",
+     "score": 66.7
+    },
+    {
+     "id": 107,
+     "name": "Fabindia",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Mustard Oil",
+   "evidence": "MUSTARD OIL",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Kanodia Oil Marketing",
+   "evidence": "KANODIA OIL MARKETING",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "QUALITY SINCE 1936",
+   "evidence": "QUALITY SINCE 1936",
+   "english": "Quality Since 1936",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: KANODIA"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "KANODIA KOLHU BRAND",
+   "evidence": "KANODIA KOLHU BRAND",
+   "english": "Kanodia Kolhu Brand",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "स्वाद के साथ सेहत की बात",
+   "evidence": "स्वाद के साथ सेहत की बात",
+   "english": "Talk of health with taste",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (84%)",
+    "wording is not an exact match to the printed text (closest OCR reading 76% similar) - check spelling - suggestion: स्वाद रेहत की बांत"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "AVAILABLE AT ALL LEADING STORES",
+   "evidence": "AVAILABLE AT ALL LEADING STORES",
+   "english": "Available at all leading stores",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English",
+    "Hindi"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Kanodia Kolhu Brand Mustard Oil",
+    "Kachi Ghani Mustard Oil",
+    "Yellow Mustard Oil",
+    "Available at all leading stores"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Kanodia Kolhu Brand Mustard Oil is available at all leading stores. The ad promotes taste with health and shows Kachi Ghani and Yellow Mustard Oil variants.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Kachi Ghani Mustard Oil",
+    "evidence": "KACHI GHANI MUSTARD OIL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Yellow Mustard Oil",
+    "evidence": "YELLOW MUSTARD OIL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Kanodia Kolhu Brand Mustard Oil",
+  "Kachi Ghani Mustard Oil",
+  "Yellow Mustard Oil",
+  "Available at all leading stores"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "QUALITY SINCE 1936",
+   "score": 0.9705,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "KANODIA",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "KANODIA KOLHU BRAND",
+   "score": 0.9876,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "स्वाद",
+   "score": 0.9778,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "के शाथ",
+   "score": 0.8302,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "रेहत",
+   "score": 0.9219,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "की बांत",
+   "score": 0.9564,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "KANODIA KOLHU BRAND",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "MUSTARD OIL",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Kactl Ga c",
+   "score": 0.7066,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "KANODIA OIL MARKETING",
+   "score": 0.983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "KANODIA",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "RAELRELREROL",
+   "score": 0.4828,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "Wellow Mustard Di",
+   "score": 0.8558,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 15,
+   "text": "foat",
+   "score": 0.7789,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "KACHI",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "पीली सरसों",
+   "score": 0.7507,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "GHANI",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "का तेल",
+   "score": 0.765,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "क",
+   "score": 0.8094,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 21,
+   "text": "MUSTARD",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "OIL",
+   "score": 0.9956,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "ONVY",
+   "score": 0.8291,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "YELLOW",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Anays Lse",
+   "score": 0.6696,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "MUSTARD",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Full Of Heatth & Vtally",
+   "score": 0.7439,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "OIL",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "Eanstia Kahc Brand",
+   "score": 0.6159,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "telise Muctars Dé",
+   "score": 0.7303,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "1e",
+   "score": 0.9294,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "AVAILABLE AT ALL LEADING STORES",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (487x710); small print may be unreadable"
+ ],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 9.82,
+  "extract": 21.69
+ }
+}

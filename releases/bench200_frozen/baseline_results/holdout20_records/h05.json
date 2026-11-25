@@ -1,0 +1,2661 @@
+{
+ "image": "h05_toyota_406.jpg",
+ "fields": {
+  "brand": {
+   "value": "Toyota",
+   "evidence": "TOYOTA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Toyota' (#6)"
+   ],
+   "matched_id": 6,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 6,
+     "name": "Toyota",
+     "score": 100.0
+    },
+    {
+     "id": 38,
+     "name": "Motion Education",
+     "score": 62.5
+    },
+    {
+     "id": 4,
+     "name": "Tata Motors",
+     "score": 60.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Yaris",
+   "evidence": "YARiS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Toyota",
+   "evidence": "TOYOTA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: UTTAM / GALAXY / GALAXY / ESPIRIT / GALAXY / GALAXY / GALAXY / UTTAM / ESPIRIT / ESPIRIT / UTTAM / MGF / MGF / THIRTY SIX / UTTAM",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "This Fabulous February",
+   "evidence": "This Fabulous February",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 57% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Drive to Prosperity with TOYOTA",
+   "evidence": "Drive to Prosperity with TOYOTA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 77% similar) - check spelling - suggestion: Drive to Prosperity",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "THE HAPPENIN' NEW YARiS Starting from ₹9.16 Lakh^ Benefits upto ₹65 000^ + Special Accessories Package worth ₹28 000^",
+   "evidence": "THE HAPPIN' NEW YARiS Starting from ₹9.16 Lakh^ Benefits upto ₹65 000^ + Special Accessories Package worth ₹28 000^",
+   "english": "The Happenin' New Yaris starting from ₹9.16 Lakh, benefits up to ₹65,000 plus special accessories package worth ₹28,000",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (93%)",
+    "wording is not an exact match to the printed text (closest OCR reading 70% similar) - check spelling"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "3 Years or 1 00 000 km Unmatched Vehicle Warranty**",
+   "evidence": "3 Years or 1 00 000 km Unmatched Vehicle Warranty**",
+   "english": "3 Years or 100,000 km Unmatched Vehicle Warranty",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "TOYOTA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "YARiS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 916000,
+   "evidence": "₹9.16 Lakh^",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "short number '916' found in OCR but without a ₹/price marker",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Toyota Yaris starting from ₹9.16 Lakh",
+    "Benefits up to ₹65,000",
+    "Special accessories package worth ₹28,000",
+    "Toyota Urban Cruiser benefits up to ₹20,000, EMI ₹5,444, starting from ₹8.50 Lakh",
+    "Toyota Glanza benefits up to ₹21,500, EMI ₹4,666, starting from ₹7.18 Lakh",
+    "Dual Front SRS Airbags, ABS with EBD & Pretensioner Force Limiter (PTFL) standard across all Toyota cars",
+    "3 Years or 1 00 000 km Unmatched Vehicle Warranty",
+    "Exclusive benefits for salaried employees: Leave Travel Benefit, LTA/LTC scheme, tax benefit applicable"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Toyota is running a Fabulous February promotion: the new Yaris starts from ₹9.16 Lakh with benefits up to ₹65,000 plus a special accessories package worth ₹28,000. The Urban Cruiser starts from ₹8.50 Lakh and the Glanza from ₹7.18 Lakh, both with attractive EMI options. All Toyota cars come with standard safety features and a 3-year/100,000 km warranty. Salaried employees can avail LTA/LTC and tax benefits.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9810907071",
+     "kind": "mobile",
+     "as_printed": "9810907071"
+    },
+    "evidence": "9810907071",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "41877777",
+     "kind": "landline",
+     "as_printed": "418 77 777"
+    },
+    "evidence": "418 77 777",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838193193",
+     "kind": "mobile",
+     "as_printed": "7838193193, 434 77 777"
+    },
+    "evidence": "7838193193, 434 77 777",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290095001",
+     "kind": "mobile",
+     "as_printed": "7290095001, 9654999635"
+    },
+    "evidence": "7290095001, 9654999635",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18001035686",
+     "kind": "toll_free",
+     "as_printed": "1800 103 5686"
+    },
+    "evidence": "1800 103 5686",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9599788513",
+     "kind": "mobile",
+     "as_printed": "9599788513, 465 77 777"
+    },
+    "evidence": "9599788513, 465 77 777",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9870191014",
+     "kind": "mobile",
+     "as_printed": "9870191014, 66763666"
+    },
+    "evidence": "9870191014, 66763666",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9599788514",
+     "kind": "mobile",
+     "as_printed": "9599788514"
+    },
+    "evidence": "9599788514",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "40011111",
+     "kind": "landline",
+     "as_printed": "400 11 111"
+    },
+    "evidence": "400 11 111",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9654999635",
+     "kind": "mobile",
+     "as_printed": "9654999635"
+    },
+    "evidence": "9654999635",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01244415566",
+     "kind": "landline",
+     "as_printed": "0124-4415566"
+    },
+    "evidence": "0124-4415566",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818899964",
+     "kind": "mobile",
+     "as_printed": "9818899964, 7428534708"
+    },
+    "evidence": "9818899964, 7428534708",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8800790052",
+     "kind": "mobile",
+     "as_printed": "8800790052"
+    },
+    "evidence": "8800790052",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01294293636",
+     "kind": "landline",
+     "as_printed": "0129-4293636"
+    },
+    "evidence": "0129-4293636",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8210033636",
+     "kind": "mobile",
+     "as_printed": "8210033636, 8800790052"
+    },
+    "evidence": "8210033636, 8800790052",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8448293658",
+     "kind": "mobile",
+     "as_printed": "8448293658, 418 77 777"
+    },
+    "evidence": "GALAXY Moti Nagar Crossing Nr. Sec-9 Metro Station 8448293658, 418 77 777",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9910067020",
+     "kind": "mobile",
+     "as_printed": "9910067020, 9818899964, 7428534708"
+    },
+    "evidence": "MGF MGF Mega City Mall, M.G. Road, Gurugram 9910067020, 9818899964, 7428534708",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8800333636",
+     "kind": "mobile",
+     "as_printed": "8800333636, 8800790052"
+    },
+    "evidence": "THIRTY SIX 14/7, Main Mathura Road, Faridabad 8800333636, 8800790052",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18004260001",
+     "kind": "toll_free",
+     "as_printed": "1800-426-0001"
+    },
+    "evidence": "T+1800-426-0001",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428534708",
+     "kind": "mobile",
+     "as_printed": "7428534708"
+    },
+    "evidence": "7428534708",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 916000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Starting from",
+     "item": "Yaris",
+     "as_printed": "₹9.16 Lakh^"
+    },
+    "evidence": "₹9.16 Lakh^",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '916' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 5444,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "and Attractive EMI of",
+     "item": "Urban Cruiser",
+     "as_printed": "₹5 444^"
+    },
+    "evidence": "₹5 444^",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (5,444)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 850000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Starting from",
+     "item": "Urban Cruiser",
+     "as_printed": "₹8.50 Lakh'"
+    },
+    "evidence": "₹8.50 Lakh'",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '850' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 4666,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "and Attractive EMI of",
+     "item": "GlanzA",
+     "as_printed": "₹4 666^"
+    },
+    "evidence": "₹4 666^",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (4,666)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 718000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Starting from",
+     "item": "GlanzA",
+     "as_printed": "₹7.18 Lakh'"
+    },
+    "evidence": "₹7.18 Lakh'",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '718' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.toyotabharat.com",
+    "evidence": "www.toyotabharat.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "95, Patparganj, Industrial Area",
+    "evidence": "95, Patparganj, Industrial Area",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Moti Nagar Crossing Nr. Sec-9 Metro Station",
+    "evidence": "Moti Nagar Crossing Nr. Sec-9 Metro Station",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Dwarka, 7838193193, 434 77 777",
+    "evidence": "Dwarka, 7838193193, 434 77 777",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Mathura Road, N.Delhi 7290095001, 9654999635",
+    "evidence": "Mathura Road, N.Delhi 7290095001, 9654999635",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ring Road, Opp. Moolchand Hospital, Lajpat Nagar-IV 9599788513, 465 77 777",
+    "evidence": "Ring Road, Opp. Moolchand Hospital, Lajpat Nagar-IV 9599788513, 465 77 777",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "G-1 Station Box, Chattarpur Metro Station 9870191014, 66763666",
+    "evidence": "G-1 Station Box, Chattarpur Metro Station 9870191014, 66763666",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Shalimar Place, Outer Ring Road, Nr. Rohini 9599788514",
+    "evidence": "Shalimar Place, Outer Ring Road, Nr. Rohini 9599788514",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "H3, Sec-63, Noida 9810907071",
+    "evidence": "H3, Sec-63, Noida 9810907071",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "D- 37 & 38, Surajpur Site-4, Kasna, Gr. Noida 7290095001, 9654999635",
+    "evidence": "D- 37 & 38, Surajpur Site-4, Kasna, Gr. Noida 7290095001, 9654999635",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "D-11, Sec-8, Noida 7290095001, 9654999635",
+    "evidence": "D-11, Sec-8, Noida 7290095001, 9654999635",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "39 Milestone, Delhi-Jaipur Highway, NH-8 9810907071",
+    "evidence": "39 Milestone, Delhi-Jaipur Highway, NH-8 9810907071",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Sector-50,Gurugram 8527565522, 9810987328, 0124-4415566",
+    "evidence": "Sector-50,Gurugram 8527565522, 9810987328, 0124-4415566",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MGF Mega City Mall, M.G. Road, Gurugram 9910067020, 9818899964, 7428534708",
+    "evidence": "MGF Mega City Mall, M.G. Road, Gurugram 9910067020, 9818899964, 7428534708",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "14/7, Main Mathura Road, Faridabad 8800333636, 8800790052",
+    "evidence": "14/7, Main Mathura Road, Faridabad 8800333636, 8800790052",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "A-11, Meerut Road Indl. Area, Ghaziabad 9810907071 0129-4293636",
+    "evidence": "A-11, Meerut Road Indl. Area, Ghaziabad 9810907071 0129-4293636",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Dual Front SRS Airbags, ABS with EBD & Pretensioner Force Limiter (PTFL) standard across all Toyota cars",
+    "evidence": "Dual Front SRS Airbags, ABS with EBD & Pretensioner Force Limiter (PTFL) standard across all Toyota cars",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "F.No.12(2)/2020-Ell(A), Ministry of Finance, Department of Expenditure, Ell(A) Branch",
+    "evidence": "*As per reference: F.No.12(2)/2020-Ell(A), Ministry of Finance, Department of Expenditure, Ell(A) Branch",
+    "english": "Reference number for tax benefit scheme",
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "Benefits upto ₹65 000^",
+    "evidence": "Benefits upto ₹65 000^",
+    "english": "Benefits up to ₹65,000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "+ Special Accessories Package worth ₹28 000^",
+    "evidence": "+ Special Accessories Package worth ₹28 000^",
+    "english": "Special Accessories Package worth ₹28,000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Benefits upto ₹20 000^",
+    "evidence": "Benefits upto ₹20 000^",
+    "english": "Benefits up to ₹20,000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "and Attractive EMI of ₹5 444^",
+    "evidence": "and Attractive EMI of ₹5 444^",
+    "english": "Attractive EMI of ₹5,444",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Benefits upto ₹21 500^",
+    "evidence": "Benefits upto ₹21 500^",
+    "english": "Benefits up to ₹21,500",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "and Attractive EMI of ₹4 666^",
+    "evidence": "and Attractive EMI of ₹4 666^",
+    "english": "Attractive EMI of ₹4,666",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "LEAVE TRAVEL BENEFIT just got more exciting. Down payment made easier with LTA /LTC Scheme.* TAX BENEFIT APPLICABLE*",
+    "evidence": "LEAVE TRAVEL BENEFIT just got more exciting. Down payment made easier with LTA /LTC Scheme.* TAX BENEFIT APPLICABLE*",
+    "english": "Leave Travel Benefit, easier down payment with LTA/LTC scheme, tax benefit applicable for salaried employees",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 65000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Benefits upto",
+     "item": "Yaris",
+     "as_printed": "₹65 000^"
+    },
+    "evidence": "₹65 000^",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (65,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 28000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Package worth",
+     "item": "Special Accessories",
+     "as_printed": "₹28 000^"
+    },
+    "evidence": "₹28 000^",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (28,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 20000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Benefits upto",
+     "item": "Urban Cruiser",
+     "as_printed": "₹20 000^"
+    },
+    "evidence": "₹20 000^",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (20,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 21500,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Benefits upto",
+     "item": "GlanzA",
+     "as_printed": "₹21 500^"
+    },
+    "evidence": "₹21 500^",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (21,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "UTTAM",
+     "area": "95, Patparganj, Industrial Area",
+     "city": "EAST DELHI",
+     "phones": [
+      "9810907071",
+      "41877777"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "UTTAM 95, Patparganj, Industrial Area 9810907071 418 77 777",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "GALAXY",
+     "area": "Moti Nagar Crossing Nr. Sec-9 Metro Station",
+     "city": "WEST DELHI",
+     "phones": [
+      "8448293658"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "GALAXY Moti Nagar Crossing Nr. Sec-9 Metro Station 8448293658, 418 77 777",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "GALAXY",
+     "area": "Dwarka",
+     "city": "WEST DELHI",
+     "phones": [
+      "7838193193"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "GALAXY Dwarka 7838193193, 434 77 777",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ESPIRIT",
+     "area": "Mathura Road, N.Delhi",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "7290095001",
+      "18001035686"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ESPIRIT Mathura Road, N.Delhi 7290095001, 9654999635 1800 103 5686",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "GALAXY",
+     "area": "Ring Road, Opp. Moolchand Hospital, Lajpat Nagar-IV",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9599788513"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "GALAXY Ring Road, Opp. Moolchand Hospital, Lajpat Nagar-IV 9599788513, 465 77 777",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "GALAXY",
+     "area": "G-1 Station Box, Chattarpur Metro Station",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9870191014"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "GALAXY G-1 Station Box, Chattarpur Metro Station 9870191014, 66763666",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "GALAXY",
+     "area": "Shalimar Place, Outer Ring Road, Nr. Rohini",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9599788514"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "GALAXY Shalimar Place, Outer Ring Road, Nr. Rohini 9599788514",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UTTAM",
+     "area": "H3, Sec-63, Noida",
+     "city": "NOIDA",
+     "phones": [
+      "9810907071"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "UTTAM H3, Sec-63, Noida 9810907071",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ESPIRIT",
+     "area": "D- 37 & 38, Surajpur Site-4, Kasna, Gr. Noida",
+     "city": "NOIDA",
+     "phones": [
+      "7290095001",
+      "18001035686"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "ESPIRIT D- 37 & 38, Surajpur Site-4, Kasna, Gr. Noida 7290095001, 9654999635 1800 103 5686",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ESPIRIT",
+     "area": "D-11, Sec-8, Noida",
+     "city": "NOIDA",
+     "phones": [
+      "7290095001",
+      "18001035686"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "ESPIRIT D-11, Sec-8, Noida 7290095001, 9654999635 1800 103 5686",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UTTAM",
+     "area": "39 Milestone, Delhi-Jaipur Highway, NH-8",
+     "city": "GURUGRAM",
+     "phones": [
+      "9810907071"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "UTTAM 39 Milestone, Delhi-Jaipur Highway, NH-8 9810907071",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MGF",
+     "area": "Sector-50,Gurugram",
+     "city": "GURUGRAM",
+     "phones": [
+      "01244415566"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "MGF Sector-50,Gurugram 8527565522, 9810987328, 0124-4415566",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MGF",
+     "area": "MGF Mega City Mall, M.G. Road, Gurugram",
+     "city": "GURUGRAM",
+     "phones": [
+      "9910067020"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "MGF MGF Mega City Mall, M.G. Road, Gurugram 9910067020, 9818899964, 7428534708",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "THIRTY SIX",
+     "area": "14/7, Main Mathura Road, Faridabad",
+     "city": "FARIDABAD",
+     "phones": [
+      "8800333636"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 22,
+     "city_id": null
+    },
+    "evidence": "THIRTY SIX 14/7, Main Mathura Road, Faridabad 8800333636, 8800790052",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Faridabad' (#22)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UTTAM",
+     "area": "A-11, Meerut Road Indl. Area, Ghaziabad",
+     "city": "GHAZIABAD",
+     "phones": [
+      "9810907071",
+      "01294293636"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "UTTAM A-11, Meerut Road Indl. Area, Ghaziabad 9810907071 0129-4293636",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "safety_features": {
+   "value": "Dual Front SRS Airbags, ABS with EBD & Pretensioner Force Limiter (PTFL)",
+   "evidence": "Dual Front SRS Airbags, ABS with EBD & Pretensioner Force Limiter (PTFL) standard across all Toyota cars",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "Finance at the sole discretion of Financier. Scheme inclusive of Exchange and Corporate / Government / Exclusive Community benefits.",
+   "evidence": "Finance at the sole discretion of Financier. Scheme inclusive of Exchange and Corporate / Government / Exclusive Community benefits.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Toyota Yaris starting from ₹9.16 Lakh",
+  "Benefits up to ₹65,000",
+  "Special accessories package worth ₹28,000",
+  "Toyota Urban Cruiser benefits up to ₹20,000, EMI ₹5,444, starting from ₹8.50 Lakh",
+  "Toyota Glanza benefits up to ₹21,500, EMI ₹4,666, starting from ₹7.18 Lakh",
+  "Dual Front SRS Airbags, ABS with EBD & Pretensioner Force Limiter (PTFL) standard across all Toyota cars",
+  "3 Years or 1 00 000 km Unmatched Vehicle Warranty",
+  "Exclusive benefits for salaried employees: Leave Travel Benefit, LTA/LTC scheme, tax benefit applicable"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "TOYOTA",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "www.toyotabharat.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "This",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Drive to Prosperity",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "THEBESTTIMETO BUYYOURDREAMTOYOTAI",
+   "score": 0.9769,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "Fabulous",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "EXCLUSIVE BENEFITS FOR SALARIED EMPLOYEES.",
+   "score": 0.9811,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "with TOYOTA",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "LEAVE TRAVEL BENEFIT",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "February",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "just got more exciting.",
+   "score": 0.9814,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Down payment made easier with LTA /LTC Scheme.*",
+   "score": 0.9913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "TAX BENEFIT APPLICABLE*",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "*As per reference: F.No.12(2)/2020-Ell(A), Ministry of Finance, Department of Expenditure, Ell(A) Branch",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "THE HAPPENIN' NEW",
+   "score": 0.9748,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "YARiS",
+   "score": 0.9225,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Starting from 9.16 Lakh",
+   "score": 0.9456,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Benefits upto",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "YARIS",
+   "score": 0.9711,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "天65000^",
+   "score": 0.9254,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "+ Special Accessories",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "Package worth ₹28 000^",
+   "score": 0.9385,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "PRESENTING THE ALL-NEW TOYOTA",
+   "score": 0.9563,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "THE NEWTOYOTA",
+   "score": 0.9928,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "URBANCRUISER",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "GLANZA",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "RESPECT FOLLOWS",
+   "score": 0.9991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "GO AHEAD!",
+   "score": 0.9864,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "UAIPLAN COUSDEN",
+   "score": 0.7611,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "20 000^",
+   "score": 0.8999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "Starting from",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "GLANZA",
+   "score": 0.9921,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "21 500^",
+   "score": 0.8925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "Starting from",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "Benefits upto",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Benefits upto",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "5444",
+   "score": 0.9874,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "8.50 Lakh'",
+   "score": 0.9342,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "天4666",
+   "score": 0.9383,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "7.18Lakh",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "and Attractive EMI of",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "and Attractive EMI of",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "Dual Front SRS Airbags, ABS with EBD & Pretensioner Force Limiter (PTFL) standard across all Toyota cars",
+   "score": 0.991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "TALK TO TOVOTA",
+   "score": 0.9402,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "SERVICE",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "TOYOTA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "|24x7",
+   "score": 0.9018,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "TRUST",
+   "score": 0.995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "TOYOTA",
+   "score": 0.9924,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "3 Years or 1 00 000 km Unmatched Vehicle Warranty**",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "**",
+   "score": 0.9941,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 52,
+   "text": "T+1800-426-0001",
+   "score": 0.8679,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "FINANCIAL SERVICES",
+   "score": 0.9374,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "Connect",
+   "score": 0.9976,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "Googl Pey",
+   "score": 0.6593,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 56,
+   "text": "EAST DELHI",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "WEST DELHI",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "SOUTH DELHI",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "NORTH DELHI",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "NOIDA",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "GURUGRAM",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "FARIDABAD",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "GHAZIABAD",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "UTTAM",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 65,
+   "text": "GALAXY",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "GALAXY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "ESPIRIT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "GALAXY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "GALAXY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "GALAXY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "UTTAM",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 72,
+   "text": "ESPIRIT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 73,
+   "text": "ESPIRIT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "UTTAM",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 75,
+   "text": "MGF",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 76,
+   "text": "MGF",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "THIRTY SIX",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 78,
+   "text": "UTTAM",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 79,
+   "text": "95, Patparganj,",
+   "score": 0.9624,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "Moti Nagar Crossing",
+   "score": 0.9647,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 81,
+   "text": "Dwarka,",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 82,
+   "text": "Mathura Road, N.Delhi",
+   "score": 0.9732,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 83,
+   "text": "Ring Road, Opp. Moolchand",
+   "score": 0.9738,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "G-1 Station Box,",
+   "score": 0.9847,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "Shalimar Place,",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 86,
+   "text": "H3, Sec-63,",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 87,
+   "text": "D- 37 & 38, Surajpur",
+   "score": 0.9663,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 88,
+   "text": "D-11, Sec-8, Noida",
+   "score": 0.9754,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 89,
+   "text": "39 Milestone,",
+   "score": 0.9706,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "Sector-50,Gurugram",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 91,
+   "text": "MGF Mega City Mall,",
+   "score": 0.9874,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 92,
+   "text": "14/7, Main Mathura",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "A-11, Meerut Road",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "Industrial Area",
+   "score": 0.9517,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 95,
+   "text": "8448293658,",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 96,
+   "text": "Nr. Sec-9 Metro Station",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 97,
+   "text": "7290095001,",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "Hospital, Lajpat Nagar-IV",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "Chattarpur Metro Station",
+   "score": 0.9883,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 100,
+   "text": "Outer Ring Road,",
+   "score": 0.9863,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 101,
+   "text": "Noida",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 102,
+   "text": "Site-4, Kasna, Gr. Noida",
+   "score": 0.9827,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 103,
+   "text": "7290095001,",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 104,
+   "text": "Delhi-Jaipur",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 105,
+   "text": "8527565522,",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 106,
+   "text": "M.G. Road, Gurugram",
+   "score": 0.9833,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 107,
+   "text": "Road, Faridabad",
+   "score": 0.9791,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 108,
+   "text": "Indl. Area, Ghaziabad",
+   "score": 0.9958,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 109,
+   "text": "9810907071",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 110,
+   "text": "418 77 777",
+   "score": 0.9266,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 111,
+   "text": "7838193193,",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 112,
+   "text": "9654999635",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 113,
+   "text": "9599788513,",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 114,
+   "text": "9870191014",
+   "score": 0.9717,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 115,
+   "text": "Nr. Rohini",
+   "score": 0.9596,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 116,
+   "text": "9810907071",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 117,
+   "text": "7290095001,",
+   "score": 0.9726,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 118,
+   "text": "9654999635",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 119,
+   "text": "Highway, NH-8",
+   "score": 0.9964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 120,
+   "text": "9810987328,",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 121,
+   "text": "9910067020,",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 122,
+   "text": "8800333636,",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 123,
+   "text": "9810907071",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 124,
+   "text": "43477777",
+   "score": 0.9878,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 125,
+   "text": "1800 103 5686",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 126,
+   "text": "46577777",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 127,
+   "text": "66763666",
+   "score": 0.9515,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 128,
+   "text": "9599788514",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 129,
+   "text": "9654999635",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 130,
+   "text": "1800 103 5686",
+   "score": 0.9685,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 131,
+   "text": "9810907071",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 132,
+   "text": "0124-4415566",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 133,
+   "text": "9818899964,",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 134,
+   "text": "8800790052",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 135,
+   "text": "400 11 111",
+   "score": 0.9512,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 136,
+   "text": "1800 103 5686",
+   "score": 0.9548,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 137,
+   "text": "7428534708",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 138,
+   "text": "0129-4293636",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 139,
+   "text": "^Terms & conditions apply on all schemes and offers. Offer valid till 28h February 2021. ~EMl's shown are for initial 6 months of loan period. Finance at the sole discretion of Financier. Scheme inclusive of Exchange and Corporate / Government / Exclusive Community benefits. Scheme applicable on",
+   "score": 0.9893,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 140,
+   "text": "SUNDAY",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 141,
+   "text": "select stocks and variants. Exchange Benefits applicable at U Trust locations only. **Conditions Apply. Accessories shown may not be part of the standard equipment. *Ex-showroom price Delhi. *Applicability and details of LTA/LTC scheme and income tax benefit please check with your employer.",
+   "score": 0.9892,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 142,
+   "text": "OPEN",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "16 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.56,
+  "extract": 80.17
+ }
+}

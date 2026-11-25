@@ -1,0 +1,84 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "product"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Marathi",
+    "English"
+   ],
+   [
+    "Marathi"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Fivebric",
+   "Fivebric Realty",
+   "Fivebric Realty Pvt Ltd"
+  ]
+ },
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "Fivebric",
+   "Fivebric Realty",
+   "Fivebric Realty Pvt Ltd",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "real_estate_developer",
+   "dealer",
+   "other"
+  ]
+ },
+ "category": "Real Estate",
+ "headline": {
+  "any_of": [
+   "30 लाखात फ्लॅट घेण्यापेक्षा.. ₹3 लाखात प्लॉट घ्या..",
+   "₹3 लाखात प्लॉट घ्या..",
+   "3 लाखात प्लॉट घ्या.."
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "नवी मुंबई इंटर नॅशनल एअरपोर्ट परिसरात",
+   "30 लाखात फ्लॅट घेण्यापेक्षा..",
+   null
+  ]
+ },
+ "price": 300000,
+ "phones": [
+  "8081300300"
+ ],
+ "websites": [
+  "www.fivebricrealty.in"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

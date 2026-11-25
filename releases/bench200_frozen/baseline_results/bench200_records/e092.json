@@ -1,0 +1,914 @@
+{
+ "image": "e092_Yatra_413.jpg",
+ "fields": {
+  "brand": {
+   "value": "Yatra",
+   "evidence": "yatra",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Yatra' (#155)"
+   ],
+   "matched_id": 155,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 155,
+     "name": "Yatra",
+     "score": 100.0
+    },
+    {
+     "id": 4,
+     "name": "Tata Motors",
+     "score": 66.7
+    },
+    {
+     "id": 111,
+     "name": "Bata",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Big Outing Fest",
+   "evidence": "BIG OUTING —FEST—",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model did not report this field",
+    "no products on record for Yatra"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Yatra",
+   "evidence": "yatra",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "BIG OUTING —FEST—",
+   "evidence": "BIG OUTING —FEST—",
+   "english": "Big Outing Fest",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 87% similar) - check spelling - suggestion: OUTING —FEST—",
+    "headline is only the brand/product name",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "INDIA'S BEST DEALS ON FLIGHTS, HOTELS AND HOLIDAYS.",
+   "evidence": "INDIA'S BEST DEALS ON FLIGHTS, HOTELS AND HOLIDAYS.",
+   "english": "India's best deals on flights, hotels and holidays.",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 74% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "17th -22nd Sept #YBOF",
+   "evidence": "17th -22nd Sept #YBOF",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Get the Yatra App",
+   "evidence": "Get the Yatra App",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Travel & Hospitality",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #18"
+   ],
+   "matched_id": 18,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 18,
+     "name": "Travel & Hospitality",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Yatra Big Outing Fest from 17th to 22nd September",
+    "Domestic flights flat ₹1,500 instant off",
+    "Hotels flat 45% instant off on 90,000 hotels",
+    "International flights flat 10% instant off up to ₹15,000",
+    "Holidays extra 10% instant off up to ₹50,000",
+    "Exclusive instant discounts with HDFC Bank Debit/Credit Cards and EMI Transactions"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Yatra's Big Outing Fest runs from 17th to 22nd September, offering flat ₹1,500 off on domestic flights, 45% off on hotels across 90,000 properties, up to ₹15,000 off on international flights, and up to ₹50,000 extra off on holidays. Exclusive instant discounts are available with HDFC Bank cards and EMI transactions.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.yatra.com",
+    "evidence": "www.yatra.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "DOMESTIC FLIGHTS FLAT ₹1,500 INSTANT OFF",
+    "evidence": "DOMESTIC FLIGHTS FLAT ₹1,500 INSTANT OFF",
+    "english": "Domestic flights flat ₹1,500 instant off",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "#YBOF",
+    "evidence": "#YBOF",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "FLAT 45% INSTANT OFF ON 90,000 HOTELS",
+    "evidence": "HOTELS FLAT 45% INSTANT OFF ON 90,000 HOTELS",
+    "english": "Flat 45% instant off on 90,000 hotels",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FLAT 10% INSTANT OFF UP TO ₹15,000",
+    "evidence": "INTERNATIONAL FLIGHTS FLAT 10% INSTANT OFF UP TO ₹15,000",
+    "english": "Flat 10% instant off up to ₹15,000 on international flights",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "EXTRA 10% INSTANT OFF UP TO ₹50,000",
+    "evidence": "HOLIDAYS EXTRA 10% INSTANT OFF UP TO ₹50,000",
+    "english": "Extra 10% instant off up to ₹50,000 on holidays",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Exclusive Instant Discounts with HDFC Bank Debit/Credit Cards and EMI Transactions",
+    "evidence": "Exclusive Instant Discounts with HDFC Bank Debit/Credit Cards and EMI Transactions",
+    "english": "Exclusive instant discounts with HDFC Bank Debit/Credit Cards and EMI Transactions",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1500,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "FLAT INSTANT OFF",
+     "item": "DOMESTIC FLIGHTS",
+     "as_printed": "₹1,500"
+    },
+    "evidence": "₹1,500",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (1,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 15000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "INSTANT OFF UP TO",
+     "item": "INTERNATIONAL FLIGHTS",
+     "as_printed": "₹15,000"
+    },
+    "evidence": "₹15,000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (15,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 50000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "INSTANT OFF UP TO",
+     "item": "HOLIDAYS",
+     "as_printed": "₹50,000"
+    },
+    "evidence": "₹50,000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (50,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Yatra Big Outing Fest from 17th to 22nd September",
+  "Domestic flights flat ₹1,500 instant off",
+  "Hotels flat 45% instant off on 90,000 hotels",
+  "International flights flat 10% instant off up to ₹15,000",
+  "Holidays extra 10% instant off up to ₹50,000",
+  "Exclusive instant discounts with HDFC Bank Debit/Credit Cards and EMI Transactions"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "BIG",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "yatra",
+   "score": 0.9766,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "OUTING",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "—FEST—",
+   "score": 0.9518,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "DUBAI",
+   "score": 0.9996,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 6,
+   "text": "BAB",
+   "score": 0.9488,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "DUB",
+   "score": 0.9982,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "INDIA'S BEST DEALS ON FLIGHTS,",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "DUBAI",
+   "score": 0.996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "AIR",
+   "score": 0.9582,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "DUBAI",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "HOTELS AND HOLIDAYS.",
+   "score": 0.9845,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "17th-22ndSept",
+   "score": 0.9736,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "#YBOF",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "BERLIN",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "DOMESTIC",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "wwwwwwwwwww",
+   "score": 0.6982,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "X",
+   "score": 0.9202,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "FLIGHTS",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "102-403",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "FLAT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "1,500",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "YBOF",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "HOTELS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "INSTANT OFF",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "2364351277699- 090",
+   "score": 0.9481,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 27,
+   "text": "FLAT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "45%",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "士",
+   "score": 0.978,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "YBOF",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "INSTANT OFF ON",
+   "score": 0.9929,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "★⭐*女★女",
+   "score": 0.4879,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "90,000 HOTELS",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "HOLIDAYS",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "EXTRA",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "INTERNATIONAL",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "10%",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 38,
+   "text": "FLIGHTS",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "ISSUED BY:",
+   "score": 0.9897,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "INSTANT OFF UP TO",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "FRA",
+   "score": 0.9996,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 42,
+   "text": ", FRANKFURT",
+   "score": 0.8985,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 43,
+   "text": "BAGGAGE TAG",
+   "score": 0.9846,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 44,
+   "text": "50,000",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "FLAT",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "FRAGILE",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "10%",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 48,
+   "text": "15,000",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "INSTANT OFF UP TO",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "N° 63937934200",
+   "score": 0.9958,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 51,
+   "text": "Exclusive Instant Discounts",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "中",
+   "score": 0.988,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 53,
+   "text": "HDFC BANK",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "yata",
+   "score": 0.9451,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "Get the Yatra App",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "App Store",
+   "score": 0.9836,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 57,
+   "text": "Google play",
+   "score": 0.9998,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 58,
+   "text": "with HDFC Bank Debit/Credit Cards and EMI Transactions",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "We understand your world",
+   "score": 0.9973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 60,
+   "text": "www.yatra.com",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "T&C apply. Offer on Hotels: Flat 35% OFF + Extra 10% OFF (upto 750) using eCash. For more details on offer t",
+   "score": 0.9804,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "7 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 11.72,
+  "extract": 24.26
+ }
+}

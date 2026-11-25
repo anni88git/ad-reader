@@ -1,0 +1,73 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Amrita Vishwa Vidyapeetham",
+   "Amrita School of Medicine",
+   "Amrita"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "MBBS 2023",
+   "Amrita School of Medicine Faridabad Campus",
+   "MBBS"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "other"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Education > Universities & Colleges",
+   "Education"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "हेल्थकेयर का \"कल\" बनिये",
+   "हेल्थकेयर का कल बनिये"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "emails": [
+  "ugadmission@fbd.amrita.edu",
+  "enquiry@fbd.amrita.edu"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

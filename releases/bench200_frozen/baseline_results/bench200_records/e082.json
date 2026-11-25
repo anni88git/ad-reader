@@ -1,0 +1,816 @@
+{
+ "image": "e082_The_Sangai_Express_1113.jpg",
+ "fields": {
+  "brand": {
+   "value": "Dayananda Sagar University",
+   "evidence": "Dayananda Sagar University",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Amity University, Chandigarh University"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 41,
+     "name": "Amity University",
+     "score": 72.9
+    },
+    {
+     "id": 43,
+     "name": "Chandigarh University",
+     "score": 72.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Dayananda Sagar University",
+   "evidence": "Dayananda Sagar University",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ADMISSIONS OPEN 2022",
+   "evidence": "ADMISSIONS OPEN 2022",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "a larger printed line exists ('DSAT', 3.2x the headline size) - check which line is the main headline",
+    "second model disagrees - suggestion: A Place to Grow, Excel, Invent & Innovate!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "A Place to Grow, Excel, Invent & Innovate!",
+   "evidence": "A Place to Grow, Excel, Invent & Innovate!",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 86% similar) - check spelling - suggestion: A Place to Grow, Excel, University Invent & Innovate!",
+    "second model disagrees - suggestion: ADMISSIONS OPEN 2022"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "SCHOOL OF ALLIED HEALTH SCIENCES B.Sc. ·Medical Laboratory Technology ·Medical Imaging and Radiology Technology ·Anesthesia & Operation Theatre Technology ·Emergency & Trauma Care Technology ·Renal Dialysis Technology ·Cardiac Care Technology ·Audiology & Speech language Pathology ·Optometry Direct Admissions Open for B.Tech. / BCA / B. Com. / BBA / BA-JMC B.Design / BPT / Pharm. D. / B. Pharm B.A. LL.B. (Hons.), / B.B.A. LL.B. (Hons.) LL.B. PG Programes MCA / MBA / MPT / M.Pharm",
+   "evidence": "SCHOOL OF ALLIED HEALTH SCIENCES B.Sc. ·Medical Laboratory Technology ·Medical Imaging and Radiology Technology ·Anesthesia & Operation Theatre Technology ·Emergency & Trauma Care Technology ·Renal Dialysis Technology ·Cardiac Care Technology ·Audiology & Speech language Pathology ·Optometry Direct Admissions Open for B.Tech. / BCA / B. Com. / BBA / BA-JMC B.Design / BPT / Pharm. D. / B. Pharm B.A. LL.B. (Hons.), / B.B.A. LL.B. (Hons.) LL.B. PG Programes MCA / MBA / MPT / M.Pharm",
+   "english": "School of Allied Health Sciences offers B.Sc. courses in Medical Laboratory Technology, Medical Imaging and Radiology Technology, Anesthesia & Operation Theatre Technology, Emergency & Trauma Care Technology, Renal Dialysis Technology, Cardiac Care Technology, Audiology & Speech language Pathology, Optometry. Direct Admissions Open for B.Tech., BCA, B.Com., BBA, BA-JMC, B.Design, BPT, Pharm. D., B. Pharm, B.A. LL.B. (Hons.), B.B.A. LL.B. (Hons.), LL.B. PG Programmes MCA / MBA / MPT / M.Pharm.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "REGISTER NOW",
+   "evidence": "REGISTER NOW",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": "ADMISSIONS OPEN 2022",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: recruitment"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": "SCHOOL OF ALLIED HEALTH SCIENCES",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model saw a QR code; detector could not confirm (small print?)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Admissions Open 2022 for School of Allied Health Sciences",
+    "Direct Admissions Open for B.Tech., BCA, B.Com., BBA, BA-JMC, B.Design, BPT, Pharm. D., B. Pharm, B.A. LL.B. (Hons.), B.B.A. LL.B. (Hons.), LL.B.",
+    "PG Programmes MCA / MBA / MPT / M.Pharm",
+    "A 4 Year Program with 1 year Internship",
+    "DSAT Home-Based Proctored Test",
+    "Register now at www.dsat@dsu.edu.in",
+    "Admissions Helpline Nos: 080 4646 1800, +91 636 688 5507",
+    "Northeast: +91 9864 058 002",
+    "DSU City Campus: Innovation Campus Main Admissions & Administrative office, Kudlu Gate, Hosur Main Road, Bengaluru - 560114"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Dayananda Sagar University is open for admissions 2022 in its School of Allied Health Sciences and other undergraduate and postgraduate programmes. Interested candidates can register for the DSAT home-based proctored test and contact the admissions helpline numbers for details.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8046461800",
+     "kind": "mobile",
+     "as_printed": "080 4646 1800"
+    },
+    "evidence": "080 4646 1800",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "6366885507",
+     "kind": "mobile",
+     "as_printed": "+91 636 688 5507"
+    },
+    "evidence": "+91 636 688 5507",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9864058002",
+     "kind": "mobile",
+     "as_printed": "+91 9864 058 002"
+    },
+    "evidence": "+91 9864 058 002",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.dsu.edu.in",
+    "evidence": "www.dsu.edu.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "dsat@dsu.edu.in",
+    "evidence": "dsat@dsu.edu.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "DSU City Campus: Innovation Campus Main Admissions & Administrative office, Kudlu Gate, Hosur Main Road, Bengaluru - 560114.",
+    "evidence": "DSU City Campus: Innovation Campus Main Admissions & Administrative office, Kudlu Gate, Hosur Main Road, Bengaluru - 560114.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "A 4 Year Program with 1 year Internship",
+    "evidence": "A 4 Year Program with 1 year Internship",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Mode: Home-Based Proctored Test",
+    "evidence": "Mode: Home-Based Proctored Test",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Dayananda Sagar University",
+   "evidence": "Dayananda Sagar University",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "B.Sc. Medical Laboratory Technology, Medical Imaging and Radiology Technology, Anesthesia & Operation Theatre Technology, Emergency & Trauma Care Technology, Renal Dialysis Technology, Cardiac Care Technology, Audiology & Speech language Pathology, Optometry; B.Tech., BCA, B.Com., BBA, BA-JMC, B.Design, BPT, Pharm. D., B. Pharm, B.A. LL.B. (Hons.), B.B.A. LL.B. (Hons.), LL.B.; PG Programmes MCA / MBA / MPT / M.Pharm",
+   "evidence": "SCHOOL OF ALLIED HEALTH SCIENCES B.Sc. ·Medical Laboratory Technology ·Medical Imaging and Radiology Technology ·Anesthesia & Operation Theatre Technology ·Emergency & Trauma Care Technology ·Renal Dialysis Technology ·Cardiac Care Technology ·Audiology & Speech language Pathology ·Optometry Direct Admissions Open for B.Tech. / BCA / B. Com. / BBA / BA-JMC B.Design / BPT / Pharm. D. / B. Pharm B.A. LL.B. (Hons.), / B.B.A. LL.B. (Hons.) LL.B. PG Programes MCA / MBA / MPT / M.Pharm",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "exam": {
+   "value": "DSAT",
+   "evidence": "DSAT",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "admission_dates": {
+   "value": "ADMISSIONS OPEN 2022",
+   "evidence": "ADMISSIONS OPEN 2022",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "mode": {
+   "value": "Home-Based Proctored Test",
+   "evidence": "Mode: Home-Based Proctored Test",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Admissions Open 2022 for School of Allied Health Sciences",
+  "Direct Admissions Open for B.Tech., BCA, B.Com., BBA, BA-JMC, B.Design, BPT, Pharm. D., B. Pharm, B.A. LL.B. (Hons.), B.B.A. LL.B. (Hons.), LL.B.",
+  "PG Programmes MCA / MBA / MPT / M.Pharm",
+  "A 4 Year Program with 1 year Internship",
+  "DSAT Home-Based Proctored Test",
+  "Register now at www.dsat@dsu.edu.in",
+  "Admissions Helpline Nos: 080 4646 1800, +91 636 688 5507",
+  "Northeast: +91 9864 058 002",
+  "DSU City Campus: Innovation Campus Main Admissions & Administrative office, Kudlu Gate, Hosur Main Road, Bengaluru - 560114"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Dayananda Sagar",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "A Place to Grow, Excel,",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "University",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Invent & Innovate!",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "SU live the dream",
+   "score": 0.9115,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "Bengaiuru",
+   "score": 0.8727,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "ADMISSIONS OPEN 2022",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "SCHOOL OF ALLIED HEALTH SCIENCES",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Direct Admissions Open for",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "B.Sc.",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "·Medical Laboratory Technology",
+   "score": 0.9743,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Medical Imaging and Radiology Technology",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "B.Tech./BCA/B.Com./BBA/BA-JMC",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "•Anesthesia & Operation Theatre Technology",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "B.Design / BPT/Pharm. D./ B. Pharm",
+   "score": 0.9572,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Emergency & Trauma Care Technology",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "B.A. LL.B. (Hons.), / B.B.A. LL.B. (Hons.)",
+   "score": 0.9824,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Renal Dialysis Technology",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "LL.B.",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Cardiac Care Technology",
+   "score": 0.9875,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Audiology & Speech language Pathology",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "PG Programes",
+   "score": 0.9883,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Optometry",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "MCA/MBA/MPT/M.Pharm",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "A 4 Year",
+   "score": 0.9706,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Hospitals",
+   "score": 0.9782,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "Sagar",
+   "score": 0.9839,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "CDSIMER",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "Program with 1",
+   "score": 0.9888,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "year Internship",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "DSAT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "REGISTER NOW",
+   "score": 0.9736,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "Admissions Helpline Nos:",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "www.dsu.edu.in",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "08046461800",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "C",
+   "score": 0.8922,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 37,
+   "text": "Email: dsat@dsu.edu.in",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "+91 636 688 5507",
+   "score": 0.9541,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Mode: Home-Based Proctored Test",
+   "score": 0.9774,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "Northeast: +91 9864 058 002",
+   "score": 0.9951,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "DSU City Campus: Innovation Campus Main Admissions & Administrative office, Kudlu Gate,",
+   "score": 0.9891,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "Hosur Main Road, Bengaluru - 560114.",
+   "score": 0.9843,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (652x557); small print may be unreadable"
+ ],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 13.8,
+  "extract": 30.78
+ }
+}

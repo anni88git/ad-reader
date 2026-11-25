@@ -1,0 +1,525 @@
+{
+ "image": "d311_Maharashtra_Times_11.jpg",
+ "fields": {
+  "brand": {
+   "value": "Mother Dairy",
+   "evidence": "MOTHER DAIRY",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Milk",
+   "evidence": "Milk",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": "Ultra",
+   "evidence": "ULTRA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Mother Dairy",
+   "evidence": "MOTHER DAIRY",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "दाट मजेदार दुध, जास्त मलई असलेले",
+   "evidence": "दाट मजेदार दुध, जास्त मलई असलेले",
+   "english": "Thick tasty milk, with more cream",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (96%)",
+    "wording is not an exact match to the printed text (closest OCR reading 96% similar) - check spelling - suggestion: दाट मजेदार दूध, जास्त मलई असलेले",
+    "second model disagrees - suggestion: दात मजोदार दुध, जास्त मलाई असलेले"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "तुमची आवडती मिठाई जोईल घरीच जात जात मलईदार, जेका वापयल जात मल असलेले मदर डेअरी अन् - प्रीमियम दुध मग, आज काय गोड आहे तुमच्या घरी?",
+   "evidence": "तुमची आवडती मिठाई जोईल घरीच जात जात मलईदार, जेका वापयल जात मल असलेले मदर डेअरी अन् - प्रीमियम दुध मग, आज काय गोड आहे तुमच्या घरी?",
+   "english": "Your favorite sweets will come home rich and creamy, with the milk that is used. Mother Dairy - Premium Milk, what's sweet in your home today?",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (91%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": "15%",
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad",
+    "percentage, not an amount",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Mother Dairy Ultra milk",
+    "6 litre pack",
+    "MRP Rs 456 per 6 litre pack",
+    "15% extra free",
+    "500 ml and 1 litre packs also available"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Mother Dairy Ultra milk is thick and tasty with more cream. A 6 litre pack costs Rs 456 and comes with 15% extra free. 500 ml and 1 litre packs are also available.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 456,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP*",
+     "item": "प्रति 6* लीटर पॅक",
+     "as_printed": "₹ 456"
+    },
+    "evidence": "₹ 456",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '456' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": null,
+     "currency": "INR",
+     "kind": "price",
+     "label": "EXTRA FREE",
+     "item": null,
+     "as_printed": "15%"
+    },
+    "evidence": "15%",
+    "english": null,
+    "confidence": 0.0,
+    "status": "missing",
+    "reasons": [
+     "not found in the ad",
+     "percentage, not an amount",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "6L",
+    "evidence": "6L",
+    "english": "6 litre",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (0%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "High fat",
+    "evidence": "High fat",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (86%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Premium Milk",
+    "evidence": "Premium Milk",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (54%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "15% EXTRA FREE",
+    "evidence": "15% EXTRA FREE",
+    "english": "15% extra free",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (46%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Mother Dairy Ultra milk",
+  "6 litre pack",
+  "MRP Rs 456 per 6 litre pack",
+  "15% extra free",
+  "500 ml and 1 litre packs also available"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MOTHER",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "DAIRY",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Milk",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "दाट",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "मजेदार",
+   "score": 0.9723,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "दूध, जास्त",
+   "score": 0.9542,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "मलई असलेले",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "तुमची",
+   "score": 0.8493,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "आवब्ती मिवई जोईल घरीच जात जात मलईदार, जेका वापयल जात मल असलेले",
+   "score": 0.6664,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "मदर हेअरी अन्र - प्रीमियम दूथ मग, आाज काय गोठ आहे तुमच्या घरी?",
+   "score": 0.7471,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "ULTRA",
+   "score": 0.9622,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Migh fat",
+   "score": 0.8785,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 13,
+   "text": "15%",
+   "score": 0.9994,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "MRP* 1456 प्रति 6* लीटर पेंक",
+   "score": 0.9044,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "500m आणि। लीटर पेंकामप्ये",
+   "score": 0.8117,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 16,
+   "text": "सुक्ता उपव्",
+   "score": 0.666,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (586x599); small print may be unreadable"
+ ],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.64,
+  "extract": 25.85
+ }
+}

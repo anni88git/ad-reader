@@ -1,0 +1,702 @@
+{
+ "image": "e087_Malyalam_Manorama_59.jpg",
+ "fields": {
+  "brand": {
+   "value": "Canara Bank",
+   "evidence": "Canara Bank",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Canara Bank' (#142)"
+   ],
+   "matched_id": 142,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 142,
+     "name": "Canara Bank",
+     "score": 100.0
+    },
+    {
+     "id": 144,
+     "name": "Yes Bank",
+     "score": 62.7
+    },
+    {
+     "id": 60,
+     "name": "Bank of Baroda",
+     "score": 60.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Canara Bank",
+   "evidence": "Canara Bank",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "നിങ്ങൾ രജിസ്റ്റർ ചെയ്ത നഷ്ടയ്യ സേവകർക്ക് നന്ദി",
+   "evidence": "നിങ്ങൾ രജിസ്റ്റർ ചെയ്ത നഷ്ടയ്യ സേവകർക്ക് നന്ദി",
+   "english": "Thank you registered volunteers",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available",
+    "second model disagrees - suggestion: വീട് വാങ്ങുന്നതിനുള്ള സൗന്ദര്യകോണം, നിങ്ങളുടെ ദർജ്ജനീയമായ സേവനങ്ങൾക്കായി നന്ദി"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Together We Can",
+   "evidence": "Together We Can",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ഒരേ അവധിക്കാലം എല്ലാവർക്കും നന്ദി"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "പെരിയ അരിയെന്നൊരു സര്‍വ്വകലാശാല, നിങ്ങൾ രജിസ്റ്റർ ചെയ്ത നഷ്ടയ്യ സേവകർക്ക് നന്ദി",
+   "evidence": "പെരിയ അരിയെന്നൊരു സര്‍വ്വകലാശാല, നിങ്ങൾ രജിസ്റ്റർ ചെയ്ത നഷ്ടയ്യ സേവകർക്ക് നന്ദി",
+   "english": "Periyar University, thank you registered volunteers",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Canara Bank",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: public_notice"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Banking & Finance",
+   "evidence": "Canara Bank",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #12"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Banking & Finance",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Malayalam",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Malayalam: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Canara Bank advertisement",
+    "Thank you registered volunteers",
+    "Date 27.06.2023",
+    "Toll-free number 1800 1030",
+    "Website www.canarabank.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Canara Bank thanks registered volunteers on 27.06.2023. Contact via toll-free 1800 1030 or visit www.canarabank.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001030",
+     "kind": "landline",
+     "as_printed": "1800 1030"
+    },
+    "evidence": "1800 1030",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.canarabank.com",
+    "evidence": "www.canarabank.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "canarabank",
+    "evidence": "canarabank",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "canarabankofficial",
+    "evidence": "canarabankofficial",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "canarabankinsta",
+    "evidence": "canarabankinsta",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Canara Bank advertisement",
+  "Thank you registered volunteers",
+  "Date 27.06.2023",
+  "Toll-free number 1800 1030",
+  "Website www.canarabank.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ai",
+   "score": 0.9506,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "AzadiKa",
+   "score": 0.9116,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "Canara Bank",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Amrit Mahotsav",
+   "score": 0.9423,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "an soam moeco moome",
+   "score": 0.5903,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "Together We Can",
+   "score": 0.9785,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": ") onno Moaoaa,",
+   "score": 0.5324,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "mad lml md monmd",
+   "score": 0.6474,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "m031",
+   "score": 0.5098,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "2e03028m3",
+   "score": 0.4587,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "m",
+   "score": 0.5073,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "ngong ng",
+   "score": 0.5882,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "Blmo",
+   "score": 0.8268,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "27.06.2023",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "m",
+   "score": 0.613,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "coMOD",
+   "score": 0.5786,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "maods",
+   "score": 0.6719,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "anngo",
+   "score": 0.637,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "muord",
+   "score": 0.7714,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "alaom",
+   "score": 0.5282,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": ".gm.sl.",
+   "score": 0.6485,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "mm",
+   "score": 0.5774,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "2",
+   "score": 0.709,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "Q",
+   "score": 0.6355,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "no",
+   "score": 0.5211,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "(e",
+   "score": 0.5189,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "a",
+   "score": 0.7166,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "agmist asy",
+   "score": 0.6348,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "mlaealad mlsg)as",
+   "score": 0.5737,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "enlemजीmen",
+   "score": 0.6693,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "let",
+   "score": 0.4539,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "लuoml",
+   "score": 0.5042,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "San)",
+   "score": 0.468,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "onw",
+   "score": 0.5557,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "moकngmकल",
+   "score": 0.4642,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "moaugmकlत",
+   "score": 0.4922,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "fin",
+   "score": 0.9091,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "canarabank",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "You Tube",
+   "score": 0.9805,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "canarabankofficial",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "canarabankinsta",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "18001030",
+   "score": 0.806,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "www.canarabank.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "https://instadownload app/",
+   "score": 0.9938,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.44,
+  "extract": 32.19
+ }
+}

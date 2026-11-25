@@ -1,0 +1,657 @@
+{
+ "image": "d036_Navbharat_Times_36.jpg",
+ "fields": {
+  "brand": {
+   "value": "Zandu",
+   "evidence": "ZANDU",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Nityam",
+   "evidence": "Nityam",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Zandu",
+   "evidence": "ZANDU",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "जीतो कब्ज वाली फाइट रहो दिन भर लाइट",
+   "evidence": "जीतो कब्ज वाली फाइट रहो दिन भर लाइट",
+   "english": "Win the fight against constipation, stay light all day",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 83% similar) - check spelling - suggestion: वाली फाइट रहो दिनभर लाइट",
+    "second model disagrees - suggestion: जीतो कब्ज वाली फाइड्ट रहो दिन भर लाइट"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "डॉक्टर से नि:शुल्क सलाह",
+   "evidence": "डॉक्टर से नि:शुल्क सलाह",
+   "english": "Get free doctor consultation",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #14"
+   ],
+   "matched_id": 14,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Zandu Nityam Ayurvedic Vati for constipation",
+    "Relief from gas, acidity and indigestion",
+    "100% Ayurvedic Laxative",
+    "Doctor consultation free",
+    "Call 1800 572 8000 (9am - 6pm)",
+    "Visit www.zanducare.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Zandu Nityam Ayurvedic Vati provides relief from constipation, gas, acidity and indigestion. It is a 100% Ayurvedic laxative. Call 1800 572 8000 (9am - 6pm) for free doctor consultation or visit www.zanducare.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18005728000",
+     "kind": "toll_free",
+     "as_printed": "1800 572 8000"
+    },
+    "evidence": "1800 572 8000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.zanducare.com",
+    "evidence": "www.zanducare.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "गैस ✓ एसिडिटी",
+    "evidence": "गैस ✓ एसिडिटी",
+    "english": "Gas ✓ Acidity",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "बदहज़मी से भी राहत",
+    "evidence": "बदहज़मी से भी राहत",
+    "english": "Relief from indigestion too",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100% Ayurvedic Laxative",
+    "evidence": "100% Ayurvedic Laxative",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (85%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NON-HABIT FORMING",
+    "evidence": "NON-HABIT FORMING",
+    "english": "Non-habit forming",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (47%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Gentle Overnight Relief",
+    "evidence": "Gentle Overnight Relief",
+    "english": "Gentle overnight relief",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (48%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "डॉक्टर से नि:शुल्क सलाह",
+    "evidence": "डॉक्टर से नि:शुल्क सलाह",
+    "english": "Free doctor consultation",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Zandu Nityam Ayurvedic Vati for constipation",
+  "Relief from gas, acidity and indigestion",
+  "100% Ayurvedic Laxative",
+  "Doctor consultation free",
+  "Call 1800 572 8000 (9am - 6pm)",
+  "Visit www.zanducare.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "जीतो कब़जवाली फाइट",
+   "score": 0.9606,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "जीतो",
+   "score": 0.9961,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "कब्जत",
+   "score": 0.7751,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "वाली",
+   "score": 0.9635,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "फाइट",
+   "score": 0.9947,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "रहो",
+   "score": 0.9758,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "दिनभर लाइट",
+   "score": 0.9352,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "लाइट",
+   "score": 0.8734,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "गैस ए एसिडिटी",
+   "score": 0.9369,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "M",
+   "score": 0.5951,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "बदहज़मी से भी राहत",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "HEW PICK",
+   "score": 0.824,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 13,
+   "text": "271-",
+   "score": 0.9224,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "ZANDU",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "नित्यम",
+   "score": 0.9159,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "Nityam",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "TS",
+   "score": 0.8344,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "Ayurredic Vati",
+   "score": 0.9742,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "ZANDU",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "टैबलेट । चर्ण",
+   "score": 0.8864,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "3MENEIT",
+   "score": 0.6824,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "xo0% iyurvedic Laxative",
+   "score": 0.8939,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 23,
+   "text": "Nityam",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "OVUSaSE VELES",
+   "score": 0.5273,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "CHURKA",
+   "score": 0.9468,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "कब़ज से एक शॉट में राहत",
+   "score": 0.9479,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "Te",
+   "score": 0.4905,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "Gastor Oul Shaki",
+   "score": 0.7317,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "301oter",
+   "score": 0.5344,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "HEALTN EXPERT FOR A CHANGING LIFE",
+   "score": 0.8871,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "MTUA à sAPe",
+   "score": 0.545,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "डॉक्टर से नि:शुल्क सलाह",
+   "score": 0.9853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "©1800 572 8000 (9am - 6pm) I www.zanducare.com 3",
+   "score": 0.9545,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 14.25,
+  "extract": 7.9
+ }
+}

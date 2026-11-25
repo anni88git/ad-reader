@@ -1,0 +1,80 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Opal Convention Centre",
+   "Opal",
+   "Queen's Lawn",
+   "Arammbh Events"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Opal Convention Centre",
+   "Queen's Lawn"
+  ]
+ },
+ "ad_type": "service_provider",
+ "category": {
+  "any_of": [
+   "Travel & Hospitality",
+   "Media & Entertainment"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Opal Convention Centre",
+   "લગ્ન, રિસેપ્શન, સગાઈ, સંગીત, કોર્પોરેટ ઈવેન્ટ્સ"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "phones": [
+  "9821879098",
+  "7506424280",
+  "9076003838",
+  "9199777777"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Gujarati",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "drafter unsure"
+  },
+  {
+   "field": "category",
+   "why": "drafter unsure"
+  }
+ ]
+}

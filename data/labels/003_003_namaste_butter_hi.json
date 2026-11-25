@@ -1,0 +1,87 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": [
+  "Hindi",
+  "English"
+ ],
+ "brand": "Namaste India",
+ "product": {
+  "any_of": [
+   "Butter",
+   "Namaste India Butter"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   "100 g",
+   "100 gm",
+   "100 ग्रा.",
+   null
+  ]
+ },
+ "advertiser": {
+  "any_of": [
+   "Namaste India Foods",
+   "Namaste India",
+   null
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Food & Beverages",
+   "FMCG"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "नमक नहीं !",
+   "नमक नहीं ! लो मक्खन का असली स्वाद"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "लो मक्खन का असली स्वाद",
+   null
+  ]
+ },
+ "price": 44,
+ "phones": [
+  "7988859406",
+  "18001230800",
+  "05122240251"
+ ],
+ "websites": [
+  "www.namasteindiafoods.com"
+ ],
+ "emails": [
+  "crm@nirpl.com"
+ ],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  },
+  {
+   "field": "price",
+   "why": "ambiguous"
+  }
+ ]
+}

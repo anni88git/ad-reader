@@ -1,0 +1,822 @@
+{
+ "image": "e015_Sakshi__282.jpg",
+ "fields": {
+  "brand": {
+   "value": "TBZ",
+   "evidence": "tbz",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "TBZ Kalpavruksha",
+   "evidence": "TBZ KALPAVRUKSHA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ఈ అక్షయ తృతీయ పకాశించెడానికి అనేక మార్గాలు",
+   "evidence": "ఈ అక్షయ తృతీయ పకాశించెడానికి అనేక మార్గాలు",
+   "english": "This Akshaya Tritiya there are many ways to shine",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: కా అక్షయం తృితీయ (వకాశం వస్తానికి) అనక్ మర్గాలు"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "The original since 1864",
+   "evidence": "The original since 1864",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: బంగారు అహరజాల ముజారిపో 50% ఫీల్స్* దీమాండ్ అహరజాలపై ముజారి ఫీల్లు తేరు*"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "tbz",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Jewellery",
+   "evidence": "బంగారు ఆభరణాల మజూరీపై",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #10"
+   ],
+   "matched_id": 10,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 10,
+     "name": "Jewellery",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Telugu",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "TBZ Kalpavruksha Easy Installment Plan",
+    "Up to 50% off on making charges for gold jewellery",
+    "No making charges on diamond jewellery",
+    "SBI card cashback up to Rs 5,000",
+    "Validity: 07 Apr - 22 Apr 2023"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "TBZ Kalpavruksha offers up to 50% off making charges on gold jewellery and no making charges on diamond jewellery this Akshaya Tritiya, with SBI card cashback up to Rs 5,000; visit branches in Punjagutta, Basheerbagh or Labbipet.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "04046037815",
+     "kind": "landline",
+     "as_printed": "040 - 46037815 / 16"
+    },
+    "evidence": "040 - 46037815 / 16",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04040263356",
+     "kind": "landline",
+     "as_printed": "040 - 40263356"
+    },
+    "evidence": "040 - 40263356",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8662471240",
+     "kind": "mobile",
+     "as_printed": "0866-2471240 / 7396971972"
+    },
+    "evidence": "0866-2471240 / 7396971972",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7396971972",
+     "kind": "mobile",
+     "as_printed": "7396971972"
+    },
+    "evidence": "PH.: 0866-2471240/7396971972",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "70 GREENSLAND ROAD, PUNJAGUTTA HYDERABAD, PH.: 040 - 46037815 / 16",
+    "evidence": "70 GREENSLAND ROAD, PUNJAGUTTA HYDERABAD, PH.: 040 - 46037815 / 16",
+    "english": "70 Greensland Road, Punjagutta Hyderabad",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MOGUL'S COURT, BASHEERBAGH HYDERABAD, PH.: 040 - 40263356",
+    "evidence": "MOGUL'S COURT, BASHEERBAGH HYDERABAD, PH.: 040 - 40263356",
+    "english": "Mogul's Court, Basheerbagh Hyderabad",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "M.G. ROAD, LABBIPET, VIJAYAWADA PH.: 0866-2471240 / 7396971972",
+    "evidence": "M.G. ROAD, LABBIPET, VIJAYAWADA PH.: 0866-2471240 / 7396971972",
+    "english": "M.G. Road, Labbipet, Vijayawada",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "TBZ KALPAVRUKSHA EASY INSTALLMENT PLAN",
+    "evidence": "TBZ KALPAVRUKSHA EASY INSTALLMENT PLAN",
+    "english": "TBZ Kalpavruksha Easy Installment Plan",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "QUICK·EFFORTLESS-SECURE",
+    "evidence": "QUICK·EFFORTLESS-SECURE",
+    "english": "Quick Effortless Secure",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "ONE TBZ PROMISE: 158 TRUST OF",
+    "evidence": "ONE TBZ PROMISE: 158 TRUST OF",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "ఉpto 50%",
+    "evidence": "ఉpto 50%",
+    "english": "Up to 50%",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (50%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "మజూరీ ఛార్జీలు లేవు",
+    "evidence": "మజూరీ ఛార్జీలు లేవు",
+    "english": "No making charges",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹2,500 Cashback on Trxn. of ₹50,000 - 99,999.99 & ₹5,000 Cashback on Trxn. of ₹1,00,000 & above",
+    "evidence": "₹2,500 Cashback on Trxn. of 50,000 - 99,999.99 & ₹5,000 Cashback on Trxn. of 1,00,000 & above",
+    "english": "₹2,500 Cashback on transaction of ₹50,000 - 99,999.99 & ₹5,000 Cashback on transaction of ₹1,00,000 & above",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "TBZ Kalpavruksha",
+     "area": "Punjagutta",
+     "city": "Hyderabad",
+     "phones": [
+      "04046037815"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "70 GREENSLAND ROAD, PUNJAGUTTA HYDERABAD, PH.: 040 - 46037815 / 16",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TBZ Kalpavruksha",
+     "area": "Basheerbagh",
+     "city": "Hyderabad",
+     "phones": [
+      "04040263356"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 6,
+     "city_id": null
+    },
+    "evidence": "MOGUL'S COURT, BASHEERBAGH HYDERABAD, PH.: 040 - 40263356",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Hyderabad' (#6)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TBZ Kalpavruksha",
+     "area": "Labbipet",
+     "city": "Vijayawada",
+     "phones": [
+      "8662471240"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 41,
+     "city_id": null
+    },
+    "evidence": "M.G. ROAD, LABBIPET, VIJAYAWADA PH.: 0866-2471240 / 7396971972",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Vijayawada' (#41)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "making_charge_offer": {
+   "value": "ఉpto 50%",
+   "evidence": "ఉpto 50%",
+   "english": "Up to 50%",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (50%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "festival": {
+   "value": "అక్షయ తృతీయ",
+   "evidence": "అక్షయ తృతీయ",
+   "english": "Akshaya Tritiya",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "TBZ Kalpavruksha Easy Installment Plan",
+  "Up to 50% off on making charges for gold jewellery",
+  "No making charges on diamond jewellery",
+  "SBI card cashback up to Rs 5,000",
+  "Validity: 07 Apr - 22 Apr 2023"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ONETBZ",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "158",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "PROMISE:",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "THUST OF",
+   "score": 0.9253,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "ఈ అక్షయ తృతీయ",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "[పకాశించెడానికి అనేక మార్గాలు",
+   "score": 0.9473,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "బంగారు ఆభరణాల మజూరీపై",
+   "score": 0.9703,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "డైమండ్ ఆభరణాలపై",
+   "score": 0.9928,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": "550%",
+   "score": 0.9249,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 10,
+   "text": "మజూరీ ఛార్టీలు లేవు",
+   "score": 0.9283,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "జ",
+   "score": 0.9871,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "tbz",
+   "score": 0.9205,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "ఎలాంటి తరుగు ఉండదు",
+   "score": 0.9679,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "PLAN YOUR PURCHASE WITH",
+   "score": 0.9977,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "TBZ KALPAVRUKSHA",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "70 GREENSLAND ROAD, PUNJAGUTTA",
+   "score": 0.9846,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "EASY INSTALLMENT PLAN",
+   "score": 0.9774,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "HYDERABAD,PH.:040-46037815/16",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "MOGUL'S COURT, BASHEERBAGH",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "HYDERABAD,PH.:040-40263356",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "M.G.ROAD, LABBIPET, VIJAYAWADA",
+   "score": 0.9702,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "QUICK·EFFORTLESS-SECURE",
+   "score": 0.8875,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "PH.: 0866-2471240/7396971972",
+   "score": 0.9895,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "The original since 1864",
+   "score": 0.9816,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "SBIcard",
+   "score": 0.9005,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "2,500 Cashback on Trxn. of 50,000 - 99,999.99 & 5,000 Cashback",
+   "score": 0.9652,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "5,000CASHBACK",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "on Trxn. of 1,00,000 & above. Applicable once per credit card account.",
+   "score": 0.9973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "Validity: 07 Apr - 22 Apr 2023. *T&C Apply.",
+   "score": 0.9755,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [
+  "low contrast (34)"
+ ],
+ "record_flags": [
+  "model note: OCR line [009] shows '550%' but image clearly shows '50%' with Telugu text 'ఉpto' before it; using image reading of 50%.",
+  "model note: OCR line [010] shows 'మజూరీ ఛార్టీలు లేవు' but image shows 'మజూరీ ఛార్జీలు లేవు'; using image reading.",
+  "model note: OCR line [006] shows 'పకాశించెడానికి' but image shows 'పకాశించడానికి'; using image reading.",
+  "1 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 12.37,
+  "extract": 33.31
+ }
+}

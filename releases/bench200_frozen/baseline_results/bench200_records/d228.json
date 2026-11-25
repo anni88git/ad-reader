@@ -1,0 +1,1204 @@
+{
+ "image": "d228_Dainik_Bhaskar_28.jpg",
+ "fields": {
+  "brand": {
+   "value": "Havells",
+   "evidence": "HAVELLS",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Water Heaters",
+   "evidence": "Water Heaters by Havells",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Havells",
+   "evidence": "HAVELLS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Unconventionally Beautiful.",
+   "evidence": "Unconventionally Beautiful.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Presenting the range of exquisite looking Water Heaters by Havells.",
+   "evidence": "Presenting the range of exquisite looking Water Heaters by Havells.",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Presenting the range of exquisite looking Water Heaters by Havells. Each one is designed to add more style and substance to your bathroom and make you say - What-a-Heater."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Each one is designed to add more style and substance to your bathroom and make you say - What-a-Heater.",
+   "evidence": "Each one is designed to add more style and substance to your bathroom and make you say - What-a-Heater.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "7 YEAR WARRANTY ON HEATING ELEMENT 7 YEAR WARRANTY ON INNER CONTAINER COMPREHENSIVE",
+   "evidence": "7 YEAR WARRANTY ON HEATING ELEMENT 7 YEAR WARRANTY ON INNER CONTAINER COMPREHENSIVE",
+   "english": "7 year warranty on heating element, 7 year warranty on inner container comprehensive",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (48%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "buy online**at shop.havells.com",
+   "evidence": "buy online**at shop.havells.com",
+   "english": "Buy online at shop.havells.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Home Appliances",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #27"
+   ],
+   "matched_id": 27,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 27,
+     "name": "Retail & Consumer Electronics > Home Appliances",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Havells water heaters range",
+    "Monsoon offer up to 15% cashback",
+    "No cost EMI zero processing fees",
+    "Free installation",
+    "7 year warranty on inner container",
+    "Buy online at shop.havells.com",
+    "Care 360 customer care number"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Havells presents a range of stylish water heaters for bathrooms. A monsoon offer gives up to 15% cashback, no cost EMI with zero processing fees from leading banks, free installation, and a 7-year warranty on the inner container. Buy online at shop.havells.com or call customer care at 08045 77 1313.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8045771313",
+     "kind": "mobile",
+     "as_printed": "08045 77 1313"
+    },
+    "evidence": "Customer Care No. : 08045 77 1313",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9711773333",
+     "kind": "mobile",
+     "as_printed": "+91-9711773333"
+    },
+    "evidence": "+91-9711773333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811283832",
+     "kind": "mobile",
+     "as_printed": "9811283832"
+    },
+    "evidence": "Delhi: 9811283832",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9716520783",
+     "kind": "mobile",
+     "as_printed": "9716520783"
+    },
+    "evidence": "South: 9716520783",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8130901013",
+     "kind": "mobile",
+     "as_printed": "8130901013"
+    },
+    "evidence": "North: 8130901013",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7447488881",
+     "kind": "mobile",
+     "as_printed": "7447488881"
+    },
+    "evidence": "West & Centre: 7447488881",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953842547",
+     "kind": "mobile",
+     "as_printed": "9953842547"
+    },
+    "evidence": "East: 9953842547",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9711354837",
+     "kind": "mobile",
+     "as_printed": "97113 54837"
+    },
+    "evidence": "Faridabad: 97113 54837",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "shop.havells.com",
+    "evidence": "shop.havells.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.havells.com",
+    "evidence": "Website: www.havells.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "galaxy@havells.com",
+    "evidence": "please e-mail at: galaxy@havells.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "/havells",
+    "evidence": "/havells",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "/havellsindia",
+    "evidence": "/havellsindia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "YouTube/havellsindia",
+    "evidence": "YouTube/havellsindia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Intelligent heating",
+    "evidence": "Intelligent heating",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "7 YEAR WARRANTY ON HEATING ELEMENT",
+    "evidence": "7 YEAR WARRANTY ON HEATING ELEMENT",
+    "english": "7 year warranty on heating element",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (52%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "7 YEAR WARRANTY ON INNER CONTAINER COMPREHENSIVE",
+    "evidence": "7 YEAR WARRANTY ON INNER CONTAINER COMPREHENSIVE",
+    "english": "7 year warranty on inner container comprehensive",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (57%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "GENUINE FLEXI PIPE INSIDE THE BOX",
+    "evidence": "GENUINE FLEXI PIPE INSIDE THE BOX",
+    "english": "Genuine flexi pipe inside the box",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (50%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "UPTO 15% CASHBACK",
+    "evidence": "UPTO 15% CASHBACK",
+    "english": "Up to 15% cashback",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (71%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NO COST EMI",
+    "evidence": "NO COST EMI",
+    "english": "No cost EMI",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ZERO PROCESSING FEES",
+    "evidence": "ZERO PROCESSING FEES",
+    "english": "Zero processing fees",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FROM ALL LEADING BANKS",
+    "evidence": "FROM ALL LEADING BANKS",
+    "english": "From all leading banks",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE INSTALLATION",
+    "evidence": "FREE INSTALLATION",
+    "english": "Free installation",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "products_on_offer": {
+   "value": "Water Heaters",
+   "evidence": "Water Heaters by Havells",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "UPTO 15% CASHBACK",
+   "evidence": "UPTO 15% CASHBACK",
+   "english": "Up to 15% cashback",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (71%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "NO COST EMI ZERO PROCESSING FEES",
+   "evidence": "NO COST EMI ZERO PROCESSING FEES",
+   "english": "No cost EMI zero processing fees",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "MONSOON OFFER",
+   "evidence": "MONSOON OFFER",
+   "english": "Monsoon offer",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Havells water heaters range",
+  "Monsoon offer up to 15% cashback",
+  "No cost EMI zero processing fees",
+  "Free installation",
+  "7 year warranty on inner container",
+  "Buy online at shop.havells.com",
+  "Care 360 customer care number"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Intelligent",
+   "score": 0.9616,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "heating",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Unconventionally Beautiful.",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Presenting the range of exquisite looking Water Heaters by Havells.",
+   "score": 0.9868,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "HAVELLS",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Each one is designed to add more style and substance to your bathroom",
+   "score": 0.9922,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "and make you say - What-a-Heater.",
+   "score": 0.9825,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "HAVELLS",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "HAVELLS",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "ORiZZONTE",
+   "score": 0.9983,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "BIANCA",
+   "score": 0.9952,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "HAVELLS",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "0",
+   "score": 0.8338,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "MONSOON OFFER",
+   "score": 0.9632,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "15%",
+   "score": 0.9528,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "NO COST",
+   "score": 0.9821,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "ZERO",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Otto",
+   "score": 0.9975,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "EMI",
+   "score": 0.9844,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "PROCESSING",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "CASHBACK",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "FEES",
+   "score": 0.9961,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "HAVELLS",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "FROM ALL LEADING BANKS",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "ADONIA",
+   "score": 0.9289,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "7℃⊕",
+   "score": 0.8446,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 27,
+   "text": "75℃",
+   "score": 0.7377,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "+",
+   "score": 0.8838,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "FREE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "7 YEAR",
+   "score": 0.9397,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "OG6",
+   "score": 0.4795,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "NTYON INNER CO",
+   "score": 0.9631,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "女女火",
+   "score": 0.6409,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "4",
+   "score": 0.6304,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "*Terms & Conditions Apply. Pictures in this ad may slightly vary from the actual product. Free installation is available at selected areas only.",
+   "score": 0.9954,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 36,
+   "text": "4",
+   "score": 0.6396,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "MORE STARS",
+   "score": 0.9015,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "\"Cashback offer is available on selected models and applicable on credit and debit card EMI only on transaction done through Pinelabs and Paytm machine.",
+   "score": 0.9968,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "buy online**at shop.havells.com",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "/havells",
+   "score": 0.9759,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "/havellsindia",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "YouTube/havellsindia",
+   "score": 0.9826,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "/havells__india",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "SHRVICE",
+   "score": 0.8199,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 45,
+   "text": "CARE360",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "Reach us on WhatsApp @",
+   "score": 0.9972,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "For CARE 360, Call us at: Customer Care No. : 08045 77 1313",
+   "score": 0.9907,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "**Online shopping is applicable on select products.",
+   "score": 0.9933,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "+91-9711773333",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "For dealers interested in opening new Havells Galaxy Store,",
+   "score": 0.9899,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 51,
+   "text": "Website: www.havells.com",
+   "score": 0.9868,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "All trademarks used herein are property of their respective owners. Any use of third party trademarks is for identification purposes only and does not imply endorsement.",
+   "score": 0.9849,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 53,
+   "text": "ASSURANCE•REACH·EFFICIENCY",
+   "score": 0.9761,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "for any service related query.",
+   "score": 0.9839,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "please e-mail at: galaxy@havells.com",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "Institutional Enquiry: Delhi: 9811283832, Trade Enquiry: South: 9716520783, North: 8130901013, West & Centre: 7447488881, East: 9953842547, Faridabad: 97113 54837 1 Available at all leading electrical and electronics outlets.",
+   "score": 0.9868,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 57,
+   "text": "cromā",
+   "score": 0.9975,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 58,
+   "text": "Great Eastern",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 59,
+   "text": "ELECTRONICS",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "Hippo",
+   "score": 0.9889,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 61,
+   "text": "METRO",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 62,
+   "text": "AVEYELECTONCS",
+   "score": 0.6928,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 63,
+   "text": "VARDHMAN",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 64,
+   "text": "ALSO",
+   "score": 0.9923,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 65,
+   "text": "amazon",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 66,
+   "text": "EP RACTIONC",
+   "score": 0.5813,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 67,
+   "text": "UNI ELECTRO",
+   "score": 0.9726,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 68,
+   "text": "AVAILARLE ON",
+   "score": 0.9849,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "20 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 19.83,
+  "extract": 15.11
+ }
+}

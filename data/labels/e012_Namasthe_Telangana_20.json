@@ -1,0 +1,77 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "websites",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Torque",
+   "Orthomac",
+   "Torque Pharma",
+   "Torque's Orthomac"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Orthomac Gel",
+   "Torque's Orthomac Gel"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG > Personal & Home Care"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "ఆర్థోమ్యాక్ జెల్ రాయండి ఇక ఏ నొప్పి మిమ్మల్ని ఆపలేదు",
+   "Orthomac Gel"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "phones": [
+  "9779214455"
+ ],
+ "emails": [
+  "care@torquepharma.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Telugu",
+    "English"
+   ],
+   [
+    "Telugu"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "drafter unsure"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Orasore"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Orasore Gel",
+   "Orasore Mouth Ulcer Tablet",
+   "Mouth Ulcer Tablet",
+   "Orasore Gel & Tablet",
+   "Orasore 2 minute",
+   null
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "मुँह के छाले",
+   "मुंह के छाले"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ],
+   [
+    "Hindi"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

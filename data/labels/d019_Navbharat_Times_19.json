@@ -1,0 +1,73 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Baidyanath"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Kasamrita",
+   "Kasamrita Herbal Cough Syrup",
+   "Kasamrit Chewable Tablet",
+   "Kasamrita Herbal Cough Syrup & Chewable Tablet",
+   "Herbal Cough Syrup"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG > Personal & Home Care"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "खांसी व गले की खराश में लाभदायक",
+   "खांसी व गले की खराश में लाभदायक Allergic खांसी में लाभदायक"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ],
+   [
+    "Hindi"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "drafter unsure"
+  }
+ ]
+}

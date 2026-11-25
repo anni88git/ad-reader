@@ -1,0 +1,61 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Maruti Suzuki",
+ "product": {
+  "any_of": [
+   "NEXA Black Edition",
+   "Black Edition",
+   null
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "Black Edition"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": "Introducing NEXA Black Edition.",
+ "sub_headline": {
+  "any_of": [
+   "Drive towards exclusive experiences.",
+   "Create. Inspire.",
+   null
+  ]
+ },
+ "price": null,
+ "websites": [
+  "www.nexaexperience.com"
+ ],
+ "emails": [],
+ "qr_code_present": true,
+ "_uncertain_fields": []
+}

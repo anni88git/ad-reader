@@ -1,0 +1,76 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Horlicks",
+ "product": {
+  "any_of": [
+   "Horlicks Protein+",
+   "Protein+",
+   "Horlicks Protein Plus",
+   "Protein Plus"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "Chocolate",
+   "Vanilla & Chocolate"
+  ]
+ },
+ "advertiser": {
+  "any_of": [
+   "GSK",
+   "GlaxoSmithKline",
+   "Horlicks",
+   null
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Food & Beverages",
+   "FMCG",
+   "Food Delivery & Restaurants"
+  ]
+ },
+ "headline": "Have you tried the better protein?",
+ "sub_headline": {
+  "any_of": [
+   null,
+   "Horlicks Protein+"
+  ]
+ },
+ "price": null,
+ "websites": {
+  "any_of": [
+   [
+    "https://proteinplus.horlicks.in/"
+   ],
+   [
+    "proteinplus.horlicks.in"
+   ]
+  ]
+ },
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

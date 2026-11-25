@@ -1,0 +1,2017 @@
+{
+ "image": "e011_Sakshi__269.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Arena",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: VISHNU CARS PVT. LTD. / NOVELTY REDDY & REDDY / MITHRA AUTO / SANTOSH / VARUN / BHARGAVI / JAYALAKSHMI / JAYALAKSHMI / REDDY & REDDY MOTORS / VARUN / VARUN / VARUN / MITHRA AUTO / JAYALAKSHMI / BHARGAVI / BHARGAVI / REDDY & REDDY / VARUN / VARUN / VARUN / VARUN / VARUN / S.B. MOTORS / SATTI BABU / JAYABHERI / JAYABHERI / VARUN / VARUN / JAYABHERI / JAYABHERI / JAYABHERI / SATTI BABU / S. B. MOTORS",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)",
+    "record #9 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 9,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "MAKE NEW BEGINNINGS AUSPICIOUS AND PROSPEROUS!",
+   "evidence": "MAKE NEW BEGINNINGS AUSPICIOUS AND PROSPEROUS!",
+   "english": "Make new beginnings auspicious and prosperous!",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 93% similar) - check spelling - suggestion: MAKE NEW BEGINNINGS Akshay AUSPICIOUS AND PROSPEROUS!",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "BRING HOME YOUR FAVOURITE MARUTI SUZUKI ARENA CAR WITH FESTIVE OFFERS!",
+   "evidence": "BRING HOME YOUR FAVOURITE MARUTI SUZUKI ARENA CAR WITH FESTIVE OFFERS!",
+   "english": "Bring home your favourite Maruti Suzuki Arena car with festive offers!",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (85%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "E-BOOK TODAY AT WWW.MARUTISUZUKI.COM OR VISIT YOUR NEAREST MARUTI SUZUKI DEALERSHIP.",
+   "evidence": "E-BOOK TODAY AT WWW.MARUTISUZUKI.COM OR VISIT YOUR NEAREST MARUTI SUZUKI DEALERSHIP.",
+   "english": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "ALTO K10 ₹49000* DZIRE ₹10000* S-PRESSO ₹49000* CELERIO ₹44000* SWIFT ₹44100* EECO ₹34000*",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "Hindi: OCR found no devanagari text",
+    "second model disagrees - suggestion: English",
+    "removed Hindi: OCR found no text in that script and the second model does not list it - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 49000,
+   "evidence": "₹49000*",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (49,000)",
+    "several prices: confirm which is the current price / old (struck-out) price"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Maruti Suzuki Arena festive offers",
+    "Alto K10 ₹49000",
+    "Dzire ₹10000",
+    "S-Presso ₹49000",
+    "Celerio ₹44000",
+    "Swift ₹44100",
+    "Eeco ₹34000",
+    "100% on-road funding available",
+    "E-book today at www.marutisuzuki.com or visit nearest Maruti Suzuki dealership",
+    "List of Maruti Suzuki authorised dealers with phone numbers"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki Arena is offering festive savings on Alto K10, Dzire, S-Presso, Celerio, Swift and Eeco, with 100% on-road funding available. Readers can e-book at www.marutisuzuki.com or visit their nearest Maruti Suzuki dealership.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9100776888",
+     "kind": "mobile",
+     "as_printed": "9100776888"
+    },
+    "evidence": "VISHNU CARS PVT. LTD.: (NELLORE) CALL: 9100776888",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9948814222",
+     "kind": "mobile",
+     "as_printed": "9948814222"
+    },
+    "evidence": "NOVELTY REDDY & REDDY: (BHIMAWARAM) CALL: 9948814222",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8297174444",
+     "kind": "mobile",
+     "as_printed": "8297174444"
+    },
+    "evidence": "MITHRA AUTO: CALL: 8297174444",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9209094999",
+     "kind": "mobile",
+     "as_printed": "9209094999"
+    },
+    "evidence": "SANTOSH: CALL: 9209094999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9885260333",
+     "kind": "mobile",
+     "as_printed": "9885260333"
+    },
+    "evidence": "VARUN: CALL: 9885260333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9848074447",
+     "kind": "mobile",
+     "as_printed": "9848074447"
+    },
+    "evidence": "BHARGAVI: (NELLORE) CALL: 9848074447",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7093522444",
+     "kind": "mobile",
+     "as_printed": "7093522444"
+    },
+    "evidence": "JAYALAKSHMI: (GUNTUR) CALL: 7093522444",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9618599433",
+     "kind": "mobile",
+     "as_printed": "9618599433"
+    },
+    "evidence": "(ONGOLE) CALL: 9618599433",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9133377574",
+     "kind": "mobile",
+     "as_printed": "9133377574"
+    },
+    "evidence": "REDDY & REDDY MOTORS: (ELURU) CALL: 9133377574",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8886063493",
+     "kind": "mobile",
+     "as_printed": "8886063493"
+    },
+    "evidence": "MITHRA AUTO: (MACHILIPATNAM) CALL: 8886063493",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9100980063",
+     "kind": "mobile",
+     "as_printed": "9100980063"
+    },
+    "evidence": "JAYALAKSHMI: (CHIRALA) CALL: 9100980063",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7658923339",
+     "kind": "mobile",
+     "as_printed": "7658923339"
+    },
+    "evidence": "BHARGAVI: (KAVALI) CALL: 7658923339",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9912911455",
+     "kind": "mobile",
+     "as_printed": "9912911455"
+    },
+    "evidence": "REDDY & REDDY: (JANGAREDDY GUDAM) CALL: 9912911455",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8912599999",
+     "kind": "mobile",
+     "as_printed": "8912599999"
+    },
+    "evidence": "VARUN: (SIRIPURAM) CALL: 8912599999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9985444777",
+     "kind": "mobile",
+     "as_printed": "9985444777"
+    },
+    "evidence": "(RAJAHMUNDRY) CALL: 9985444777",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8832442410",
+     "kind": "mobile",
+     "as_printed": "0883-2442410"
+    },
+    "evidence": "S.B. MOTORS: (RAJAHMUNDRY) CALL: 0883-2442410",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7093915512",
+     "kind": "mobile",
+     "as_printed": "7093915512"
+    },
+    "evidence": "JAYABHERI: (KRANTHI NAGAR) CALL: 7093915512",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8912505000",
+     "kind": "mobile",
+     "as_printed": "8912505000"
+    },
+    "evidence": "(VIZIANAGARAM) CALL: 8912505000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 49000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "ALTO K10",
+     "item": "Alto K10",
+     "as_printed": "₹49000*"
+    },
+    "evidence": "₹49000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (49,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 10000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "DZIRE",
+     "item": "Dzire",
+     "as_printed": "₹10000*"
+    },
+    "evidence": "₹10000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (10,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 49000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "S-PRESSO",
+     "item": "S-Presso",
+     "as_printed": "₹49000*"
+    },
+    "evidence": "₹49000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (49,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 44000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "CELERIO",
+     "item": "Celerio",
+     "as_printed": "₹44000*"
+    },
+    "evidence": "₹44000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (44,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 44100,
+     "currency": "INR",
+     "kind": "price",
+     "label": "SWIFT",
+     "item": "Swift",
+     "as_printed": "₹44100*"
+    },
+    "evidence": "₹44100*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (44,100)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 34000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "EECO",
+     "item": "Eeco",
+     "as_printed": "₹34000*"
+    },
+    "evidence": "₹34000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (34,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.marutisuzuki.com",
+    "evidence": "E-BOOK TODAY AT WWW.MARUTISUZUKI.COM OR VISIT YOUR NEAREST MARUTI SUZUKI DEALERSHIP.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "BIG SAVINGS",
+    "evidence": "BIG SAVINGS",
+    "english": "Big savings",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100% ON-ROAD FUNDING AVAILABLE",
+    "evidence": "100% ON-ROAD FUNDING AVAILABLE",
+    "english": "100% on-road funding available",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "VISHNU CARS PVT. LTD.",
+     "area": "NELLORE",
+     "city": null,
+     "phones": [
+      "9100776888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VISHNU CARS PVT. LTD.: (NELLORE) CALL: 9100776888",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NOVELTY REDDY & REDDY",
+     "area": "BHIMAWARAM",
+     "city": null,
+     "phones": [
+      "9948814222"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NOVELTY REDDY & REDDY: (BHIMAWARAM) CALL: 9948814222",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MITHRA AUTO",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8297174444"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MITHRA AUTO: CALL: 8297174444",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SANTOSH",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9209094999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SANTOSH: CALL: 9209094999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9885260333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VARUN: CALL: 9885260333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BHARGAVI",
+     "area": "NELLORE",
+     "city": null,
+     "phones": [
+      "9848074447"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BHARGAVI: (NELLORE) CALL: 9848074447",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYALAKSHMI",
+     "area": "GUNTUR",
+     "city": null,
+     "phones": [
+      "7093522444"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JAYALAKSHMI: (GUNTUR) CALL: 7093522444",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYALAKSHMI",
+     "area": "ONGOLE",
+     "city": null,
+     "phones": [
+      "9618599433"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(ONGOLE) CALL: 9618599433",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "REDDY & REDDY MOTORS",
+     "area": "ELURU",
+     "city": null,
+     "phones": [
+      "9133377574"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "REDDY & REDDY MOTORS: (ELURU) CALL: 9133377574",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "GUDIWADA",
+     "city": null,
+     "phones": [
+      "9885260333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(GUDIWADA) CALL: 9885260333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "JAGGIAHPET",
+     "city": null,
+     "phones": [
+      "9885260333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(JAGGIAHPET) CALL: 9885260333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "NUZVID",
+     "city": null,
+     "phones": [
+      "9885260333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(NUZVID) CALL: 9885260333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MITHRA AUTO",
+     "area": "MACHILIPATNAM",
+     "city": null,
+     "phones": [
+      "8886063493"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MITHRA AUTO: (MACHILIPATNAM) CALL: 8886063493",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYALAKSHMI",
+     "area": "CHIRALA",
+     "city": null,
+     "phones": [
+      "9100980063"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JAYALAKSHMI: (CHIRALA) CALL: 9100980063",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BHARGAVI",
+     "area": "KAVALI",
+     "city": null,
+     "phones": [
+      "7658923339"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BHARGAVI: (KAVALI) CALL: 7658923339",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BHARGAVI",
+     "area": "GUDUR",
+     "city": null,
+     "phones": [
+      "7658923339"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(GUDUR) CALL: 7658923339",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "REDDY & REDDY",
+     "area": "JANGAREDDY GUDAM",
+     "city": null,
+     "phones": [
+      "9912911455"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "REDDY & REDDY: (JANGAREDDY GUDAM) CALL: 9912911455",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "SIRIPURAM",
+     "city": null,
+     "phones": [
+      "8912599999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VARUN: (SIRIPURAM) CALL: 8912599999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "GAJUWAKA",
+     "city": null,
+     "phones": [
+      "8912599999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(GAJUWAKA) CALL: 8912599999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "MURALINAGAR",
+     "city": null,
+     "phones": [
+      "8912599999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(MURALINAGAR) CALL: 8912599999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "SRIKAKULAM",
+     "city": null,
+     "phones": [
+      "8912599999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(SRIKAKULAM) CALL: 8912599999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "RAJAHMUNDRY",
+     "city": null,
+     "phones": [
+      "9985444777"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(RAJAHMUNDRY) CALL: 9985444777",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "S.B. MOTORS",
+     "area": "RAJAHMUNDRY",
+     "city": null,
+     "phones": [
+      "8832442410"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "S.B. MOTORS: (RAJAHMUNDRY) CALL: 0883-2442410",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SATTI BABU",
+     "area": "KAKINADA",
+     "city": null,
+     "phones": [
+      "8832442410"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SATTI BABU: (KAKINADA) CALL: 0883-2442410",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYABHERI",
+     "area": "KRANTHI NAGAR",
+     "city": null,
+     "phones": [
+      "7093915512"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JAYABHERI: (KRANTHI NAGAR) CALL: 7093915512",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYABHERI",
+     "area": "VIZIANAGARAM",
+     "city": null,
+     "phones": [
+      "8912505000"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(VIZIANAGARAM) CALL: 8912505000",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "PENDURTHY",
+     "city": null,
+     "phones": [
+      "8912599999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VARUN: (PENDURTHY) CALL: 8912599999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "RAJAM",
+     "city": null,
+     "phones": [
+      "8912599999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(RAJAM) CALL: 8912599999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYABHERI",
+     "area": "NARSIPATNAM",
+     "city": null,
+     "phones": [
+      "8912505000"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JAYABHERI: (NARSIPATNAM) CALL: 8912505000",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYABHERI",
+     "area": "ANAKAPALLE",
+     "city": null,
+     "phones": [
+      "8912505000"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(ANAKAPALLE) CALL: 8912505000",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JAYABHERI",
+     "area": "MADHURWADA",
+     "city": null,
+     "phones": [
+      "8912505000"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(MADHURWADA) CALL: 8912505000",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SATTI BABU",
+     "area": "TUNI",
+     "city": null,
+     "phones": [
+      "8832442410"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SATTI BABU: (TUNI) CALL: 0883-2442410",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "S. B. MOTORS",
+     "area": "AMALAPURAM",
+     "city": null,
+     "phones": [
+      "8832442410"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 62.7
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 62.7
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "S. B. MOTORS: (AMALAPURAM) CALL: 0883- 2442410",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "100% ON-ROAD FUNDING AVAILABLE",
+   "evidence": "100% ON-ROAD FUNDING AVAILABLE",
+   "english": "100% on-road funding available",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Maruti Suzuki Arena festive offers",
+  "Alto K10 ₹49000",
+  "Dzire ₹10000",
+  "S-Presso ₹49000",
+  "Celerio ₹44000",
+  "Swift ₹44100",
+  "Eeco ₹34000",
+  "100% on-road funding available",
+  "E-book today at www.marutisuzuki.com or visit nearest Maruti Suzuki dealership",
+  "List of Maruti Suzuki authorised dealers with phone numbers"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MARUTI SUZUKI ARENA",
+   "score": 0.9791,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "MAKE NEW BEGINNINGS",
+   "score": 0.9955,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Akshay",
+   "score": 0.9851,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "AUSPICIOUS AND PROSPEROUS!",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "TRITIYA",
+   "score": 0.9917,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "BRING HOME YOUR",
+   "score": 0.9889,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "WITHFESTIVEOFFERS",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "wwvo",
+   "score": 0.5575,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "SMNIS",
+   "score": 0.5265,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "SWIFT",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "CELEAND",
+   "score": 0.8458,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "DZIRE",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "E",
+   "score": 0.5422,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "BIG",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "100%",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "ALTO K1049000*",
+   "score": 0.9729,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "S-PRESSO49000*",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "SWIFT44100*",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "SAVINGS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ON-ROAD",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "DZIRE₹10000*",
+   "score": 0.9608,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "CELERIO44000*",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "EECO34000*",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "FUNDINGAVAILABLE",
+   "score": 0.9916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "ALTO",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "S.PRESSO",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "SWIFT",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "B",
+   "score": 0.9273,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "R",
+   "score": 0.9962,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "E",
+   "score": 0.999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 31,
+   "text": "N",
+   "score": 0.9469,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "A",
+   "score": 0.9975,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "DZIRE CELERIO EECO",
+   "score": 0.9687,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "EECO",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "(K10)",
+   "score": 0.8019,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "E-BOOK TODAY AT WWW.MARUTISUZUKI.COM OR VISIT YOUR NEAREST MARUTI SUZUKI DEALERSHIP.",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "MARUTI SUZUKI AUTHORISED DEALERS: CENTRAL",
+   "score": 0.9909,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "VISHNU CARS PVT. LTD.: (NELLORE) CALL: 9100776888. NOVELTY REDDY & REDDY: (BHIMAWARAM) CALL: 9948814222. MITHRA AUTO: CALL: 8297174444.",
+   "score": 0.9901,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "SANTOSH: CALL: 9209094999. VARUN: CALL: 9885260333. BHARGAVI: (NELLORE) CALL: 9848074447. JAYALAKSHMI: (GUNTUR) CALL: 7093522444, (ONGOLE) CALL: 9618599433. REDDY & REDDY MOTORS: (ELURU) CALL:",
+   "score": 0.9796,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "9133377574.OUTLTVARUN: (GUDIWADA) CALL: 9885260333, (JAGGIAHPÉT) CALL: 9885260333, (NUZVID) CALL: 9885260333. MITHRA AUTO: (MACHILIPATNAM) CALL: 8886063493. JAYALAKSHMI: (CHIRALA) CALL:",
+   "score": 0.9768,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 41,
+   "text": "9100980063, (TENALI) CALL: 9100790152, (NARASARAOPET) CALL: 9959963538. BHARGAVI: (KAVALI) CALL: 7658923339, (GUDUR) CALL: 7658923339. REDDY & REDDY: (JANGAREDDY GUDAM) CALL: 9912911455,",
+   "score": 0.9868,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 42,
+   "text": "(TANUKU) CALL: 9553514455.",
+   "score": 0.975,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "VARUN: (SIRIPURAM) CALL: 8912599999, (GAJUWAKA) CALL: 8912599999, (MURALINAGAR) CALL: 8912599999, (SRIKAKULAM) CALL: 8912599999, (RAJAHMUNDRY)",
+   "score": 0.9799,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 44,
+   "text": "CALL: 9985444777. S.B. MOTORS: (RAJAHMUNDRY) CALL: 0883-2442410. SATTI BABU: (KAKINADA) CALL: 0883-2442410. JAYABHERI: (KRANTHI NAGAR) CALL: 7093915512, (VIZIANAGARAM) CALL: 8912505000.",
+   "score": 0.9827,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 45,
+   "text": "UTLETVARUN: (PENDURTHY) CALL: 8912599999, (RAJAM) CALL: 8912599999. JAYABHERI: (NARSIPATNAM) CALL: 8912505000, (ANAKAPALLE) CALL: 8912505000, (MADHURWADA) CALL: 8912505000. SATTI BABU:",
+   "score": 0.9709,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 46,
+   "text": "(TUNI) CALL: 0883-2442410. S. B. MOTORS: (AMALAPURAM) CALL: 0883- 2442410.",
+   "score": 0.9563,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 27.6,
+  "extract": 92.78
+ }
+}

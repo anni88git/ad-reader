@@ -1,0 +1,73 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Lenovo",
+ "product": {
+  "any_of": [
+   "K8 Series",
+   "Lenovo K8 Series",
+   "K8",
+   "Lenovo K8",
+   "K8 Note",
+   "Lenovo K8 Note"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "K8 Note",
+   "K8"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Retail & Consumer Electronics",
+   "Retail & Consumer Electronics > Mobiles & Computers",
+   "Retail & Consumer Electronics > Home Appliances"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Killer Style Killer Performance",
+   "Lenovo K8 Series Killer Style Killer Performance"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   null,
+   "Now Available in Stores",
+   "Killer Performance"
+  ]
+ },
+ "price": {
+  "any_of": [
+   10999,
+   11999
+  ]
+ },
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": true,
+ "_uncertain_fields": []
+}

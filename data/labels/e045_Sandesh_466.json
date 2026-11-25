@@ -1,0 +1,78 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Garvi Gurjari",
+   "Development Commissioner (Handicrafts)",
+   "Ministry of Textiles",
+   "Gujarat State Handloom & Handicrafts Development Corporation"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Hastkala Pradarshan-sah-Vechan",
+   "Hastkala exhibition",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "public_notice",
+   "other"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Government & Public Notices",
+   "Fashion & Apparel"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "હસ્તકલા પ્રદર્શન - સહ - વેચાણ",
+   "Enriching Crafts, Empowering Artisans"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "websites": [
+  "garvigurjari.in"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Gujarati",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "drafter unsure"
+  }
+ ]
+}

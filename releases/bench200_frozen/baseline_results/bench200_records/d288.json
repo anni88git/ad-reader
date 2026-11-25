@@ -1,0 +1,794 @@
+{
+ "image": "d288_Dainik_Bhaskar_88.jpg",
+ "fields": {
+  "brand": {
+   "value": "Hindustan Institute of Technology & Science",
+   "evidence": "HINDUSTAN INSTITUTE OF TECHNOLOGY & SCIENCE (DEEMED TO BE UNIVERSITY)",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: HINDUSTAN",
+    "no exact record; closest: Aakash Institute, Hindustan Unilever"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 36,
+     "name": "Aakash Institute",
+     "score": 68.0
+    },
+    {
+     "id": 72,
+     "name": "Hindustan Unilever",
+     "score": 62.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Hindustan Institute of Technology & Science",
+   "evidence": "HINDUSTAN INSTITUTE OF TECHNOLOGY & SCIENCE (DEEMED TO BE UNIVERSITY)",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "A World-Class Quality of Education at HINDUSTAN",
+   "evidence": "A World-Class Quality of Education at HINDUSTAN",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "with the prestigious Institution of Engineering and Technology (IET), UK Accreditation",
+   "evidence": "with the prestigious Institution of Engineering and Technology (IET), UK Accreditation",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Accredited Programmes Aeronautical | Aerospace | Computer Science Information Technology | Electrical & Electronics Electronics & Communications |Mechanical | Automobile | Mechatronics",
+   "evidence": "Accredited Programmes Aeronautical | Aerospace | Computer Science Information Technology | Electrical & Electronics Electronics & Communications |Mechanical | Automobile | Mechatronics",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "For Admissions Enquiries Call Us On",
+   "evidence": "For Admissions Enquiries Call Us On",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "HINDUSTAN INSTITUTE OF TECHNOLOGY & SCIENCE (DEEMED TO BE UNIVERSITY)",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: recruitment"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": "HINDUSTAN INSTITUTE OF TECHNOLOGY & SCIENCE (DEEMED TO BE UNIVERSITY)",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://apply.hindustanuniv.ac.in/)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://apply.hindustanuniv.ac.in/",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Hindustan Institute of Technology & Science deemed to be university",
+    "IET UK accreditation for accredited programmes",
+    "Courses: Aeronautical, Aerospace, Computer Science, Information Technology, Electrical & Electronics, Electronics & Communications, Mechanical, Automobile, Mechatronics",
+    "Awards and rankings displayed",
+    "Admissions enquiries phone numbers",
+    "Website www.hindustanuniv.ac.in",
+    "Campus address Chennai and Delhi office address",
+    "Toll free number and email"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Hindustan Institute of Technology & Science, a deemed-to-be university, offers IET UK-accredited programmes in engineering and technology fields. For admissions enquiries, call the printed numbers or visit the website.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8668090692",
+     "kind": "mobile",
+     "as_printed": "+91 86680 90692"
+    },
+    "evidence": "+91 86680 90692 / +91 86680 93936",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8668093936",
+     "kind": "mobile",
+     "as_printed": "+91 86680 93936"
+    },
+    "evidence": "+91 86680 90692 / +91 86680 93936",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717879374",
+     "kind": "mobile",
+     "as_printed": "+91-97178 79374"
+    },
+    "evidence": "M: +91-97178 79374",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18004254438",
+     "kind": "toll_free",
+     "as_printed": "1800 425 44 38"
+    },
+    "evidence": "Toll Free: 1800 425 44 38",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.hindustanuniv.ac.in",
+    "evidence": "www.hindustanuniv.ac.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "info@hindustanuniv.ac.in",
+    "evidence": "Email: info@hindustanuniv.ac.in| Toll Free: 1800 425 44 38",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "1, Rajiv Gandhi Salai, (OMR) Padur, Chennai - 603 103.",
+    "evidence": "CAMPUS ADDRESS: 1, Rajiv Gandhi Salai, (OMR) Padur, Chennai - 603 103.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Commercial Space No. S-5, Vasant Square Mall, Vasant Kunj, New Delhi - 110 070.",
+    "evidence": "DELHI OFFICE: Commercial Space No. S-5, Vasant Square Mall, Vasant Kunj, New Delhi - 110 070.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (99%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Institution of Engineering and Technology (IET), UK Accreditation",
+    "evidence": "with the prestigious Institution of Engineering and Technology (IET), UK Accreditation",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Hindustan Institute of Technology & Science",
+   "evidence": "HINDUSTAN INSTITUTE OF TECHNOLOGY & SCIENCE (DEEMED TO BE UNIVERSITY)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "Aeronautical | Aerospace | Computer Science Information Technology | Electrical & Electronics Electronics & Communications |Mechanical | Automobile | Mechatronics",
+   "evidence": "Accredited Programmes Aeronautical | Aerospace | Computer Science Information Technology | Electrical & Electronics Electronics & Communications |Mechanical | Automobile | Mechatronics",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Hindustan Institute of Technology & Science deemed to be university",
+  "IET UK accreditation for accredited programmes",
+  "Courses: Aeronautical, Aerospace, Computer Science, Information Technology, Electrical & Electronics, Electronics & Communications, Mechanical, Automobile, Mechatronics",
+  "Awards and rankings displayed",
+  "Admissions enquiries phone numbers",
+  "Website www.hindustanuniv.ac.in",
+  "Campus address Chennai and Delhi office address",
+  "Toll free number and email"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "HINDUSTAN",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "INSTITUTE OF TECHNOLOGY & SCIENCE",
+   "score": 0.9794,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "(DEEMED TO BE UNIVERSITY)",
+   "score": 0.9916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "A World-Class Quality of Education at",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "HINDUSTAN",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "with the prestigious",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Institution of Engineering and Technology (IET), UK Accreditation",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "IET",
+   "score": 0.9886,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "The Institution of",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "Engineering and Technology",
+   "score": 0.9683,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Accredited Programmes",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Aeronautical | Aerospace | Computer Science",
+   "score": 0.9862,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Information Technology | Electrical & Electronics",
+   "score": 0.9929,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Electronics & Communications |Mechanical | Automobile | Mechatronics",
+   "score": 0.9892,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "SYMPHONY AT THE JUBILEE",
+   "score": 0.9765,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 16,
+   "text": "AWARDS & RANKINGS",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "MIIRD",
+   "score": 0.9957,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "ASIAN",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "UNIVERSITY",
+   "score": 0.9546,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "RANLACS 2123",
+   "score": 0.6817,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "MACT",
+   "score": 0.8913,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 22,
+   "text": "EW",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "competition",
+   "score": 0.9971,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "TimesSchoal",
+   "score": 0.9537,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "RANKINGS",
+   "score": 0.998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "succesS revion",
+   "score": 0.847,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "Categury II University",
+   "score": 0.9538,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "Ranked among top 40 in India",
+   "score": 0.9466,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "J' in Chennat ia TmiNda",
+   "score": 0.5287,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "Top Lodeae ler col",
+   "score": 0.514,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "TopPrivte Baiveriie",
+   "score": 0.7776,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "with Greded Astenemy",
+   "score": 0.9083,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "Overull 601-800",
+   "score": 0.9539,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 34,
+   "text": "2\" Bank in India",
+   "score": 0.8602,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "For Admissions Enquiries Call Us On",
+   "score": 0.985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "+91 8668090692/+91 8668093936",
+   "score": 0.9688,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "www.hindustanuniv.ac.in",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "CAMPUS ADDRESS: 1, Rajiv Gandhi Salai, (OMR) Padur, Chennai - 603 103.",
+   "score": 0.9674,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Scan Here to Apply",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "DELHI 0FFICE: Commercial Space No. S-5, Vasant Square Mall, Vasant Kunj, New Delhi - 110 070. M: +91-97178 79374",
+   "score": 0.9888,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "Email: info@hindustanuniv.ac.in| Toll Free: 1800 425 44 38",
+   "score": 0.9842,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "11 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 10.22,
+  "extract": 18.85
+ }
+}

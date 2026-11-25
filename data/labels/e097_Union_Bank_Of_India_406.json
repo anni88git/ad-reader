@@ -1,0 +1,59 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Union Bank of India",
+   "Union Bank"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Union Trade-GST",
+   "Union Sahyog",
+   "Union Trade-GST & Union Sahyog App"
+  ]
+ },
+ "ad_type": "service_provider",
+ "category": {
+  "any_of": [
+   "Banking & Finance"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Bumper Diwali gifts to double your joy!"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "websites": [
+  "unionbankofindia.co.in"
+ ],
+ "_uncertain_fields": []
+}

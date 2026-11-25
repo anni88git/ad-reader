@@ -1,0 +1,714 @@
+{
+ "image": "003_003_namaste_butter_hi.png",
+ "fields": {
+  "brand": {
+   "value": "Namaste India",
+   "evidence": "नमस्ते इंडिया",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (92%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "exact match to existing record 'Namaste India' (#78)"
+   ],
+   "matched_id": 78,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 78,
+     "name": "Namaste India",
+     "score": 100.0
+    },
+    {
+     "id": 7,
+     "name": "Honda Cars",
+     "score": 69.2
+    },
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 67.4
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Butter",
+   "evidence": "बटर",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "evidence not confirmed by OCR (0%); devanagari text is hard for OCR",
+    "value transliterated from another script",
+    "second model agrees",
+    "exact match to existing record 'Butter' (#214)"
+   ],
+   "matched_id": 214,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 214,
+     "name": "Butter",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": "100 g",
+   "evidence": "100 ग्रा.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Namaste India Foods",
+   "evidence": "www.namasteindiafoods.com",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: दीपक सिंह",
+    "exact match to existing record 'Namaste India Foods' (#11)",
+    "record #11 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 11,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Namaste India Foods",
+     "score": 100.0
+    },
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "नमक नहीं!",
+   "evidence": "नमक नहीं!",
+   "english": "No salt!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: नमक नही !"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "लो मक्खन का असली स्वाद",
+   "evidence": "लो मक्खन का असली स्वाद",
+   "english": "Enjoy the real taste of butter",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 95% similar) - check spelling - suggestion: लो मक्ख्वन का असली स्वाद",
+    "second model disagrees - suggestion: लौ मक्खन का असली स्वाद"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+   "evidence": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+   "english": "Balanced salted butter made from pure milk",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (97%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "जानकारी के लिये सम्पर्क करे- दीपक सिंह: मो0 नं0- 7988859406",
+   "evidence": "जानकारी के लिये सम्पर्क करे- दीपक सिंह: मो0 नं0- 7988859406",
+   "english": "Contact Deepak Singh on 7988859406 for information",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 44,
+   "evidence": "₹44/-",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (44)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Namaste India butter, no salt",
+    "100 g butter price Rs 44 (was Rs 48)",
+    "made from pure milk",
+    "contact Deepak Singh 7988859406",
+    "toll-free customer care 1800-123-0800",
+    "download mobile app for home delivery"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Namaste India unsalted butter, 100 g now Rs 44 (was Rs 48), made from pure milk; call Deepak Singh on 7988859406 for details or order via the app.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7988859406",
+     "kind": "mobile",
+     "as_printed": "7988859406"
+    },
+    "evidence": "मो0 नं0- 7988859406",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18001230800",
+     "kind": "toll_free",
+     "as_printed": "1800-123-0800"
+    },
+    "evidence": "Toll Free No- 1800-123-0800",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "05122240251",
+     "kind": "landline",
+     "as_printed": "+91-512-2240251"
+    },
+    "evidence": "+91-512-2240251",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 48,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out old price",
+     "item": "100 ग्रा. बटर",
+     "as_printed": "₹48/-"
+    },
+    "evidence": "₹48/-",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '48' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 44,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "मात्र",
+     "item": "100 ग्रा. बटर",
+     "as_printed": "₹44/-"
+    },
+    "evidence": "₹44/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (44)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.namasteindiafoods.com",
+    "evidence": "Website:www.namasteindiafoods.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "crm@nirpl.com",
+    "evidence": "Email: crm@nirpl.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+    "evidence": "शुद्ध दूध से बना संतुलित नमक वाला मक्खन",
+    "english": "Balanced salted butter made from pure milk",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Promotional Offer",
+    "evidence": "Promotional Offer",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "दीपक सिंह",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7988859406"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "जानकारी के लिये सम्पर्क करे- दीपक सिंह: मो0 नं0- 7988859406",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Namaste India butter, no salt",
+  "100 g butter price Rs 44 (was Rs 48)",
+  "made from pure milk",
+  "contact Deepak Singh 7988859406",
+  "toll-free customer care 1800-123-0800",
+  "download mobile app for home delivery"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "नमटते",
+   "score": 0.8119,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "इंहिथा",
+   "score": 0.7968,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "बट्र",
+   "score": 0.8867,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "नमक",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "नहीं!",
+   "score": 0.899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "लो",
+   "score": 0.9954,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "मक्ख्वन का",
+   "score": 0.9376,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "असली",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "स्वाद",
+   "score": 0.9925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Promotional Offer",
+   "score": 0.9863,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "2481-1441",
+   "score": 0.749,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "100 ग्रा. बट्र",
+   "score": 0.9203,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "f ere",
+   "score": 0.6571,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "गमट्ते",
+   "score": 0.5287,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "leen",
+   "score": 0.6391,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "481-",
+   "score": 0.9528,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "anun",
+   "score": 0.8183,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 18,
+   "text": "Butter",
+   "score": 0.8994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "Better",
+   "score": 0.987,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "मात्र",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "44/-",
+   "score": 0.9817,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 22,
+   "text": "Tae-y y t marek",
+   "score": 0.6095,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "शुद्द दूध से बना संतुलित नमक वाला मक्खन",
+   "score": 0.9603,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "जानकारी के लिये सम्पर्क करे- दीपक सिंह: मो0 नं0- 7988859406",
+   "score": 0.9551,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "नमसते इंडिया के सभी पोक्ट्स की हाइजीनिक होम डलीवरीकेलिए मोबाइल एप डाउनलोडकों",
+   "score": 0.6771,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "Customer Care: Toll Free No-1800-123-0800·+91-512-2240251· Email: crm@nirpl.com•Website:www.namasteindiafoods.com",
+   "score": 0.9771,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (589x998); small print may be unreadable"
+ ],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 9.64,
+  "extract": 24.86
+ }
+}

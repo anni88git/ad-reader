@@ -1,0 +1,1197 @@
+{
+ "image": "h08_Nokia_mobiles_411.jpg",
+ "fields": {
+  "brand": {
+   "value": "Nokia",
+   "evidence": "NOKIA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Nokia' (#126)"
+   ],
+   "matched_id": 126,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 126,
+     "name": "Nokia",
+     "score": 100.0
+    },
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 75.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Nokia 6.1",
+   "evidence": "New Nokia 6.1",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for Nokia"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "HMD Global Oy",
+   "evidence": "© 2018 HMD Global. Al rights reserved. HMD Global Oy is the exclusive licensee of the Nokia brand for phones & tablets.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Reliance digital / Jio / cromā / vijay sales",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "New Nokia 6.1",
+   "evidence": "New Nokia 6.1",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "may be incomplete - the printed line reads: 'get 5% cashback up to 900 on the new Nokia 6.1 till 31* May 2018. 2Also available unlimited cals + 1GB data per day at 1'",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "A phone you can rely on.",
+   "evidence": "A phone you can rely on.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "© 2018 HMD Global. Al rights reserved. HMD Global Oy is the exclusive licensee of the Nokia brand for phones & tablets.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Mobiles & Computers",
+   "evidence": "New Nokia 6.1",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #28"
+   ],
+   "matched_id": 28,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 28,
+     "name": "Retail & Consumer Electronics > Mobiles & Computers",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 16999,
+   "evidence": "₹16,999*",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (16,999)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "New Nokia 6.1 with Pro Camera mode with ZEISS optics",
+    "Google Assistant",
+    "Aluminium body",
+    "3GB RAM | 32GB ROM ₹16,999*",
+    "4GB RAM | 64GB ROM ₹18,999* amazon exclusive",
+    "Online partner amazon.in",
+    "Also available at Nokia.com/phones, Reliance digital, Jio, cromā, vijay sales and at stores near you"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The ad promotes the New Nokia 6.1 phone with ZEISS optics, Google Assistant, and an aluminium body. Two variants are offered: 3GB RAM/32GB ROM at ₹16,999 and 4GB RAM/64GB ROM at ₹18,999 (Amazon exclusive). It is available online at amazon.in and Nokia.com/phones, and at stores including Reliance Digital, Jio, Croma, and Vijay Sales.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 16999,
+     "currency": "INR",
+     "kind": "price",
+     "label": "3GB RAM | 32GB ROM",
+     "item": "Nokia 6.1",
+     "as_printed": "₹16,999*"
+    },
+    "evidence": "₹16,999*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (16,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 18999,
+     "currency": "INR",
+     "kind": "price",
+     "label": "4GB RAM | 64GB ROM",
+     "item": "Nokia 6.1",
+     "as_printed": "₹18,999*"
+    },
+    "evidence": "₹18,999*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (18,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "amazon.in",
+    "evidence": "amazon.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "nokia.com/phones",
+    "evidence": "Nokia.com/phones",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Pro Camera mode with ZEISS optics",
+    "evidence": "Pro Camera mode with ZEISS optics",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Google Assistant",
+    "evidence": "Google Assistant",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Aluminium body",
+    "evidence": "Aluminium body",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "3GB RAM | 32GB ROM",
+    "evidence": "3GB RAM | 32GB ROM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "4GB RAM | 64GB ROM",
+    "evidence": "4GB RAM | 64GB ROM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "© 2018 HMD Global. Al rights reserved.",
+    "evidence": "© 2018 HMD Global. Al rights reserved.",
+    "english": "© 2018 HMD Global. All rights reserved.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "5% EXTRA CASHBACK",
+    "evidence": "5% EXTRA CASHBACK¹",
+    "english": "5% Extra Cashback",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (93%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹2,000 CASHBACK",
+    "evidence": "₹2,000 CASHBACK²",
+    "english": "₹2,000 Cashback",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (92%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE TILL 31ST DEC 2018",
+    "evidence": "FREE TILL 31ST DEC 2018³",
+    "english": "Free till 31st Dec 2018",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "25% OFF ON DOMESTIC HOTELS",
+    "evidence": "25% OFF ON DOMESTIC HOTELS⁴",
+    "english": "25% Off on Domestic Hotels",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE 12 MONTHS DAMAGE INSURANCE BY SERVIFY",
+    "evidence": "FREE 12 MONTHS DAMAGE INSURANCE BY SERVIFY",
+    "english": "Free 12 Months Damage Insurance by Servify",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "0% INTEREST EMI OFFER",
+    "evidence": "0% INTEREST EMI OFFER",
+    "english": "0% Interest EMI Offer",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NO EXTRA COST EMI",
+    "evidence": "NO EXTRA COST EMI",
+    "english": "No Extra Cost EMI",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "EASY EMIs",
+    "evidence": "EASY EMIs",
+    "english": "Easy EMIs",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Reliance digital",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 100.0
+      }
+     ],
+     "city_id": null,
+     "suggested_advertiser_id": 15,
+     "advertiser_id": null
+    },
+    "evidence": "Reliance digital",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (60%) - possible misreading or invention",
+     "dealer name not confirmed by OCR",
+     "too uncertain to fill - shown as a suggestion only",
+     "dealer: exact match to existing record 'Reliance Digital' (#15); city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jio",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Jio DIGITAL LIFE",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (79%)",
+     "dealer name not confirmed by OCR",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "cromā",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "cromā",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "vijay sales",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "vijay sales",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "amazon.in, Nokia.com/phones, Reliance digital, Jio, cromā, vijay sales",
+   "evidence": "Online partner amazon.in Also available at Nokia.com/phones Reliance digital Jio cromā vijay sales and at stores near you.",
+   "english": "amazon.in, Nokia.com/phones, Reliance digital, Jio, Croma, Vijay Sales",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (89%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "New Nokia 6.1",
+   "evidence": "New Nokia 6.1",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "5% EXTRA CASHBACK, ₹2,000 CASHBACK, 25% OFF ON DOMESTIC HOTELS",
+   "evidence": "5% EXTRA CASHBACK¹ ₹2,000 CASHBACK² 25% OFF ON DOMESTIC HOTELS⁴",
+   "english": "5% Extra Cashback, ₹2,000 Cashback, 25% Off on Domestic Hotels",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (90%)",
+    "numbers not found in OCR text"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "0% INTEREST EMI OFFER, NO EXTRA COST EMI, EASY EMIs",
+   "evidence": "0% INTEREST EMI OFFER NO EXTRA COST EMI EASY EMIs",
+   "english": "0% Interest EMI Offer, No Extra Cost EMI, Easy EMIs",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "New Nokia 6.1 with Pro Camera mode with ZEISS optics",
+  "Google Assistant",
+  "Aluminium body",
+  "3GB RAM | 32GB ROM ₹16,999*",
+  "4GB RAM | 64GB ROM ₹18,999* amazon exclusive",
+  "Online partner amazon.in",
+  "Also available at Nokia.com/phones, Reliance digital, Jio, cromā, vijay sales and at stores near you"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "NOKIA",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "New Nokia 6.1",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "A phone you can rely on.",
+   "score": 0.9807,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Pro Camera mode with ZEISS optics",
+   "score": 0.9888,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Google Assistant",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Aluminium body",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "NOKIA",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "NOKIA",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ZEISS",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Auto",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "100",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "Auto",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "ZEISS",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "△",
+   "score": 0.6188,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "4GB RAM| 64GB ROM",
+   "score": 0.9892,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "₹18,999*",
+   "score": 0.9639,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "amazonexclusive",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "3GB RAM | 32GB ROM",
+   "score": 0.9695,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "16,999*",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "androidone",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "ICICIBank",
+   "score": 0.958,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "Dairtel 4G",
+   "score": 0.986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "airtelTV",
+   "score": 0.991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "make",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "my",
+   "score": 0.9936,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 26,
+   "text": "trip",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "8111",
+   "score": 0.9359,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "FREE.",
+   "score": 0.9216,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "Credit&DebitCards",
+   "score": 0.9923,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "kotak",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "12 MONTHS",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "2,000 CASHBACK2",
+   "score": 0.9746,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "FREE TILL 31ST DEC 20183",
+   "score": 0.9663,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "25%OFF ON DOMESTIC HOTELS4",
+   "score": 0.9761,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "Kotak Mahindra Bank",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "DAMAGE INSURANCE BY SERVIFY",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "5% EXTRA CASHBACK1",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Online partner",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Also available at",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "vijay sales",
+   "score": 0.9171,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "and at stores",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "Financing",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "CRMET",
+   "score": 0.8379,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 44,
+   "text": "Pine Labs",
+   "score": 0.9818,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "BAJAJ",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "amazon.in",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "Nokia.com/phones",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "DIGITAL",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "LIFE",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "cromā",
+   "score": 0.9784,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "FINSERV",
+   "score": 0.9918,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "Jigital",
+   "score": 0.9053,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "near you.",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "offers⁶",
+   "score": 0.9926,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "0% INTEREST EMI OFFER",
+   "score": 0.9741,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "NO EXTRA COST EMI",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "EASY EMIs",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "© 2018 HMD Global. Al rights reserved. HMD Global Oy is the exclusive licensee of the Nokia brand for phones & tablets. Nokia is a registered trademark of Nokia Corporation. Google, Android, Android One and other marks are trademarks of Google LLC. ZEISS and ZEISS logos are registered",
+   "score": 0.9943,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 59,
+   "text": "tradmarks of Carl ZEISS AG used under license of Carl ZEISS Vision GMBH. Images are forillustrative purpose only. All ther product names, logos and brands are property of their respective owners. *Best recommended price (inclusive of all taxes). 1Shop with ICICI Bank Credit & Debit Card to",
+   "score": 0.9831,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 60,
+   "text": "get 5% cashback up to 900 on the new Nokia 6.1 till 31* May 2018. 2Also available unlimited cals + 1GB data per day at 169 for 28 days. For more information visit www.airtel.in/4gphone. T&C apply.*Discount up to 5000. No minimum booking required. T&C apply. For detailed terms and",
+   "score": 0.9833,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 61,
+   "text": "conditions, visit bit.ly/2pg0R2f. sFree 12-month Accidental Damage Insurance by Servify on opening the Kotak 811 savings account through http://bit.ly/Servify811 and activating it with an initial deposit of 1000 within 15 days of device purchase date during the introductory period. The",
+   "score": 0.9961,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 62,
+   "text": "more log on to www.nokia.com/phones. T&C Apply.",
+   "score": 0.9941,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 63,
+   "text": "insurance offer will be activated in 3-5 working days from the date of opening and activation of Kotak 811 savings account, and is valid till 31* August 2018. Finance offers are available at select stores only. For more details please visit a store near you or log on to partner websites. To know",
+   "score": 0.9854,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "19 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 15.73,
+  "extract": 13.86
+ }
+}

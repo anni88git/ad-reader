@@ -1,0 +1,63 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Pantene",
+ "product": {
+  "any_of": [
+   "Pantene Shampoo",
+   "Shampoo",
+   "Pantene Pro-V Shampoo",
+   "Pantene Pro-V Hair Fall Control Shampoo",
+   "Hair Fall Control Shampoo",
+   "New Pantene"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "Hair Fall Control",
+   "340ml",
+   "180 ml"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Personal & Home Care",
+   "FMCG"
+  ]
+ },
+ "headline": "Thicker, Stronger Hair in 14 Days*",
+ "sub_headline": {
+  "any_of": [
+   "Strong is Beautiful",
+   "New Pantene Strong is Beautiful",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

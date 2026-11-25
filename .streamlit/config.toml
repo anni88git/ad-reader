@@ -1,0 +1,11 @@
+# Indycium Ad-Reader - one consistent macOS dark theme everywhere (tables, inputs, widgets).
+# Works the same locally and on Hugging Face Spaces (Streamlit reads .streamlit/config.toml from the app root).
+[theme]
+base = "dark"
+primaryColor = "#3A3A3C"       # macOS dark graphite: table row selection stays readable with #F5F5F7 text
+backgroundColor = "#0E0E10"
+secondaryBackgroundColor = "#141416"
+textColor = "#F5F5F7"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,619 @@
+{
+ "image": "e028_Vijaya_Karnataka_276.jpg",
+ "fields": {
+  "brand": {
+   "value": "ESAF Small Finance Bank",
+   "evidence": "ESAF SMALL FINANCE BANK",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ESAF",
+    "no exact record; closest: Bajaj Finserv, Yes Bank"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 61,
+     "name": "Bajaj Finserv",
+     "score": 66.0
+    },
+    {
+     "id": 144,
+     "name": "Yes Bank",
+     "score": 62.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "ESAF Small Finance Bank Limited",
+   "evidence": "Registered & Corporate Office: ESAF Small Finance Bank Limited, ESAF Bhavan, Mannuthy, Thrissur - 680 651, Kerala.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (95%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ಉಜ್ಜಿ ಭ್ರಾಂತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಇಸಾಫ್ ಅಜೀಗಾಸನ್ನು ಆಹ್ವಾನಿಸುತ್ತಿದೆ",
+   "evidence": "ಉಜ್ಜಿ ಭ್ರಾಂತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಇಸಾಫ್ ಅಜೀಗಾಸನ್ನು ಆಹ್ವಾನಿಸುತ್ತಿದೆ",
+   "english": "ESAF invites customers regarding rumors",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (69%)",
+    "second model disagrees - suggestion: ಏಜಸ್ಸಿ ಬ್ಯಾಂಕಿಂಗ್ ಸಂಪಂಡಿಸಿದಂತೆ ಇಸಾರ್ ಅಜೀರ್ಗಳನ್ನು ಅಹ್ಲಾನಿಸುತ್ತಿದೆ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ಪ್ರತಿಯಾಗಿ ಬೇಯ್ಮೆಯರು ಭ್ರಾಂತಿಗೆ ಭಾಗವಾಗಿ ದೇಣಿಗೆಯ ಮೂಲಕ ಭ್ರಾಂತಿಗೆ ಸೇವೆ ನೀಡಲು ಇರುವ ದಿನದಿನದ ಮೂಲಕ ಹಣಕಾಸು ಎಸೆಗುತ್ತಿರುವ ಸಾರ್ವಜನಿಕರ ಗಮನಕ್ಕೆ ಬರುತ್ತಿದೆ.",
+   "evidence": "ಪ್ರತಿಯಾಗಿ ಬೇಯ್ಮೆಯರು ಭ್ರಾಂತಿಗೆ ಭಾಗವಾಗಿ ದೇಣಿಗೆಯ ಮೂಲಕ ಭ್ರಾಂತಿಗೆ ಸೇವೆ ನೀಡಲು ಇರುವ ದಿನದಿನದ ಮೂಲಕ ಹಣಕಾಸು ಎಸೆಗುತ್ತಿರುವ ಸಾರ್ವಜನಿಕರ ಗಮನಕ್ಕೆ ಬರುತ್ತಿದೆ.",
+   "english": "Public notice regarding rumors and donations",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (29%); kannada text is hard for OCR"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "ESAF SMALL FINANCE BANK",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: service_provider"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Banking & Finance",
+   "evidence": "ESAF SMALL FINANCE BANK",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #12"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Banking & Finance",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Kannada",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model saw a QR code; detector could not confirm (small print?)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "ESAF Small Finance Bank advertisement",
+    "Customer Service Agent locations shown on map",
+    "QR code for more information",
+    "Toll-free number 1800-103-3723",
+    "Website www.esafbank.com",
+    "Registered office in Thrissur, Kerala"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "ESAF Small Finance Bank is issuing a public notice regarding rumors. The ad shows Customer Service Agent locations and provides a QR code, website, and toll-free number for more information.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001033723",
+     "kind": "toll_free",
+     "as_printed": "1800-103-3723"
+    },
+    "evidence": "2b7 1ol fre: 1800-103-3723",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.esafbank.com",
+    "evidence": "www.esafbank.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "ESAF Bhavan, Mannuthy, Thrissur - 680 651, Kerala.",
+    "evidence": "Registered & Corporate Office: ESAF Small Finance Bank Limited, ESAF Bhavan, Mannuthy, Thrissur - 680 651, Kerala.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "CUSTOMER SERVICE AGENT",
+    "evidence": "CUSTOMER SERVICE AGENT",
+    "english": "Customer Service Agent",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "ESAF Small Finance Bank advertisement",
+  "Customer Service Agent locations shown on map",
+  "QR code for more information",
+  "Toll-free number 1800-103-3723",
+  "Website www.esafbank.com",
+  "Registered office in Thrissur, Kerala"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ಏಜರಬಾಂಕಿಂಗ್",
+   "score": 0.956,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "ಸಂಬಂಧಿದಂತೆ ಇಸಾಫ್",
+   "score": 0.9364,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "2",
+   "score": 0.9984,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "ಅಜ9ಗಳನು.ಆಹಾನಸುತದ",
+   "score": 0.9598,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "Aತವಾn aಕಯngರುವ",
+   "score": 0.8057,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "deeacjos aagagodonduas'e e",
+   "score": 0.5862,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "ಎರರಸುವ ಮಳರಕ ಹneರನ Lಳಗೊ aಕೆಯನು",
+   "score": 0.5628,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "ಬಾpರನ ದಾrವಾh",
+   "score": 0.5277,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "HESAF",
+   "score": 0.914,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "#+ESAF",
+   "score": 0.8605,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "ಷ",
+   "score": 0.7116,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "++ESAF",
+   "score": 0.9083,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "ao",
+   "score": 0.4533,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "CUSTOMER",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "SERVICE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Dalour",
+   "score": 0.8389,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "AGENT",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "ಅಸತಿ ಸಂಘಟನಗಳುಮತು",
+   "score": 0.8618,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "Id ieid E h a. Mledad.",
+   "score": 0.5254,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "ವ ಯವan eat ಸeಪಬುಹುದು",
+   "score": 0.6981,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "Tnt ar ee on thecs te",
+   "score": 0.5045,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "ಅರಗ ಪರಪಳoe ೊಡ ದದ್ದn",
+   "score": 0.529,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "dazdd edand",
+   "score": 0.5541,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "6.20g",
+   "score": 0.4833,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "s",
+   "score": 0.4634,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "ESAF",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "SUSTAMABLE",
+   "score": 0.9465,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "G20",
+   "score": 0.862,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "GOALS",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "www.esafbank.com",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "ESAF SMALL FINANCE BANK",
+   "score": 0.9836,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "2b7 1ol fre: 1800-103-3723",
+   "score": 0.8374,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "Joy of Banking",
+   "score": 0.9893,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "Registered & Cerporate Oftice: ESAF Smal Finance Bank Limited, ESAr Bhavar, Mannuthy: Thrissur - 680 651, Kerala.",
+   "score": 0.8997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (718x902); small print may be unreadable"
+ ],
+ "record_flags": [
+  "model note: Kannada text transcription is approximate due to image quality; OCR transcript was used as reference but image was primary source.",
+  "model note: Phone number appears as '1800-103-3723' but OCR shows '2b7 1ol fre: 1800-103-3723' - verified from image.",
+  "model note: Some Kannada body text may have transcription errors due to image resolution.",
+  "8 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 18.5,
+  "extract": 18.11
+ }
+}

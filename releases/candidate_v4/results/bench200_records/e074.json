@@ -1,0 +1,968 @@
+{
+ "image": "e074_car_brands_405_Fiat.jpg",
+ "fields": {
+  "brand": {
+   "value": "Fiat",
+   "evidence": "FIAT",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Fiat' (#157)"
+   ],
+   "matched_id": 157,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 157,
+     "name": "Fiat",
+     "score": 100.0
+    },
+    {
+     "id": 93,
+     "name": "Fiama Di Wills",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Linea",
+   "evidence": "LINEA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for Fiat"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "LANDMARK LIFESTYLE CARS PVT.LTD",
+   "evidence": "LANDMARK LIFESTYLE CARS PVT.LTD",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "CARS YOU'LL LOVE TO DRIVE. AT PRICES YOU'LL LOVE TO PAY.",
+   "evidence": "CARS YOU'LL LOVE TO DRIVE. AT PRICES YOU'LL LOVE TO PAY.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Enjoy unbelievable post-GST prices and additional benefits on the entire range from Fiat.",
+   "evidence": "Enjoy unbelievable post-GST prices and additional benefits on the entire range from Fiat.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "3 YEARS WARRANTY",
+   "evidence": "3 YEARS WARRANTY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "For Test Drive Call 1800-209-5556",
+   "evidence": "For Test Drive Call 1800-209-5556",
+   "english": "Call 1800-209-5556 for a test drive",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "dealer",
+   "evidence": "LANDMARK LIFESTYLE CARS PVT.LTD | CALL: 9510195000 Worli : 022-66752222 Andheri : 7045877737",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: manufacturer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "CARS YOU'LL LOVE TO DRIVE. AT PRICES YOU'LL LOVE TO PAY.",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 687000,
+   "evidence": "₹6.87 lakh",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (86%)",
+    "short number '687' found in OCR but without a ₹/price marker",
+    "second model read the main price as [7]"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Fiat Linea car advertisement",
+    "Price starts at ₹6.87 lakh",
+    "Benefits of up to ₹100000",
+    "Touch-screen infotainment system",
+    "Turn indicator on ORVM",
+    "Multifunction steering wheel",
+    "Front fog lamp",
+    "Premium interiors with leather seats",
+    "Steering wheel with rear AC vents",
+    "100% finance available",
+    "3 years warranty",
+    "24x7 road side assistance",
+    "15,000 km service interval",
+    "Test drive call 1800-209-5556",
+    "www.fiat-india.com",
+    "Dealer: Landmark Lifestyle Cars Pvt. Ltd",
+    "Worli: 022-66752222",
+    "Andheri: 7045877737"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Fiat Linea cars are available at unbelievable post-GST prices starting at ₹6.87 lakh with benefits up to ₹100000. Contact Landmark Lifestyle Cars Pvt. Ltd in Worli or Andheri for a test drive.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002095556",
+     "kind": "toll_free",
+     "as_printed": "1800-209-5556"
+    },
+    "evidence": "For Test Drive Call 1800-209-5556",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9510195000",
+     "kind": "mobile",
+     "as_printed": "9510195000"
+    },
+    "evidence": "CALL: 9510195000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02266752222",
+     "kind": "landline",
+     "as_printed": "022-66752222"
+    },
+    "evidence": "Worli : 022-66752222",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7045877737",
+     "kind": "mobile",
+     "as_printed": "7045877737"
+    },
+    "evidence": "Andheri : 7045877737",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 687000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price starts at",
+     "item": "Fiat Linea",
+     "as_printed": "₹6.87 lakh"
+    },
+    "evidence": "₹6.87 lakh",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (86%)",
+     "short number '687' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.fiat-india.com",
+    "evidence": "www.fiat-india.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "f",
+    "evidence": "f",
+    "english": "Facebook",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "t",
+    "evidence": "t",
+    "english": "Twitter",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "in",
+    "evidence": "in",
+    "english": "LinkedIn",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "YouTube",
+    "evidence": "YouTube",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (71%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Touch-screen Infotainment System",
+    "evidence": "Touch-screen Infotainment System",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (48%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Turn Indicator on ORVM",
+    "evidence": "Turn Indicator on ORVM",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (63%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Multifunction Steering Wheel",
+    "evidence": "Multifunction Steering Wheel",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (62%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Front Fog Lamp",
+    "evidence": "Front Fog Lamp",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (50%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Premium Interiors with Leather Seats",
+    "evidence": "Premium Interiors with Leather Seats",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (53%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Steering Wheel with Rear AC Vents",
+    "evidence": "Steering Wheel with Rear AC Vents",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "+ Benefits of up to ₹100000",
+    "evidence": "+ Benefits of up to ₹100000",
+    "english": "Benefits of up to ₹100000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100% Finance Available",
+    "evidence": "100% Finance Available",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (90%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 100000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "+ Benefits of up to",
+     "item": "additional benefits on the entire range from Fiat",
+     "as_printed": "₹100000"
+    },
+    "evidence": "₹100000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (100,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "LANDMARK LIFESTYLE CARS PVT.LTD",
+     "area": "Worli / Andheri",
+     "city": null,
+     "phones": [
+      "9510195000",
+      "02266752222",
+      "7045877737"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "LANDMARK LIFESTYLE CARS PVT.LTD | CALL: 9510195000 Worli : 022-66752222 Andheri : 7045877737",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "100% Finance Available",
+   "evidence": "100% Finance Available",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (90%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Fiat Linea car advertisement",
+  "Price starts at ₹6.87 lakh",
+  "Benefits of up to ₹100000",
+  "Touch-screen infotainment system",
+  "Turn indicator on ORVM",
+  "Multifunction steering wheel",
+  "Front fog lamp",
+  "Premium interiors with leather seats",
+  "Steering wheel with rear AC vents",
+  "100% finance available",
+  "3 years warranty",
+  "24x7 road side assistance",
+  "15,000 km service interval",
+  "Test drive call 1800-209-5556",
+  "www.fiat-india.com",
+  "Dealer: Landmark Lifestyle Cars Pvt. Ltd",
+  "Worli: 022-66752222",
+  "Andheri: 7045877737"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "LINEA",
+   "score": 0.9491,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "DESIGNED IN ITALY.",
+   "score": 0.9852,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "MADE IN INDIA.",
+   "score": 0.9422,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "1255",
+   "score": 0.883,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "CARS YOU'LL LOVE TO DRIVE.",
+   "score": 0.9842,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "AT PRICES YOU'LL LOVE TO PAY.",
+   "score": 0.9811,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Enjoy unbelievable post-GST prices and",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "additional benefits on the entire range from Fiat.",
+   "score": 0.9861,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ASN",
+   "score": 0.5367,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "LINEA",
+   "score": 0.8897,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Price starts at",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "6.87akh",
+   "score": 0.986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "+ Benefits of up to 100000",
+   "score": 0.9797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "FIAT",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Tauch-s0cen",
+   "score": 0.5951,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "Tarn Iadicator",
+   "score": 0.806,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "Mutfancion",
+   "score": 0.6312,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "Froet",
+   "score": 0.8484,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "Prenkun Ieteriors",
+   "score": 0.7444,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "Mzvigatian Syten",
+   "score": 0.557,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "ce DRN",
+   "score": 0.6815,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "Stsering Wheel",
+   "score": 0.8182,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Dual Krtags",
+   "score": 0.6596,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "with Rear AC Vents",
+   "score": 0.6851,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "100% Finence Aveilable\"",
+   "score": 0.9495,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "Solid Build Quality for Enhanced Safety·Best-in-Class Drive and Handling-Award-Winning Engines",
+   "score": 0.9536,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "YEARS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "24x7",
+   "score": 0.995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "ROAD SIDE",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "15.000 km",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "For Test DriveCall1800-209-5556www.fiat-india.com",
+   "score": 0.9965,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "WARRANTY",
+   "score": 0.9946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "ASSISTANCE",
+   "score": 0.9895,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "LOM SETICE NTERTVAL",
+   "score": 0.8364,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "Worli:022-66752222",
+   "score": 0.9888,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "LANDMARK LIFESTYLE CARS PVT.LTD | CALL: 9510195000",
+   "score": 0.9849,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "Andheri:7045877737",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Conditions spply. Prioeg shows ang of Linea 1.AL Active petrol excduding octroi and other taoes, will be added as applicable. to0% on-rpedprioafunding is subject to financer's terms and custoner profle normts. Consumer offers varies on different",
+   "score": 0.9013,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "models. Total savings offer on 2016 make cars. Features and accessories shown may not be a part of the standard equipment. FCA India reserves the right to change the features, prioes, specifications without notice.",
+   "score": 0.9608,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (660x533); small print may be unreadable"
+ ],
+ "record_flags": [
+  "12 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 19.72,
+  "extract": 30.82
+ }
+}

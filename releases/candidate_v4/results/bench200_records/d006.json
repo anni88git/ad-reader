@@ -1,0 +1,659 @@
+{
+ "image": "d006_Navbharat_Times_6.jpg",
+ "fields": {
+  "brand": {
+   "value": "उत्तराखण्ड",
+   "evidence": "उत्तराखण्ड",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "not found in the ad",
+    "first model gave no brand; second model's brand is printed in the ad (OCR)",
+    "v4: switched value - kept in review",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "उत्तराखण्ड शासन",
+   "evidence": "उत्तराखण्ड शासन",
+   "english": "Government of Uttarakhand",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "आओ सब मिलकर पेड़ लगाएँ",
+   "evidence": "आओ सब मिलकर पेड़ लगाएँ",
+   "english": "Let us all plant trees together",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (94%)",
+    "wording is not an exact match to the printed text (closest OCR reading 97% similar) - check spelling - suggestion: आओ सब मिलकर पेड़ लगाए",
+    "second model disagrees - suggestion: धरती पर हरियाली हो - जीवन में खुशहाली हो"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "धरती पर हरियाली हो - जीवन में खुशहाली हो",
+   "evidence": "धरती पर हरियाली हो - जीवन में खुशहाली हो",
+   "english": "Greenery on earth - happiness in life",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: आओ सब मिलकर पेड़ लगाएं"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "प्रकृति को समर्पित उत्तराखण्ड के लोकपर्व हरेला की समस्त प्रदेशवासियों को हार्दिक शुभकामनाएं",
+   "evidence": "प्रकृति को समर्पित उत्तराखण्ड के लोकपर्व हरेला की समस्त प्रदेशवासियों को हार्दिक शुभकामनाएं",
+   "english": "Heartfelt greetings to all residents of the state on Harela, the folk festival of Uttarakhand dedicated to nature",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "public_notice",
+   "evidence": "सूचना एवं लोक सम्पर्क विभाग, उत्तराखण्ड द्वारा जनहित में जारी।",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Government & Public Notices",
+   "evidence": "सूचना एवं लोक सम्पर्क विभाग, उत्तराखण्ड द्वारा जनहित में जारी।",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #21"
+   ],
+   "matched_id": 21,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 21,
+     "name": "Government & Public Notices",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Hindi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Harela festival greetings from Uttarakhand government",
+    "Tree plantation target for Harela festival 2023-24: 7 lakh 11 thousand",
+    "Tree plantation target for whole year: 2 crore 29 lakh 45 thousand",
+    "Fruit-bearing tree plantation target for whole year: 16 lakh 43 thousand",
+    "Harela campaign: 17 July to 15 August 2023",
+    "On 15 August 2023, about 1750 villages to plant 75 fruit-bearing and useful saplings in each village during Amrit Kaal",
+    "Distribution of saplings for planting on private land"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The Uttarakhand government greets all residents on Harela, the nature-dedicated folk festival, and announces tree plantation targets for 2023-24 and the whole year, including a special campaign from 17 July to 15 August 2023 to distribute saplings for planting on private land in about 1750 villages.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.uttarainformation.gov.in",
+    "evidence": "www.uttarainformation.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "uttarakhandDIPR",
+    "evidence": "uttarakhandDIPR",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DIPR_UK",
+    "evidence": "DIPR_UK",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "issuing_authority": {
+   "value": "सूचना एवं लोक सम्पर्क विभाग, उत्तराखण्ड",
+   "evidence": "सूचना एवं लोक सम्पर्क विभाग, उत्तराखण्ड द्वारा जनहित में जारी।",
+   "english": "Information and Public Relations Department, Uttarakhand",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "notice_type": {
+   "value": "जनहित में जारी",
+   "evidence": "सूचना एवं लोक सम्पर्क विभाग, उत्तराखण्ड द्वारा जनहित में जारी।",
+   "english": "Issued in public interest",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "dates": {
+   "value": "17 जुलाई से 15 अगस्त, 2023",
+   "evidence": "17 जुलाई से 15 अगस्त, 2023",
+   "english": "17 July to 15 August, 2023",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "subject": {
+   "value": "हरेला कार्यक्रम",
+   "evidence": "हरेला कार्यक्रम: 17 जुलाई से 15 अगस्त, 2023",
+   "english": "Harela campaign",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Harela festival greetings from Uttarakhand government",
+  "Tree plantation target for Harela festival 2023-24: 7 lakh 11 thousand",
+  "Tree plantation target for whole year: 2 crore 29 lakh 45 thousand",
+  "Fruit-bearing tree plantation target for whole year: 16 lakh 43 thousand",
+  "Harela campaign: 17 July to 15 August 2023",
+  "On 15 August 2023, about 1750 villages to plant 75 fruit-bearing and useful saplings in each village during Amrit Kaal",
+  "Distribution of saplings for planting on private land"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "G20",
+   "score": 0.9858,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "आज़ादीका",
+   "score": 0.8848,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 3,
+   "text": "अमृत महोत्सव",
+   "score": 0.9856,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 4,
+   "text": "203 INDIA",
+   "score": 0.8046,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 5,
+   "text": "उतराखण् शासन",
+   "score": 0.8306,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "जल संरक्षण",
+   "score": 0.9341,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "एवं जल धाराओं",
+   "score": 0.9467,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "का पुनर्ज़ीवन",
+   "score": 0.9529,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": "धरती पर हरियाली हो - जीवन में खुशहाली हो",
+   "score": 0.9746,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "आओ सब मिलकर पेड़ लगाए",
+   "score": 0.9617,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "प्रकृति को सम्ित",
+   "score": 0.9786,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "उत्तराखण्ड के लोकपर्व",
+   "score": 0.9736,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "हरेला",
+   "score": 0.969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "की समस्त प्रदेशवासियों को",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "हार्दिक शुभकामनाएं",
+   "score": 0.9402,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "पुष्कर सिंह धामी",
+   "score": 0.9066,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "नरेन्द्र मोदी",
+   "score": 0.9853,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "मुख्यमंत्री, त्तराखवण्ड",
+   "score": 0.9332,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "प्रधानमंत्री",
+   "score": 0.9361,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "qf2023-24",
+   "score": 0.9768,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "हरेला कार्यक्रमः",
+   "score": 0.9694,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "हरेला पर्व पर वृक्षरोपण का लक्ष्यः",
+   "score": 0.9812,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "17 जुलाई से 15 अगस्त, 2023",
+   "score": 0.9683,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "7 लाख 11 हजार",
+   "score": 0.9566,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "हरेला के समापन पर 15 अगस्त 2023 को",
+   "score": 0.9699,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "पूरे वर्ष वृक्षारोपण का लक्ष्यः",
+   "score": 0.9372,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "आजादी के अमृतकाल में लगभग 1750 गांवों",
+   "score": 0.9747,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "229R45",
+   "score": 0.9597,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "में प्रत्येक गांव में 75 फलदार एवं उनके",
+   "score": 0.9799,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "उपयोग की पौध का ग्रामवासियों की",
+   "score": 0.9549,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 31,
+   "text": "पूरे वर्ष फलदार वृक्षारोपण का लक्ष्य :",
+   "score": 0.9516,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "निजी भूमि पर रोपण हेतु वितरण।",
+   "score": 0.977,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "16 लाख 43 हजार",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "पर्यावरण का संरक्षण हम सबकी सामूहिक जिम्मेदारी है।",
+   "score": 0.9709,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "सूचना एवं लोक सम्पर्क विभाग, उत्तराखण्ड द्वरा जनहित में जारी।",
+   "score": 0.9544,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "www.uttarainformation.gov.inuttarakhandDIPR DIPR_UKuttarakhand DIPR",
+   "score": 0.9902,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "19 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 18.29,
+  "extract": 12.13
+ }
+}

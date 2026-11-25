@@ -1,0 +1,782 @@
+{
+ "image": "050_026_Jansatta_61_phone_photo.jpg",
+ "fields": {
+  "brand": {
+   "value": "Patanjali",
+   "evidence": "पतंजलि",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "exact match to existing record 'Patanjali' (#71)"
+   ],
+   "matched_id": 71,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 71,
+     "name": "Patanjali",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Patanjali",
+   "evidence": "पतंजलि",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "स्वदेशी संकल्प एक मात्र विकल्प",
+   "evidence": "स्वदेशी संकल्प एक मात्र विकल्प",
+   "english": "Swadeshi Sankalp Ek Matra Vikalp",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "पतंजलि के लिए देश एक परिवार है जबकि विदेशी कम्पनियों के लिए देश एक बाजार है",
+   "evidence": "पतंजलि के लिए देश एक परिवार है जबकि विदेशी कम्पनियों के लिए देश एक बाजार है",
+   "english": "For Patanjali the country is a family, while for foreign companies the country is a market",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (98%)",
+    "wording is not an exact match to the printed text (closest OCR reading 99% similar) - check spelling - suggestion: पतंजलि के लिए देश एक परिवार है जबकि विदेशी कम्पनियों के लिए देश एक बाज़ार है",
+    "second model disagrees - suggestion: पतंजलि के लिए देश एक परिवार है जबिक वितेशी कम्पनियों के लिए देश एक बाजार है"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "देश की लगभग 50 लाख करोड़ रुपए की अर्थव्यवस्था पर विदेशी कम्पनियों का कब्जा है। हर साल ये विदेशी कम्पनियाँ देश से हजारों-लाखों करोड़ रूपये लूटकर विदेश ले जाती है।",
+   "evidence": "देश की लगभग 50 लाख करोड़ रुपए की अर्थव्यवस्था पर विदेशी कम्पनियों का कब्जा है। हर साल ये विदेशी कम्पनियाँ देश से हजारों-लाखों करोड़ रूपये लूटकर विदेश ले जाती है।",
+   "english": "Foreign companies have captured nearly 50 lakh crore rupees of the country's economy. Every year these foreign companies loot thousands-lakhs of crores of rupees from the country and take it abroad.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "पतंजलि के 'अर्थ से परमार्थ' के संकल्प से जुड़ें",
+   "evidence": "पतंजलि के 'अर्थ से परमार्थ' के संकल्प से जुड़ें",
+   "english": "Join Patanjali's 'Arth se Parmarth' pledge",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (95%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #16"
+   ],
+   "matched_id": 16,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 16,
+     "name": "FMCG",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Hindi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Patanjali 100% pure products, 100% prosperity for charity",
+    "Patanjali cow ghee and oil range (natural and tasty)",
+    "Patanjali health and energy products",
+    "Dant Kanti dental care range",
+    "Patanjali bath soap, face wash and skin care",
+    "Kesh Kanti natural shampoo and Ayurvedic hair oil"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Patanjali promotes a Swadeshi pledge as the only alternative to foreign companies, offering 100% pure products across food, personal care, hair care and health categories, with 100% prosperity directed to charity.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "पतंजलि गाय का घी व तेल की रेंज (नेचुरल और टेस्टी)",
+    "evidence": "पतंजलि गाय का घी व तेल की रेंज (नेचुरल और टेस्टी)",
+    "english": "Patanjali cow ghee and oil range (natural and tasty)",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (78%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "पतंजलि स्वास्थ्य एवं शक्ति वर्धक उत्पाद्स",
+    "evidence": "पतंजलि स्वास्थ्य एवं शक्ति वर्धक उत्पाद्स",
+    "english": "Patanjali health and strength-enhancing products",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (78%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "दन्त कान्ति डेंटल केयर रेंज",
+    "evidence": "दन्त कान्ति डेंटल केयर रेंज",
+    "english": "Dant Kanti dental care range",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (91%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "पतंजलि बाथ सोप, फेस वॉश व स्किन केयर",
+    "evidence": "पतंजलि बाथ सोप, फेस वॉश व स्किन केयर",
+    "english": "Patanjali bath soap, face wash and skin care",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "केश कान्ति नैचुरल शैम्पू व आयुर्वेदिक हेयर ऑयल",
+    "evidence": "केश कान्ति नैचुरल शैम्पू व आयुर्वेदिक हेयर ऑयल",
+    "english": "Kesh Kanti natural shampoo and Ayurvedic hair oil",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (92%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "पतंजलि 100% प्योर प्रोडक्ट्स, 100% प्रॉस्पेरिटी फॉर चैरिटी",
+    "evidence": "पतंजलि 100% प्योर प्रोडक्ट्स, 100% प्रॉस्पेरिटी फॉर चैरिटी",
+    "english": "Patanjali 100% pure products, 100% prosperity for charity",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Patanjali 100% pure products, 100% prosperity for charity",
+  "Patanjali cow ghee and oil range (natural and tasty)",
+  "Patanjali health and energy products",
+  "Dant Kanti dental care range",
+  "Patanjali bath soap, face wash and skin care",
+  "Kesh Kanti natural shampoo and Ayurvedic hair oil"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "74-TordR",
+   "score": 0.5265,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "गणतंत्र-=",
+   "score": 0.8847,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "पतंजलि",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "स्वदेशी संकल्प",
+   "score": 0.919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "एक मात्र विकल्प",
+   "score": 0.9674,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "पतंजलि के लिए देश एक परिवार है जबकि",
+   "score": 0.9635,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "विदेशी कम्पनियों के लिए देश एक बाज़ार है",
+   "score": 0.9727,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "देश की लगभग 50 लाख करोड़ रुूपए की अर्थव्यवस्था पर विदेशी कम्पनियों का कब्जा है।",
+   "score": 0.9223,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "हर साल ये विदेशी कम्पनियाँ देश से हजारों-लाखों करोड़़ रूपये लूटकर विदेश ले जाती है।",
+   "score": 0.9315,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "पतंजल 100% प्योर प्रोडक्ट्स, 100% प्रॉस्पेरिटी फॉर चैरिटी",
+   "score": 0.9615,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "आह्वान-",
+   "score": 0.9453,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "पतंजलि के 'अर्थ से परमार्थ' के",
+   "score": 0.905,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "संकल्प से जुडं, क्यॉकि पतंजलि का",
+   "score": 0.9129,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "एक-एक रुपया समर्पित है शिक्षा,",
+   "score": 0.9656,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "स्वास्थ्य, चिकित्सा, सनातन संस्कृति",
+   "score": 0.9196,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "से देश के गौरवशाली निर्माण हेतु।",
+   "score": 0.971,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "PATANJALE",
+   "score": 0.9432,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 18,
+   "text": "PATANJALE",
+   "score": 0.5651,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "PATANJALL",
+   "score": 0.8891,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 20,
+   "text": "New",
+   "score": 0.9993,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 21,
+   "text": "व्यवनपाश",
+   "score": 0.7752,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "ATANIALL",
+   "score": 0.8679,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 23,
+   "text": "CHYAWANPRASR",
+   "score": 0.878,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "Amla Juice",
+   "score": 0.9828,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "Honey",
+   "score": 0.9752,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "पतजलि गाय का पी व तेल की रंज",
+   "score": 0.9189,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "पतंजलि स्वास्थ्य एवं शक्त वर्थिक प्रोडक्ट्स",
+   "score": 0.9175,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "(नेचुरल और टेसटी)",
+   "score": 0.9406,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "tOundaryo",
+   "score": 0.7962,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "sloe vera pé",
+   "score": 0.8355,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "aloe vero gat",
+   "score": 0.7897,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "N5EM",
+   "score": 0.7153,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "PATANIALA",
+   "score": 0.7629,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "DANKANT",
+   "score": 0.7543,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "DANTKN",
+   "score": 0.8378,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 36,
+   "text": "8",
+   "score": 0.5284,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "KANT",
+   "score": 0.7841,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "DANTANTT",
+   "score": 0.8047,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 39,
+   "text": "DANNTL",
+   "score": 0.7261,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "ALDEVERA",
+   "score": 0.9664,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "PATANIALY",
+   "score": 0.9094,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 42,
+   "text": "PATANJALI",
+   "score": 0.9556,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "PATANIALE",
+   "score": 0.9677,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "KANTI",
+   "score": 0.9493,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 45,
+   "text": "NEEM",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "KANTI",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "दन्त कान्त डेन्टल केयर रेंज",
+   "score": 0.9631,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "पतंजलि बाथ सोप, फेस वॉँश व स्किन केयर",
+   "score": 0.9472,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "नारियल",
+   "score": 0.9358,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "पतजति",
+   "score": 0.5436,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "केश कानि",
+   "score": 0.8471,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "केश कान्त नैचुरल शैम्पू व आयुवेदिक हेयर ऑयल",
+   "score": 0.9603,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "स्वदेशी का संकल्प- गणतंत्र दिवस पर देशा को आर्थिक लूट, शिक्षा, चिकित्सा",
+   "score": 0.9093,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 54,
+   "text": "व सांस्कृतिक गुलामी व दरिद्रता से बचाने के लिए स्वदेशी का संकल्प लं।",
+   "score": 0.8834,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 55,
+   "text": "चिकित्सा",
+   "score": 0.9941,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "10 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 25.04,
+  "extract": 34.54
+ }
+}

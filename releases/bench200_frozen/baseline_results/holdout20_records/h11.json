@@ -1,0 +1,6438 @@
+{
+ "image": "h11_Sony_television_405.jpg",
+ "fields": {
+  "brand": {
+   "value": "Sony",
+   "evidence": "SONY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Sony' (#141)"
+   ],
+   "matched_id": 141,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 141,
+     "name": "Sony",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "BRAVIA OLED",
+   "evidence": "BRAVIA OLED",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for Sony"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Sony India Pvt. Ltd.",
+   "evidence": "Regd. Office: Sony India Pvt. Ltd., A-18, Mohan Co-operative IndI. Estate, Mathura Road, New Delhi-110 044.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Sony Center",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "Live the stadium feel",
+   "evidence": "Live the stadium feel",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 79% similar) - check spelling - suggestion: OLED stadium feel",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Lifelike picture. Sound directly from the screen",
+   "evidence": "Lifelike picture. Sound directly from the screen",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 89% similar) - check spelling - suggestion: Lifelike picture. Sound directly HDR Extreme from the screen",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "A new TV experience awakens",
+   "evidence": "A new TV experience awakens",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Visit your nearest store for the entire range of BRAVIA products and accessories",
+   "evidence": "Visit your nearest store for the entire range of BRAVIA products and accessories",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Regd. Office: Sony India Pvt. Ltd., A-18, Mohan Co-operative IndI. Estate, Mathura Road, New Delhi-110 044.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics",
+   "evidence": "Sony Center The Ultimate Sony Experience",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #11"
+   ],
+   "matched_id": 11,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Retail & Consumer Electronics",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 299990,
+   "evidence": "Rs. 2,99,990/-",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (299,990)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Sony BRAVIA OLED TVs with X1 Extreme processor",
+    "4K HDR, Acoustic Surface, TRILUMINOS DISPLAY",
+    "Android TV with Google Assistant",
+    "Multiple series: A8F, X9500G/X9000F, X8500F, X8G/X7G/F, W800F, W6F/G, R Series",
+    "Prices from Rs. 19,990/- to Rs. 4,49,900/-",
+    "Sony Soundbar and Party Speaker models available",
+    "Additional 5% cashback and easy EMI offers",
+    "Sony Center store locations across Delhi/NCR"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Sony BRAVIA OLED TVs deliver lifelike picture and sound directly from the screen with X1 Extreme processor, 4K HDR, Acoustic Surface and TRILUMINOS DISPLAY. Prices start from Rs. 19,990/- for R Series and go up to Rs. 4,49,900/- for A8F 65cm model. Additional 5% cashback and easy EMI options available. Visit Sony Center stores in Delhi/NCR.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "66006600",
+     "kind": "landline",
+     "as_printed": "6600 6600"
+    },
+    "evidence": "Ph: 6600 6600",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "26959141",
+     "kind": "landline",
+     "as_printed": "26959141"
+    },
+    "evidence": "Fax: 26959141",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9268572225",
+     "kind": "mobile",
+     "as_printed": "9268572225"
+    },
+    "evidence": "F-30C, F Block - 9268572225",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999804774",
+     "kind": "mobile",
+     "as_printed": "9999804774"
+    },
+    "evidence": "II-K-4B - 9999804774",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873960591",
+     "kind": "mobile",
+     "as_printed": "9873960591"
+    },
+    "evidence": "Main Rd H-11 - 9873960591",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8585959546",
+     "kind": "mobile",
+     "as_printed": "8585959546"
+    },
+    "evidence": "8585959546",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810146380",
+     "kind": "mobile",
+     "as_printed": "9810146380"
+    },
+    "evidence": "9810146380",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810300311",
+     "kind": "mobile",
+     "as_printed": "40504803/9810300311"
+    },
+    "evidence": "D-79, UGF - 40504803/9810300311",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810274009",
+     "kind": "mobile",
+     "as_printed": "9810274009"
+    },
+    "evidence": "Behra Enclave - 9810274009",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811902277",
+     "kind": "mobile",
+     "as_printed": "9811902277"
+    },
+    "evidence": "Electronics - 9811902277",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8506091007",
+     "kind": "mobile",
+     "as_printed": "8506091007"
+    },
+    "evidence": "RK Puram : Raj Electronics-8506091007",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810299778",
+     "kind": "mobile",
+     "as_printed": "9810299778"
+    },
+    "evidence": "A.G Electronics-9810299778",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810868807",
+     "kind": "mobile",
+     "as_printed": "9810868807"
+    },
+    "evidence": "Shiva Electronics-9810868807",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818884197",
+     "kind": "mobile",
+     "as_printed": "9818884197"
+    },
+    "evidence": "SRK - 9818884197",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873080053",
+     "kind": "mobile",
+     "as_printed": "9873080053"
+    },
+    "evidence": "Yusuf Sarai: KBM-9873080053",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9212570490",
+     "kind": "mobile",
+     "as_printed": "9212570490"
+    },
+    "evidence": "MG Ezone-9212570490",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9868724605",
+     "kind": "mobile",
+     "as_printed": "9868724605"
+    },
+    "evidence": "RPG Electrade pvt. Ltd.-9868724605",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "41603052",
+     "kind": "landline",
+     "as_printed": "41603052"
+    },
+    "evidence": "Kalka Ji: Anand Electronics-41603052",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811005614",
+     "kind": "mobile",
+     "as_printed": "9811005614"
+    },
+    "evidence": "Electronics -9811005614",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811427949",
+     "kind": "mobile",
+     "as_printed": "9811427949"
+    },
+    "evidence": "Thukral Time-9811427949",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9958023400",
+     "kind": "mobile",
+     "as_printed": "9958023400"
+    },
+    "evidence": "RD Sales -9958023400",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9871389744",
+     "kind": "mobile",
+     "as_printed": "9871389744"
+    },
+    "evidence": "Malviya Nagar:Raj Electronics-9871389744",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873731819",
+     "kind": "mobile",
+     "as_printed": "9873731819"
+    },
+    "evidence": "Neeru-9873731819",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "26130000",
+     "kind": "landline",
+     "as_printed": "26130000"
+    },
+    "evidence": "Vasant Kunj : MG Ezone-26130000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811961111",
+     "kind": "mobile",
+     "as_printed": "9811961111"
+    },
+    "evidence": "Shri Balaji Electronics-9811961111",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810765963",
+     "kind": "mobile",
+     "as_printed": "9810765963"
+    },
+    "evidence": "Chatarpur: Thakur Trading-9810765963",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811367275",
+     "kind": "mobile",
+     "as_printed": "9811367275"
+    },
+    "evidence": "9811367275",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818252373",
+     "kind": "mobile",
+     "as_printed": "9818252373"
+    },
+    "evidence": "Suman Times-9818252373",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818087000",
+     "kind": "mobile",
+     "as_printed": "9818087000"
+    },
+    "evidence": "GK: Satnam Plaza-9818087000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810418427",
+     "kind": "mobile",
+     "as_printed": "9810418427"
+    },
+    "evidence": "Sarojini Nagar: Anil Radio-9810418427",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9650589526",
+     "kind": "mobile",
+     "as_printed": "9650589526"
+    },
+    "evidence": "Moti Bagh: M.K.Electronics-9650589526",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9958185818",
+     "kind": "mobile",
+     "as_printed": "9958185818"
+    },
+    "evidence": "Audio Tech-9958185818",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8800794709",
+     "kind": "mobile",
+     "as_printed": "8800794709"
+    },
+    "evidence": "Khanpur: Shilpi Electronics-8800794709",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873107787",
+     "kind": "mobile",
+     "as_printed": "9873107787"
+    },
+    "evidence": "Madangir: Deep Gift Corner- 9873107787",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810101060",
+     "kind": "mobile",
+     "as_printed": "9810101060"
+    },
+    "evidence": "Kotla: Music Center-9810101060",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811425543",
+     "kind": "mobile",
+     "as_printed": "9811425543"
+    },
+    "evidence": "Home Collection -9811425543",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891391559",
+     "kind": "mobile",
+     "as_printed": "9891391559"
+    },
+    "evidence": "Mahindra Electronics-9891391559",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999270786",
+     "kind": "mobile",
+     "as_printed": "9999270786"
+    },
+    "evidence": "Zakir Nagar: Mallik Enterprises-9999270786",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717898954",
+     "kind": "mobile",
+     "as_printed": "9717898954"
+    },
+    "evidence": "Badarpur: Namisha Enterprises -9717898954",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810636471",
+     "kind": "mobile",
+     "as_printed": "9810636471"
+    },
+    "evidence": "V.K.Electronics-9810636471",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810225574",
+     "kind": "mobile",
+     "as_printed": "9810225574"
+    },
+    "evidence": "9810225574",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999102326",
+     "kind": "mobile",
+     "as_printed": "9999102326"
+    },
+    "evidence": "Prehladpur- Tushar Vision-9999102326",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810349403",
+     "kind": "mobile",
+     "as_printed": "9810349403"
+    },
+    "evidence": "Tigdi: Maruti Agency - 9810349403",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873901830",
+     "kind": "mobile",
+     "as_printed": "9873901830"
+    },
+    "evidence": "Vikas Marg: Navrang Audio Video-9873901830",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811642642",
+     "kind": "mobile",
+     "as_printed": "9811642642"
+    },
+    "evidence": "KBM-9811642642",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9871889754",
+     "kind": "mobile",
+     "as_printed": "9871889754"
+    },
+    "evidence": "KDW-9871889754",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999444649",
+     "kind": "mobile",
+     "as_printed": "9999444649"
+    },
+    "evidence": "Krishna Nagar: Razzle Dazzle-9999444649",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810022577",
+     "kind": "mobile",
+     "as_printed": "9810022577"
+    },
+    "evidence": "Light&Sound-9810022577",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811742679",
+     "kind": "mobile",
+     "as_printed": "9811742679"
+    },
+    "evidence": "Sanjay Electronics-9811742679",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999698444",
+     "kind": "mobile",
+     "as_printed": "9999698444"
+    },
+    "evidence": "Kataria Sales -9999698444",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811541155",
+     "kind": "mobile",
+     "as_printed": "9811541155"
+    },
+    "evidence": "Neelkanth-9811541155",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810246281",
+     "kind": "mobile",
+     "as_printed": "9810246281"
+    },
+    "evidence": "Kataria Ent - 9810246281",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9990047108",
+     "kind": "mobile",
+     "as_printed": "9990047108"
+    },
+    "evidence": "Dilshad Garden: Nutan Electronics-9990047108",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818478580",
+     "kind": "mobile",
+     "as_printed": "9818478580"
+    },
+    "evidence": "Shahdara : Gupta Electronics -9818478580",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8010218798",
+     "kind": "mobile",
+     "as_printed": "8010218798"
+    },
+    "evidence": "8010218798",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891745789",
+     "kind": "mobile",
+     "as_printed": "9891745789"
+    },
+    "evidence": "Electronic Craft-9891745789",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953715128",
+     "kind": "mobile",
+     "as_printed": "9953715128"
+    },
+    "evidence": "Jain Electronics - 9953715128",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953583205",
+     "kind": "mobile",
+     "as_printed": "9953583205"
+    },
+    "evidence": "Durgapuri - Metro Ref.& Ele. - 9953583205",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "66478308",
+     "kind": "landline",
+     "as_printed": "66478308"
+    },
+    "evidence": "Metro C&C-66478308",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "66778209",
+     "kind": "landline",
+     "as_printed": "66778209"
+    },
+    "evidence": "Metro C&C(Seelampur)-66778209",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873237349",
+     "kind": "mobile",
+     "as_printed": "9873237349"
+    },
+    "evidence": "MTK Electronics -9873237349",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811218076",
+     "kind": "mobile",
+     "as_printed": "9811218076"
+    },
+    "evidence": "Shri Bala Ji - 9811218076",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01122810782",
+     "kind": "landline",
+     "as_printed": "011-22810782"
+    },
+    "evidence": "Techno King-011-22810782",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717794586",
+     "kind": "mobile",
+     "as_printed": "9717794586"
+    },
+    "evidence": "Techno King Dist. – 9717794586",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818004480",
+     "kind": "mobile",
+     "as_printed": "9818004480"
+    },
+    "evidence": "Mayur Vihar: KBM - 9818004480",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999567670",
+     "kind": "mobile",
+     "as_printed": "9999567670"
+    },
+    "evidence": "Jain Electro World -9999567670",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7827647469",
+     "kind": "mobile",
+     "as_printed": "7827647469"
+    },
+    "evidence": "Sai Enterprises - 7827647469",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9560907710",
+     "kind": "mobile",
+     "as_printed": "9560907710"
+    },
+    "evidence": "Aman Electronics - 9560907710",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999432286",
+     "kind": "mobile",
+     "as_printed": "9999432286"
+    },
+    "evidence": "Krishna Electronics - 9999432286",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999884659",
+     "kind": "mobile",
+     "as_printed": "9999884659"
+    },
+    "evidence": "Yamuna Vihar: Yamuna Electronics - 9999884659",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818387828",
+     "kind": "mobile",
+     "as_printed": "9818387828"
+    },
+    "evidence": "Rajkumar Electronics-9818387828",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810181882",
+     "kind": "mobile",
+     "as_printed": "9810181882"
+    },
+    "evidence": "Om Electronics – 9810181882",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810926087",
+     "kind": "mobile",
+     "as_printed": "9810926087"
+    },
+    "evidence": "Janakpuri : U.S. Shoppe – 9810926087",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9250710850",
+     "kind": "mobile",
+     "as_printed": "9250710850"
+    },
+    "evidence": "Vikaspuri: Super Elec-9250710850",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9990123456",
+     "kind": "mobile",
+     "as_printed": "9990123456"
+    },
+    "evidence": "Uttam Nagar : Super Electronics -9990123456",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9013077397",
+     "kind": "mobile",
+     "as_printed": "9013077397"
+    },
+    "evidence": "New Berco-9013077397",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818844633",
+     "kind": "mobile",
+     "as_printed": "9818844633"
+    },
+    "evidence": "Mittal -9818844633",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9718598878",
+     "kind": "mobile",
+     "as_printed": "9718598878"
+    },
+    "evidence": "Vardhman Electronics – 9718598878",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9310513891",
+     "kind": "mobile",
+     "as_printed": "9310513891"
+    },
+    "evidence": "Ranjeet-9310513891",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "25353868",
+     "kind": "landline",
+     "as_printed": "25353868"
+    },
+    "evidence": "ShriMangla-25353868",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9871503096",
+     "kind": "mobile",
+     "as_printed": "9871503096"
+    },
+    "evidence": "Vidya Electronics-9871503096",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9212313617",
+     "kind": "mobile",
+     "as_printed": "9212313617"
+    },
+    "evidence": "Aman Electronics-9212313617",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838443019",
+     "kind": "mobile",
+     "as_printed": "7838443019"
+    },
+    "evidence": "Rakesh Electronics-7838443019",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811015847",
+     "kind": "mobile",
+     "as_printed": "9811015847"
+    },
+    "evidence": "Inderpuri:VenusEnterprises-9811015847",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811019921",
+     "kind": "mobile",
+     "as_printed": "9811019921"
+    },
+    "evidence": "JailRoad:Beekay-9811019921",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "45660000",
+     "kind": "landline",
+     "as_printed": "45660000"
+    },
+    "evidence": "DelhiCantt:Darbar Traders-45660000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "45281100",
+     "kind": "landline",
+     "as_printed": "45281100"
+    },
+    "evidence": "Electronics, Sec-12 - 45281100",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582229138",
+     "kind": "mobile",
+     "as_printed": "9582229138"
+    },
+    "evidence": "New Berco-9582229138",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9899748175",
+     "kind": "mobile",
+     "as_printed": "9899748175"
+    },
+    "evidence": "Raj Electronics-9899748175",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873533093",
+     "kind": "mobile",
+     "as_printed": "9873533093"
+    },
+    "evidence": "Palam: Jain Radio - 9873533093",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891184345",
+     "kind": "mobile",
+     "as_printed": "9891184345"
+    },
+    "evidence": "Dada Dev - 9891184345",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9868738836",
+     "kind": "mobile",
+     "as_printed": "9868738836"
+    },
+    "evidence": "Balaji Digital world - 9868738836",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8178355313",
+     "kind": "mobile",
+     "as_printed": "8178355313"
+    },
+    "evidence": "Vardhman Electronics 8178355313",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953058116",
+     "kind": "mobile",
+     "as_printed": "9953058116"
+    },
+    "evidence": "Rajouri: Surya Electronics - 9953058116",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717778162",
+     "kind": "mobile",
+     "as_printed": "9717778162"
+    },
+    "evidence": "Sahu Electronic -9717778162",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9910058472",
+     "kind": "mobile",
+     "as_printed": "9910058472"
+    },
+    "evidence": "Anugrah Electronics - 9910058472",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9136655880",
+     "kind": "mobile",
+     "as_printed": "9136655880"
+    },
+    "evidence": "Kamla Nagar: Hari sharan-9136655880",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891825566",
+     "kind": "mobile",
+     "as_printed": "9891825566"
+    },
+    "evidence": "Prakash Trading -9891825566",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582900985",
+     "kind": "mobile",
+     "as_printed": "9582900985"
+    },
+    "evidence": "Computer Elec-9582900985",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811591989",
+     "kind": "mobile",
+     "as_printed": "9811591989"
+    },
+    "evidence": "Cool CareAir-conditioning - 9811591989",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873773721",
+     "kind": "mobile",
+     "as_printed": "9873773721"
+    },
+    "evidence": "9873773721",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891363494",
+     "kind": "mobile",
+     "as_printed": "9891363494"
+    },
+    "evidence": "Adarsh Nagar :Dhall-9891363494",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873413415",
+     "kind": "mobile",
+     "as_printed": "9873413415"
+    },
+    "evidence": "Shalimar Bagh: Rakesh Electronics-9873413415",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "27282667",
+     "kind": "landline",
+     "as_printed": "27282667"
+    },
+    "evidence": "Narela : Ambika Electronic-27282667",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9312222359",
+     "kind": "mobile",
+     "as_printed": "9312222359"
+    },
+    "evidence": "Electronic-9312222359",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "25706388",
+     "kind": "landline",
+     "as_printed": "25706388"
+    },
+    "evidence": "Patel Nagar : Rakesh Electronics-25706388",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811164610",
+     "kind": "mobile",
+     "as_printed": "9811164610"
+    },
+    "evidence": "Karol Bagh: Kohli Bros-9811164610",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9911444499",
+     "kind": "mobile",
+     "as_printed": "9911444499"
+    },
+    "evidence": "9911444499",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891772658",
+     "kind": "mobile",
+     "as_printed": "9891772658"
+    },
+    "evidence": "Aggrellios & co-9891772658",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "23616661",
+     "kind": "landline",
+     "as_printed": "23616661"
+    },
+    "evidence": "Paharganj: Bakshi TV-23616661",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818019340",
+     "kind": "mobile",
+     "as_printed": "9818019340"
+    },
+    "evidence": "NOIDA - New Rhythm House – 9818019340",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "987334486",
+     "kind": "unknown",
+     "as_printed": "987334486"
+    },
+    "evidence": "987334486",
+    "english": null,
+    "confidence": 0.3,
+    "status": "missing",
+    "reasons": [
+     "not a valid Indian phone number (9 digits)",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "4333003",
+     "kind": "landline",
+     "as_printed": "4333003/5"
+    },
+    "evidence": "Electronics-4333003/5",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "4311116",
+     "kind": "landline",
+     "as_printed": "4311116"
+    },
+    "evidence": "Kay Dee Blessings-4311116",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717944466",
+     "kind": "mobile",
+     "as_printed": "9717944466"
+    },
+    "evidence": "Authorised Dealers-SOUTH-Lajpat Nagar:Arvee Enterprise-29848885, Arvee Sales-29833547,, Audio Voice-29830300; EOK: OM sai Traders -9717944466 LodhiColony: R.K.Vision -9810964941, Bhutani Electronics-9811282416; Malik Cycle-9810157884 Kotla: Music Center-9810101060, City",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811282416",
+     "kind": "mobile",
+     "as_printed": "9811282416"
+    },
+    "evidence": "Authorised Dealers-SOUTH-Lajpat Nagar:Arvee Enterprise-29848885, Arvee Sales-29833547,, Audio Voice-29830300; EOK: OM sai Traders -9717944466 LodhiColony: R.K.Vision -9810964941, Bhutani Electronics-9811282416; Malik Cycle-9810157884 Kotla: Music Center-9810101060, City",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810157884",
+     "kind": "mobile",
+     "as_printed": "9810157884"
+    },
+    "evidence": "Authorised Dealers-SOUTH-Lajpat Nagar:Arvee Enterprise-29848885, Arvee Sales-29833547,, Audio Voice-29830300; EOK: OM sai Traders -9717944466 LodhiColony: R.K.Vision -9810964941, Bhutani Electronics-9811282416; Malik Cycle-9810157884 Kotla: Music Center-9810101060, City",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 449900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "164cm (65) A8F SERIES",
+     "as_printed": "MRP-Rs.4,49,900/-"
+    },
+    "evidence": "MRP-Rs.4,49,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (449,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 329900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "139cm (55) A8F SERIES",
+     "as_printed": "MRP-Rs.3,29,900/-"
+    },
+    "evidence": "MRP-Rs.3,29,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (329,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 299990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "164cm (65) A8F SERIES",
+     "as_printed": "Rs. 2,99,990/-"
+    },
+    "evidence": "Rs. 2,99,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (299,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 6500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "164cm (65) A8F SERIES",
+     "as_printed": "Rs. 6,500/-"
+    },
+    "evidence": "Rs. 6,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (6,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 199990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "139cm (55) A8F SERIES",
+     "as_printed": "Rs.1,99,990/-"
+    },
+    "evidence": "Rs.1,99,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (199,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 5500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "139cm (55) A8F SERIES",
+     "as_printed": "Rs.5,500/-"
+    },
+    "evidence": "Rs.5,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (5,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1299900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "215cm (85) X9500G/X9000F SERIES",
+     "as_printed": "MRP: Rs. 12,99,900/-"
+    },
+    "evidence": "MRP: Rs. 12,99,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (1,299,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 549900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "189cm (75) X9500G/X9000F SERIES",
+     "as_printed": "MRP: Rs. 5,49,900/-"
+    },
+    "evidence": "MRP: Rs. 5,49,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (549,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 339900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "164cm (65) X9500G/X9000F SERIES",
+     "as_printed": "MRP: Rs. 3,39,900/-"
+    },
+    "evidence": "MRP: Rs. 3,39,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (339,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 239900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "139cm (55) X9500G/X9000F SERIES",
+     "as_printed": "MRP: Rs. 2,39,900/-"
+    },
+    "evidence": "MRP: Rs. 2,39,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (239,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 999990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "215cm (85) X9500G/X9000F SERIES",
+     "as_printed": "Price: 9,99,990/-"
+    },
+    "evidence": "Price: 9,99,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (999,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 449990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "189cm (75) X9500G/X9000F SERIES",
+     "as_printed": "Price: 4,49,990/-"
+    },
+    "evidence": "Price: 4,49,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (449,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 229990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "164cm (65) X9500G/X9000F SERIES",
+     "as_printed": "Price: 2,29,990/-"
+    },
+    "evidence": "Price: 2,29,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (229,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 129990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "139cm (55) X9500G/X9000F SERIES",
+     "as_printed": "Price: 1,29,990/-"
+    },
+    "evidence": "Price: 1,29,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (129,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 8500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "215cm (85) X9500G/X9000F SERIES",
+     "as_printed": "EMI Rs. 8,500/-"
+    },
+    "evidence": "EMI Rs. 8,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (8,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 7500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "189cm (75) X9500G/X9000F SERIES",
+     "as_printed": "EMI Rs. 7,500/-"
+    },
+    "evidence": "EMI Rs. 7,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (7,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 6500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "164cm (65) X9500G/X9000F SERIES",
+     "as_printed": "EMI Rs. 6,500/-"
+    },
+    "evidence": "EMI Rs. 6,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (6,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 5500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "139cm (55) X9500G/X9000F SERIES",
+     "as_printed": "EMI Rs. 5,500/-"
+    },
+    "evidence": "EMI Rs. 5,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (5,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 499900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "189cm (75) X8500F SERIES",
+     "as_printed": "MRP-Rs.4,99,900/-"
+    },
+    "evidence": "MRP-Rs.4,99,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (499,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 104900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "139cm (55) X8500F SERIES",
+     "as_printed": "MRP-Rs.1,04,900/-"
+    },
+    "evidence": "MRP-Rs.1,04,900/-",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence verified in OCR (91%)",
+     "DIGIT CONFLICT with OCR reading 184900",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 159900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "123cm (49) X8500F SERIES",
+     "as_printed": "MRP-Rs.1,59,900/-"
+    },
+    "evidence": "MRP-Rs.1,59,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (159,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 94900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "108cm (43) X8500F SERIES",
+     "as_printed": "MRP-Rs.94,900/-"
+    },
+    "evidence": "MRP-Rs.94,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (94,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 299990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "189cm (75) X8500F SERIES",
+     "as_printed": "Price: 2,99,990/-"
+    },
+    "evidence": "Price: 2,99,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (299,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 109990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "139cm (55) X8500F SERIES",
+     "as_printed": "Price: 1,09,990/-"
+    },
+    "evidence": "Price: 1,09,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (109,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 99990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "123cm (49) X8500F SERIES",
+     "as_printed": "Price: 99,990/-"
+    },
+    "evidence": "Price: 99,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (99,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 76990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "108cm (43) X8500F SERIES",
+     "as_printed": "Price: 76,990/-"
+    },
+    "evidence": "Price: 76,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (76,990)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 7500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "189cm (75) X8500F SERIES",
+     "as_printed": "EMI Rs. 7,500/-"
+    },
+    "evidence": "EMI Rs. 7,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (7,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 5500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "139cm (55) X8500F SERIES",
+     "as_printed": "EMI Rs. 5,500/-"
+    },
+    "evidence": "EMI Rs. 5,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (5,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 4900,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "123cm (49) X8500F SERIES",
+     "as_printed": "EMI Rs. 4,900/-"
+    },
+    "evidence": "EMI Rs. 4,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (4,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 4300,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI",
+     "item": "108cm (43) X8500F SERIES",
+     "as_printed": "EMI Rs. 4,300/-"
+    },
+    "evidence": "EMI Rs. 4,300/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (4,300)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 55990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range starts from",
+     "item": "X8G/X7G/F SERIES",
+     "as_printed": "Range starts from Rs. 55,990/-"
+    },
+    "evidence": "Range starts from Rs. 55,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (55,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 52990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range starts from",
+     "item": "W800F SERIES",
+     "as_printed": "Range starts from Rs. 52,990/-"
+    },
+    "evidence": "Range starts from Rs. 52,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (52,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 27990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range starts from",
+     "item": "W6F/G SERIES",
+     "as_printed": "Range starts from Rs. 27,990/-"
+    },
+    "evidence": "Range starts from Rs. 27,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (27,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 999,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "Now available at",
+     "item": "R SERIES",
+     "as_printed": "Rs.999/- per month"
+    },
+    "evidence": "Rs.999/- per month",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 19990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range starts from",
+     "item": "R SERIES",
+     "as_printed": "Range starts from Rs. 19,990/-"
+    },
+    "evidence": "Range starts from Rs. 19,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (19,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 38990,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "HT-S700RF Soundbar",
+     "as_printed": "Rs. 38,990/-"
+    },
+    "evidence": "Rs. 38,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (38,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 30990,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "HT-S500RF Soundbar",
+     "as_printed": "Rs. 30,990/-"
+    },
+    "evidence": "Rs. 30,990/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (30,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 30490,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "HT-X8500 Soundbar",
+     "as_printed": "Rs. 30,490/-"
+    },
+    "evidence": "Rs. 30,490/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (30,490)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 22490,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "HT-RT40 Soundbar",
+     "as_printed": "Rs. 22,490/-"
+    },
+    "evidence": "Rs. 22,490/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (22,490)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 18490,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "HT-RT3 Soundbar",
+     "as_printed": "Rs. 18,490/-"
+    },
+    "evidence": "Rs. 18,490/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (18,490)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 65990,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "MHC-V90DW Party Speaker",
+     "as_printed": "Rs. 65,990"
+    },
+    "evidence": "Rs. 65,990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (65,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 53990,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "MHC-V82D Party Speaker",
+     "as_printed": "Rs. 53,990"
+    },
+    "evidence": "Rs. 53,990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (53,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 43990,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "MHC-V72D Party Speaker",
+     "as_printed": "Rs. 43,990"
+    },
+    "evidence": "Rs. 43,990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (43,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 30990,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "MHC-V42D Party Speaker",
+     "as_printed": "Rs. 30,990"
+    },
+    "evidence": "Rs. 30,990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (30,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 19490,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "MHC-V21D Party Speaker",
+     "as_printed": "Rs. 19,490"
+    },
+    "evidence": "Rs. 19,490",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (19,490)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 16490,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "MHC-V02 Party Speaker",
+     "as_printed": "Rs. 16,490"
+    },
+    "evidence": "Rs. 16,490",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (16,490)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 20990,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "GTK-PG10 Party Speaker",
+     "as_printed": "Rs. 20,990"
+    },
+    "evidence": "Rs. 20,990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (20,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 8500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI (Rs.)",
+     "item": "215cm (85) TV",
+     "as_printed": "8,500/-"
+    },
+    "evidence": "8,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (8,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 7500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI (Rs.)",
+     "item": "189cm (75) TV",
+     "as_printed": "7,500/-"
+    },
+    "evidence": "7,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (7,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 6500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI (Rs.)",
+     "item": "164cm (65) TV",
+     "as_printed": "6,500/-"
+    },
+    "evidence": "6,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (6,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 5500,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI (Rs.)",
+     "item": "139cm (55) TV",
+     "as_printed": "5,500/-"
+    },
+    "evidence": "5,500/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (5,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 4900,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI (Rs.)",
+     "item": "123cm (49) TV",
+     "as_printed": "4,900/-"
+    },
+    "evidence": "4,900/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (4,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "A-18, Mohan Co-operative IndI. Estate, Mathura Road, New Delhi-110 044",
+    "evidence": "Regd. Office: Sony India Pvt. Ltd., A-18, Mohan Co-operative IndI. Estate, Mathura Road, New Delhi-110 044.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "4K HDR Processor X1 Extreme",
+    "evidence": "4K HDR Processor X1 Extreme",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Acoustic Surface",
+    "evidence": "Acoustic Surface",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "TRILUMINOS DISPLAY",
+    "evidence": "TRILUMINOS DISPLAY",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Android TV",
+    "evidence": "androidtv",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Google Assistant",
+    "evidence": "Google Assistant",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Hands-free control",
+    "evidence": "Hands-free control",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "4K X-Reality PRO",
+    "evidence": "4K X-Reality PRO",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "X-Reality PRO",
+    "evidence": "X-Reality PRO",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Bass Reflex Speaker",
+    "evidence": "Bass Reflex Speaker",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SMART TV",
+    "evidence": "SMART TV",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Plug & Play",
+    "evidence": "Plug & Play",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (88%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Premium Real 5.1ch Tall boy Soundbar",
+    "evidence": "Premium Real 5.1ch Tall boy Soundbar",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "2.1ch Single Soundbar with Dolby Atmos*",
+    "evidence": "2.1ch Single Soundbar with Dolby Atmos*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Stylish Real 5.1ch Tall boy Soundbar",
+    "evidence": "Stylish Real 5.1ch Tall boy Soundbar",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Karaoke",
+    "evidence": "Karaoke",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Bluetooth",
+    "evidence": "Bluetooth",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "USB",
+    "evidence": "USB",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DVD",
+    "evidence": "DVD",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (0%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "U74899DL1994PTC062781",
+    "evidence": "CIN No : U74899DL1994PTC062781",
+    "english": "CIN No : U74899DL1994PTC062781",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "ADDITIONAL 5% CASHBACK",
+    "evidence": "ADDITIONAL 5% CASHBACK",
+    "english": "Additional 5% cashback",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (58%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Upgrade with easy EMIs",
+    "evidence": "Upgrade with easy EMIs",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Pay As Per Screen Size** | Screen Size x 100 = EMI",
+    "evidence": "Pay As Per Screen Size** | Screen Size x 100 = EMI",
+    "english": "Pay As Per Screen Size | Screen Size x 100 = EMI",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "EMI Tenure up to 36 months",
+    "evidence": "EMI Tenure up to 36 months",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (71%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Save Up to Rs. 5000/-",
+    "evidence": "Save Up to Rs. 5000/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Soundbar Combo Offer",
+    "evidence": "Soundbar Combo Offer",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SPECIAL FINANCE OFFERS",
+    "evidence": "SPECIAL FINANCE OFFERS",
+    "english": "Special Finance Offers",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Rs.1/- Downpayment",
+    "evidence": "Rs.1/- Downpayment",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Finance with No Processing Fees through:",
+    "evidence": "Finance with No Processing Fees through:",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "12/4 EMI",
+    "evidence": "12/4 EMI",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "18/4 EMI",
+    "evidence": "18/4 EMI",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Combo Finance Offer SAVE EMI n.3,000/- Rs. 999/-",
+    "evidence": "Combo Finance Offer SAVE EMI n.3,000/- Rs. 999/-",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (85%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Combo Finance Offer SAVE EMI n.2,000/- Rs. 805/-",
+    "evidence": "Combo Finance Offer SAVE EMI n.2,000/- Rs. 805/-",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (85%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Combo Finance Offer SAVE EMI n.2,000/- Rs. 791/-",
+    "evidence": "Combo Finance Offer SAVE EMI n.2,000/- Rs. 791/-",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (76%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Combo Finance Offer SAVE EMI n.1,000/- Rs. 596/-",
+    "evidence": "Combo Finance Offer SAVE EMI n.1,000/- Rs. 596/-",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (85%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Combo Finance Offer SAVE EMI n.1,000/- Rs. 485/-",
+    "evidence": "Combo Finance Offer SAVE EMI n.1,000/- Rs. 485/-",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (76%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Sony Center",
+     "area": null,
+     "city": "Delhi/NCR",
+     "phones": [
+      "66006600"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Sony Center The Ultimate Sony Experience Visit your nearest store for the entire range of BRAVIA products and accessories",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Sony Center",
+   "evidence": "Sony Center The Ultimate Sony Experience",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "BRAVIA TVs, Soundbar, Party Speaker",
+   "evidence": "BRAVIA Range Sony Soundbar Sony Party Speaker",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "5% CASHBACK",
+   "evidence": "ADDITIONAL 5% CASHBACK",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (58%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "Easy EMIs, 5% Cashback",
+   "evidence": "Upgrade with easy EMIs ADDITIONAL 5% CASHBACK",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (78%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Sony BRAVIA OLED TVs with X1 Extreme processor",
+  "4K HDR, Acoustic Surface, TRILUMINOS DISPLAY",
+  "Android TV with Google Assistant",
+  "Multiple series: A8F, X9500G/X9000F, X8500F, X8G/X7G/F, W800F, W6F/G, R Series",
+  "Prices from Rs. 19,990/- to Rs. 4,49,900/-",
+  "Sony Soundbar and Party Speaker models available",
+  "Additional 5% cashback and easy EMI offers",
+  "Sony Center store locations across Delhi/NCR"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "SONY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Live the",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "BRAVIA",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "OLED",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "stadium feel",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "4K",
+   "score": 0.9983,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "X1",
+   "score": 0.9974,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "Lifelike picture. Sound directly",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "HDR",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Extreme",
+   "score": 0.9938,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "from the screen",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Acoustic",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "TRILUMINOS",
+   "score": 0.9964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Surface",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "DISPLAY",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "BRAVIA Range",
+   "score": 0.9884,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "A8F SERIES",
+   "score": 0.9858,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "BRAVIA",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "4K",
+   "score": 0.9977,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 20,
+   "text": "X9500G/X9000F",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "SERIES",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "4K",
+   "score": 0.998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "X8500F",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "SERIES",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "4K",
+   "score": 0.9975,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 26,
+   "text": "OLED",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "HDR",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "HDR",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "HDR",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "A new TV experience awakens",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "Fine details in dark and light",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "The best colour on a TV with Triluminos™ Display",
+   "score": 0.9952,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "X1",
+   "score": 0.9958,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 34,
+   "text": "X1",
+   "score": 0.9918,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 35,
+   "text": "X1",
+   "score": 0.9915,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 36,
+   "text": "X1",
+   "score": 0.9969,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 37,
+   "text": "Extreme",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Ultimate",
+   "score": 0.9734,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Extreme",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "4K HDR Processor",
+   "score": 0.9808,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "Acoustic",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "Surface",
+   "score": 0.9742,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "TRILUMINOS",
+   "score": 0.991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "Fol ray LED",
+   "score": 0.5682,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 45,
+   "text": "TRILUMINOS",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "TRILUMINOS",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "DISPLAY",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "androidtv Google Assistant",
+   "score": 0.9375,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "androldtv",
+   "score": 0.9749,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "Google Assistant",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "androldtv : Google Assistant",
+   "score": 0.9234,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "O alexa",
+   "score": 0.6602,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 53,
+   "text": "Oalexa",
+   "score": 0.6723,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "Oalexa",
+   "score": 0.7423,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 55,
+   "text": "Hends-free control",
+   "score": 0.8839,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "164cm (65) | MRP Rs.4,49,900/",
+   "score": 0.9832,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "139cm (55) |",
+   "score": 0.9584,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "MRP Rs.3,29,900/",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "215cm (85)",
+   "score": 0.9938,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "189cm (75)",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "164cm (65)",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "139cm (55)",
+   "score": 0.992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "189cm (75)",
+   "score": 0.9647,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "139cm (55)",
+   "score": 0.9858,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 65,
+   "text": "123cm (49)",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "108cm (43)",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "Price",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "MRP: Rs. 12,99,900/-",
+   "score": 0.9657,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "MRP: Rs. 5,49,900/-",
+   "score": 0.9493,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "MRP: Rs. 3,39,900/-",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "MRP: Rs. 2,39,900/-",
+   "score": 0.9766,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 72,
+   "text": "MRP: Rs. 4,99,900/",
+   "score": 0.9828,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 73,
+   "text": "MRP: Rs. 1,84,900/-",
+   "score": 0.958,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "MRP: Rs. 1,59,900/-",
+   "score": 0.9527,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 75,
+   "text": "MRP: Rs. 94,900/-",
+   "score": 0.9766,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 76,
+   "text": "Price",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "EMI",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 78,
+   "text": "EMI",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 79,
+   "text": "Price: 9,99,990/-",
+   "score": 0.9904,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "Price: 4,49,990/-",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 81,
+   "text": "Price: 2,29,990/-",
+   "score": 0.9945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 82,
+   "text": "Price: 1,29,990/-",
+   "score": 0.9903,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 83,
+   "text": "Price: 2,99,990/-",
+   "score": 0.9916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "Price: 1,09,990/-",
+   "score": 0.9805,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "Price: 99,990/-",
+   "score": 0.9774,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 86,
+   "text": "Price: 76,990/-",
+   "score": 0.9873,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 87,
+   "text": "Rs. 2,99,990/-",
+   "score": 0.9845,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 88,
+   "text": "Rs. 6,500/-",
+   "score": 0.9862,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 89,
+   "text": "Rs.1,99,990/-",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "Rs.5,500/-",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 91,
+   "text": "EMI Rs. 8,500/-",
+   "score": 0.985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 92,
+   "text": "EMI Rs. 7,500/-",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "EMI Rs. 6,500/-",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "EMI Rs. 5,500/-",
+   "score": 0.9974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 95,
+   "text": "EMI Rs. 7,500/-",
+   "score": 0.9895,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 96,
+   "text": "EMI Rs. 5,500/-",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 97,
+   "text": "EMI Rs. 4,900/-",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "EMI Rs. 4,300/-",
+   "score": 0.9912,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "X8G/X7G/F SERIES",
+   "score": 0.9958,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 100,
+   "text": "4K",
+   "score": 0.991,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 101,
+   "text": "W80OF SERIES",
+   "score": 0.913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 102,
+   "text": "1080",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 103,
+   "text": "Full HD",
+   "score": 0.9085,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 104,
+   "text": "W6F/G SERIES",
+   "score": 0.9931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 105,
+   "text": "PIi rt ay",
+   "score": 0.5035,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 106,
+   "text": "HDR",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 107,
+   "text": "SMART TV",
+   "score": 0.9897,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 108,
+   "text": "Your gateway to detail with 4K resolution",
+   "score": 0.9907,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 109,
+   "text": "A brand new entertainment experience with Android TV™",
+   "score": 0.9882,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 110,
+   "text": "Clearer, sharper, more entertaining",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 111,
+   "text": "W662F: 126cm (50) • 108cm (43)",
+   "score": 0.9377,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 112,
+   "text": "4K X-Reality PRO",
+   "score": 0.9244,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 113,
+   "text": "X-Reality PRO",
+   "score": 0.9718,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 114,
+   "text": "W672G: 108cm (43)• 80cm (32)",
+   "score": 0.9598,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 115,
+   "text": "| Pl g r tay",
+   "score": 0.5613,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 116,
+   "text": "Bass Reflex",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 117,
+   "text": "W622G: 80cm (32)",
+   "score": 0.984,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 118,
+   "text": "SMART TV",
+   "score": 0.9909,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 119,
+   "text": "Speaker",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 120,
+   "text": "Range starts from Rs. 27,990/-",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 121,
+   "text": "androidtv'",
+   "score": 0.965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 122,
+   "text": "Google Assistant*",
+   "score": 0.9656,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 123,
+   "text": "androldtv Google Assistant",
+   "score": 0.9236,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 124,
+   "text": "Plua Play",
+   "score": 0.5538,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 125,
+   "text": "R SERIES",
+   "score": 0.9884,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 126,
+   "text": "Rs.999/",
+   "score": 0.9215,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 127,
+   "text": "Now available at",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 128,
+   "text": "Oaexa",
+   "score": 0.6782,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 129,
+   "text": "Extra entertainment, deeper bass",
+   "score": 0.9884,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 130,
+   "text": "R422F: 80cm (32)",
+   "score": 0.997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 131,
+   "text": "x8000G: 189cm (75)· 164cm (65)· 123cm (49)· 108cm (43)",
+   "score": 0.9348,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 132,
+   "text": "R352F: 102cm(40)• R302F/G: 80cm (32)",
+   "score": 0.9809,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 133,
+   "text": "X7500F: 164cm (65) • 139cm(55)• 123cm (49)",
+   "score": 0.955,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 134,
+   "text": "W800F: 123cm (49)• 108cm (43)",
+   "score": 0.9826,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 135,
+   "text": "R252F: 102cm (40)• R202F/G: 80cm (32)",
+   "score": 0.981,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 136,
+   "text": "X7002G/F: 139cm(55) • 123cm (49)• 108cm (43)",
+   "score": 0.9721,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 137,
+   "text": "Range starts from Rs. 19,990/-",
+   "score": 0.9894,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 138,
+   "text": "Range starts from Rs. 55,990/-",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 139,
+   "text": "Range starts from Rs. 52,990/-",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 140,
+   "text": "Sony Soundbar",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 141,
+   "text": "HT-S700RF",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 142,
+   "text": "1000",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 143,
+   "text": "HT-S500RF",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 144,
+   "text": "1000",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 145,
+   "text": "HT-X8500",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 146,
+   "text": "NEW",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 147,
+   "text": "200",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 148,
+   "text": "HT-RT40",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 149,
+   "text": "600",
+   "score": 0.9552,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 150,
+   "text": "HT-RT3",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 151,
+   "text": "600",
+   "score": 0.9828,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 152,
+   "text": "Premium Real 5.1ch Tall boy Soundbar",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 153,
+   "text": "Premium Real 5.1ch Soundbar",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 154,
+   "text": "2.1ch Single Soundbar with Dolby Atmos*",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 155,
+   "text": "Stylish Real 5.1ch Tall boy Soundbar",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 156,
+   "text": "Stylish Real 5.1ch Soundbar",
+   "score": 0.9915,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 157,
+   "text": "Bluetoothi",
+   "score": 0.9062,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 158,
+   "text": "Bluetooth",
+   "score": 0.9169,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 159,
+   "text": "Bluetoothi",
+   "score": 0.9648,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 160,
+   "text": "Bluetooth",
+   "score": 0.9568,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 161,
+   "text": "Combo Finance Offer'",
+   "score": 0.9677,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 162,
+   "text": "Combo Finance Offer",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 163,
+   "text": "Combo Finance Offer'",
+   "score": 0.9744,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 164,
+   "text": "Combo Finance Offer",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 165,
+   "text": "Combo Finance Offer",
+   "score": 0.9909,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 166,
+   "text": "SAVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 167,
+   "text": "EMI",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 168,
+   "text": "SAVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 169,
+   "text": "EMI",
+   "score": 0.9902,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 170,
+   "text": "SAVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 171,
+   "text": "EMI",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 172,
+   "text": "SAVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 173,
+   "text": "EMI",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 174,
+   "text": "SAVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 175,
+   "text": "EMI",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 176,
+   "text": "N",
+   "score": 0.9975,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 177,
+   "text": "Rs.3,000/-",
+   "score": 0.9905,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 178,
+   "text": "USB",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 179,
+   "text": "2,000/-",
+   "score": 0.9909,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 180,
+   "text": "Rs.805/-",
+   "score": 0.9277,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 181,
+   "text": "USB",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 182,
+   "text": "Rs.2,000/-",
+   "score": 0.9354,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 183,
+   "text": "Vortical",
+   "score": 0.8591,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 184,
+   "text": ".1,000/",
+   "score": 0.9407,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 185,
+   "text": "Front & Rear",
+   "score": 0.9991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 186,
+   "text": "TEr",
+   "score": 0.5653,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 187,
+   "text": "Bluetooth",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 188,
+   "text": "USB",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 189,
+   "text": "USB",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 190,
+   "text": "20m",
+   "score": 0.4841,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 191,
+   "text": "18m",
+   "score": 0.6668,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 192,
+   "text": "BuSt Iin",
+   "score": 0.5374,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 193,
+   "text": "Rs.38,990/-",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 194,
+   "text": "Rs.30,990/-",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 195,
+   "text": "Rs.30,490/-",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 196,
+   "text": "Rs. 22,490/-",
+   "score": 0.9774,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 197,
+   "text": "Rs.18,490/-",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 198,
+   "text": "Sony Party Speaker",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 199,
+   "text": "MHC-V90DW",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 200,
+   "text": "MHC-V82D NEW",
+   "score": 0.9595,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 201,
+   "text": "MHC-V72D NEW",
+   "score": 0.9885,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 202,
+   "text": "MHC-V42D",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 203,
+   "text": "NEW",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 204,
+   "text": "MHC-V21D",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 205,
+   "text": "MHC-V02 NEW",
+   "score": 0.9874,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 206,
+   "text": "GTK-PG10 NEW",
+   "score": 0.9972,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 207,
+   "text": "Karaoke",
+   "score": 0.9306,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 208,
+   "text": "utar",
+   "score": 0.5215,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 209,
+   "text": "SUNDUND",
+   "score": 0.5827,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 210,
+   "text": "SOUNDUND",
+   "score": 0.6173,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 211,
+   "text": "UGHTS",
+   "score": 0.5215,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 212,
+   "text": "LIONTNGING",
+   "score": 0.4783,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 213,
+   "text": "Karaoke",
+   "score": 0.9301,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 214,
+   "text": "Karaoke",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 215,
+   "text": "13hrs",
+   "score": 0.7776,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 216,
+   "text": "UPR",
+   "score": 0.713,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 217,
+   "text": "Karaoke Splas",
+   "score": 0.8088,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 218,
+   "text": "LED Touch",
+   "score": 0.6364,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 219,
+   "text": "Centure",
+   "score": 0.6758,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 220,
+   "text": "Karaoke",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 221,
+   "text": "Karaoke",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 222,
+   "text": "Karaoke",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 223,
+   "text": "Coice",
+   "score": 0.4588,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 224,
+   "text": "Coitrel",
+   "score": 0.5874,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 225,
+   "text": "BASS",
+   "score": 0.9579,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 226,
+   "text": "Motion",
+   "score": 0.7797,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 227,
+   "text": "Bluetooth",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 228,
+   "text": "TAIK",
+   "score": 0.7719,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 229,
+   "text": "Conice",
+   "score": 0.6249,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 230,
+   "text": "TAUM",
+   "score": 0.5252,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 231,
+   "text": "Coice",
+   "score": 0.6903,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 232,
+   "text": "BASS",
+   "score": 0.9764,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 233,
+   "text": "Bluetooth",
+   "score": 0.9589,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 234,
+   "text": "BASS",
+   "score": 0.8924,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 235,
+   "text": "Bluetooth",
+   "score": 0.9271,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 236,
+   "text": "USB",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 237,
+   "text": "Bluetooth",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 238,
+   "text": "N",
+   "score": 0.9917,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 239,
+   "text": "SPARTY",
+   "score": 0.8349,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 240,
+   "text": "BASS",
+   "score": 0.8853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 241,
+   "text": "BASS",
+   "score": 0.9408,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 242,
+   "text": "USB",
+   "score": 0.8799,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 243,
+   "text": "$D\\",
+   "score": 0.5116,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 244,
+   "text": "USB",
+   "score": 0.9182,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 245,
+   "text": "Rs.65,990",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 246,
+   "text": "Rs. 53,990",
+   "score": 0.9681,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 247,
+   "text": "Rs. 43,990",
+   "score": 0.9732,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 248,
+   "text": "Rs.30,990",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 249,
+   "text": "Rs.19,490",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 250,
+   "text": "Rs.16,490",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 251,
+   "text": "Rs.20,990",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 252,
+   "text": "ADDITIONAL",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 253,
+   "text": "Upgrade with easy EMls",
+   "score": 0.9824,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 254,
+   "text": "Soundbar",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 255,
+   "text": "SPECIAL FINANCE OFFERS",
+   "score": 0.9867,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 256,
+   "text": "Pay As Per Screen Size** I Screen Size x 100 = EMI",
+   "score": 0.9652,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 257,
+   "text": "FIASERV",
+   "score": 0.6645,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 258,
+   "text": "Combo Offer",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 259,
+   "text": "Finance with No Processing Fees through:",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 260,
+   "text": "Rs.1/- Downpayment",
+   "score": 0.9874,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 261,
+   "text": "RASERV",
+   "score": 0.784,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 262,
+   "text": "OF FIRST",
+   "score": 0.834,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 263,
+   "text": "SIZE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 264,
+   "text": "215cm (85)",
+   "score": 0.9496,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 265,
+   "text": "189cm (75)",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 266,
+   "text": "164cm (65)",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 267,
+   "text": "139cm (55)",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 268,
+   "text": "123cm (49)",
+   "score": 0.9921,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 269,
+   "text": "EMI Tenure up to",
+   "score": 0.968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 270,
+   "text": "Save",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 271,
+   "text": "HDFC BANK",
+   "score": 0.9964,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 272,
+   "text": "AXIS BANK",
+   "score": 0.9984,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 273,
+   "text": "EMI (Rs.)",
+   "score": 0.9611,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 274,
+   "text": "5000/-",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 275,
+   "text": "12/4EMI",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 276,
+   "text": "18/4EMI",
+   "score": 0.993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 277,
+   "text": "HDFC BANK",
+   "score": 0.9923,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 278,
+   "text": "HDBIWWN",
+   "score": 0.8567,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 279,
+   "text": "8,500/-",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 280,
+   "text": "7,500/-",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 281,
+   "text": "6,500/-",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 282,
+   "text": "5,500/-",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 283,
+   "text": "4,900/-",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 284,
+   "text": "Up to Rs.",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 285,
+   "text": "Regd. Office: Sony India Pvt. Ltd., A-18, Mohan Co-operative IndI. Estate, Mathura Road, New Delhi-110 044. Ph: 6600 6600 Fax: 26959141. CIN No : U74899DL1994PTC062781",
+   "score": 0.9827,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 286,
+   "text": "Sony Center",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 287,
+   "text": "Visit your nearest store for the entire range of BRAVIA products and accessories",
+   "score": 0.994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 288,
+   "text": "The Ultimate Sony Experience",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 289,
+   "text": "Cannaught Place",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 290,
+   "text": "Lajpat Nagar",
+   "score": 0.9878,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 291,
+   "text": "Main Market 175 - 9811960906",
+   "score": 0.9865,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 292,
+   "text": "Sarojini Nagar",
+   "score": 0.9783,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 293,
+   "text": "Kalkaji",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 294,
+   "text": "Mall of India Noida",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 295,
+   "text": "GIP Mall Noida",
+   "score": 0.9962,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 296,
+   "text": "Malviya Nagar",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 297,
+   "text": "Paschim Vihar",
+   "score": 0.9677,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 298,
+   "text": "F-30C, F Block - 9268572225",
+   "score": 0.957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 299,
+   "text": "II-K-4B - 9999804774",
+   "score": 0.9553,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 300,
+   "text": "Main Rd H-11 - 9873960591",
+   "score": 0.9837,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 301,
+   "text": "8585959546",
+   "score": 0.9832,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 302,
+   "text": "9810146380",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 303,
+   "text": "D-79, UGF - 40504803/9810300311",
+   "score": 0.9652,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 304,
+   "text": "Behra Enclave - 9810274009",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 305,
+   "text": "Electronics - 9811902277, RK Puram : Raj Electronics-8506091007, A.G Electronics-9810299778, Shiva Electronics-9810868807, SRK - 9818884197.Yusuf Sarai: KBM-9873080053, MG Ezone-9212570490, RPG Electrade pvt. Ltd.-9868724605. Kalka Ji: Anand Electronics-41603052, Lamba",
+   "score": 0.9907,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 306,
+   "text": "Authorised Dealers-SOUTH-Lajpat Nagar:Arvee Enterprise-29848885, Arvee Sales-29833547,, Audio Voice-29830300; EOK: OM sai Traders -9717944466 LodhiColony: R.K.Vision -9810964941, Bhutani Electronics-9811282416; Malik Cycle-9810157884 Kotla: Music Center-9810101060, City",
+   "score": 0.9857,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 307,
+   "text": "Electronics -9811005614, Thukral Time-9811427949, RD Sales -9958023400. Malviya Nagar:Raj Electronics-9871389744, Neeru-9873731819. Vasant Kunj : MG Ezone-26130000, Shri Balaji Electronics-9811961111. Chatarpur: Thakur Trading-9810765963, Mehrauli: Ramlal Electronics-",
+   "score": 0.977,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 308,
+   "text": "9811367275, Suman Times-9818252373. GK: Satnam Plaza-9818087000. Sarojini Nagar: Anil Radio-9810418427. Moti Bagh: M.K.Electronics-9650589526, Audio Tech-9958185818. Khanpur: Shilpi Electronics-8800794709. Madangir: Deep Gift Corner- 9873107787. Dakshinpuri: Suvidha",
+   "score": 0.9837,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 309,
+   "text": "Home Collection -9811425543, Mahindra Electronics-9891391559. Zakir Nagar: Mallik Enterprises-9999270786. Badarpur: Namisha Enterprises -9717898954, V.K.Electronics-9810636471, 9810225574. Prehladpur- Tushar Vision-9999102326. Tigdi: Maruti Agency - 9810349403. EAST-",
+   "score": 0.9887,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 310,
+   "text": "Vikas Marg: Navrang Audio Video-9873901830, KBM-9811642642, KDW-9871889754. Krishna Nagar: Razzle Dazzle-9999444649, Light&Sound-9810022577, Sanjay Electronics-9811742679, Kataria Sales -9999698444,Neelkanth-9811541155, Kataria Ent - 9810246281. Dilshad Garden:",
+   "score": 0.9789,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 311,
+   "text": "Nutan Electronics-9990047108. Shahdara : Gupta Electronics -9818478580, 8010218798, Electronic Craft-9891745789, Jain Electronics - 9953715128. Durgapuri - Metro Ref.& Ele. - 9953583205, Metro C&C-66478308,Metro C&C(Seelampur)-66778209, MTK Electronics -9873237349, Shri",
+   "score": 0.9854,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 312,
+   "text": "Bala Ji - 9811218076, Techno King-011-22810782, Techno King Dist. – 9717794586. Mayur Vihar: KBM - 9818004480, Jain Electro World -9999567670, Sai Enterprises - 7827647469,Aman Electronics - 9560907710, Krishna Electronics - 9999432286. Yamuna Vihar: Yamuna Electronics -",
+   "score": 0.9845,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 313,
+   "text": "9999884659, Rajkumar Electronics-9818387828, Om Electronics – 9810181882. WEST - Janakpuri : U.S. Shoppe – 9810926087. Vikaspuri: Super Elec-9250710850. Uttam Nagar : Super Electronics -9990123456, New Berco-9013077397, Mittal -9818844633, Vardhman Electronics –",
+   "score": 0.9811,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 314,
+   "text": "9718598878, Ranjeet-9310513891,ShriMangla-25353868,Vidya Electronics-9871503096, Aman Electronics-9212313617,Rakesh Electronics-7838443019.Inderpuri:VenusEnterprises-9811015847.JailRoad:Beekay-9811019921.DelhiCantt:Darbar Traders-45660000.Dwarka:Sabharwal",
+   "score": 0.9854,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 315,
+   "text": "Electronics, Sec-12 - 45281100, New Berco-9582229138, Raj Electronics-9899748175. Palam: Jain Radio - 9873533093, Dada Dev - 9891184345, Balaji Digital world - 9868738836, Vardhman Electronics 8178355313. Rajouri: Surya Electronics - 9953058116. NORTH - Rohini : Vardhmaan-",
+   "score": 0.9882,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 316,
+   "text": "27516275, Sahu Electronic -9717778162, Anugrah Electronics - 9910058472. Kamla Nagar: Hari sharan-9136655880, Prakash Trading -9891825566, Computer Elec-9582900985, Cool CareAir-conditioning - 9811591989, 9873773721. Kingsway Camp: Computer Electronics -",
+   "score": 0.9886,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 317,
+   "text": "9582900985. Adarsh Nagar :Dhall-9891363494. Shalimar Bagh: Rakesh Electronics-9873413415. Narela : Ambika Electronic-27282667, Khattar",
+   "score": 0.9892,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 318,
+   "text": "Electronic-9312222359. CENTRAL -Patel Nagar : Rakesh Electronics-25706388. Karol Bagh: Kohli Bros-9811164610. Daryaganj: Manoj Audio Video-",
+   "score": 0.9885,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 319,
+   "text": "vijcy stles",
+   "score": 0.8212,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 320,
+   "text": "SARGAM",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 321,
+   "text": "Hariom",
+   "score": 0.9899,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 322,
+   "text": "ezone",
+   "score": 0.8988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 323,
+   "text": "9911444499, Aggrellios & co-9891772658. Paharganj: Bakshi TV-23616661. NOIDA - New Rhythm House – 9818019340, 987334486, Kay Dee",
+   "score": 0.9805,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 324,
+   "text": "THE T FOR ELECTROICS",
+   "score": 0.9218,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 325,
+   "text": "EPELECTRONIC PARADISE",
+   "score": 0.9877,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 326,
+   "text": "ncedigital",
+   "score": 0.9891,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 327,
+   "text": "Electronics-4333003/5, Kay Dee Blessings-4311116.",
+   "score": 0.9892,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: OCR transcript contains some low-confidence lines marked with '?'. Image was used as primary truth for all fields.",
+  "model note: Some dealer phone numbers in the bottom section are partially obscured or difficult to read; transcribed as visible.",
+  "model note: The ad contains multiple product series with varying prices; all visible prices have been captured.",
+  "model note: Store addresses in the dealer section are listed by area names (e.g., Cannaught Place, Lajpat Nagar) with phone numbers; full street addresses not fully visible.",
+  "3 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "46 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 47.55,
+  "extract": 76.99
+ }
+}

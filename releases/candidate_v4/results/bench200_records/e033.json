@@ -1,0 +1,2806 @@
+{
+ "image": "e033_Anandabazaar_Patrika_636.jpg",
+ "fields": {
+  "brand": {
+   "value": "Hero",
+   "evidence": "Hero",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Hero MotoCorp' (#19)"
+   ],
+   "matched_id": 19,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 19,
+     "name": "Hero MotoCorp",
+     "score": 100.0
+    },
+    {
+     "id": 26,
+     "name": "Ather Energy",
+     "score": 66.7
+    },
+    {
+     "id": 135,
+     "name": "Haier",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Super Splendor XTEC",
+   "evidence": "নুন super Splendor XTEC",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (85%)",
+    "second model agrees",
+    "no exact record; closest: Splendor Plus"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 137,
+     "name": "Splendor Plus",
+     "score": 72.2
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "model_variant": {
+   "value": "125cc",
+   "evidence": "125cc",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Hero MotoCorp Ltd.",
+   "evidence": "Hero MotoCorp Ltd. Regd. Office: The Grand Plaza, Plot No.2, Nelson Mandela Road, Vasant Kunj Phase - II, New Delhi - 110070, India.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Hitech Hero Kasba / Prince Anwar Shah / Taratala / Sri Krishna Automotive / SMSG Hero / Diamond Ventures / Ridhi Hero / Sakia / Raja Hero / Cynosure Hero / Argosy Hero / Sri Krishna Hero / Auto Palace Hero / Amit Hero / J D Hero / Bharat Hero / Naihati Hero / Sandeep Hero / Durga Hero / Prince Hero / Anand Hero / Shankar Hero / Avik Hero / Beekay Hero / Darjeeling Hero / Mahesh Hero / Das Hero / Berachampa (Goyra) / Golden Hero / Rudra Hero / C M Hero / Duta Hero / G.P. Hero / Palco Hero / Amit Hero / Golden Automart Hero / Diamond Hero / Pradip Hero / S. M. Hero / Paul Hero / International Hero / Supreme Hero / Super Hero / Hi Tech Hero / Dutta Hero / Krishnaa Hero",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "আমাদের চাইম হল সুপার",
+   "evidence": "আমাদের চাইম হল সুপার",
+   "english": "Our aim is Super",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available",
+    "second model disagrees - suggestion: আমাদের থিম হল সুপরার"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "XTEC টেকনালজি",
+   "evidence": "XTEC টেকনালজি",
+   "english": "XTEC Technology",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available",
+    "second model disagrees - suggestion: XTEC টেকনোলজি"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "হিদ্রা, এই সমস্তই আমাদের Tai অগিয়ে হান সুপার গতিতা",
+   "evidence": "হিদ্রা, এই সমস্তই আমাদের Tai অগিয়ে হান সুপার গতিতা",
+   "english": "Hidra, all this is our Tai agiye han super gatita",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "5 YEAR WARRANTY",
+   "evidence": "5 YEAR WARRANTY",
+   "english": "5 year warranty",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "CALL TOLL-FREE 1800 266 0018 or visit us on www.HeroMotoCorp.com",
+   "evidence": "CALL TOLL-FREE 1800 266 0018 or visit us on www.HeroMotoCorp.com",
+   "english": "Call toll-free 1800 266 0018 or visit www.HeroMotoCorp.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Hero MotoCorp Ltd. Regd. Office: The Grand Plaza, Plot No.2, Nelson Mandela Road, Vasant Kunj Phase - II, New Delhi - 110070, India.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Two Wheelers",
+   "evidence": "Hero MotoCorp Ltd. Regd. Office: The Grand Plaza, Plot No.2, Nelson Mandela Road, Vasant Kunj Phase - II, New Delhi - 110070, India.",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #3"
+   ],
+   "matched_id": 3,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 3,
+     "name": "Automobile > Two Wheelers",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Bengali",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Bengali, English",
+    "56 Devanagari words read but none are common Hindi words - could be Marathi / another language, or OCR misreading another script (Gurmukhi, Bengali, Gujarati)",
+    "Devanagari reading is not real Hindi/Marathi text and the second model reads bengali script (not covered by OCR) - using its languages",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 84418,
+   "evidence": "₹84,418*",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (84,418)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Hero Super Splendor XTEC 125cc motorcycle",
+    "LED headlamp HIPL-বরত সাথ",
+    "Full digital instrument cluster with Bluetooth",
+    "Bluetooth calling & SMS alert facility",
+    "USB mobile charger",
+    "Price Rs 84,418*",
+    "Ex showroom price of Super Splendor XTEC in West Bengal",
+    "5 year warranty",
+    "i3S Technology Idle-Stop-Start System",
+    "Authorized dealers across West Bengal with phone numbers"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Hero Super Splendor XTEC 125cc motorcycle with LED headlamp, full digital instrument cluster, Bluetooth calling and SMS alert, USB mobile charger, i3S technology, priced at Rs 84,418 ex-showroom in West Bengal. Contact authorized dealers listed in the ad.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002660018",
+     "kind": "toll_free",
+     "as_printed": "1800 266 0018"
+    },
+    "evidence": "CALL TOLL-FREE 1800 266 0018",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922954",
+     "kind": "mobile",
+     "as_printed": "9289922954"
+    },
+    "evidence": "Kolkata: Hitech Hero Kasba, Ph: 9289922954",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922672",
+     "kind": "mobile",
+     "as_printed": "9289922672"
+    },
+    "evidence": "Sri Krishna Automotive-;Ph: 9289922672",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9821696156",
+     "kind": "mobile",
+     "as_printed": "9821696156"
+    },
+    "evidence": "SMSG Hero- 9821696156",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289924246",
+     "kind": "mobile",
+     "as_printed": "9289924246"
+    },
+    "evidence": "Diamond Harbour, Diamond Ventures,Ph: 9289924246",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922669",
+     "kind": "mobile",
+     "as_printed": "9289922669"
+    },
+    "evidence": "Andul: Ridhi Hero, Ph: 9289922669",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922821",
+     "kind": "mobile",
+     "as_printed": "9289922821"
+    },
+    "evidence": "Barackpore: Raja Hero, Ph: 9289922821",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922432",
+     "kind": "mobile",
+     "as_printed": "9289922432"
+    },
+    "evidence": "Barasat: Cynosure Hero, Ph: 9289922432",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923070",
+     "kind": "mobile",
+     "as_printed": "9289923070"
+    },
+    "evidence": "Chandannagar: Argosy Hero, Ph: 9289923070",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922725",
+     "kind": "mobile",
+     "as_printed": "9289922725"
+    },
+    "evidence": "Baruipur: Sri Krishna Hero, Ph: 9289922725",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922397",
+     "kind": "mobile",
+     "as_printed": "9289922397"
+    },
+    "evidence": "Dankuni: Auto Palace Hero, Ph: 9289922397",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922185",
+     "kind": "mobile",
+     "as_printed": "9289922185"
+    },
+    "evidence": "Howrah: Shibpur: Amit Hero, Ph: 9289922185",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923159",
+     "kind": "mobile",
+     "as_printed": "9289923159"
+    },
+    "evidence": "Uluberia – Khalisani: J D Hero, Ph: 9289923159",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923202",
+     "kind": "mobile",
+     "as_printed": "9289923202"
+    },
+    "evidence": "Islampur: Bharat Hero, Ph: 9289923202",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922798",
+     "kind": "mobile",
+     "as_printed": "9289922798"
+    },
+    "evidence": "Naihati: Naihati Hero, Ph: 9289922798",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922698",
+     "kind": "mobile",
+     "as_printed": "9289922698"
+    },
+    "evidence": "Cooch Behar: Sandeep Hero, Ph: 9289922698",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922188",
+     "kind": "mobile",
+     "as_printed": "9289922188"
+    },
+    "evidence": "Malda: Durga Hero, Ph: 9289922188",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923123",
+     "kind": "mobile",
+     "as_printed": "9289923123"
+    },
+    "evidence": "Prince Hero, Ph: 9289923123",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923031",
+     "kind": "mobile",
+     "as_printed": "9289923031"
+    },
+    "evidence": "Jalpaiguri: Anand Hero, Ph: 9289923031",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922594",
+     "kind": "mobile",
+     "as_printed": "9289922594"
+    },
+    "evidence": "Raiganj: Shankar Hero, Ph: 9289922594",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923194",
+     "kind": "mobile",
+     "as_printed": "9289923194"
+    },
+    "evidence": "Asansol: Avik Hero, Ph: 9289923194",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923102",
+     "kind": "mobile",
+     "as_printed": "9289923102"
+    },
+    "evidence": "Siliguri: Beekay Hero, Ph: 9289923102",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922904",
+     "kind": "mobile",
+     "as_printed": "9289922904"
+    },
+    "evidence": "Balurghat: Mahesh Hero, Ph: 9289922904",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922639",
+     "kind": "mobile",
+     "as_printed": "9289922639"
+    },
+    "evidence": "Basirhat: Das Hero, Ph: 9289922639",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922938",
+     "kind": "mobile",
+     "as_printed": "9289922938"
+    },
+    "evidence": "Berhampur: Golden Hero, Ph: 9289922938",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922186",
+     "kind": "mobile",
+     "as_printed": "9289922186"
+    },
+    "evidence": "Burdwan: Rudra Hero, Ph: 9289922186",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922860",
+     "kind": "mobile",
+     "as_printed": "9289922860"
+    },
+    "evidence": "Contai: C M Hero, Ph: 9289922860",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922686",
+     "kind": "mobile",
+     "as_printed": "9289922686"
+    },
+    "evidence": "Durgapur: Duta Hero, Ph: 9289922686",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922553",
+     "kind": "mobile",
+     "as_printed": "9289922553"
+    },
+    "evidence": "Krishnanagar: G.P. Hero, Ph: 9289922553",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922402",
+     "kind": "mobile",
+     "as_printed": "9289922402"
+    },
+    "evidence": "Midnapore: Palco Hero, Ph: 9289922402",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923206",
+     "kind": "mobile",
+     "as_printed": "9289923206"
+    },
+    "evidence": "Kharagpur: Amit Hero, Ph: 9289923206",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922867",
+     "kind": "mobile",
+     "as_printed": "9289922867"
+    },
+    "evidence": "Raghunathgunj: Golden Automart Hero, Ph: 9289922867",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923805",
+     "kind": "mobile",
+     "as_printed": "9289923805"
+    },
+    "evidence": "Ranaghat: Diamond Hero, Ph: 9289923805",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922190",
+     "kind": "mobile",
+     "as_printed": "9289922190"
+    },
+    "evidence": "Raniganj: Pradip Hero, Ph: 9289922190",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922508",
+     "kind": "mobile",
+     "as_printed": "9289922508"
+    },
+    "evidence": "Rupnarayanpur: S. M. Hero, Ph: 9289922508",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923079",
+     "kind": "mobile",
+     "as_printed": "9289923079"
+    },
+    "evidence": "Rampurhat: Paul Hero, Ph: 9289923079",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922507",
+     "kind": "mobile",
+     "as_printed": "9289922507"
+    },
+    "evidence": "Suri: Intemational Hero, Ph: 9289922507",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922187",
+     "kind": "mobile",
+     "as_printed": "9289922187"
+    },
+    "evidence": "Tamluk: Supreme Hero, Ph: 9289922187",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289922801",
+     "kind": "mobile",
+     "as_printed": "9289922801"
+    },
+    "evidence": "Tarakeswar: Super Hero, Ph: 9289922801",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923116",
+     "kind": "mobile",
+     "as_printed": "9289923116"
+    },
+    "evidence": "Belda: Hi Tech Hero, Ph: 9289923116",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289923146",
+     "kind": "mobile",
+     "as_printed": "9289923146"
+    },
+    "evidence": "Alipurduar: Dutta Hero, Ph: 9289923146",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9749670072",
+     "kind": "mobile",
+     "as_printed": "9749670072"
+    },
+    "evidence": "Haldia: Krishnaa Hero, Ph: 9749670072",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 84418,
+     "currency": "INR",
+     "kind": "price",
+     "label": "ধারিক মূলা",
+     "item": "Super Splendor XTEC",
+     "as_printed": "₹84,418*"
+    },
+    "evidence": "₹84,418*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (84,418)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.heromotocorp.com",
+    "evidence": "www.HeroMotoCorp.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "The Grand Plaza, Plot No.2, Nelson Mandela Road, Vasant Kunj Phase - II, New Delhi - 110070, India",
+    "evidence": "The Grand Plaza, Plot No.2, Nelson Mandela Road, Vasant Kunj Phase - II, New Delhi - 110070, India",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "LED লজলামস HIPL-বরত সাথ",
+    "evidence": "LED লজলামস HIPL-বরত সাথ",
+    "english": "LED headlamp HIPL with",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "bengali script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ফুল ডিজিটাল ইন্সট্রুমেন্ট ক্লাস্টার মিনিমাল চাইমালজ রিমোটকন্ট্রোল সাথ",
+    "evidence": "ফুল ডিজিটাল ইন্সট্রুমেন্ট ক্লাস্টার মিনিমাল চাইমালজ রিমোটকন্ট্রোল সাথ",
+    "english": "Full digital instrument cluster minimal chain remote control with",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "bengali script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ব্লুটুথ কলিং & SMS অ্যালার্ট সাথ",
+    "evidence": "ব্লুটুথ কলিং & SMS অ্যালার্ট সাথ",
+    "english": "Bluetooth calling & SMS alert with",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "bengali script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "USB মোবাইল চার্জার",
+    "evidence": "USB মোবাইল চার্জার",
+    "english": "USB mobile charger",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "bengali script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "i3S Technology Idle-Stop-Start System",
+    "evidence": "i3S Technology Idle-Stop-Start System",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "L35911DL1984PLC017354",
+    "evidence": "CIN: L35911DL1984PLC017354",
+    "english": "CIN: L35911DL1984PLC017354",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "5 YEAR WARRANTY",
+    "evidence": "5 YEAR WARRANTY",
+    "english": "5 year warranty",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Hitech Hero Kasba",
+     "area": "Kasba",
+     "city": "Kolkata",
+     "phones": [
+      "9289922954"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Kolkata: Hitech Hero Kasba, Ph: 9289922954",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Prince Anwar Shah",
+     "area": "Prince Anwar Shah",
+     "city": "Kolkata",
+     "phones": [
+      "9289922954"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Prince Anwar Shah, Ph: 9289922954",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Taratala",
+     "area": "Taratala",
+     "city": "Kolkata",
+     "phones": [
+      "9289922954"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Taratala, Ph: 9289922954",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sri Krishna Automotive",
+     "area": null,
+     "city": "Kolkata",
+     "phones": [
+      "9289922672"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Sri Krishna Automotive-;Ph: 9289922672",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SMSG Hero",
+     "area": null,
+     "city": "Kolkata",
+     "phones": [
+      "9821696156"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "SMSG Hero- 9821696156",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Diamond Ventures",
+     "area": "Diamond Harbour",
+     "city": "Kolkata",
+     "phones": [
+      "9289924246"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Diamond Harbour, Diamond Ventures,Ph: 9289924246",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Ridhi Hero",
+     "area": "Andul",
+     "city": "Kolkata",
+     "phones": [
+      "9289922669"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Andul: Ridhi Hero, Ph: 9289922669",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sakia",
+     "area": "Sakia",
+     "city": "Kolkata",
+     "phones": [
+      "9289922669"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Sakia, Ph: 9289922669",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Raja Hero",
+     "area": "Barackpore",
+     "city": "Kolkata",
+     "phones": [
+      "9289922821"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "Barackpore: Raja Hero, Ph: 9289922821",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Cynosure Hero",
+     "area": "Barasat",
+     "city": "Barasat",
+     "phones": [
+      "9289922432"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Barasat: Cynosure Hero, Ph: 9289922432",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Varanasi, Chennai, Vadodara"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Argosy Hero",
+     "area": "Chandannagar",
+     "city": "Chandannagar",
+     "phones": [
+      "9289923070"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Chandannagar: Argosy Hero, Ph: 9289923070",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Chandigarh"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sri Krishna Hero",
+     "area": "Baruipur",
+     "city": "Baruipur",
+     "phones": [
+      "9289922725"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Baruipur: Sri Krishna Hero, Ph: 9289922725",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Jaipur, Raipur, Udaipur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Auto Palace Hero",
+     "area": "Dankuni",
+     "city": "Dankuni",
+     "phones": [
+      "9289922397"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Dankuni: Auto Palace Hero, Ph: 9289922397",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Amit Hero",
+     "area": "Shibpur",
+     "city": "Howrah",
+     "phones": [
+      "9289922185"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Howrah: Shibpur: Amit Hero, Ph: 9289922185",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "J D Hero",
+     "area": "Khalisani",
+     "city": "Uluberia",
+     "phones": [
+      "9289923159"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Uluberia – Khalisani: J D Hero, Ph: 9289923159",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Bharat Hero",
+     "area": "Islampur",
+     "city": "Islampur",
+     "phones": [
+      "9289923202"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Islampur: Bharat Hero, Ph: 9289923202",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Naihati Hero",
+     "area": "Naihati",
+     "city": "Naihati",
+     "phones": [
+      "9289922798"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Naihati: Naihati Hero, Ph: 9289922798",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Guwahati, Nashik"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sandeep Hero",
+     "area": "Cooch Behar",
+     "city": "Cooch Behar",
+     "phones": [
+      "9289922698"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Cooch Behar: Sandeep Hero, Ph: 9289922698",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Durga Hero",
+     "area": "Malda",
+     "city": "Malda",
+     "phones": [
+      "9289922188"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Malda: Durga Hero, Ph: 9289922188",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Chennai, Madurai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Prince Hero",
+     "area": "Malda",
+     "city": "Malda",
+     "phones": [
+      "9289923123"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Prince Hero, Ph: 9289923123",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Chennai, Madurai"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Anand Hero",
+     "area": "Jalpaiguri",
+     "city": "Jalpaiguri",
+     "phones": [
+      "9289923031"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Jalpaiguri: Anand Hero, Ph: 9289923031",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Jaipur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Shankar Hero",
+     "area": "Raiganj",
+     "city": "Raiganj",
+     "phones": [
+      "9289922594"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Raiganj: Shankar Hero, Ph: 9289922594",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Avik Hero",
+     "area": "Asansol",
+     "city": "Asansol",
+     "phones": [
+      "9289923194"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Asansol: Avik Hero, Ph: 9289923194",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Beekay Hero",
+     "area": "Siliguri",
+     "city": "Siliguri",
+     "phones": [
+      "9289923102"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Siliguri: Beekay Hero, Ph: 9289923102",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Darjeeling Hero",
+     "area": "Darjeeling",
+     "city": "Darjeeling",
+     "phones": [
+      "9289923102"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Darjeeling Hero, Ph: 9289923102",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Mahesh Hero",
+     "area": "Balurghat",
+     "city": "Balurghat",
+     "phones": [
+      "9289922904"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Balurghat: Mahesh Hero, Ph: 9289922904",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Das Hero",
+     "area": "Basirhat",
+     "city": "Basirhat",
+     "phones": [
+      "9289922639"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Basirhat: Das Hero, Ph: 9289922639",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Surat"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Berachampa (Goyra)",
+     "area": "Berachampa (Goyra)",
+     "city": "Berachampa",
+     "phones": [
+      "9289922639"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Berachampa (Goyra) Ph:9289922639",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Golden Hero",
+     "area": "Berhampur",
+     "city": "Berhampur",
+     "phones": [
+      "9289922938"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Berhampur: Golden Hero, Ph: 9289922938",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Raipur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Rudra Hero",
+     "area": "Burdwan",
+     "city": "Burdwan",
+     "phones": [
+      "9289922186"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Burdwan: Rudra Hero, Ph: 9289922186",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Vadodara"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "C M Hero",
+     "area": "Contai",
+     "city": "Contai",
+     "phones": [
+      "9289922860"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Contai: C M Hero, Ph: 9289922860",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Chennai, Kota"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Duta Hero",
+     "area": "Durgapur",
+     "city": "Durgapur",
+     "phones": [
+      "9289922686"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Durgapur: Duta Hero, Ph: 9289922686",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Raipur, Udaipur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "G.P. Hero",
+     "area": "Krishnanagar",
+     "city": "Krishnanagar",
+     "phones": [
+      "9289922553"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Krishnanagar: G.P. Hero, Ph: 9289922553",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Palco Hero",
+     "area": "Midnapore",
+     "city": "Midnapore",
+     "phones": [
+      "9289922402"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Midnapore: Palco Hero, Ph: 9289922402",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Indore"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Amit Hero",
+     "area": "Kharagpur",
+     "city": "Kharagpur",
+     "phones": [
+      "9289923206"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Kharagpur: Amit Hero, Ph: 9289923206",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Kanpur, Raipur, Nagpur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Golden Automart Hero",
+     "area": "Raghunathgunj",
+     "city": "Raghunathgunj",
+     "phones": [
+      "9289922867"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Raghunathgunj: Golden Automart Hero, Ph: 9289922867",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Diamond Hero",
+     "area": "Ranaghat",
+     "city": "Ranaghat",
+     "phones": [
+      "9289923805"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Ranaghat: Diamond Hero, Ph: 9289923805",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pradip Hero",
+     "area": "Raniganj",
+     "city": "Raniganj",
+     "phones": [
+      "9289922190"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Raniganj: Pradip Hero, Ph: 9289922190",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "S. M. Hero",
+     "area": "Rupnarayanpur",
+     "city": "Rupnarayanpur",
+     "phones": [
+      "9289922508"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Rupnarayanpur: S. M. Hero, Ph: 9289922508",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Paul Hero",
+     "area": "Rampurhat",
+     "city": "Rampurhat",
+     "phones": [
+      "9289923079"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Rampurhat: Paul Hero, Ph: 9289923079",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Raipur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "International Hero",
+     "area": "Suri",
+     "city": "Suri",
+     "phones": [
+      "9289922507"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Suri: Intemational Hero, Ph: 9289922507",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Surat, Mysuru"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Supreme Hero",
+     "area": "Tamluk",
+     "city": "Tamluk",
+     "phones": [
+      "9289922187"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Tamluk: Supreme Hero, Ph: 9289922187",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Super Hero",
+     "area": "Tarakeswar",
+     "city": "Tarakeswar",
+     "phones": [
+      "9289922801"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Tarakeswar: Super Hero, Ph: 9289922801",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Hi Tech Hero",
+     "area": "Belda",
+     "city": "Belda",
+     "phones": [
+      "9289923116"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Belda: Hi Tech Hero, Ph: 9289923116",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Dutta Hero",
+     "area": "Alipurduar",
+     "city": "Alipurduar",
+     "phones": [
+      "9289923146"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Alipurduar: Dutta Hero, Ph: 9289923146",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Jaipur, Raipur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Krishnaa Hero",
+     "area": "Haldia",
+     "city": "Haldia",
+     "phones": [
+      "9749670072"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Haldia: Krishnaa Hero, Ph: 9749670072",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Chandigarh"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "engine": {
+   "value": "125cc",
+   "evidence": "125cc",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "safety_features": {
+   "value": "Always wear a helmet while riding a two-wheeler",
+   "evidence": "Always wear a helmet while riding a two-wheeler",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_type": {
+   "value": "Two Wheeler",
+   "evidence": "Assessment of Global Two Wheelers Market (CY22)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "Exchange Powered By Wheels of Trust",
+   "evidence": "Exchange Powered By Wheels of Trust",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Hero Super Splendor XTEC 125cc motorcycle",
+  "LED headlamp HIPL-বরত সাথ",
+  "Full digital instrument cluster with Bluetooth",
+  "Bluetooth calling & SMS alert facility",
+  "USB mobile charger",
+  "Price Rs 84,418*",
+  "Ex showroom price of Super Splendor XTEC in West Bengal",
+  "5 year warranty",
+  "i3S Technology Idle-Stop-Start System",
+  "Authorized dealers across West Bengal with phone numbers"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Hero",
+   "score": 0.9964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "नून",
+   "score": 0.5515,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "SplendorX",
+   "score": 0.9463,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "125cc",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "खाक्ताएत ऐेरेस्त शरल ्रल्रात",
+   "score": 0.7706,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "शै्ि्या, वरे मप्तग्रणी बाप्तालत। जोरे शजि् योन ू्ोात अजिछ।",
+   "score": 0.7125,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "XEC ढकनालज",
+   "score": 0.8801,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "60",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 9,
+   "text": "Hero",
+   "score": 0.9843,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "LED (श्वलान्म",
+   "score": 0.7403,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "कूल डिजिील प्ीजासिीत",
+   "score": 0.6541,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "HIPL-शवत्त ्रात्थ",
+   "score": 0.7761,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "जी़रल हीशिक्स साहिलज",
+   "score": 0.5897,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "शैडिकीत्र गराथ",
+   "score": 0.7016,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "为",
+   "score": 0.9366,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "60",
+   "score": 0.998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "करूथ कापन्िडि़ी",
+   "score": 0.7757,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "कल&MS लत गथ",
+   "score": 0.5792,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "USB (सावहिल मखंब",
+   "score": 0.7408,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "प्ूष्रात श्री3्ाता ्ूष्रात ्ाशिलजा वशन X=ट(",
+   "score": 0.7584,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "(ैकनालजत ्ाएथ",
+   "score": 0.7804,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "84,418*",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "धावषिक सूला",
+   "score": 0.8505,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "वता जानात छना कान कढ़न",
+   "score": 0.661,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "Exchange Powered By",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Hero MotoCorp Ltd. Regd. Office: The Grand Plaza, Plot No.2, Nelson Mandela Road, Vasant Kunj Phase - II, New Delhi - 110070, India. I CIN:",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "WORLD'S",
+   "score": 0.9886,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "L35911DL1984PLC017354 1 For further information, contact your nearest Hero MotoCorp authorised outlet or CALL TOLL-FREE 1800 266 0018 or visit us on",
+   "score": 0.9851,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 29,
+   "text": "Wheels of Trust",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "www.HeroMotoCorp.com. Accessories and features shown may not be a part of standard fitment. Always wear a helmet while riding a two-wheeler.",
+   "score": 0.9929,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "22 YEARS IN A",
+   "score": 0.9605,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "\"Based on offers from empaneled dealers on Wheels of Trust platform. Highest sales for any 2 Wheeler Corporate Entity in the world for",
+   "score": 0.9963,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "XTEC",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "भवथक डाला बीतल",
+   "score": 0.6205,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "WARRANTY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "i3S Technology",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "Calendar Year 2022 - Data source: DNA Consult & Advisory's report Assessment of Global Two Wheelers Market (CY22) *HIPL stands for High Intensity",
+   "score": 0.9862,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 38,
+   "text": "डलृत जना ्ान कऴन",
+   "score": 0.6778,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "Idle-Stop-Start",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "Position Lamp. *Ex showroom price of Super Splendor XTEC in West Bengal.",
+   "score": 0.9926,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "*Conditions apply",
+   "score": 0.9488,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "System",
+   "score": 0.9955,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "Authorized Dealers: Kolkata: Hitech Hero Kasba, Ph: 9289922954, Prince Anwar Shah, Ph: 9289922954, Taratala, Ph: 9289922954 Sri Krishna Automotive-;Ph: 9289922672, SMSG Hero- 9821696156 ,Diamond Harbour, Diamond Ventures,Ph: 9289924246, Andul: Ridhi Hero, Ph: 9289922669, Sakia, Ph: 9289922669, Barackpore: Raja Hero, Ph: 9289922821,",
+   "score": 0.9801,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 44,
+   "text": "Barasat: Cynosure Hero, Ph: 9289922432, Chandannagar: Argosy Hero, Ph: 9289923070, Baruipur: Sri Krishna Hero, Ph: 9289922725, Dankuni: Auto Palace Hero, Ph: 9289922397, Howrah: Shibpur: Amit Hero, Ph: 9289922185, Uluberia – Khalisani: J D Hero, Ph: 9289923159, Islampur: Bharat Hero, Ph: 9289923202, Naihati: Naihati Hero, Ph: 9289922798,",
+   "score": 0.9826,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 45,
+   "text": "Cooch Behar: Sandeep Hero, Ph: 9289922698, Malda: Durga Hero, Ph: 9289922188, Prince Hero, Ph: 9289923123, Jalpaiguri: Anand Hero, Ph: 9289923031, Raiganj: Shankar Hero, Ph: 9289922594, Asansol: Avik Hero, Ph: 9289923194, Siliguri: Beekay Hero, Ph: 9289923102, Darjeeling Hero, Ph: 9289922427, Balurghat: Mahesh Hero, Ph: 9289922904, Bankura:",
+   "score": 0.978,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 46,
+   "text": "Dutta Hero, Ph: 9289922471, Basirhat: Das Hero, Ph: 9289922639, Berachampa (Goyra) Ph:9289922639, Berhampur: Golden Hero, Ph: 9289922938, Burdwan: Rudra Hero, Ph: 9289922186, Contai: C M Hero, Ph: 9289922860, Durgapur: Duta Hero, Ph: 9289922686, Krishnanagar: G.P. Hero, Ph: 9289922553, Midnapore: Palco Hero, Ph: 9289922402, Purulia:",
+   "score": 0.9847,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 47,
+   "text": "Aswini Hero, Ph: 9289923126, Kharagpur: Amit Hero, Ph: 9289923206, Raghunathgunj: Golden Automart Hero, Ph: 9289922867, Ranaghat: Diamond Hero, Ph: 9289923805 Raniganj: Pradip Hero, Ph: 9289922190, Rupnarayanpur: S. M. Hero, Ph: 9289922508, Rampurhat: Paul Hero, Ph: 9289923079, Suri: Intemational Hero, Ph: 9289922507, Tamluk: Supreme",
+   "score": 0.9833,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 48,
+   "text": "Hero, Ph: 9289922187, Tarakeswar: Super Hero, Ph: 9289922801, Belda: Hi Tech Hero, Ph: 9289923116, Alipurduar: Dutta Hero, Ph: 9289923146., Haldia: Krishnaa Hero, Ph: 9749670072.",
+   "score": 0.9919,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: Headline and description text in Bengali script may have OCR transcription errors; values transcribed from image as best reading.",
+  "model note: Dealer list contains many entries; some phone numbers repeat across dealers.",
+  "model note: Price marked with asterisk (*) refers to ex-showroom price in West Bengal per fine print.",
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 29.61,
+  "extract": 93.26
+ }
+}

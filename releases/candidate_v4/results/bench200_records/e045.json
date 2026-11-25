@@ -1,0 +1,757 @@
+{
+ "image": "e045_Sandesh_466.jpg",
+ "fields": {
+  "brand": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Development Commissioner (Handicrafts), Ministry of Textiles, Government of India",
+   "evidence": "DEVELOPMENT COMMISSIONER (HANDICRAFTS)\nMinistry of Textiles, Government of India",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "Enriching Crafts,\nEmpowering Artisans",
+   "evidence": "Enriching Crafts,\nEmpowering Artisans",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 88% similar) - check spelling - suggestion: Enriching Crafts, G2 Azadi Ka Empowering Artisans",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "हस्तकला\nप्रदर्शन - सह - विक्रय",
+   "evidence": "हस्तकला\nप्रदर्शन - सह - विक्रय",
+   "english": "Handicraft Exhibition - cum - Sale",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (56%); devanagari text is hard for OCR",
+    "second model disagrees - suggestion: 75 Azadi Ka Amrit Mahotsav"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "गुजरातनो વિશિષ્ટ હસ્તશજ અને હસ્તકલા દેખાડની અરીથી કરે\nપાટણ સારી | બાંધણી સારી | વસ્ત્રકામ | શાલ | રોગન પેંટિંગ | જુનગઢ | અજરક | બેડશીટ\nઆશ મધિસીલ | અમરેહડી થોપ | ખુશન ડવર | સ્ટોલ | વોલ હેંગિંગ | ડુપટલ | કાઢ ક્રીડર\nવારલી પેંટિંગ અને ગૃધ સુશોભનની અનેક વિજ્ઞવસ્તુઓ",
+   "evidence": null,
+   "english": "Gujarat's special handicrafts and handicraft exhibition-cum-sale\nPatola saree | Bandhani saree | Textile work | Shawl | Rogan painting | Junagadh | Ajrak | Bed sheet\nAash Madhishil | Amerahadi Thop | Khushan Dwar | Stole | Wall Hanging | Dupatta | Kada Cridar\nWarli painting and home decoration and many other craft items",
+   "confidence": 0.35,
+   "status": "missing",
+   "reasons": [
+    "model gave no evidence quote",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "પ્રવેશ થમે પાડી વિના ભૂલશે",
+   "evidence": "પ્રવેશ થમે પાડી વિના ભૂલશે",
+   "english": "Entry free, do not miss",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "gujarati script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: public_notice",
+    "'manufacturer' does not fit a Government & Public Notices ad - service provider / dealer?"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Government & Public Notices",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #21"
+   ],
+   "matched_id": 21,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 21,
+     "name": "Government & Public Notices",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Gujarati",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Gujarati, English",
+    "Hindi replaced by Marathi: OCR text has Marathi words (साठी) and no Hindi words - Hindi and Marathi share the Devanagari script - confirm",
+    "Devanagari reading is not real Hindi/Marathi text and the second model reads gujarati script (not covered by OCR) - using its languages",
+    "v4: switched value - kept in review",
+    "OCR sees devanagari text that the language list does not include"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Handicraft exhibition-cum-sale in Ahmedabad",
+    "Dates: 22 to 28 January 2023",
+    "Time: 11 am to 6 pm",
+    "Venue: Amdavad Haat, Vastrapur Talav Pass, Ahmedabad",
+    "Features Patola saree, Bandhani saree, Rogan painting, Ajrak, Warli painting and more",
+    "Sponsored by Development Commissioner (Handicrafts), Ministry of Textiles, Government of India",
+    "Organized by Garvi Gujarat"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "A handicraft exhibition-cum-sale showcasing Gujarat's special crafts such as Patola saree, Bandhani saree, Rogan painting, Ajrak and Warli painting will be held at Amdavad Haat, Vastrapur Talav Pass, Ahmedabad from 22 to 28 January 2023, 11 am to 6 pm. Entry is free. The event is sponsored by the Development Commissioner (Handicrafts), Ministry of Textiles, Government of India and organized by Garvi Gujarat.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [
+   {
+    "value": "garvigujarati.in",
+    "evidence": "આઉટવાન પત્ર મદ: garvigujarati.in",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "value partly matches OCR (87%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "Follow us: f",
+    "evidence": "Follow us: f",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "વસ્ત્રાપુર તળાવ પાસે, અમદાવાદ",
+    "evidence": "વસ્ત્રાપુર તળાવ પાસે, અમદાવાદ",
+    "english": "Vastrapur Talav Pass, Ahmedabad",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "gujarati script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "પાટણ સારી | બાંધણી સારી | વસ્ત્રકામ | શાલ | રોગન પેંટિંગ | જુનગઢ | અજરક | બેડશીટ",
+    "evidence": "પાટણ સારી | બાંધણી સારી | વસ્ત્રકામ | શાલ | રોગન પેંટિંગ | જુનગઢ | અજરક | બેડશીટ",
+    "english": "Patola saree | Bandhani saree | Textile work | Shawl | Rogan painting | Junagadh | Ajrak | Bed sheet",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "gujarati script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "આશ મધિસીલ | અમરેહડી થોપ | ખુશન ડવર | સ્ટોલ | વોલ હેંગિંગ | ડુપટલ | કાઢ ક્રીડર",
+    "evidence": "આશ મધિસીલ | અમરેહડી થોપ | ખુશન ડવર | સ્ટોલ | વોલ હેંગિંગ | ડુપટલ | કાઢ ક્રીડર",
+    "english": "Aash Madhishil | Amerahadi Thop | Khushan Dwar | Stole | Wall Hanging | Dupatta | Kada Cridar",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "gujarati script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "વારલી પેંટિંગ અને ગૃધ સુશોભનની અનેક વિજ્ઞવસ્તુઓ",
+    "evidence": "વારલી પેંટિંગ અને ગૃધ સુશોભનની અનેક વિજ્ઞવસ્તુઓ",
+    "english": "Warli painting and home decoration and many other craft items",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "gujarati script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "issuing_authority": {
+   "value": "Development Commissioner (Handicrafts), Ministry of Textiles, Government of India",
+   "evidence": "DEVELOPMENT COMMISSIONER (HANDICRAFTS)\nMinistry of Textiles, Government of India",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "notice_type": {
+   "value": "Handicraft Exhibition-cum-Sale",
+   "evidence": "હસ્તકલા\nપ્રદર્શન - સહ - વિક્રય",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "gujarati script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "dates": {
+   "value": "22 થી 28 જાન્યુઆરી, 2023\nસમય : સવારે 11 થી સાંજે 6",
+   "evidence": "22 થી 28 જાન્યુઆરી, 2023\nસમય : સવારે 11 થી સાંજે 6",
+   "english": "22 to 28 January 2023\nTime: 11 am to 6 pm",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "gujarati script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "subject": {
+   "value": "Enriching Crafts, Empowering Artisans",
+   "evidence": "Enriching Crafts,\nEmpowering Artisans",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Handicraft exhibition-cum-sale in Ahmedabad",
+  "Dates: 22 to 28 January 2023",
+  "Time: 11 am to 6 pm",
+  "Venue: Amdavad Haat, Vastrapur Talav Pass, Ahmedabad",
+  "Features Patola saree, Bandhani saree, Rogan painting, Ajrak, Warli painting and more",
+  "Sponsored by Development Commissioner (Handicrafts), Ministry of Textiles, Government of India",
+  "Organized by Garvi Gujarat"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Enriching Crafts,",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "G2",
+   "score": 0.9994,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "Azadi Ka",
+   "score": 0.936,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "Empowering Artisans",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "AmritMahotsav",
+   "score": 0.9979,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "H2023 INDIA",
+   "score": 0.925,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "Ministry of Tesiles",
+   "score": 0.8934,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 8,
+   "text": "सकत्पमेव जपे",
+   "score": 0.5885,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "श्री नरेन्द्रलाल भोही",
+   "score": 0.8099,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "Goverment of India",
+   "score": 0.9387,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "श्री ्ूपन्रमा पटेव",
+   "score": 0.5936,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "भाननीय वाप्रधान, लारत",
+   "score": 0.667,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "भाननीय भुष्यभंत्री, शुषशत",
+   "score": 0.724,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "EZdSGI",
+   "score": 0.8725,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "प्रधशन - सह - वेथाए",
+   "score": 0.8727,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "22",
+   "score": 0.7454,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "थी 28 इ्ुआारी,",
+   "score": 0.7974,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "2023",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "सभथ",
+   "score": 0.9742,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 20,
+   "text": "सवारे",
+   "score": 0.9907,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "99 थी शत्रे",
+   "score": 0.8491,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "C",
+   "score": 0.7369,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "3IHE",
+   "score": 0.7998,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "é12",
+   "score": 0.7175,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "वस्त्रापुर तणाव पासे, अम्ावाह",
+   "score": 0.8652,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "गुपशतनां विशिष्ट हाथशाज अने",
+   "score": 0.8171,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "हसतsता दत्पाहनोनी अरीही sशे",
+   "score": 0.709,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "पटोणा सारी । पाधशी साठी । मरताभ । शाद । शेगान पेन्टंग। छेडेट । अषरण । ेसशीट",
+   "score": 0.7588,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "डेरस भटिरियद । ओेम्रोछरी थोप । हुशन डवर । स्टोद । वोद उन्गीग। हप्ा। ईव शोदर",
+   "score": 0.6029,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "वारदी पेन्टेंग अने गृछ सुशो्मननी अनेड थीछवस्तुयो",
+   "score": 0.797,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "Sponsored by",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "Organized by",
+   "score": 0.974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "handicrafts",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "भारतीय",
+   "score": 0.8244,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "गरवी गु्री",
+   "score": 0.8625,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "हस्ताशिल्प",
+   "score": 0.9256,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "DEVELOPMENT COMMISSIONER (HANDICRAFTS)",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "पुरत रयश भा वि निमि",
+   "score": 0.4804,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "Ministry of Textiles, Government of India",
+   "score": 0.9839,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "ùusuaa : garvigurjari.in",
+   "score": 0.8453,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "प्रवेश थने पा्डिंज विनाभूल्थे",
+   "score": 0.8444,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 42,
+   "text": "Follow us: f",
+   "score": 0.9789,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (822x719); small print may be unreadable"
+ ],
+ "record_flags": [
+  "no brand identified - manual entry required",
+  "12 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 15.71,
+  "extract": 28.88
+ }
+}

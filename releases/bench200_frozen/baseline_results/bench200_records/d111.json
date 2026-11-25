@@ -1,0 +1,1786 @@
+{
+ "image": "d111_Amar_Ujala_11.jpg",
+ "fields": {
+  "brand": {
+   "value": "Mahindra",
+   "evidence": "mahindra",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Mahindra' (#5)"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Mahindra",
+     "score": 100.0
+    },
+    {
+     "id": 150,
+     "name": "Club Mahindra",
+     "score": 96.0
+    },
+    {
+     "id": 34,
+     "name": "Ashiana Housing",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Bolero Neo, Thar 4WD, XUV300, XUV700",
+   "evidence": "BOLERO NEO THAR 4WD XUV300 XUV700",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Bolero Neo",
+    "ambiguous: several records match (XUV700, Thar, Bolero)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 54,
+     "name": "XUV700",
+     "score": 96.0
+    },
+    {
+     "id": 56,
+     "name": "Thar",
+     "score": 96.0
+    },
+    {
+     "id": 58,
+     "name": "Bolero",
+     "score": 96.0
+    }
+   ],
+   "db_match": "ambiguous"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Mahindra",
+   "evidence": "mahindra",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 62.5
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "AUTHENTIC SUVS FOR IMPOSSIBLE EXPEDITIONS",
+   "evidence": "AUTHENTIC SUVS FOR IMPOSSIBLE EXPEDITIONS",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 83% similar) - check spelling - suggestion: AUTHENTIC SUVS UTILITY VEHIOLES FORIMPOSSIBLEEXPEDITIONS",
+    "second model disagrees - suggestion: AUTHENTIC SUVs"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "SPORT UTILITY VEHICLES",
+   "evidence": "SPORT UTILITY VEHICLES",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (85%)",
+    "second model disagrees - suggestion: FOR IMPOSSIBLE EXPEDITIONS"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 1400000,
+   "evidence": "₹14 Lakh*",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "short number '14' found in OCR but without a ₹/price marker",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Mahindra authentic SUVs for impossible expeditions",
+    "Bolero Neo benefits upto ₹84 501.00*",
+    "Thar 4WD benefits upto ₹61 000.00*",
+    "XUV300 benefits upto ₹68 800.00*",
+    "XUV700 price starts at ₹14 Lakh*",
+    "Offer valid till 31st July 2023",
+    "Multiple Mahindra dealers listed across Delhi NCR with phone numbers"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Mahindra is advertising its authentic SUVs — Bolero Neo, Thar 4WD, XUV300, and XUV700 — for impossible expeditions. Benefits up to ₹84,501.00 on Bolero Neo, up to ₹61,000.00 on Thar 4WD, up to ₹68,800.00 on XUV300, and XUV700 price starts at ₹14 Lakh. Offer valid till 31st July 2023. Contact nearest Mahindra dealer for exact details.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8700014391",
+     "kind": "mobile",
+     "as_printed": "8700014391"
+    },
+    "evidence": "SHUBAN SAI MAHINDRA :RAJAPURI,DWARKA/SEC - 20,DWARKA: 8700014391",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289524166",
+     "kind": "mobile",
+     "as_printed": "9289524166"
+    },
+    "evidence": "MALWA MAHINDRA: KAROL BAGH: 9289524166",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290055624",
+     "kind": "mobile",
+     "as_printed": "7290055624"
+    },
+    "evidence": "SRI DURGA: MOTI NAGAR: 7290055624",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290055619",
+     "kind": "mobile",
+     "as_printed": "7290055619"
+    },
+    "evidence": "INDRAPRASTHA AUTOMOBILES: PEERAGARHI: 7290055619",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9821500363",
+     "kind": "mobile",
+     "as_printed": "9821500363"
+    },
+    "evidence": "INDRAPRASTHA AUTOMOBILES: JANAKPURI: 9821500363",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9205666547",
+     "kind": "mobile",
+     "as_printed": "9205666547"
+    },
+    "evidence": "MALWA MAHINDRA: NARAINA: 9205666547",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953424546",
+     "kind": "mobile",
+     "as_printed": "9953424546"
+    },
+    "evidence": "INDRAPRASTHA AUTOMOBILES: ASHOK NAGAR: 9953424546",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8929172582",
+     "kind": "mobile",
+     "as_printed": "8929172582"
+    },
+    "evidence": "SHIVA AUTO: DILSHAD GARDEN METRO STATION/PATPARGANJ: 8929172582",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290055631",
+     "kind": "mobile",
+     "as_printed": "7290055631"
+    },
+    "evidence": "KONCEPT AUTOMOBILES: LAJPAT NAGAR: 7290055631",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7669783680",
+     "kind": "mobile",
+     "as_printed": "7669783680"
+    },
+    "evidence": "SHIVA AUTO: 7669783680",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290055630",
+     "kind": "mobile",
+     "as_printed": "7290055630"
+    },
+    "evidence": "SYNERGY CARS: SAFDARJUNG ENCLAVE: 7290055630",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289524154",
+     "kind": "mobile",
+     "as_printed": "9289524154"
+    },
+    "evidence": "UNITED AUTOMOBILES: MOHAN ESTATE: 9289524154",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999010116",
+     "kind": "mobile",
+     "as_printed": "9999010116"
+    },
+    "evidence": "KONCEPT AUTOMOBILES: OKHLA PHASE - 1: 9999010116",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7669459607",
+     "kind": "mobile",
+     "as_printed": "7669459607"
+    },
+    "evidence": "7669459607",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289263814",
+     "kind": "mobile",
+     "as_printed": "9289263814"
+    },
+    "evidence": "NARELA: 9289263814",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289263813",
+     "kind": "mobile",
+     "as_printed": "9289263813"
+    },
+    "evidence": "PRASHANT VIHAR: 9289263813",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428081661",
+     "kind": "mobile",
+     "as_printed": "7428081661"
+    },
+    "evidence": "UNITED AUTOMOBILES: NHPC CHOWK: 7428081661",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290055625",
+     "kind": "mobile",
+     "as_printed": "7290055625"
+    },
+    "evidence": "PRIME AUTOMOBILES: YMCA CHOWK/HODAL/PALWAL: 7290055625",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290055627",
+     "kind": "mobile",
+     "as_printed": "7290055627"
+    },
+    "evidence": "KONCEPT AUTOMOBILES: NOIDA (SEC-2): 7290055627",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 1400000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "PRICE STARTS AT",
+     "item": "XUV700",
+     "as_printed": "₹14 Lakh*"
+    },
+    "evidence": "₹14 Lakh*",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '14' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "RAJAPURI, DWARKA/SEC - 20, DWARKA",
+    "evidence": "SHUBAN SAI MAHINDRA :RAJAPURI,DWARKA/SEC - 20,DWARKA: 8700014391",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KAROL BAGH",
+    "evidence": "MALWA MAHINDRA: KAROL BAGH: 9289524166",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MOTI NAGAR",
+    "evidence": "SRI DURGA: MOTI NAGAR: 7290055624",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PEERAGARHI",
+    "evidence": "INDRAPRASTHA AUTOMOBILES: PEERAGARHI: 7290055619",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JANAKPURI",
+    "evidence": "INDRAPRASTHA AUTOMOBILES: JANAKPURI: 9821500363",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NARAINA",
+    "evidence": "MALWA MAHINDRA: NARAINA: 9205666547",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ASHOK NAGAR",
+    "evidence": "INDRAPRASTHA AUTOMOBILES: ASHOK NAGAR: 9953424546",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DILSHAD GARDEN METRO STATION/PATPARGANJ",
+    "evidence": "SHIVA AUTO: DILSHAD GARDEN METRO STATION/PATPARGANJ: 8929172582",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "LAJPAT NAGAR",
+    "evidence": "KONCEPT AUTOMOBILES: LAJPAT NAGAR: 7290055631",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SAFDARJUNG ENCLAVE",
+    "evidence": "SYNERGY CARS: SAFDARJUNG ENCLAVE: 7290055630",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MOHAN ESTATE",
+    "evidence": "UNITED AUTOMOBILES: MOHAN ESTATE: 9289524154",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "OKHLA PHASE - 1",
+    "evidence": "KONCEPT AUTOMOBILES: OKHLA PHASE - 1: 9999010116, 7669459607",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "WAZIRPUR",
+    "evidence": "INDRAPRASTHA AUTOMOBILES: WAZIRPUR: 7290055619",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NARELA",
+    "evidence": "NARELA: 9289263814",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PRASHANT VIHAR",
+    "evidence": "PRASHANT VIHAR: 9289263813",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NHPC CHOWK",
+    "evidence": "UNITED AUTOMOBILES: NHPC CHOWK: 7428081661",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "YMCA CHOWK/HODAL/PALWAL",
+    "evidence": "PRIME AUTOMOBILES: YMCA CHOWK/HODAL/PALWAL: 7290055625",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NOIDA (SEC-2)",
+    "evidence": "KONCEPT AUTOMOBILES: NOIDA (SEC-2): 7290055627",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "BENEFITS UPTO ₹84 501.00*",
+    "evidence": "BOLERO NEO BENEFITS UPTO ₹84 501.00*",
+    "english": "Benefits up to ₹84,501.00 on Bolero Neo",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BENEFITS UPTO ₹61 000.00*",
+    "evidence": "THAR 4WD BENEFITS UPTO ₹61 000.00*",
+    "english": "Benefits up to ₹61,000.00 on Thar 4WD",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BENEFITS UPTO ₹68 800.00*",
+    "evidence": "XUV300 BENEFITS UPTO ₹68 800.00*",
+    "english": "Benefits up to ₹68,800.00 on XUV300",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 84501,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BENEFITS UPTO",
+     "item": "BOLERO NEO",
+     "as_printed": "₹84 501.00*"
+    },
+    "evidence": "₹84 501.00*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (84,501)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 61000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BENEFITS UPTO",
+     "item": "THAR 4WD",
+     "as_printed": "₹61 000.00*"
+    },
+    "evidence": "₹61 000.00*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (61,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 68800,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BENEFITS UPTO",
+     "item": "XUV300",
+     "as_printed": "₹68 800.00*"
+    },
+    "evidence": "₹68 800.00*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (68,800)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "SHUBAN SAI MAHINDRA",
+     "area": "RAJAPURI, DWARKA/SEC - 20",
+     "city": "DWARKA",
+     "phones": [
+      "8700014391"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHUBAN SAI MAHINDRA :RAJAPURI,DWARKA/SEC - 20,DWARKA: 8700014391",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Agra"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MALWA MAHINDRA",
+     "area": "KAROL BAGH",
+     "city": "CENTRAL DELHI",
+     "phones": [
+      "9289524166"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MALWA MAHINDRA: KAROL BAGH: 9289524166",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SRI DURGA",
+     "area": "MOTI NAGAR",
+     "city": "WEST DELHI",
+     "phones": [
+      "7290055624"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SRI DURGA: MOTI NAGAR: 7290055624",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "INDRAPRASTHA AUTOMOBILES",
+     "area": "PEERAGARHI",
+     "city": "WEST DELHI",
+     "phones": [
+      "7290055619"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "INDRAPRASTHA AUTOMOBILES: PEERAGARHI: 7290055619",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "INDRAPRASTHA AUTOMOBILES",
+     "area": "JANAKPURI",
+     "city": "WEST DELHI",
+     "phones": [
+      "9821500363"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "INDRAPRASTHA AUTOMOBILES: JANAKPURI: 9821500363",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MALWA MAHINDRA",
+     "area": "NARAINA",
+     "city": "WEST DELHI",
+     "phones": [
+      "9205666547"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MALWA MAHINDRA: NARAINA: 9205666547",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "INDRAPRASTHA AUTOMOBILES",
+     "area": "ASHOK NAGAR",
+     "city": "EAST DELHI",
+     "phones": [
+      "9953424546"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "INDRAPRASTHA AUTOMOBILES: ASHOK NAGAR: 9953424546",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHIVA AUTO",
+     "area": "DILSHAD GARDEN METRO STATION/PATPARGANJ",
+     "city": "EAST DELHI",
+     "phones": [
+      "8929172582"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHIVA AUTO: DILSHAD GARDEN METRO STATION/PATPARGANJ: 8929172582",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KONCEPT AUTOMOBILES",
+     "area": "LAJPAT NAGAR",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "7290055631"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KONCEPT AUTOMOBILES: LAJPAT NAGAR: 7290055631",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHIVA AUTO",
+     "area": null,
+     "city": "SOUTH DELHI",
+     "phones": [
+      "7669783680"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHIVA AUTO: 7669783680",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SYNERGY CARS",
+     "area": "SAFDARJUNG ENCLAVE",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "7290055630"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SYNERGY CARS: SAFDARJUNG ENCLAVE: 7290055630",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UNITED AUTOMOBILES",
+     "area": "MOHAN ESTATE",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9289524154"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "UNITED AUTOMOBILES: MOHAN ESTATE: 9289524154",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KONCEPT AUTOMOBILES",
+     "area": "OKHLA PHASE - 1",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9999010116",
+      "7669459607"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KONCEPT AUTOMOBILES: OKHLA PHASE - 1: 9999010116, 7669459607",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "INDRAPRASTHA AUTOMOBILES",
+     "area": "WAZIRPUR",
+     "city": "NORTH DELHI",
+     "phones": [
+      "7290055619"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "INDRAPRASTHA AUTOMOBILES: WAZIRPUR: 7290055619",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "INDRAPRASTHA AUTOMOBILES",
+     "area": "PRASHANT VIHAR",
+     "city": "NORTH WEST DELHI",
+     "phones": [
+      "9289263813"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PRASHANT VIHAR: 9289263813",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UNITED AUTOMOBILES",
+     "area": "NHPC CHOWK",
+     "city": "FARIDABAD",
+     "phones": [
+      "7428081661"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 22,
+     "city_id": null
+    },
+    "evidence": "UNITED AUTOMOBILES: NHPC CHOWK: 7428081661",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Faridabad' (#22)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PRIME AUTOMOBILES",
+     "area": "YMCA CHOWK/HODAL/PALWAL",
+     "city": null,
+     "phones": [
+      "7290055625"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PRIME AUTOMOBILES: YMCA CHOWK/HODAL/PALWAL: 7290055625",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KONCEPT AUTOMOBILES",
+     "area": "NOIDA (SEC-2)",
+     "city": "NOIDA",
+     "phones": [
+      "7290055627"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "KONCEPT AUTOMOBILES: NOIDA (SEC-2): 7290055627",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "body_type": {
+   "value": "SUV",
+   "evidence": "AUTHENTIC SUVs",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "Credit at sole discretion of bank. #Subject to credit approval from the Bank/ Finance company.",
+   "evidence": "Credit at sole discretion of bank. #Subject to credit approval from the Bank/ Finance company.",
+   "english": "Credit at sole discretion of bank. Subject to credit approval from the Bank/ Finance company.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Mahindra authentic SUVs for impossible expeditions",
+  "Bolero Neo benefits upto ₹84 501.00*",
+  "Thar 4WD benefits upto ₹61 000.00*",
+  "XUV300 benefits upto ₹68 800.00*",
+  "XUV700 price starts at ₹14 Lakh*",
+  "Offer valid till 31st July 2023",
+  "Multiple Mahindra dealers listed across Delhi NCR with phone numbers"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "mahindra",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Rise",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "AUTHENTIC SUVS",
+   "score": 0.9738,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "GPONT",
+   "score": 0.8395,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "UTILITY",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "VEHIOLES",
+   "score": 0.9937,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "FORIMPOSSIBLEEXPEDITIONS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "mmm",
+   "score": 0.5661,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "TRARL",
+   "score": 0.8801,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 10,
+   "text": "XLW",
+   "score": 0.7003,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "XUU00",
+   "score": 0.6475,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "65240",
+   "score": 0.6802,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "BOLERO NEO",
+   "score": 0.9762,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "THAR 4WD",
+   "score": 0.9895,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "XUV300",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "XUV700",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "BENEFITS UPTO",
+   "score": 0.9901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "BENEFITS UPTO",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "BENEFITS UPTO",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "PRICE STARTS AT",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "84501.00*61000.00*",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "68800.00*",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "14 Lakh*",
+   "score": 0.9889,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "wthyou",
+   "score": 0.8456,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 25,
+   "text": "xmart",
+   "score": 0.9026,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "discount, corporate and accessories as applicable, Offerwill vary dependingon the brand and model purchased and mayvary from city tocity.Contact your nearest Mahindra dealerfor exact details. Terms of the offer may be altered/amended/withdrawn without prior notice. Accessories shown are not part",
+   "score": 0.9628,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 27,
+   "text": "Credit at sole discretion of bank. #Subject to credit approval from the Bank/ Finance company. ll other terms & conditions will apply. Offer valid on select models till stock lasts. This offer cannot be clubbed with any other offer. Offer mentioned is maximum benefit available inclusive of exchange, cash",
+   "score": 0.9735,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "of standardequipment.\"T&CApply.\"Offervalidtill31\"July 2023.",
+   "score": 0.9659,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "SOUTH WEST DELHI: SHUBAN SAI MAHINDRA :RAJAPURI,DWARKA/SEC - 20,DWARKA: 8700014391• CENTRAL DELHI :MALWA MAHINDRA: KAROL BAGH: 9289524166 WEST DELHI: SRI DURGA:MOTI NAGAR: 7290055624, INDRAPRASTHA",
+   "score": 0.9677,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 30,
+   "text": "AUTOMOBILES:PEERAGARHI:7290055619,INDRAPRASTHAAUTOMOBILES:JANAKPURI:9821500363,MALWAMAHINDRA:NARAINA:9205666547EASTDELHI:INDRAPRASTHAAUTOMOBILES:ASHOKNAGAR:9953424546,SHIVAAUTO:DILSHAD",
+   "score": 0.9986,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "GARDEN METRO STATION/PATPARGANJ: 8929172582 SOUTH DELHI: KONCEPT AUTOMOBILES: LAJPAT NAGAR: 7290055631, SHIVA AUTO: 7669783680, SYNERGY CARS: SAFDARJUNG ENCLAVE: 7290055630, UNITED AUTOMOBILES:MOHAN",
+   "score": 0.9831,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 32,
+   "text": "ESTATE:9289524154,KONCEPTAUTOMOBILES:OKHLAPHASE-1:9999010116,7669459607NORTH DELHI:INDRAPRASTHAAUTOMOBILES:WAZIRPUR:7290055619,NARELA:9289263814NORTH WEST DELHI:INDRAPRASTHAAUTOMOBILES:",
+   "score": 0.9918,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "PRASHANTVIHAR:9289263813·FARIDABAD:UNITED AUTOMOBILES:NHPC CHOWK:7428081661, PRIME AUTOMOBILES:YMCA CHOWK/HODAL/PALWAL: 7290055625NOIDA:KONCEPT AUTOMOBILES:NOIDA(SEC-2): 7290055627, NOIDA(",
+   "score": 0.977,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 27.48,
+  "extract": 51.75
+ }
+}

@@ -1,0 +1,1679 @@
+{
+ "image": "e053_Prameya_12.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Swift, Brezza, Dzire",
+   "evidence": "SWIFT BREZZA DZIRE",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (81%)",
+    "second model disagrees - suggestion: SWIFT",
+    "partial match only - confirm: Dzire"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Dzire",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: JYOTE MOTORS / SKY AUTOMOBILES / NARAYANI MOTORS / ODYSSEY MOTORS / TUSHI MOTORS",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)",
+    "record #9 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 9,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "ବର୍ଷା ଆସିଲା, ଆମର ଅଫର ଆସିଲା, ଆପଣଙ୍କ ନୂଆ କାର ଆସିବା ପାଇଁ ସମୟ ଆସିଲା!",
+   "evidence": "ବର୍ଷା ଆସିଲା, ଆମର ଅଫର ଆସିଲା, ଆପଣଙ୍କ ନୂଆ କାର ଆସିବା ପାଇଁ ସମୟ ଆସିଲା!",
+   "english": "Rain has arrived, our offer has arrived, time has come for your new car!",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (0%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: ଓଡ଼ିଆ ରହିବୁଆ,"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "ଏହି ବର୍ଷାରେ ଆପଣଙ୍କ ସ୍ୱପ୍ନର କାର କିଣିବା ପାଇଁ ଏବେ ସଠିକ୍ ସମୟ, ଆମର ଅଫର ଆପଣଙ୍କ ପାଇଁ ଆସିଛି, ଆପଣଙ୍କ ନୂଆ କାର ଆସିବା ପାଇଁ ଏବେ ସମୟ ଆସିଛି!",
+   "evidence": "ଏହି ବର୍ଷାରେ ଆପଣଙ୍କ ସ୍ୱପ୍ନର କାର କିଣିବା ପାଇଁ ଏବେ ସଠିକ୍ ସମୟ, ଆମର ଅଫର ଆପଣଙ୍କ ପାଇଁ ଆସିଛି, ଆପଣଙ୍କ ନୂଆ କାର ଆସିବା ପାଇଁ ଏବେ ସମୟ ଆସିଛି!",
+   "english": "This monsoon is the right time to buy your dream car, our offer has come for you, time has come for your new car!",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (0%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: ଆପଣଙ୍କୁ ରହିବୁଆ ସହିତ ଆପଣ ରହିବୁ ସହିତ !"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "E-BOOK TODAY AT WWW.MARUTISUZUKI.COM OR VISIT YOUR NEAREST MARUTI SUZUKI DEALERSHIP.",
+   "evidence": "E-BOOK TODAY AT WWW.MARUTISUZUKI.COM OR VISIT YOUR NEAREST MARUTI SUZUKI DEALERSHIP.",
+   "english": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "SWIFT BREZZA DZIRE",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Odia",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Odia: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 50000,
+   "evidence": "₹50000*",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (50,000)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Maruti Suzuki Swift, Brezza, Dzire monsoon offer",
+    "Swift benefit Rs 50000, Dzire benefit Rs 17000",
+    "100% on-road funding available",
+    "E-book at www.marutisuzuki.com or visit nearest dealership",
+    "Multiple dealer names, areas, cities and phone numbers listed",
+    "Offers valid till 31st July 2023"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki Arena is running a monsoon offer on Swift, Brezza and Dzire with benefits of Rs 50000 on Swift and Rs 17000 on Dzire, plus 100% on-road funding available. Readers can e-book at www.marutisuzuki.com or visit their nearest Maruti Suzuki dealership; offers are valid till 31st July 2023.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9798190190",
+     "kind": "mobile",
+     "as_printed": "9798190190"
+    },
+    "evidence": "9798190190",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7381045356",
+     "kind": "mobile",
+     "as_printed": "7381045356"
+    },
+    "evidence": "7381045356",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9583022019",
+     "kind": "mobile",
+     "as_printed": "9583022019,7440019592,9583022013"
+    },
+    "evidence": "9583022019,7440019592,9583022013",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7752076136",
+     "kind": "mobile",
+     "as_printed": "7752076136,9776901481"
+    },
+    "evidence": "7752076136,9776901481",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9078076450",
+     "kind": "mobile",
+     "as_printed": "9078076450"
+    },
+    "evidence": "9078076450",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7381045357",
+     "kind": "mobile",
+     "as_printed": "7381045357"
+    },
+    "evidence": "7381045357",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9583022090",
+     "kind": "mobile",
+     "as_printed": "9583022090"
+    },
+    "evidence": "9583022090",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9583022035",
+     "kind": "mobile",
+     "as_printed": "9583022035"
+    },
+    "evidence": "9583022035",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7873565435",
+     "kind": "mobile",
+     "as_printed": "7873565435"
+    },
+    "evidence": "7873565435",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7064499950",
+     "kind": "mobile",
+     "as_printed": "7064499950"
+    },
+    "evidence": "7064499950",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9853446906",
+     "kind": "mobile",
+     "as_printed": "9853446906"
+    },
+    "evidence": "9853446906",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7381094851",
+     "kind": "mobile",
+     "as_printed": "7381094851"
+    },
+    "evidence": "7381094851",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9583022034",
+     "kind": "mobile",
+     "as_printed": "9583022034/48"
+    },
+    "evidence": "9583022034/48",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9437831123",
+     "kind": "mobile",
+     "as_printed": "9437831123"
+    },
+    "evidence": "9437831123",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9583544555",
+     "kind": "mobile",
+     "as_printed": "9583544555"
+    },
+    "evidence": "9583544555",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7381000159",
+     "kind": "mobile",
+     "as_printed": "7381000159"
+    },
+    "evidence": "7381000159",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 50000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "SWIFT",
+     "item": "Swift benefit/savings",
+     "as_printed": "₹50000*"
+    },
+    "evidence": "₹50000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (50,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 17000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "DZIRE",
+     "item": "Dzire benefit/savings",
+     "as_printed": "₹17000*"
+    },
+    "evidence": "₹17000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (17,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.marutisuzuki.com",
+    "evidence": "WWW.MARUTISUZUKI.COM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "BHUBANESWAR: LEWIS ROAD",
+    "evidence": "BHUBANESWAR: LEWIS ROAD",
+    "english": "Bhubaneswar: Lewis Road",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NAYAPALLI",
+    "evidence": "NAYAPALLI",
+    "english": "Nayapalli",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KEONJHAR",
+    "evidence": "KEONJHAR",
+    "english": "Keonjhar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NAYAGARH",
+    "evidence": "NAYAGARH",
+    "english": "Nayagarh",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BALUGAON",
+    "evidence": "BALUGAON",
+    "english": "Balugaon",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ANANDPUR",
+    "evidence": "ANANDPUR",
+    "english": "Anandpur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BHUBANESWAR:PATIA",
+    "evidence": "BHUBANESWAR:PATIA",
+    "english": "Bhubaneswar: Patia",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BHUBANESHWAR: RASULGARH",
+    "evidence": "BHUBANESHWAR: RASULGARH",
+    "english": "Bhubaneshwar: Rasulgarh",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CUTTACK",
+    "evidence": "CUTTACK",
+    "english": "Cuttack",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DHENKANAL",
+    "evidence": "DHENKANAL",
+    "english": "Dhenkanal",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ANGUL",
+    "evidence": "ANGUL",
+    "english": "Angul",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KENDRAPARA",
+    "evidence": "KENDRAPARA",
+    "english": "Kendrapara",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BALASORE",
+    "evidence": "BALASORE",
+    "english": "Balasore",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BHADRAK",
+    "evidence": "BHADRAK",
+    "english": "Bhadrak",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NARSINGPUR",
+    "evidence": "NARSINGPUR",
+    "english": "Narsingpur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (90%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JAGATSINGHPUR",
+    "evidence": "JAGATSINGHPUR",
+    "english": "Jagatsinghpur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PURI",
+    "evidence": "PURI",
+    "english": "Puri",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PALLAHARA",
+    "evidence": "PALLAHARA",
+    "english": "Pallahara",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BARIPADA",
+    "evidence": "BARIPADA",
+    "english": "Baripada",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "UDALA",
+    "evidence": "UDALA",
+    "english": "Udala",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "RAIRANGPUR",
+    "evidence": "RAIRANGPUR",
+    "english": "Rairangpur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KAMAKHYANAGAR",
+    "evidence": "KAMAKHYANAGAR",
+    "english": "Kamakhyanagar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JAJPUR",
+    "evidence": "JAJPUR",
+    "english": "Jajpur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NIMAPARA",
+    "evidence": "NIMAPARA",
+    "english": "Nimapara",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PARADEEP",
+    "evidence": "PARADEEP",
+    "english": "Paradeep",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ATHAGARH",
+    "evidence": "ATHAGARH",
+    "english": "Athagarh",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JALESWAR",
+    "evidence": "JALESWAR",
+    "english": "Jaleswar",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BASUDEVPUR",
+    "evidence": "BASUDEVPUR",
+    "english": "Basudevpur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SALEPUR",
+    "evidence": "SALEPUR",
+    "english": "Salepur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CHANDIKHOL",
+    "evidence": "CHANDIKHOL",
+    "english": "Chandikhol",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PURI HIGHWAY PIPLI",
+    "evidence": "PURI HIGHWAY PIPLI",
+    "english": "Puri Highway Pipli",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "TANGI",
+    "evidence": "TANGI",
+    "english": "Tangi",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "TIRTOL",
+    "evidence": "TIRTOL",
+    "english": "Tirtol",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "100% ON-ROAD FUNDING AVAILABLE",
+    "evidence": "100% ON-ROAD FUNDING AVAILABLE",
+    "english": "100% on-road funding available",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "JYOTE MOTORS",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 62.7
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 62.7
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "JYOTE MOTORS",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SKY AUTOMOBILES",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SKY AUTOMOBILES",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NARAYANI MOTORS",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 62.1
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NARAYANI MOTORS",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ODYSSEY MOTORS",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ODYSSEY MOTORS",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TUSHI MOTORS",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 62.7
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 62.7
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "TUSHI MOTORS",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "100% ON-ROAD FUNDING AVAILABLE",
+   "evidence": "100% ON-ROAD FUNDING AVAILABLE",
+   "english": "100% on-road funding available",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Maruti Suzuki Swift, Brezza, Dzire monsoon offer",
+  "Swift benefit Rs 50000, Dzire benefit Rs 17000",
+  "100% on-road funding available",
+  "E-book at www.marutisuzuki.com or visit nearest dealership",
+  "Multiple dealer names, areas, cities and phone numbers listed",
+  "Offers valid till 31st July 2023"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MARUTI SUZUKI ARENA",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "sg Gaga,",
+   "score": 0.6317,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "2sga6a aa6mia gns aaa qaia aall",
+   "score": 0.5323,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "2 0068 199 6902199 6918v |18 199 V89 918, 284919 9",
+   "score": 0.5467,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "vela qgo 6agq gq ma6a aamg sa9|a 2g? q8g 1",
+   "score": 0.6854,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "SWIFT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "DZIRE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "100%^",
+   "score": 0.9664,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "SWIFT50000*",
+   "score": 0.9959,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "DZIRE₹17000*",
+   "score": 0.9547,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "ON-ROAD",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "FUNDING AVAILABLE",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "SWIFT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "BRE",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "N",
+   "score": 0.9117,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "DZIRE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "E-BOOK TODAY AT WWW.MARUTISUZUKI.COM OR VISIT YOUR NEAREST MARUTI SUZUKI DEALERSHIP.",
+   "score": 0.9788,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "JYOTE MOTORS",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "SKY AUTOMOBILES",
+   "score": 0.9776,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "NARAYANI MOTORS",
+   "score": 0.9954,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "BHUBANESWAR: LEWIS ROAD: 9798190190. NAYAPALLI: 9798190190. KEONJHAR:",
+   "score": 0.9698,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "BHUBANESWAR:PATIA:7381045356.",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "BHUBANESHWAR: RASULGARH:",
+   "score": 0.9854,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "ODYSSEY MOTORS",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "TUSHI MOTORS",
+   "score": 0.9904,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "9798190190.NAYAGARH:9798190190.BALUGAON:9798190190.ANANDPUR:",
+   "score": 0.993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "CUTTACK:9776677771,7381873818.DHENKANAL:",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "9583022019,7440019592,9583022013.",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "ANGUL:7752076136,9776901481,",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "CUTTACK:9078076450.",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "9798190190.KENDRAPARA:9798190190.BALASORE: 979B190190.BHADRAK:",
+   "score": 0.986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "7381045357.NARSHINGPUR: 7381045357.",
+   "score": 0.9813,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "JAGATSINGHPUR: 9583022090. PURI: 9583022035.",
+   "score": 0.9746,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "PALLAHARA: 7873565435,",
+   "score": 0.9913,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "PANIKOILI: 9078076450.",
+   "score": 0.9729,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "9798190190.BARIPADA:9798190190.UDALA:7064499950.RAIRANGPUR:9853446906.",
+   "score": 0.9983,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "KAMAKHYANAGAR: 7381045357. JAJPUR:",
+   "score": 0.9869,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "NIMAPARA: 7381094851.PARADEEP: 9583022034/48.",
+   "score": 0.9777,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "9437831123",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "ATHAGARH: 9078076450.",
+   "score": 0.9776,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "JALESWAR: 7064499950. BASUDEVPUR: 9798190190.",
+   "score": 0.9779,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "9776900777, SALEPUR: 9583544555, CHANDIKHOL:",
+   "score": 0.9817,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "PURI HIGHWAY PIPLI: 9583022013.",
+   "score": 0.9944,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "9583544555,TANGI:7381045356.",
+   "score": 0.9962,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "TIRTOL:7381000159.",
+   "score": 0.9909,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "*Offer includes consumer offer, exchange bonus and institutional or rural offer and Gold voucher (wherever applicable) on selected models/ variants. Above mentioned savings amount is the value of maximum savings on selected models. *Terms and conditions apply. Finance scheme detalls mentioned",
+   "score": 0.9891,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 47,
+   "text": "in the advertisemnent are at the sole discretion of the financier and terms and conditions as specified by the financier shall apply. Credit at the sole discretion of the Bank. 100% on-road funding is provided by select financiers only. For more details, please contact your nearest ARENA dealership. Features",
+   "score": 0.9896,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 48,
+   "text": "and accessories shown may not be part of standard fitment. Black Glass Shade on the vehicle is due to the lighting effect. Images used are for illustration purposes only. Car color may vary due to printing on paper. Offers vary across variants. Maruti Suzuki India Limited reserves the right to discontinue",
+   "score": 0.9923,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 49,
+   "text": "offers without notice. The price given in the ad is based on Bhubaneswar prices and are subject to vary based on the dealer city. Above offers are valid till 31st July'2023.",
+   "score": 0.992,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 50,
+   "text": "rinted & Published by Shri Pravat Ranjan Nayak on behalf of Summa Real Media Pvt. Ltd., Published from 662, Jagamara, Khandagiri, Bhubaneswar, Disl- Khurda, Pin-751030, Odisha,Tel-0674 2350192, Fax (News)- 0674 2350315,",
+   "score": 0.9855,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 51,
+   "text": "dy(Fax) 0674 2350167, Emeil: orameva1@omal com, atdsremexa@amail cem RN1 Recd No: ODIODl/ 2011/37619 Postal Read No BN/208/23-25 & Priated at /1) Summs Real Media Pd LId. 662 lacamara Khendecis",
+   "score": 0.8222,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 52,
+   "text": "zaice: sagipes asgie",
+   "score": 0.774,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "22 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 33.34,
+  "extract": 81.85
+ }
+}

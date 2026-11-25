@@ -1,0 +1,56 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "product",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi"
+   ],
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "brand": "Patanjali",
+ "model_variant": null,
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG",
+   "FMCG > Food & Beverages",
+   "FMCG > Personal & Home Care"
+  ]
+ },
+ "headline": "स्वदेशी संकल्प एक मात्र विकल्प",
+ "sub_headline": {
+  "any_of": [
+   "पतंजलि के लिए देश एक परिवार है जबकि विदेशी कम्पनियों के लिए देश एक बाज़ार है",
+   "पतंजलि 100% प्योर प्रोडक्ट्स, 100% प्रॉस्पेरिटी फॉर चैरिटी",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

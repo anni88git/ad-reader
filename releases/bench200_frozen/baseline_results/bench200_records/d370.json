@@ -1,0 +1,3139 @@
+{
+ "image": "d370_Maharashtra_Times_70.jpg",
+ "fields": {
+  "brand": {
+   "value": "Reliance Digital",
+   "evidence": "Reliance digital",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Reliance Digital' (#50)"
+   ],
+   "matched_id": 50,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 50,
+     "name": "Reliance Digital",
+     "score": 100.0
+    },
+    {
+     "id": 67,
+     "name": "Reliance Jio",
+     "score": 76.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Laptop Sale",
+   "evidence": "लॅपटॉपचा सेल",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (91%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: null",
+    "no products on record for Reliance Digital"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Reliance Digital",
+   "evidence": "Reliance digital",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "exact match to existing record 'Reliance Digital' (#15)"
+   ],
+   "matched_id": 15,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 15,
+     "name": "Reliance Digital",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "भारतातील सर्वात मोठा लॅपटॉपचा सेल",
+   "evidence": "भारतातील सर्वात मोठा लॅपटॉपचा सेल",
+   "english": "India's Biggest Laptop Sale",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (81%)",
+    "second model disagrees - suggestion: भारतीयतील सर्वात मेंठा लॅपटॉपचा सेल"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "#TechnologySeRishtaJodo",
+   "evidence": "#TechnologySeRishtaJodo",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "नो कॉस्ट ईएमआय 24 महिन्यांपर्यंत । अॅक्सेसरीज संपूर्ण 30% सूट*",
+   "evidence": "नो कॉस्ट ईएमआय 24 महिन्यांपर्यंत । अॅक्सेसरीज संपूर्ण 30% सूट*",
+   "english": "No cost EMI up to 24 months. Accessories complete 30% discount*",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (96%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "TO LOCATE YOUR NEAREST MYJIO STORE, SMS LOCATE <PINCODE> TO 561611",
+   "evidence": "TO LOCATE YOUR NEAREST MYJIO STORE, SMS LOCATE <PINCODE> TO 561611",
+   "english": "SMS LOCATE <PINCODE> to 561611 to locate your nearest MyJio store",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "Reliance digital",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Mobiles & Computers",
+   "evidence": "लॅपटॉपचा सेल",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #28"
+   ],
+   "matched_id": 28,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 28,
+     "name": "Retail & Consumer Electronics > Mobiles & Computers",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Marathi, English"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 35990,
+   "evidence": "₹35990*",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (35,990)",
+    "second model read the main price as [51990]"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Reliance Digital laptop sale",
+    "Up to ₹7500 instant discount with HDFC Bank credit card",
+    "Up to ₹20000 instant benefit",
+    "Additional ₹10000 exchange bonus",
+    "No cost EMI up to 24 months",
+    "Accessories 30% off",
+    "Grand launch at Gulmohar Road, Juhu",
+    "Categories: Everyday, Multi-tasking, Creators, Gaming, Tablets & Accessories",
+    "Buy any laptop & get trolley bag worth ₹7500"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Reliance Digital is holding India's biggest laptop sale with instant discounts up to ₹7500 on HDFC Bank credit cards, up to ₹20000 instant benefit, and an additional ₹10000 exchange bonus. No cost EMI is available for up to 24 months and accessories are 30% off. The grand launch is at Gulmohar Road, Juhu. Buy any laptop and get a trolley bag worth ₹7500.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 7500,
+     "currency": "INR",
+     "kind": "price",
+     "label": "पहिली तात्काळ सूड*",
+     "item": "HDFC Bank credit card offer",
+     "as_printed": "₹7 500"
+    },
+    "evidence": "₹7 500",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (7,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 10000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "एक्सचेंज बोनस",
+     "item": "Exchange bonus",
+     "as_printed": "₹10 000*"
+    },
+    "evidence": "₹10 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (10,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 51990,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "ASUS VIVOBOOK",
+     "as_printed": "₹51990"
+    },
+    "evidence": "₹51990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (51,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 35990,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "ASUS VIVOBOOK",
+     "as_printed": "₹35990*"
+    },
+    "evidence": "₹35990*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (35,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 46007,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "HP 15",
+     "as_printed": "₹46007"
+    },
+    "evidence": "₹46007",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (46,007)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 37999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "HP 15",
+     "as_printed": "₹37999*"
+    },
+    "evidence": "₹37999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (37,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 46099,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "DELL INSPIRON 3520",
+     "as_printed": "₹46099"
+    },
+    "evidence": "₹46099",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (46,099)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 43999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "DELL INSPIRON 3520",
+     "as_printed": "₹43999*"
+    },
+    "evidence": "₹43999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (43,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 60959,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "HP 15S",
+     "as_printed": "₹60959"
+    },
+    "evidence": "₹60959",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (60,959)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 44999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "HP 15S",
+     "as_printed": "₹44999*"
+    },
+    "evidence": "₹44999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (44,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 97890,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "LENOVO IDEAPAD S3i",
+     "as_printed": "₹97890"
+    },
+    "evidence": "₹97890",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (97,890)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 48499,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "LENOVO IDEAPAD S3i",
+     "as_printed": "₹48499*"
+    },
+    "evidence": "₹48499*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (48,499)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 65867,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "DELL INSPIRON 3520",
+     "as_printed": "₹65867"
+    },
+    "evidence": "₹65867",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (65,867)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 54999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "DELL INSPIRON 3520",
+     "as_printed": "₹54999*"
+    },
+    "evidence": "₹54999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (54,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 96990,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "ASUS VIVOBOOK PRO",
+     "as_printed": "₹96990"
+    },
+    "evidence": "₹96990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (96,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 69999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "ASUS VIVOBOOK PRO",
+     "as_printed": "₹69999*"
+    },
+    "evidence": "₹69999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (69,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 99999,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "DELL INSPIRON 5430",
+     "as_printed": "₹99999"
+    },
+    "evidence": "₹99999",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (99,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 79999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "DELL INSPIRON 5430",
+     "as_printed": "₹79999*"
+    },
+    "evidence": "₹79999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (79,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 117095,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "HP ENVY X360",
+     "as_printed": "₹117095"
+    },
+    "evidence": "₹117095",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (117,095)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 79999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "HP ENVY X360",
+     "as_printed": "₹79999*"
+    },
+    "evidence": "₹79999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (79,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 76116,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "HP VICTUS 16",
+     "as_printed": "₹76116"
+    },
+    "evidence": "₹76116",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (76,116)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 43099,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "HP VICTUS 16",
+     "as_printed": "₹43099*"
+    },
+    "evidence": "₹43099*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (43,099)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 99290,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "LENOVO IDEAPAD GAMING 3",
+     "as_printed": "₹99290"
+    },
+    "evidence": "₹99290",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (99,290)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 47990,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "LENOVO IDEAPAD GAMING 3",
+     "as_printed": "₹47990*"
+    },
+    "evidence": "₹47990*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (47,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 82990,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "ASUS TUF F15",
+     "as_printed": "₹82990"
+    },
+    "evidence": "₹82990",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (82,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 65990,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "ASUS TUF F15",
+     "as_printed": "₹65990*"
+    },
+    "evidence": "₹65990*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (65,990)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 34000,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "LENOVO M10 TAB* 3RD GEN",
+     "as_printed": "₹34000"
+    },
+    "evidence": "₹34000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (34,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 20699,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "LENOVO M10 TAB* 3RD GEN",
+     "as_printed": "₹20699*"
+    },
+    "evidence": "₹20699*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (20,699)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 33900,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "iPad 9TH GEN",
+     "as_printed": "₹33900"
+    },
+    "evidence": "₹33900",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (33,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 28900,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "iPad 9TH GEN",
+     "as_printed": "₹28900*"
+    },
+    "evidence": "₹28900*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (28,900)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 17828,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "struck out price",
+     "item": "HP SMART TANK Wi-Fi 585 PRINTER",
+     "as_printed": "₹17828"
+    },
+    "evidence": "₹17828",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (17,828)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 14999,
+     "currency": "INR",
+     "kind": "offer_price",
+     "label": "offer price",
+     "item": "HP SMART TANK Wi-Fi 585 PRINTER",
+     "as_printed": "₹14999*"
+    },
+    "evidence": "₹14999*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (14,999)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "reliancedigital.in",
+    "evidence": "reliancedigital.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "GULMOHAR ROAD, JUHU",
+    "evidence": "GULMOHAR ROAD, JUHU",
+    "english": "Gulmohar Road, Juhu",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Intel® 11th Gen Core i3 • 8 GB • 512 GB",
+    "evidence": "Intel® 11th Gen Core i3 • 8 GB • 512 GB",
+    "english": "Intel 11th Gen Core i3, 8 GB RAM, 512 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AMD R3 • 8 GB • 512 GB",
+    "evidence": "AMD R3 • 8 GB • 512 GB",
+    "english": "AMD R3, 8 GB RAM, 512 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Intel® 12th Gen Core i3 • 8 GB • 512 GB",
+    "evidence": "Intel® 12th Gen Core i3 • 8 GB • 512 GB",
+    "english": "Intel 12th Gen Core i3, 8 GB RAM, 512 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AMD R5 • 8 GB • 512 GB",
+    "evidence": "AMD R5 • 8 GB • 512 GB",
+    "english": "AMD R5, 8 GB RAM, 512 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Intel® 11th Gen Core i5 • 8 GB • 512 GB",
+    "evidence": "Intel® 11th Gen Core i5 • 8 GB • 512 GB",
+    "english": "Intel 11th Gen Core i5, 8 GB RAM, 512 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Intel® 12th Gen Core i5 • 8 GB • 512 GB",
+    "evidence": "Intel® 12th Gen Core i5 • 8 GB • 512 GB",
+    "english": "Intel 12th Gen Core i5, 8 GB RAM, 512 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AMD R5 • 16 GB • 512 GB • RTX 3050",
+    "evidence": "AMD R5 • 16 GB • 512 GB • RTX 3050",
+    "english": "AMD R5, 16 GB RAM, 512 GB storage, RTX 3050",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Intel® 13th Gen Core i7 • 16 GB • 512 GB",
+    "evidence": "Intel® 13th Gen Core i7 • 16 GB • 512 GB",
+    "english": "Intel 13th Gen Core i7, 16 GB RAM, 512 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Intel® 12th Gen Core i7 • 16 GB • 512 GB • with Pen",
+    "evidence": "Intel® 12th Gen Core i7 • 16 GB • 512 GB • with Pen",
+    "english": "Intel 12th Gen Core i7, 16 GB RAM, 512 GB storage, with Pen",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AMD R5 • 8 GB • 512 GB • GTX 1650",
+    "evidence": "AMD R5 • 8 GB • 512 GB • GTX 1650",
+    "english": "AMD R5, 8 GB RAM, 512 GB storage, GTX 1650",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AMD R5 • 8 GB • 512 GB • RTX 3050",
+    "evidence": "AMD R5 • 8 GB • 512 GB • RTX 3050",
+    "english": "AMD R5, 8 GB RAM, 512 GB storage, RTX 3050",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Intel® 11th Gen Core i5 • 16 GB • 512 GB • RTX 2050",
+    "evidence": "Intel® 11th Gen Core i5 • 16 GB • 512 GB • RTX 2050",
+    "english": "Intel 11th Gen Core i5, 16 GB RAM, 512 GB storage, RTX 2050",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "6 GB • 128 GB",
+    "evidence": "6 GB • 128 GB",
+    "english": "6 GB RAM, 128 GB storage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "64 GB • Wi-Fi",
+    "evidence": "64 GB • Wi-Fi",
+    "english": "64 GB storage, Wi-Fi",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Wi-Fi 585 PRINTER",
+    "evidence": "Wi-Fi 585 PRINTER",
+    "english": "Wi-Fi 585 Printer",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "बूट अप इंडिया",
+    "evidence": "बूट अप इंडिया",
+    "english": "Boot up India",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (82%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹7 500 पहिली तात्काळ सूड*",
+    "evidence": "₹7 500 पहिली तात्काळ सूड*",
+    "english": "₹7500 instant discount",
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (56%); devanagari text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹20 000* अतिरिक्त पहिली लाभ",
+    "evidence": "₹20 000* अतिरिक्त पहिली लाभ",
+    "english": "₹20000 additional instant benefit",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (76%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "₹10 000* एक्सचेंज बोनस",
+    "evidence": "₹10 000* एक्सचेंज बोनस",
+    "english": "₹10000 exchange bonus",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "नो कॉस्ट ईएमआय 24 महिन्यांपर्यंत",
+    "evidence": "नो कॉस्ट ईएमआय 24 महिन्यांपर्यंत",
+    "english": "No cost EMI up to 24 months",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "अॅक्सेसरीज संपूर्ण 30% सूट*",
+    "evidence": "अॅक्सेसरीज संपूर्ण 30% सूट*",
+    "english": "Accessories complete 30% discount*",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE* INFINITY HEADPHONE WORTH ₹3499",
+    "evidence": "FREE* INFINITY HEADPHONE WORTH ₹3499",
+    "english": "Free Infinity Headphone worth ₹3499",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE* GET SMARTWATCH WORTH ₹9999",
+    "evidence": "FREE* GET SMARTWATCH WORTH ₹9999",
+    "english": "Free Get Smartwatch worth ₹9999",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BUY ANY LAPTOP & GET TROLLEY BAG WORTH ₹7500*",
+    "evidence": "BUY ANY LAPTOP & GET TROLLEY BAG WORTH ₹7500*",
+    "english": "Buy any laptop & get trolley bag worth ₹7500*",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 20000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "अतिरिक्त पहिली लाभ",
+     "item": "Instant benefit",
+     "as_printed": "₹20 000*"
+    },
+    "evidence": "₹20 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (20,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "SOUTH MUMBAI",
+     "area": "PRABHADEVI",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "VISIT US AT MUMBAI: SOUTH MUMBAI• PRABHADEVI",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHETH HOUSE, OPERA HOUSE JUNCTION",
+     "area": "WESTERN",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "SHETH HOUSE, OPERA HOUSE JUNCTION.WESTERN",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SANTACRUZ",
+     "area": "JUHU",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "SANTACRUZ • JUHU",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JVPD, GULMOHAR ROAD",
+     "area": "JUHU",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "JVPD ,GULMOHAR ROAD, JUHU",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ANDHERI (W)",
+     "area": null,
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "ANDHERI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MALAD",
+     "area": null,
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "MALAD",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BORIVALI (W)",
+     "area": null,
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "BORIVALI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NALASOPARA",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NALASOPARA",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "CHANDAVARKAR ROAD",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "CHANDAVARKAR ROAD",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VIRAR (W)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VIRAR (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "CHANDAVARKAR ROAD, BORIVALI(W)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "CHANDAVARKAR ROAD, BORIVALI(W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MIRA ROAD (E)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MIRA ROAD (E)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "DOMBIVLI (E)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "DOMBIVLI (E)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KHADAKPADA KALYAN (W)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KHADAKPADA KALYAN (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "METRO MALL KALYAN",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "METRO MALL KALYAN",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ULHASNAGAR (W)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ULHASNAGAR (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BADLAPUR (W)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 60.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "BADLAPUR (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PMC, KURLA",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PMC, KURLA",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MULUND (W)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MULUND (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BORIWALI (WEST)",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BORIWALI (WEST)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "R CITY MALL",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "R CITY MALL",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEAR GHARDA CIRCLE DOMBIVLI",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEAR GHARDA CIRCLE DOMBIVLI",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "HARBOUR: CHEMBUR",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HARBOUR: CHEMBUR",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "THANE: KORUM MALL",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "THANE: KORUM MALL",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VIVIANA MALL",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VIVIANA MALL",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BHIWANDI NEAR BUS DEPOT",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BHIWANDI NEAR BUS DEPOT",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NAVI MUMBAI: VASHI",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NAVI MUMBAI: VASHI",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KOPARKHAIRANE",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KOPARKHAIRANE",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SEAWOODS",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SEAWOODS",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BELAPUR",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BELAPUR",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ULWE",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ULWE",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KHARGHAR",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KHARGHAR",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PANVEL",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PANVEL",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Reliance Digital",
+   "evidence": "Reliance digital",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "Laptops, Tablets & Accessories",
+   "evidence": "लॅपटॉपचा सेल TABLETS & ACCESSORIES",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (94%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "30%",
+   "evidence": "अॅक्सेसरीज संपूर्ण 30% सूट*",
+   "english": "30% discount on accessories",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (96%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "नो कॉस्ट ईएमआय 24 महिन्यांपर्यंत",
+   "evidence": "नो कॉस्ट ईएमआय 24 महिन्यांपर्यंत",
+   "english": "No cost EMI up to 24 months",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (96%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Reliance Digital laptop sale",
+  "Up to ₹7500 instant discount with HDFC Bank credit card",
+  "Up to ₹20000 instant benefit",
+  "Additional ₹10000 exchange bonus",
+  "No cost EMI up to 24 months",
+  "Accessories 30% off",
+  "Grand launch at Gulmohar Road, Juhu",
+  "Categories: Everyday, Multi-tasking, Creators, Gaming, Tablets & Accessories",
+  "Buy any laptop & get trolley bag worth ₹7500"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "भारतातीलसर्वात मोठ",
+   "score": 0.9705,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Reliance",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Reliancedigital",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "लपटॉपचा सेल",
+   "score": 0.9946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "PERSONALISING TECHNOLOGY",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "#TechnologySeRishtaJodo",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "बूट",
+   "score": 0.9871,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "₹7500",
+   "score": 0.9164,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "GRAND LAUNCH",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "HDFC BANK",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "पर्यत",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "क्रेडिट काईड आणि इझी ईएमआय",
+   "score": 0.9198,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "• GULMOHAR ROAD, JUHU",
+   "score": 0.9913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "अंप",
+   "score": 0.7992,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "तात्काळ",
+   "score": 0.9518,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "सूट*",
+   "score": 0.9491,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "+",
+   "score": 0.9358,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "अतिरिक्त",
+   "score": 0.9359,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "इंडिया",
+   "score": 0.9404,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "20000",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "10000",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "पर्यत लाभ",
+   "score": 0.9051,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "एक्सचेंज बोनस",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "नो कॉस्ट ईएमआय 24 महिन्यां पर्यत । अक्सेसरीज संपूर्ण 30% सूट",
+   "score": 0.9457,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "EVERYDAY",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "MULTI-TASKING",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "CREATORS",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "GAMING",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "TABLETS & ACCESSORIES",
+   "score": 0.996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "LENOVO M10 TAB* 3RD GEN",
+   "score": 0.9593,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "·6GB·128GB",
+   "score": 0.9901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "234000",
+   "score": 0.9569,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "20699*",
+   "score": 0.9355,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "FREE\"",
+   "score": 0.9379,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "INFINITY HEADPHONE WORTH 3499",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "ASUS VIVOBOOK",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "51990",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "HP 15S",
+   "score": 0.942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "60959",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "ASUS VIVOBOOK PRO",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "296990",
+   "score": 0.9527,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "HP VICTUS 16",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "76116",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "iPad 9™H GEN",
+   "score": 0.8897,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "• Intel® 11th Gen Core i3",
+   "score": 0.9488,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "35990*",
+   "score": 0.9386,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "·AMDR5",
+   "score": 0.9724,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "44999*",
+   "score": 0.9796,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "• AMD R5·16 GB",
+   "score": 0.891,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "69999*",
+   "score": 0.9799,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "• AMD R5·8 GB",
+   "score": 0.8795,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "43099",
+   "score": 0.9577,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "•64 GB·Wi-Fi",
+   "score": 0.9299,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "·8GB·512 GB",
+   "score": 0.9338,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "·8GB·512GB",
+   "score": 0.9724,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "· 512 GB· RTX 3050",
+   "score": 0.9176,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "· 512 GB· GTX 1650",
+   "score": 0.9112,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "233900",
+   "score": 0.9798,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 59,
+   "text": "HP 15",
+   "score": 0.9071,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "LENOVO IDEAPAD S3i",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "DELL INSPIRON 5430",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "至99999",
+   "score": 0.8763,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 63,
+   "text": "LENOVO",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "99290",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 65,
+   "text": "28900*",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "₹46007",
+   "score": 0.8747,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "97890",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "IDEAPAD GAMING 3",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "· AMD R3",
+   "score": 0.9019,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "37999*",
+   "score": 0.9467,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "• Intel® 11thGen Core i5",
+   "score": 0.9713,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 72,
+   "text": "48499*",
+   "score": 0.9576,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 73,
+   "text": "• Intel® 13th Gen Core i7",
+   "score": 0.9827,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "79999",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 75,
+   "text": "• AMD R5·8GB",
+   "score": 0.8749,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 76,
+   "text": "47990",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "·8GB·512 GB",
+   "score": 0.9231,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 78,
+   "text": "·8GB·512GB",
+   "score": 0.9753,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 79,
+   "text": "·16GB·512 GB",
+   "score": 0.9506,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "·512GB·RTX3050",
+   "score": 0.9935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 81,
+   "text": "HP SMART TANK",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 82,
+   "text": "Wi-Fi 585 PRINTER",
+   "score": 0.9886,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 83,
+   "text": "DELL INSPIRON 3520",
+   "score": 0.9803,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "46099",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "DELL INSPIRON 3520",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 86,
+   "text": "65867",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 87,
+   "text": "HP ENVY X360",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 88,
+   "text": "117095",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 89,
+   "text": "ASUS TUF F15",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "82990",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 91,
+   "text": "m",
+   "score": 0.8248,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 92,
+   "text": "• Intel® 12th Gen Core i3",
+   "score": 0.9614,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "• Intel® 12th Gen Core i5",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "•Intel® 12thGen Core i7",
+   "score": 0.9702,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 95,
+   "text": "•Intel® 11thGen Core i5",
+   "score": 0.9718,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 96,
+   "text": "17828",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 97,
+   "text": "14999*",
+   "score": 0.9621,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "43999*",
+   "score": 0.9544,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "54999*",
+   "score": 0.9926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 100,
+   "text": "79999*",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 101,
+   "text": "65990*",
+   "score": 0.9606,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 102,
+   "text": "·8GB·512GB",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 103,
+   "text": "·8GB·512GB",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 104,
+   "text": "• 16 GB·512 GB•with Pen",
+   "score": 0.9078,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 105,
+   "text": "·16GB·512GB·RTX2050",
+   "score": 0.9772,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 106,
+   "text": "FREE\"",
+   "score": 0.9812,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 107,
+   "text": "GET SMARTWATCH WORTH 9999",
+   "score": 0.9716,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 108,
+   "text": "*PRICE UNDER EXCHANGE OFFER AND BANKINSTANT DISCOUNT",
+   "score": 0.9601,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 109,
+   "text": "ELECTRONNICSAY",
+   "score": 0.7287,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 110,
+   "text": "intel.",
+   "score": 0.9689,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 111,
+   "text": "BUY ANY LAPTOP & GET TROLLEY BAG",
+   "score": 0.9584,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 112,
+   "text": "ALSO SHOP ON:",
+   "score": 0.9977,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 113,
+   "text": "MY JIO",
+   "score": 0.8132,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 114,
+   "text": "Jio",
+   "score": 0.9974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 115,
+   "text": "DIGITAL",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 116,
+   "text": "ASUS",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 117,
+   "text": "DELL",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 118,
+   "text": "Lenovo.",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 119,
+   "text": "SAMSUNG",
+   "score": 0.9991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 120,
+   "text": "Microsoft",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 121,
+   "text": "AMDA",
+   "score": 0.8278,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 122,
+   "text": "reliancedigital.in",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 123,
+   "text": "LIFE",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 124,
+   "text": "WORTH7500*",
+   "score": 0.959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 125,
+   "text": "NOW OPEN AT:",
+   "score": 0.9751,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 126,
+   "text": "VISIT US AT MUMBAI: SOUTH MUMBAI• PRABHADEVI • SHETH HOUSE, OPERA HOUSE JUNCTION.WESTERN: SANTACRUZ • JUHU • JVPD ,GULMOHAR ROAD, JUHU• ANDHERI (W)• MALAD•BORIVALI (W) • NALASOPARA",
+   "score": 0.9878,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 127,
+   "text": "• CHANDAVARKAR ROAD,",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 128,
+   "text": "(W) • VIRAR (W) • CHANDAVARKAR ROAD, BORIVALI(W)• MIRA ROAD (E) CENTRAL: DOMBIVLI (E) • KHADAKPADA KALYAN (W) •METRO MALL KALYAN ULHASNAGAR (W) • BADLAPUR (W)• PMC, KURLA • MULUND (W)",
+   "score": 0.9854,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 129,
+   "text": "BORIWALI (WEST)",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 130,
+   "text": "•R CITY MALL• NEAR GHARDA CIRCLE DOMBIVLI•HARBOUR: CHEMBUR •THANE: KORUM MALL • VIVIANA MALL •BHIWANDI: BHIWANDI NEAR BUS DEPOT •NAVI MUMBAI: VASHI • KOPARKHAIRANE •SEAWOODS •",
+   "score": 0.9832,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 131,
+   "text": "BELAPUR • ULWE· KHARGHAR • PANVEL |TO LOCATE YOUR NEAREST MYJIO STORE, SMS LOCATE <PINCODE> TO 561611",
+   "score": 0.9655,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "18 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 31.27,
+  "extract": 72.31
+ }
+}

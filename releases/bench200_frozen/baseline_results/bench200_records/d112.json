@@ -1,0 +1,630 @@
+{
+ "image": "d112_Amar_Ujala_12.jpg",
+ "fields": {
+  "brand": {
+   "value": "Union Bank of India",
+   "evidence": "Union Bank of India",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Union Bank of India' (#143)"
+   ],
+   "matched_id": 143,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 143,
+     "name": "Union Bank of India",
+     "score": 100.0
+    },
+    {
+     "id": 56,
+     "name": "State Bank of India",
+     "score": 77.2
+    },
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 67.4
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Union Miles",
+   "evidence": "Union Miles",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "no products on record for Union Bank of India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Union Bank of India",
+   "evidence": "Union Bank of India",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "यूनियन माइल्स के साथ अपने सपने करें पूरे",
+   "evidence": "यूनियन माइल्स के साथ अपने सपने करें पूरे",
+   "english": "Fulfill your dreams with Union Miles",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 73% similar) - check spelling",
+    "second model disagrees - suggestion: युनियन माइल्स के साथ अपने अपने सपने करे पूरे"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "9619333333 पर मिस्ड कॉल दें या 56161 पर <ULOAN> SMS करें",
+   "evidence": "9619333333 पर मिस्ड कॉल दें या 56161 पर <ULOAN> SMS करें",
+   "english": "Give a missed call on 9619333333 or SMS <ULOAN> to 56161",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (89%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: service_provider"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Banking & Finance",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #12"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Banking & Finance",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Union Miles car loan",
+    "attractive interest rate",
+    "no prepayment or part-payment charges",
+    "no documentation charges / no hidden charges",
+    "missed call 9619333333 or SMS <ULOAN> to 56161",
+    "website www.unionbankofindia.co.in"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Union Bank of India offers Union Miles car loans with attractive interest rates, no prepayment/part-payment charges, and no documentation or hidden charges. Call 9619333333 or SMS <ULOAN> to 56161, or visit www.unionbankofindia.co.in.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9619333333",
+     "kind": "mobile",
+     "as_printed": "9619333333"
+    },
+    "evidence": "9619333333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.unionbankofindia.co.in",
+    "evidence": "www.unionbankofindia.co.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "आकर्षक व्याज दर",
+    "evidence": "आकर्षक व्याज दर",
+    "english": "Attractive interest rate",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "समय पूर्व भुगतान या आंशिक भुगतान शुल्क नहीं",
+    "evidence": "समय पूर्व भुगतान या आंशिक भुगतान शुल्क नहीं",
+    "english": "No prepayment or part-payment charges",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कोई दस्तावेज़ीकरण शुल्क नहीं/ कोई छिपा हुआ प्रभार नहीं",
+    "evidence": "कोई दस्तावेज़ीकरण शुल्क नहीं/ कोई छिपा हुआ प्रभार नहीं",
+    "english": "No documentation charges / no hidden charges",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "product_type": {
+   "value": "Car Loan",
+   "evidence": "Union Miles",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "interest_rate": {
+   "value": "आकर्षक व्याज दर",
+   "evidence": "आकर्षक व्याज दर",
+   "english": "Attractive interest rate",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Union Miles car loan",
+  "attractive interest rate",
+  "no prepayment or part-payment charges",
+  "no documentation charges / no hidden charges",
+  "missed call 9619333333 or SMS <ULOAN> to 56161",
+  "website www.unionbankofindia.co.in"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "G20",
+   "score": 0.8933,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "यूनियन बैंक",
+   "score": 0.9255,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "S",
+   "score": 0.7568,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "Union Bank",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "rynite",
+   "score": 0.7358,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "ओोक इडिया",
+   "score": 0.8066,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 7,
+   "text": "of India",
+   "score": 0.9585,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "OVVOM",
+   "score": 0.7473,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "A Cevaemn of ide Undertakng",
+   "score": 0.6563,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "यूनियन",
+   "score": 0.9936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "माइल्स",
+   "score": 0.9956,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "市",
+   "score": 0.9948,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "साथ",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "अपने सपने",
+   "score": 0.9404,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "करें पूरे",
+   "score": 0.8763,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Union Miles",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "आकर्षक व्याज दर",
+   "score": 0.9192,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "(hat ge age a.",
+   "score": 0.5769,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "समय पूर्व भुगतान या आंशिक भुगतान शुल्क",
+   "score": 0.9195,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "समय",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "शुल्क",
+   "score": 0.8957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "नहीं",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "कोई",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "दस्तावेज़ीकरण",
+   "score": 0.8614,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "शुल्क",
+   "score": 0.9058,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "नहीं/ कोई छिपा हुआ प्रभार",
+   "score": 0.9641,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "नहीं",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "9619333333 gz firz te è 56161 z <UL0AN> SMS www.unionbankofindia.co.in",
+   "score": 0.8723,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (823x818); small print may be unreadable"
+ ],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 11.48,
+  "extract": 17.64
+ }
+}

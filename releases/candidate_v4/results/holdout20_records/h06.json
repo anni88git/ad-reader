@@ -1,0 +1,865 @@
+{
+ "image": "h06_Club_Mahindra_408.jpg",
+ "fields": {
+  "brand": {
+   "value": "Club Mahindra",
+   "evidence": "Club Mahindra",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Club Mahindra' (#150)"
+   ],
+   "matched_id": 150,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 150,
+     "name": "Club Mahindra",
+     "score": 100.0
+    },
+    {
+     "id": 5,
+     "name": "Mahindra",
+     "score": 96.0
+    },
+    {
+     "id": 16,
+     "name": "BMW",
+     "score": 60.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Club Mahindra",
+   "evidence": "Club Mahindra",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Experience everything at Club Mahindra Kumbhalgarh.",
+   "evidence": "Experience everything at Club Mahindra Kumbhalgarh.",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 86% similar) - check spelling - suggestion: Experience everything at everything ib Mahindra Kumbhalgarh.",
+    "a larger printed line exists ('NOTHING', 1.9x the headline size) - check which line is the main headline",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "From a royal dinner to a spa, palaces to folk performances, puppetry to pottery.",
+   "evidence": "From a royal dinner to a spa, palaces to folk performances, puppetry to pottery.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Sign up with Club Mahindra to enjoy 25 years of magical holidays at over 50 resorts in India and abroad. And we'll give you the best welcome ever, with an all-expense-paid 3N/4D holiday* at our Kumbhalgarh resort. Everything from your travel and airport transfers to your stay, food, spa treatments and fun activities is on us. Experience it all and pay nothing at all.",
+   "evidence": "Sign up with Club Mahindra to enjoy 25 years of magical holidays at over 50 resorts in India and abroad. And we'll give you the best welcome ever, with an all-expense-paid 3N/4D holiday* at our Kumbhalgarh resort. Everything from your travel and airport transfers to your stay, food, spa treatments and fun activities is on us. Experience it all and pay nothing at all.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Call 1800 209 2345, SMS \"CMH\" to 56677 or visit www.clubmahindra.com",
+   "evidence": "Call 1800 209 2345, SMS \"CMH\" to 56677 or visit www.clubmahindra.com",
+   "english": "Call 1800 209 2345, SMS CMH to 56677, or visit www.clubmahindra.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: service_provider",
+    "'manufacturer' does not fit a Travel & Hospitality ad - service provider / dealer?",
+    "second model says service_provider; in this disagreement the second model has been right every time measured - confirm",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Travel & Hospitality",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #18"
+   ],
+   "matched_id": 18,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 18,
+     "name": "Travel & Hospitality",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (http://q-r.to/bajQGi)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "http://q-r.to/bajQGi",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Club Mahindra Kumbhalgarh resort experience",
+    "25 years of magical holidays at over 50 resorts in India and abroad",
+    "All-expense-paid 3N/4D holiday at Kumbhalgarh resort",
+    "Free travel vouchers and free airport transfers",
+    "Call 1800 209 2345, SMS CMH to 56677, or visit www.clubmahindra.com",
+    "Download Club Mahindra app from Google Play and App Store"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Club Mahindra offers an all-expense-paid 3-night/4-day holiday at its Kumbhalgarh resort, including travel, airport transfers, stay, food, spa treatments and fun activities. Readers can call 1800 209 2345, SMS CMH to 56677, or visit www.clubmahindra.com to learn more.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002092345",
+     "kind": "toll_free",
+     "as_printed": "1800 209 2345"
+    },
+    "evidence": "Call 1800 209 2345",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.clubmahindra.com",
+    "evidence": "www.clubmahindra.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.clubmahindra.com/offer_tc",
+    "evidence": "http://www.clubmahindra.com/offer_tc",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "rahul.malhotra@mahindraholidays.com",
+    "evidence": "Rahul.Malhotra@mahindraholidays.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "royal dinner",
+    "evidence": "royal dinner",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "spa",
+    "evidence": "spa",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "palaces",
+    "evidence": "palaces",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "folk performances",
+    "evidence": "folk performances",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "puppetry",
+    "evidence": "puppetry",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "pottery",
+    "evidence": "pottery",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "108817",
+    "evidence": "108817",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "all-expense-paid 3N/4D holiday* at our Kumbhalgarh resort",
+    "evidence": "all-expense-paid 3N/4D holiday* at our Kumbhalgarh resort",
+    "english": "all-expense-paid 3-night/4-day holiday at Kumbhalgarh resort",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Free Travel Vouchers",
+    "evidence": "Free Travel Vouchers",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Free Airport Transfers",
+    "evidence": "Free Airport Transfers",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Club Mahindra Kumbhalgarh resort experience",
+  "25 years of magical holidays at over 50 resorts in India and abroad",
+  "All-expense-paid 3N/4D holiday at Kumbhalgarh resort",
+  "Free travel vouchers and free airport transfers",
+  "Call 1800 209 2345, SMS CMH to 56677, or visit www.clubmahindra.com",
+  "Download Club Mahindra app from Google Play and App Store"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "INDIA'S",
+   "score": 0.9985,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "FAVOURITE",
+   "score": 0.9907,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "RESORT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "CHAIN",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "Experience everything at",
+   "score": 0.9933,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "everything",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "ib Mahindra Kumbhalgarh.",
+   "score": 0.9705,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "From a royal dinner to a spa,",
+   "score": 0.9974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "palaces to folk performances,",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "puppetry to pottery.",
+   "score": 0.9668,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Sign up with Club Mahindra to enjoy",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "25 years of magical holidays at over",
+   "score": 0.9945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "50 resorts in India and abroad.",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "And we'll give you the best welcome",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "ever, with an all-expense-paid 3N/4D",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "holiday* at our Kumbhalgarh resort.",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Everything from your travel and airport",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "transfers to your stay, food, spa",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "treatments and fun activities is on us.",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Experience it all",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "and pay nothing at all.",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "108817",
+   "score": 0.775,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "春",
+   "score": 0.5039,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "NOTHING",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "X",
+   "score": 0.9172,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 26,
+   "text": "TAXI",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "Free Airport",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "Free Travel Vouchers",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "Transfers",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "Scan this code to bring",
+   "score": 0.9968,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "alive magical moments",
+   "score": 0.9779,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "Call 1800 209 2345, SMS \"CMH\" to 56677",
+   "score": 0.9372,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "or visit www.clubmahindra.com to know more about our other",
+   "score": 0.9946,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "resorts where you can experience everything and pay nothing.",
+   "score": 0.9896,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "Google play",
+   "score": 0.9524,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "ANDROEAPPON",
+   "score": 0.7849,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "Download on the",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "App Store",
+   "score": 0.9856,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "Enjoy many magical moments",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "with the Club Mahindra app.",
+   "score": 0.9945,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "*Terms, Conditions and Exclusions apply. Limited period offer valid only on select",
+   "score": 0.9888,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "Only at",
+   "score": 0.9964,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "ClubMahindra",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "memberships. I For Franchisee Enquiries, write to Rahul.Malhotra@mahindraholidays.com",
+   "score": 0.9884,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "Visit http://www.clubmahindra.com/offer_tc for detailed terms and conditions.",
+   "score": 0.992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "Club Mahindra rated India's favourite resort chain by HolidaylQ's Better Holiday Awards 2017.",
+   "score": 0.9895,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "18 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 12.05,
+  "extract": 32.52
+ }
+}

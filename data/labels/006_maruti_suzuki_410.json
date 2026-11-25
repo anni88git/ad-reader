@@ -1,0 +1,75 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Maruti Suzuki",
+ "product": "Baleno",
+ "model_variant": {
+  "any_of": [
+   null,
+   "Smart Hybrid",
+   "1.2L VVT Petrol"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": "Inspiring Design. Incredible Bold Appeal.",
+ "sub_headline": {
+  "any_of": [
+   "Make Bolder Moves.",
+   "Baleno Make Bolder Moves.",
+   null
+  ]
+ },
+ "price": null,
+ "websites": [
+  "www.nexaexperience.com"
+ ],
+ "emails": [],
+ "qr_code_present": true,
+ "category_attributes": {
+  "fuel_type": {
+   "any_of": [
+    [
+     "Petrol"
+    ],
+    [
+     "Hybrid",
+     "Petrol"
+    ],
+    null
+   ]
+  },
+  "ev_type": {
+   "any_of": [
+    "Non-EV",
+    null
+   ]
+  }
+ },
+ "_uncertain_fields": []
+}

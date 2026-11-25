@@ -1,0 +1,86 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Marathi"
+   ],
+   [
+    "Marathi",
+    "English"
+   ],
+   [
+    "Marathi",
+    "Hindi"
+   ],
+   [
+    "Marathi",
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Sachi Saheli",
+   "सच्ची सहेली"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Sachi Saheli",
+   "Sachi Saheli Ayurvedic Tonic",
+   "सच्ची सहेली",
+   "Ayurvedic Tonic"
+  ]
+ },
+ "model_variant": null,
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG",
+   "FMCG > Personal & Home Care"
+  ]
+ },
+ "headline": "कठीण समस्या आता राहणार नाहीत",
+ "sub_headline": {
+  "any_of": [
+   "सच्ची सहेली आहे उत्तम आरोग्याकरिता सर्वात विश्वसनीय औषधी आणि टॉनिक",
+   "पूर्ण स्वदेशी, पूर्ण आयुर्वेदिक",
+   null
+  ]
+ },
+ "price": null,
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "ambiguous"
+  },
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "United Colors of Benetton",
+   "Benetton",
+   "Lawrence & Mayo"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Benetton eyewear",
+   "United Colors of Benetton eyewear",
+   "Eyewear",
+   null
+  ]
+ },
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "Lawrence & Mayo",
+   "L&M",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "retailer",
+   "dealer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Fashion & Apparel",
+   "Fashion & Apparel > Watches & Accessories",
+   "Healthcare"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Be Unique Vibrant Bold You",
+   "BE Unique Vibrant Bold You",
+   "Launching exclusively at L&M stores"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "Launching exclusively at L&M stores",
+   "United Colors of Benetton.",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "9154071877"
+ ],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "ad_type",
+   "why": "ambiguous"
+  }
+ ]
+}

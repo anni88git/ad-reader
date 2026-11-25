@@ -1,0 +1,62 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Sunsilk"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Sunsilk Shampoo",
+   "Sunsilk Stunning Black Shine Shampoo",
+   "Sunsilk Co-Creations Stunning Black Shine"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Personal & Home Care",
+   "FMCG"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Iss Diwali, chamak hogi aur bhi bright with baal that shines day to night"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "sub_headline": {
+  "any_of": [
+   "Get free 24k gold plated hair jewellery with Sunsilk!",
+   null
+  ]
+ },
+ "_uncertain_fields": []
+}

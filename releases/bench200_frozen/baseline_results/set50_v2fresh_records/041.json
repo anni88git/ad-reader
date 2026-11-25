@@ -1,0 +1,1042 @@
+{
+ "image": "041_V6_Velugu_30.jpg",
+ "fields": {
+  "brand": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "headline": {
+   "value": "గ్రంధి ప్రారంభోత్సవం !",
+   "evidence": "గ్రంధి ప్రారంభోత్సవం !",
+   "english": "Grandi Grand Opening!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (63%)",
+    "second model disagrees - suggestion: గోప్య వినోపం వోరండి!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "సీ గం 6.03 నిులకు",
+   "evidence": "సీ గం 6.03 నిులకు",
+   "english": "From 6.03 AM",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (92%)",
+    "wording is not an exact match to the printed text (closest OCR reading 92% similar) - check spelling - suggestion: సా గం 6.03 నిులకు",
+    "second model disagrees - suggestion: సేపు గం 6.03 నిలాకు"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: manufacturer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Real Estate",
+    "category #11",
+    "record #11 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 11,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Retail & Consumer Electronics",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Telugu"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 90,
+   "evidence": "90",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no currency symbol",
+    "short number '90' found in OCR but without a ₹/price marker",
+    "several prices: confirm which is the current price / old (struck-out) price"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "model did not say; based on OCR"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Grandi shopping mall grand opening",
+    "Special shopping mall for newly married couples",
+    "Inaugurated by actress Hadia Rose",
+    "Located near bus stand",
+    "Opening offers starting from Rs 90",
+    "Various product categories with prices like 90, 140, 297, 333, 499, 2500, 399, 499, 999"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "missing",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 90,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "90"
+    },
+    "evidence": "90",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '90' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 140,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "140"
+    },
+    "evidence": "140",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '140' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 297,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "297"
+    },
+    "evidence": "297",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '297' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 333,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "333"
+    },
+    "evidence": "333",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '333' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 499,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "499"
+    },
+    "evidence": "499",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '499' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 2500,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "2500"
+    },
+    "evidence": "2500",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (2,500)",
+     "no currency symbol",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 399,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "399"
+    },
+    "evidence": "399",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '399' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 499,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "499"
+    },
+    "evidence": "499",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '499' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 999,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": null,
+     "as_printed": "999"
+    },
+    "evidence": "999",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "no currency symbol",
+     "short number '999' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Grandi shopping mall grand opening",
+  "Special shopping mall for newly married couples",
+  "Inaugurated by actress Hadia Rose",
+  "Located near bus stand",
+  "Opening offers starting from Rs 90",
+  "Various product categories with prices like 90, 140, 297, 333, 499, 2500, 399, 499, 999"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "నూతన వధూపరుల పెళ్ణిబట్లలకు",
+   "score": 0.9325,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "అద్చుతమైన ప్రత్యేక షాపింగ్ మాల్",
+   "score": 0.9402,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "పన్నకరండలd",
+   "score": 0.8567,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "బస్టాండ్ ప్రక్కన",
+   "score": 0.9919,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "ప్రముఖ సినతార",
+   "score": 0.8395,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "కుమారి హదీ రోజ్",
+   "score": 0.9327,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "గాంిచే",
+   "score": 0.8863,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "ఈరోజు",
+   "score": 0.984,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": ", గాప్ప పున్ః (ప్రారంభం !",
+   "score": 0.9102,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 10,
+   "text": "సా గం 6.03 నిులకు",
+   "score": 0.9275,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "G5",
+   "score": 0.6339,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "ప్రారంభోత్చబాదికి ంచ్ర్త్న ముఖ్య అతథులు",
+   "score": 0.768,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "కలిక్షన్న",
+   "score": 0.8708,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "ఇనింగ్ మాల్",
+   "score": 0.7905,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "•సెల్కృ్•టెక్ై్ రెడీమేడ్",
+   "score": 0.8731,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "d d d",
+   "score": 0.5072,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "ప్రారంభోత్తవ ఆఫర్మ్ ని మిస్ చేసుకోకండి….",
+   "score": 0.9353,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "Bom pb5",
+   "score": 0.758,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "90",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 20,
+   "text": "nod",
+   "score": 0.503,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "333",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "టిమ్యా పట్ద",
+   "score": 0.6887,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "0,60o",
+   "score": 0.5714,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "2500",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "2P",
+   "score": 0.7865,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "499",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "2p.",
+   "score": 0.8447,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "999",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "go6 do",
+   "score": 0.6256,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "2 3రw",
+   "score": 0.6689,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "ప్యర్ కతీల",
+   "score": 0.5965,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "mongd",
+   "score": 0.4812,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "కాటన్ క్రాజర్మ",
+   "score": 0.875,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "పంతd5",
+   "score": 0.6106,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "140",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "nd ad do",
+   "score": 0.8454,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "aoend",
+   "score": 0.6874,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "333",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "da",
+   "score": 0.8879,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "90",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 41,
+   "text": "aa",
+   "score": 0.4864,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 42,
+   "text": "3PS",
+   "score": 0.7384,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 43,
+   "text": "3",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 44,
+   "text": "999",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "da",
+   "score": 0.7101,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 46,
+   "text": "2pes",
+   "score": 0.856,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 47,
+   "text": "999",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "ddwe",
+   "score": 0.7358,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 49,
+   "text": "BA",
+   "score": 0.6493,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 50,
+   "text": "పలి ప్",
+   "score": 0.5626,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "Pes",
+   "score": 0.9755,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 52,
+   "text": "పార్వ్ ప్యాం్ి",
+   "score": 0.6633,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 53,
+   "text": "(D5 (P)",
+   "score": 0.6206,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "og,sdo at",
+   "score": 0.6423,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 55,
+   "text": "297",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "పట ై",
+   "score": 0.5595,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 57,
+   "text": "499",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "2πcs",
+   "score": 0.6422,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 59,
+   "text": "399",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "3P",
+   "score": 0.8389,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 61,
+   "text": "999",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "3Pes",
+   "score": 0.8257,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 63,
+   "text": "999",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "@poe do",
+   "score": 0.5011,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 65,
+   "text": "80 w",
+   "score": 0.5577,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 66,
+   "text": "tbeo",
+   "score": 0.7313,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 67,
+   "text": "P్igerad a్",
+   "score": 0.6156,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 68,
+   "text": "పా్ల్ aర్ట్ం",
+   "score": 0.5183,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 69,
+   "text": "85",
+   "score": 0.5664,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 70,
+   "text": "ansd",
+   "score": 0.6724,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 71,
+   "text": "Gedl",
+   "score": 0.5319,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 72,
+   "text": "and",
+   "score": 0.7703,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 73,
+   "text": "digd",
+   "score": 0.6441,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 74,
+   "text": "అద్బుతమెన సరిక్రొత్త మరెన్నో ఆఫర్ప్ లలో షాపింగ్ చేయండి",
+   "score": 0.9196,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "no brand identified - manual entry required",
+  "model note: The Telugu text in the image is not fully legible for exact transcription of many fields.",
+  "model note: Prices appear in colored circles but the product labels associated with them are not clearly readable.",
+  "model note: No advertiser name, phone, address, or website is clearly visible in the ad.",
+  "model note: The brand name 'Grandi' is inferred from the OCR reference and visual context but may not be exact.",
+  "8 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 43.12,
+  "extract": 8.07
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Renault",
+ "product": {
+  "any_of": [
+   "Duster",
+   "Triber",
+   "Kwid",
+   null
+  ]
+ },
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": {
+  "any_of": [
+   "Reasons to Smile",
+   "Renault Reasons to Smile"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "make your new year bigger than ever",
+   null
+  ]
+ },
+ "price": {
+  "any_of": [
+   957000,
+   520000,
+   313000
+  ]
+ },
+ "websites": {
+  "required": [
+   "renault.co.in"
+  ],
+  "optional": [
+   "www.renault.co.in/offers"
+  ]
+ },
+ "emails": [
+  "corpsales@renault.com"
+ ],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

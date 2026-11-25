@@ -1,0 +1,659 @@
+{
+ "image": "d107_Amar_Ujala_7.jpg",
+ "fields": {
+  "brand": {
+   "value": "Tata Motors",
+   "evidence": "TATA MOTORS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Tata Motors' (#4)"
+   ],
+   "matched_id": 4,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 4,
+     "name": "Tata Motors",
+     "score": 100.0
+    },
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 73.7
+    },
+    {
+     "id": 22,
+     "name": "TVS Motor",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Tata Motors",
+   "evidence": "TATA MOTORS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "exact match to existing record 'Tata Motors Ltd' (#7)"
+   ],
+   "matched_id": 7,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 7,
+     "name": "Tata Motors Ltd",
+     "score": 100.0
+    },
+    {
+     "id": 4,
+     "name": "Kia Jaipur Motors",
+     "score": 66.6
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "इस मानसून, टाटा मोटर्स के साथ अपने सफर को सुरक्षित बनाएं",
+   "evidence": "इस मानसून, टाटा मोटर्स के साथ अपने सफर को सुरक्षित बनाएं",
+   "english": "This monsoon, make your journey safe with Tata Motors",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "आकर्षक ऑफर पाने के लिए आज ही बुक करें",
+   "evidence": "आकर्षक ऑफर पाने के लिए आज ही बुक करें",
+   "english": "Book today to get attractive offers",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "3years | 100 000 km",
+   "evidence": "3years | 100 000 km",
+   "english": "3 years | 100,000 km warranty",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "आकर्षक ऑफर पाने के लिए आज ही बुक करें",
+   "evidence": "आकर्षक ऑफर पाने के लिए आज ही बुक करें",
+   "english": "Book today to get attractive offers",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "TATA MOTORS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed",
+    "amount ₹50 000 is a benefit / saving, not the price",
+    "model's reading was 50000"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Tata Motors cars displayed",
+    "₹50,000 benefits",
+    "3 years | 100,000 km warranty",
+    "Low EMI on exchange",
+    "Fair value for your current car",
+    "Trust of ownership in safe hands",
+    "Instant and free valuation as per your convenience"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Tata Motors is running a monsoon campaign offering ₹50,000 benefits and a 3-year / 100,000 km warranty on its cars. Customers can book today to get attractive offers, with low EMI on exchange, fair value for their existing car, and instant free valuation.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8929567222",
+     "kind": "mobile",
+     "as_printed": "8929567222"
+    },
+    "evidence": "PREET VIHAR: 8929567222/9. SAGAR MOTORS: PATPARGANJ: 7506019545. SAGAR MOTORS: DILSHAD GARDEN: 7506019521. SAB MOTORS: GOKULPURI: 8291058108. NORTH DELHI: CHERISH CAR: ROHINI: 7039049471. AUTOVIKAS: WAZIRPUR: 7506019445. SPARSH AUTOTECH: NARELA:",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "ट्रस्ट आफ ओनरशिप सुरक्षित हाथों में",
+    "evidence": "ट्रस्ट आफ ओनरशिप सुरक्षित हाथों में",
+    "english": "Trust of ownership in safe hands",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "आपके सुविधानुसार तुरंत और निःशुल्क मूल्यांकन",
+    "evidence": "आपके सुविधानुसार तुरंत और निःशुल्क मूल्यांकन",
+    "english": "Instant and free valuation as per your convenience",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "तक के फायदे*",
+    "evidence": "तक के फायदे*",
+    "english": "Benefits up to ₹50,000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "एक्सचेंज में नई कार पर कम EMI*",
+    "evidence": "एक्सचेंज में नई कार पर कम EMI*",
+    "english": "Low EMI on new car in exchange",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "आपकी मौजूदा कार का उचित मूल्य पाएँ",
+    "evidence": "आपकी मौजूदा कार का उचित मूल्य पाएँ",
+    "english": "Get fair value for your current car",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "3years | 100 000 km",
+    "evidence": "3years | 100 000 km",
+    "english": "3 years | 100,000 km warranty",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 50000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "तक के फायदे*",
+     "item": "benefits",
+     "as_printed": "₹50 000"
+    },
+    "evidence": "₹50 000",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (50,000)",
+     "labelled as a benefit / saving / discount, not a selling price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "एक्सचेंज में नई कार पर कम EMI*",
+   "evidence": "एक्सचेंज में नई कार पर कम EMI*",
+   "english": "Low EMI on new car in exchange",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Tata Motors cars displayed",
+  "₹50,000 benefits",
+  "3 years | 100,000 km warranty",
+  "Low EMI on exchange",
+  "Fair value for your current car",
+  "Trust of ownership in safe hands",
+  "Instant and free valuation as per your convenience"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "TATA MOTORS",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "TATA",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Connecting Aspirations",
+   "score": 0.9943,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "इस मानसून, टाटा मोटर्स के साथ अपने सफर को सुरक्षित बनाएं",
+   "score": 0.9814,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "इस मानसून, टाटा मोटर्स के र",
+   "score": 0.9584,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "आकर्षक ऑफर पाने के लिए आज ही बुक करें",
+   "score": 0.9731,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "TIGOR",
+   "score": 0.9991,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 8,
+   "text": "NEXON",
+   "score": 0.9995,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 9,
+   "text": "NOW WITH",
+   "score": 0.946,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "WITH",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "50000",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "3years | 100 000 km",
+   "score": 0.9454,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "तक के फायदे*",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "WARRANTY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "TATA MOTORS",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "एक्सचेंज में नई कार पर कम EMI*",
+   "score": 0.8873,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "आपकी मौजूदा कार का उचित मूल्य पांएँ",
+   "score": 0.9309,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "ट्रस्ट आफ ओनरशिप सुरक्षित हाथों में",
+   "score": 0.9485,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "आपके सुविधानुसार तुरंत और निःशुल्क मूल्यांकन",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ASSURED",
+   "score": 0.9929,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "SOUTH DELHI: TREO AUTO: OKHLA: 7506019457. TREO AUTO: SAFDARJUNG ENCLAVE: 7506019454. TREO AUTO: NEHRU PLACE: 7506019457. TREO AUTO: SAKET: 7506019454.SAB MOTORS: LAJPAT NAGAR: 7506019487. SAB MOTORS: MATHURA ROAD: 7506019505. EAST DELHI: DPS CARS:",
+   "score": 0.9833,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 22,
+   "text": "PREET VIHAR: 8929567222/9. SAGAR MOTORS: PATPARGANJ: 7506019545. SAGAR MOTORS: DILSHAD GARDEN: 7506019521. SAB MOTORS: GOKULPURI: 8291058108. NORTH DELHI: CHERISH CAR: ROHINI: 7039049471. AUTOVIKAS: WAZIRPUR: 7506019445. SPARSH AUTOTECH: NARELA:",
+   "score": 0.9858,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "8291058089. MALWA: PRASHANT VIHAR: 7506019463. WEST DELHI: DELIGHT MOTORS: JANAKPURI: 7045211252. SPARSH AUTOTECH: NAJAFGARH: 7506019549. SPARSH AUTOTECH: PALAM DABRI: 7506019683. TRUENORTH: MAYAPURI: 7506019838. TRUENORTH: PEERAGARHI: 9619223251.",
+   "score": 0.9881,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 24,
+   "text": "AUTOVIKAS: MOTI NAGAR: 7506019415. AUTOVIKAS: DWARKA: 9619023842. AUTOVIKAS: DWARKA: 7506019416. CENTRAL DELHI: ARYA MOTORS: DARYAGANJ: 7506019408. SPARSH AUTOTECH: KAROL BAGH: 9619490132. NOIDA: SAGAR MOTORS: SECTOR 5: 7506020132. SAGAR MOTORS:",
+   "score": 0.9878,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 25,
+   "text": "SECTOR 63: 9167622374. GREATER NOIDA: SAGAR MOTORS: 7506020227. JEWAR: SAGAR MOTORS: 8291304204. GURUGRAM: HIMGIRI AUTOMOBILES: HERO HONDA CHOWK: 9619140714. ZEDEX MOBILITY: GOLF COURSE EXTN ROAD: 9167617962. ZEDEX MOBILITY: SOHNA ROAD: 7506019906.",
+   "score": 0.9862,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "ARYA MOTORS: UDYOG VIHAR: 8291539640, ARYA MOTORS: SEC-14: 7506019879, ARYA MOTORS: GOLF COURSE ROAD: 7506019902, CSG AUTOMOBILES: SOHNA: 8879054086, HIMGIRI AUTOMOBILES: WAZIRPUR: 8291522893.MANESAR : HIMGIRI AUTOMOBILES : 8291210154. PATAUDI:",
+   "score": 0.98,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.48,
+  "extract": 17.84
+ }
+}

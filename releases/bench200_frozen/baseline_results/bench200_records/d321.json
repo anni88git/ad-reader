@@ -1,0 +1,1123 @@
+{
+ "image": "d321_Maharashtra_Times_21.jpg",
+ "fields": {
+  "brand": {
+   "value": "Reliance Fashion",
+   "evidence": "Reliance Growth is Life FASHION",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Reliance",
+    "no exact record; closest: Reliance Jio, Reliance Digital"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 67,
+     "name": "Reliance Jio",
+     "score": 76.9
+    },
+    {
+     "id": 50,
+     "name": "Reliance Digital",
+     "score": 62.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Reliance Fashion",
+   "evidence": "Reliance Growth is Life FASHION",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no exact record; closest: Reliance Digital"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 15,
+     "name": "Reliance Digital",
+     "score": 62.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "UNBRANDED TO BRANDED EXCHANGE Festival",
+   "evidence": "UNBRANDED TO BRANDED EXCHANGE Festival",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 64% similar) - check spelling",
+    "second model disagrees - suggestion: UNBRANDED TO BRANDED"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "TILL 23RD JULY",
+   "evidence": "TILL 23RD JULY",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: EXCHANGE Festival"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Scan for store location",
+   "evidence": "Scan for store location",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "DENIM SHIRTS Levi's Lee Cooper PUMA Raymond Pepe Jeans London FASHION",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://relff.com/game?r=qr)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://relff.com/game?r=qr",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Unbranded to Branded Exchange Festival till 23rd July",
+    "Exchange value for old denim ₹400 plus up to 50% off on new",
+    "Exchange value for old shirts ₹250 plus up to 50% off on new",
+    "Brands: Levi's, Lee Cooper, Puma, Raymond, Pepe Jeans London",
+    "Stores in Mumbai: Andheri (E), Kandivali (W), Kalyan Malad (W), Mira Road, Thane (R Mall, Korum Mall), Vashi, Vasai (W)",
+    "Store manager phones: 9372509669 / 9833109010 / 8291029089"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Reliance Fashion is running an Unbranded to Branded Exchange Festival till 23rd July. Get up to ₹400 exchange value for old denim and ₹250 for old shirts, plus up to 50% off on new items from brands like Levi's, Lee Cooper, Puma, Raymond, and Pepe Jeans London. Visit stores in Mumbai including Andheri, Kandivali, Kalyan, Malad, Mira Road, Thane, Vashi, and Vasai.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9372509669",
+     "kind": "mobile",
+     "as_printed": "9372509669"
+    },
+    "evidence": "STORE MANAGER : 9372509669 / 9833109010 / 8291029089",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9833109010",
+     "kind": "mobile",
+     "as_printed": "9833109010"
+    },
+    "evidence": "STORE MANAGER : 9372509669 / 9833109010 / 8291029089",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8291029089",
+     "kind": "mobile",
+     "as_printed": "8291029089"
+    },
+    "evidence": "STORE MANAGER : 9372509669 / 9833109010 / 8291029089",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "@rel_fashionfactory",
+    "evidence": "@rel_fashionfactory",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "@FashionF_IND",
+    "evidence": "@FashionF_IND",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "ANDHERI (E)",
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": "Andheri (E)",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KANDIVALI (W)",
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": "Kandivali (W)",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KALYAN MALAD (W)",
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": "Kalyan Malad (W)",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MIRA ROAD",
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": "Mira Road",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "THANE (R MALL | KORUM MALL)",
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": "Thane (R Mall | Korum Mall)",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "VASHI",
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": "Vashi",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "VASAI (W)",
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": "Vasai (W)",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "UPTO 50% OFF ON NEW",
+    "evidence": "UPTO 50% OFF ON NEW",
+    "english": "Up to 50% off on new",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 400,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "EXCHANGE VALUE FOR OLD",
+     "item": "DENIM",
+     "as_printed": "₹400"
+    },
+    "evidence": "₹400",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '400' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 250,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "EXCHANGE VALUE FOR OLD",
+     "item": "SHIRTS",
+     "as_printed": "₹250"
+    },
+    "evidence": "₹250",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '250' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Reliance Fashion",
+     "area": "ANDHERI (E)",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Reliance Digital; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Reliance Fashion",
+     "area": "KANDIVALI (W)",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Reliance Digital; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Reliance Fashion",
+     "area": "KALYAN MALAD (W)",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Reliance Digital; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Reliance Fashion",
+     "area": "MIRA ROAD",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Reliance Digital; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Reliance Fashion",
+     "area": "THANE (R MALL | KORUM MALL)",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Reliance Digital; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Reliance Fashion",
+     "area": "VASHI",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Reliance Digital; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Reliance Fashion",
+     "area": "VASAI (W)",
+     "city": "MUMBAI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 15,
+       "name": "Reliance Digital",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "STORES IN MUMBAI: ANDHERI (E) | KANDIVALI (W) | KALYAN MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL) VASHI | VASAI (W)",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Reliance Digital; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Reliance Fashion",
+   "evidence": "Reliance Growth is Life FASHION",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "DENIM SHIRTS",
+   "evidence": "DENIM SHIRTS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "UPTO 50% OFF ON NEW",
+   "evidence": "UPTO 50% OFF ON NEW",
+   "english": "Up to 50% off on new",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "TILL 23RD JULY",
+   "evidence": "TILL 23RD JULY",
+   "english": "Till 23rd July",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Unbranded to Branded Exchange Festival till 23rd July",
+  "Exchange value for old denim ₹400 plus up to 50% off on new",
+  "Exchange value for old shirts ₹250 plus up to 50% off on new",
+  "Brands: Levi's, Lee Cooper, Puma, Raymond, Pepe Jeans London",
+  "Stores in Mumbai: Andheri (E), Kandivali (W), Kalyan Malad (W), Mira Road, Thane (R Mall, Korum Mall), Vashi, Vasai (W)",
+  "Store manager phones: 9372509669 / 9833109010 / 8291029089"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Reliance",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "EXCHANG",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Growth is Life",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "OLDF",
+   "score": 0.9337,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "DISCC",
+   "score": 0.9501,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "NEW",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "DENIM",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "EXCHANGE VALUE FOR OLD",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "400",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "ऱ",
+   "score": 0.8089,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "+",
+   "score": 0.9892,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "TILL 23RD JULY",
+   "score": 0.9753,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "50oFF",
+   "score": 0.809,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "UPTO",
+   "score": 0.8691,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "UNBRANDED",
+   "score": 0.9646,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "ON NEW",
+   "score": 0.9964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "TOBRANDED",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "SHIRTS",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "EXCHANGE VALUE FOR OLD",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "250",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "ऱ",
+   "score": 0.7259,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "EXCHANGE",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Festival",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "50FF",
+   "score": 0.6114,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "ON NEW",
+   "score": 0.9587,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Levi's",
+   "score": 0.8979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "LeCooper:",
+   "score": 0.8364,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "PUMA",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "R raymond",
+   "score": 0.9072,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "PepeJeamo.",
+   "score": 0.9032,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "LONDON",
+   "score": 0.9885,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "STORES IN MUMBAI: ANDHERI (E) KANDIVALI (W) | KALYAN",
+   "score": 0.9786,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "MALAD (W) | MIRA ROAD | THANE (R MALL | KORUM MALL)",
+   "score": 0.9583,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "VASHI | VASAI (W)",
+   "score": 0.9457,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "FASHION",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Scan for store location",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "STOREMANAGER:9372509669/9833109010/8291029089",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "@rel_fashionfactory",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "@FashionF_IND",
+   "score": 0.991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "@rel.fashionfactory",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 17.25,
+  "extract": 37.53
+ }
+}

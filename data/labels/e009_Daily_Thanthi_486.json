@@ -1,0 +1,78 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "BVK",
+   "Bai Veetu Kalyanam",
+   "BVK Biryani",
+   "The BVK Biryani"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Biryani",
+   "BVK Biryani"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "retailer",
+   "manufacturer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Food Delivery & Restaurants"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "60 Mins Delivery across Chennai",
+   "Bai Veetu Kalyanam The Biryani Cordially Invites You"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "phones": [
+  "9444900433"
+ ],
+ "websites": [
+  "thebvkbiryani.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "English",
+    "Tamil"
+   ],
+   [
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

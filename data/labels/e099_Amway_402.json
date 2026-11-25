@@ -1,0 +1,62 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Amway",
+   "Nutrilite",
+   "Amway Nutrilite"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Nutrilite Traditional Herbs range",
+   "Nutrilite Traditional Herbs",
+   "Tulsi, Ashwagandha, Brahmi, Amalaki Vibhitaki & Haritaki"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Introducing Nutrilite Traditional Herbs range.",
+   "Best of nature. Best of science. Best of traditional wisdom."
+  ]
+ },
+ "price": 649,
+ "qr_code_present": true,
+ "websites": [
+  "amway.in"
+ ],
+ "_uncertain_fields": []
+}

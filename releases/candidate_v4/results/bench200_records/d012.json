@@ -1,0 +1,981 @@
+{
+ "image": "d012_Navbharat_Times_12.jpg",
+ "fields": {
+  "brand": {
+   "value": "KENT",
+   "evidence": "KENT",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "RO Water Purifier",
+   "evidence": "RO वॉटर प्यूरिफायर्स लायें",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: GRAND STAR",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": "KENT GRAND STAR",
+   "evidence": "KENT GRAND STAR",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "KENT",
+   "evidence": "KENT Mineral RO Water Purifiers HOUSE of PURITY",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "बीमारियों से बचें दुनिया के बेस्ट RO वॉटर प्यूरिफायर्स लायें",
+   "evidence": "बीमारियों से बचें दुनिया के बेस्ट RO वॉटर प्यूरिफायर्स लायें",
+   "english": "Protect yourself from diseases, bring the world's best RO water purifiers",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 63% similar) - check spelling",
+    "second model disagrees - suggestion: बिमारीयों से बचें दुनिया के बेस्ट RO वॉटर प्यूरिफायर्स लायें"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "HOUSE of PURITY",
+   "evidence": "HOUSE of PURITY",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "पीने के पानी में अशुद्धियों से गंभीर बीमारियां हो सकती हैं। केन्ट RO की एडवांस्ड बहुस्तरीय प्यूरिफिकेशन टेक्नोलॉजी RO+UV+UF+TDS कंट्रोल खासकर पानी से घुली हुई अशुद्धियां निकालती है पर जरूरी मिनरल्स बरकरार रखती हैं। टैंक के अंदर UV LED शुद्ध किए गए पानी को शुद्ध बनाए रखती है। केन्ट RO पानी को सिर्फ शुद्ध ही नहीं बनाता बल्कि शुद्ध किए गए पानी की शुद्धता को भी डिस्प्ले करता है, ताकि आप हमेशा सुनिश्चित रहें कि 100% शुद्ध पानी मिल रहा है। आज ही केन्ट RO घर लायें और अपने परिवार को सुरक्षित रखें।",
+   "evidence": "पीने के पानी में अशुद्धियों से गंभीर बीमारियां हो सकती हैं। केन्ट RO की एडवांस्ड बहुस्तरीय प्यूरिफिकेशन टेक्नोलॉजी RO+UV+UF+TDS कंट्रोल खासकर पानी से घुली हुई अशुद्धियां निकालती है पर जरूरी मिनरल्स बरकरार रखती हैं। टैंक के अंदर UV LED शुद्ध किए गए पानी को शुद्ध बनाए रखती है। केन्ट RO पानी को सिर्फ शुद्ध ही नहीं बनाता बल्कि शुद्ध किए गए पानी की शुद्धता को भी डिस्प्ले करता है, ताकि आप हमेशा सुनिश्चित रहें कि 100% शुद्ध पानी मिल रहा है। आज ही केन्ट RO घर लायें और अपने परिवार को सुरक्षित रखें।",
+   "english": "Impurities in drinking water can cause serious diseases. Kent RO's advanced multi-stage purification technology RO+UV+UF+TDS control removes dissolved impurities while retaining essential minerals. UV LED inside the tank keeps purified water pure. Kent RO not only purifies water but also displays its purity so you are always assured of 100% pure water. Bring home Kent RO today and keep your family safe.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "4 YEARS FREE SERVICE 1 Year+3 Years",
+   "evidence": "4 YEARS FREE SERVICE 1 Year+3 Years",
+   "english": "4 years free service 1 year plus 3 years",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "फ्री डेमो के लिए, कॉल करे 9582-123-456 | वेबसाइट www.kent.co.in | सर्विस के लिए कॉल करें 92-789-12345",
+   "evidence": "फ्री डेमो के लिए, कॉल करे 9582-123-456 | वेबसाइट www.kent.co.in | सर्विस के लिए कॉल करें 92-789-12345",
+   "english": "Call 9582-123-456 for free demo, visit www.kent.co.in, call 92-789-12345 for service",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Home Appliances",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #27"
+   ],
+   "matched_id": 27,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 27,
+     "name": "Retail & Consumer Electronics > Home Appliances",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://qr.kent.co.in/r/rw8hotl7uf0h)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://qr.kent.co.in/r/rw8hotl7uf0h",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Kent RO water purifier with RO+UV+UF+TDS control",
+    "UV LED inside tank keeps water pure",
+    "Digital display of purity",
+    "100% pure water assured",
+    "4 years free service",
+    "Call 9582-123-456 for free demo",
+    "Service number 92-789-12345",
+    "Website www.kent.co.in",
+    "Available at major retail stores across the country"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Kent RO water purifier uses advanced RO+UV+UF+TDS technology to remove impurities while keeping essential minerals, with UV LED in the tank to maintain purity and a digital display showing 100% pure water. It comes with 4 years free service; call 9582-123-456 for a free demo or 92-789-12345 for service, and visit www.kent.co.in.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9582123456",
+     "kind": "mobile",
+     "as_printed": "9582-123-456"
+    },
+    "evidence": "फ्री डेमो के लिए, कॉल करे 9582-123-456",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9278912345",
+     "kind": "mobile",
+     "as_printed": "92-789-12345"
+    },
+    "evidence": "सर्विस के लिए कॉल करें 92-789-12345",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01278912345",
+     "kind": "landline",
+     "as_printed": "12-789-12345"
+    },
+    "evidence": "फ्री डेमो के लिए, कॉल करे 9582-123-456 | वेबसाइट www.kent.co.in | सर्विस के लिए कॉल करें 12-789-12345",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.kent.co.in",
+    "evidence": "वेबसाइट www.kent.co.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Purification by RO+UV+UF+TDS Control+UV in Tank",
+    "evidence": "Purification by RO+UV+UF+TDS Control+UV in Tank",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "RO+UV+UF+TDS कंट्रोल एवं टैंक में UV द्वारा शुद्धिकरण",
+    "evidence": "RO+UV+UF+TDS कंट्रोल एवं टैंक में UV द्वारा शुद्धिकरण",
+    "english": "RO+UV+UF+TDS control and purification by UV in tank",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "शुद्धता का डिजिटल डिस्प्ले",
+    "evidence": "शुद्धता का डिजिटल डिस्प्ले",
+    "english": "Digital display of purity",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "मिनरल्स बरकरार रखे",
+    "evidence": "मिनरल्स बरकरार रखे",
+    "english": "Retains minerals",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "टैंक में UV LED",
+    "evidence": "टैंक में UV LED",
+    "english": "UV LED in tank",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "4 YEARS FREE SERVICE",
+    "evidence": "4 YEARS FREE SERVICE",
+    "english": "4 years free service",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "1 Year+3 Years",
+    "evidence": "1 Year+3 Years",
+    "english": "1 year plus 3 years",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100% शुद्ध पानी",
+    "evidence": "100% शुद्ध पानी",
+    "english": "100% pure water",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "नो वॉटर वेस्टेज",
+    "evidence": "नो वॉटर वेस्टेज",
+    "english": "No water wastage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Kent RO water purifier with RO+UV+UF+TDS control",
+  "UV LED inside tank keeps water pure",
+  "Digital display of purity",
+  "100% pure water assured",
+  "4 years free service",
+  "Call 9582-123-456 for free demo",
+  "Service number 92-789-12345",
+  "Website www.kent.co.in",
+  "Available at major retail stores across the country"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "KENT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "सबसे बेहतरीन डोमेस्टिक वॉटर प्युरिफायर अवॉर्ड",
+   "score": 0.9805,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "बीमारियों से बचें",
+   "score": 0.9695,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Mineral RO",
+   "score": 0.9956,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "2007-08",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "2011-12",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "2016-17",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "दुनिया के बेस्ट",
+   "score": 0.9894,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Water Purifiers",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "HOUSE of PURITY",
+   "score": 0.9674,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "R0 वॉटर प्यूरिफायर्स लायें",
+   "score": 0.9641,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Purfication by RO+UV+UF+TDS Control+UV in Tank",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "पीने के पानी में अशुद्धियों से गंभीर बीमारियां हो सकती हैं। केन्ट 20 की एडवांस्ड",
+   "score": 0.9626,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "बहुस्तरीय प्यूरिफिकेशन टेक्नोलॉजी R0+UV+UF+TDS कंट्रोल खासकर पानी से घुली हुई",
+   "score": 0.9763,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "KENT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "अशुद्धियां निकालती है पर जरूरी मिनरल्स बरकरार रखती हैं। टैंक के अंदर UVLED",
+   "score": 0.9598,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Mineral RO",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "शुद्ध किए गए पानी को शुद्ध बनाए रखती है।",
+   "score": 0.9334,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "केंट 20 पानी को सिर्फ शुद्ध ही नहीं बनाता बल्क शुद्ध किए गए पानी की शुद्ता को भी",
+   "score": 0.9509,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "डिस्प्ले करता है, ताकि आप हमेशा सुनिश्चित रहें कि 100% शुद्व पानी मिल रहा है।",
+   "score": 0.945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "आज ही केट R0 घर लायें और अपने परिवार को सुरक्षित रखें।",
+   "score": 0.9781,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "KENT GRAND STAR",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "KENT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "100%",
+   "score": 0.9759,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "मिनरल्स",
+   "score": 0.9609,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "शुद्ध",
+   "score": 0.9322,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "बरक्ररार",
+   "score": 0.9458,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "YEARS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "पानी",
+   "score": 0.9722,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "रखे",
+   "score": 0.8164,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "FREE SERVICE",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "नो",
+   "score": 0.9883,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "POR VELL 92789-12345",
+   "score": 0.7994,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "1 Year+3Years",
+   "score": 0.964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "टैंक में",
+   "score": 0.9837,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Charce",
+   "score": 0.9735,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 37,
+   "text": "Sevice",
+   "score": 0.8354,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 38,
+   "text": "वॉटर",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "UV LED",
+   "score": 0.9532,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "शुद्वता का डिजिटल डिसप्ले",
+   "score": 0.9344,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "वेस्टेज",
+   "score": 0.9512,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "R0+UV+UF+TDS कंट्रोल एवं टैंक में UV द्वारा शुद्विकरण",
+   "score": 0.9615,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "'शतैं लागू",
+   "score": 0.7935,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 44,
+   "text": "फ्री डेमो के लिए, कॉल करे 9582-123-456 | वेबसाइट www.kent.co.in | सर्विस के लिए कॉल करें 12-789-12345",
+   "score": 0.9564,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "• Delhi & NCR: Aqua Purifiers; Ace International Inc; Vijay Enterprises; Milan Electronics; Aqua Club Tech; Kay Dee Audiovisions Private; Maharani Electrical; J B Electricals; Cold Point Electricals; Electronic Mart; Shree",
+   "score": 0.9959,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 46,
+   "text": "Krishna Health Care; Mahima Electronics; Wonder Water Solutions; Aarush Enterprises · Panipat: Aakash Electronics • Sonipat: Balaji RO Water Solution • Rewari: Khandelwal Machinery Store · Agra: Mahima Enterprises;",
+   "score": 0.9823,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 47,
+   "text": "Gaurav Distributors; RK Marketing; S.B.Water Solution • Firozabad : Mahima Enterprises • Aligarh: Jai Ambey Motors; Raghav Enterprises • Etah: Mahima Enterprises; Luxmi Tv Agencies • Kasganj: Mahima Enterprises; Yash",
+   "score": 0.985,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 48,
+   "text": "Traders • Bareilly: Veer Enterprises: Murli Gallery; Gala Agencies; Weather Control • Badaun: Veer Enterprises; Ajmera Glass Elet. • Jhansi: Jay Maa Ratangarh; V R Traders; Soni Agencies • Lalitpur: Lalit Radio & Electricals",
+   "score": 0.9887,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 49,
+   "text": "• Mathura: Khatushyam Appliances; Mohit RO Services; Vibhor Shopy · Meerut: Royal Enterprises; Singh Sales Corporation • Baraut: Royal Enterprises Mayur TV Centre • Kotdwar: Oms Enterprises • Moradabad: Jai Enginering",
+   "score": 0.9796,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 50,
+   "text": "& Electronic; Aar Kay Sons • Hapur: Sarveshwari Enterprises • Saharanpur: Luxmi Sons; Perfect Water Purifier Solutions • Varanasi: Applied Referigeration; Modern Sales & Services; Kashika Enterprises; Top In Town; Jai Mata",
+   "score": 0.9894,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 51,
+   "text": "Di; K R Associates; Panchvati Company; A P Enterprises; Aqua Spot • Renukoot: Kejriwal Electronics • Dehradun: Lotus Enterprises; Goyal Assosiates; Wamika Enterprises; Pentech India Corp. • Doiwala: Jeet Electronics",
+   "score": 0.9871,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 52,
+   "text": "• Rudrapur: Aastha Electronics; Guru Maa Enterprises • Haldwani: Naini Engineering • Muzaffarnagar: V N Traders; Pradeep Enterprises • Bulandshahar: Laxmi Trading Company • Khurja: Nakul Electricals",
+   "score": 0.9769,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 53,
+   "text": "Scan",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "to know",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "देश भर में सभी प्रमुख",
+   "score": 0.9843,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "Reliancedigital",
+   "score": 0.9956,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "cromā",
+   "score": 0.9934,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 58,
+   "text": "vijary sules",
+   "score": 0.9112,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 59,
+   "text": "cria",
+   "score": 0.6702,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 60,
+   "text": "EP ELECTRONIC PARADISE",
+   "score": 0.9837,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 61,
+   "text": "ELECTRONICS",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "more",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 63,
+   "text": "घरेलू उपकरण स्टोर्स पर उपलब्ध।",
+   "score": 0.9467,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 64,
+   "text": "www.vijaysales.com",
+   "score": 0.9367,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 65,
+   "text": "MART",
+   "score": 0.9999,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "14 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 46.05,
+  "extract": 15.74
+ }
+}

@@ -1,0 +1,557 @@
+{
+ "image": "d122_Amar_Ujala_22.jpg",
+ "fields": {
+  "brand": {
+   "value": "Accumass",
+   "evidence": "ACCUMASS",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Dr. Juneja's",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Accumass Ayurvedic Granules",
+   "evidence": "एक्यूमॉस आयुर्वेदिक ग्रेन्यूल्स",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (97%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": "500g+25g Extra=525g",
+   "evidence": "Net Qty. 500g+25g Extra=525g",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Dr. Juneja's",
+   "evidence": "Dr. Juneja's",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "वजन बढ़ाए आत्मविश्वास जगाए",
+   "evidence": "वजन बढ़ाए आत्मविश्वास जगाए",
+   "english": "Gain weight, awaken self-confidence",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 63% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "'Gain Weight. Gain Confidence.",
+   "evidence": "'Gain Weight. Gain Confidence.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "यदि आप बहुत दुबले-पतले हैं तो निराश न हों, एक्यूमॉस आपका वजन बढ़ाने और आत्मविश्वास जगाने, दोनों में अति सहायक है। यह एक प्रमाणित आयुर्वेदिक औषधि है एवं पूर्णतः सुरक्षित है।",
+   "evidence": "यदि आप बहुत दुबले-पतले हैं तो निराश न हों, एक्यूमॉस आपका वजन बढ़ाने और आत्मविश्वास जगाने, दोनों में अति सहायक है। यह एक प्रमाणित आयुर्वेदिक औषधि है एवं पूर्णतः सुरक्षित है।",
+   "english": "If you are very thin, do not despair. Accumass is very helpful in increasing your weight and awakening self-confidence. It is a certified Ayurvedic medicine and completely safe.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (93%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Available at all medical stores",
+   "evidence": "Available at all medical stores",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: FMCG > Food & Beverages",
+    "category #25",
+    "record #25 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 25,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 548,
+   "evidence": "MRP 548/-",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (548)",
+    "no currency symbol",
+    "only an MRP is printed - the MRP is the selling price",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Accumass Ayurvedic Granules for weight gain",
+    "Certified Ayurvedic medicine, completely safe",
+    "MRP Rs 548/- Net Qty 500g+25g Extra=525g",
+    "24x7 Helpline 85568 09999",
+    "Available at all medical stores"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Accumass Ayurvedic Granules help underweight people gain weight and self-confidence. It is a certified Ayurvedic medicine, completely safe. MRP Rs 548/- for 525g pack. Call 24x7 helpline 85568 09999 or visit www.accumass.com. Available at all medical stores.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8556809999",
+     "kind": "mobile",
+     "as_printed": "85568 09999"
+    },
+    "evidence": "24x7 Helpline: 85568 09999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 548,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "Accumass Ayurvedic Granules 500g+25g Extra=525g",
+     "as_printed": "MRP 548/-"
+    },
+    "evidence": "MRP 548/-",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (548)",
+     "no currency symbol"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.accumass.com",
+    "evidence": "www.accumass.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "एक्यूमॉस आयुर्वेदिक ग्रेन्यूल्स",
+    "evidence": "एक्यूमॉस आयुर्वेदिक ग्रेन्यूल्स",
+    "english": "Accumass Ayurvedic Granules",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "वजन बढ़ाने और आत्मविश्वास जगाने में अति सहायक",
+    "evidence": "एक्यूमॉस आपका वजन बढ़ाने और आत्मविश्वास जगाने, दोनों में अति सहायक है",
+    "english": "Very helpful in increasing weight and awakening self-confidence",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "प्रमाणित आयुर्वेदिक औषधि एवं पूर्णतः सुरक्षित",
+    "evidence": "यह एक प्रमाणित आयुर्वेदिक औषधि है एवं पूर्णतः सुरक्षित है",
+    "english": "Certified Ayurvedic medicine and completely safe",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Extra 25g",
+    "evidence": "Extra 25g",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "500g+25g Extra=525g",
+    "evidence": "Net Qty. 500g+25g Extra=525g",
+    "english": "Net Qty. 500g+25g Extra=525g",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Accumass Ayurvedic Granules for weight gain",
+  "Certified Ayurvedic medicine, completely safe",
+  "MRP Rs 548/- Net Qty 500g+25g Extra=525g",
+  "24x7 Helpline 85568 09999",
+  "Available at all medical stores"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Extra 25g",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "वज़न बढ़ाए",
+   "score": 0.9608,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Dr. Juneja's",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "एक्यूमॉस आयु्वेदिक ग्रेन्यूल्स",
+   "score": 0.9447,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "ACCUMASS",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "यदि आप बहुत दुबले-पतले हैं तो निराश न हों,",
+   "score": 0.9656,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "आतमविश्वास",
+   "score": 0.9483,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "एक्यूमॉस आपका वजन बढ़ाने और आत्मविश्वास",
+   "score": 0.9546,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ACCUMASS",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "जगाने, दोनों में अति सहायक है। यह एक प्रमाणित",
+   "score": 0.9359,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "आयुर्वदिक औषधि है एवं पूर्गत: सुरक्षित है।",
+   "score": 0.9538,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "जगाए",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "'Gain Weight. Gain Confidence.",
+   "score": 0.973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "MRP 548/- Net Qty. 500g+25g Extra=525g",
+   "score": 0.9838,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "\"Gain weightaccording to your body capablity to absorb extra calories fromAccumass, Results may vary.",
+   "score": 0.9695,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 16,
+   "text": "25g EXTRA",
+   "score": 0.9654,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "24x7 Helpline: 85568 09999 | www.accumass.com | Available at all medical stores",
+   "score": 0.9753,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 9.13,
+  "extract": 9.45
+ }
+}

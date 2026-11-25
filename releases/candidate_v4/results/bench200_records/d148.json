@@ -1,0 +1,2003 @@
+{
+ "image": "d148_Amar_Ujala_48.jpg",
+ "fields": {
+  "brand": {
+   "value": "Galgotias University",
+   "evidence": "Galgotias University",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Amity University, Chandigarh University, Lovely Professional University"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 41,
+     "name": "Amity University",
+     "score": 72.9
+    },
+    {
+     "id": 43,
+     "name": "Chandigarh University",
+     "score": 66.7
+    },
+    {
+     "id": 42,
+     "name": "Lovely Professional University",
+     "score": 62.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Galgotias University",
+   "evidence": "Galgotias University",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Galgotias University Surpassing Milestones, Year-After-Year",
+   "evidence": "Galgotias University Surpassing Milestones, Year-After-Year",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 78% similar) - check spelling - suggestion: Surpassing Milestones, GALGOTIAS UNIVERSITY Year-After-Year",
+    "second model disagrees - suggestion: Galgotias University Surpassing Milestones, Year-After-Year",
+    "headline looks like a fragment; second model's longer headline contains it and is printed in the ad (OCR)",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Top Rankings, Accreditations and Recognition for Excellence in Education, Research and Placements",
+   "evidence": "Top Rankings, Accreditations and\nRecognition for Excellence\nin Education, Research and Placements",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "GALGOTIAS UNIVERSITY RECEIVES RECORD BREAKING 632,722 CUET APPLICATIONS (2023-24)",
+   "evidence": "GALGOTIAS UNIVERSITY RECEIVES RECORD\nBREAKING 632,722 CUET APPLICATIONS (2023-24)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "#GetYourSelfPlaced",
+   "evidence": "#GetYourSelfPlaced",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Galgotias University",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: recruitment",
+    "'manufacturer' does not fit a Education ad - service provider / dealer?"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": "Galgotias University",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English",
+    "Hindi"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://admissions.galgotiasuniversity.edu.in/)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://admissions.galgotiasuniversity.edu.in/",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Galgotias University record breaking 632,722 CUET applications 2023-24",
+    "NAAC A+ accreditation in First Cycle",
+    "NBA Tier-1 Accredited",
+    "Ranked Amongst TOP 50 in India in Innovation by NIRF Ranking 2023",
+    "Ranked #52 in India (Pharmacy Category) by NIRF Ranking 2023",
+    "Ranked #91 in India (Management Category) by NIRF Ranking 2023",
+    "Band 100-150 in India (Engineering Category) by NIRF Ranking 2023",
+    "Top Ranked by India Today: School of Law Ranked No.1 in Academic Excellence in Private Institutions in India",
+    "Top Ranked by India Today: School of Hospitality and Tourism Ranked No.1 in Infrastructure & Living Experience among Private Institutions in North India",
+    "Top Ranked by India Today: School of Mass Communication Ranked No.1 in Academic Excellence amongst Private Institutions in North India",
+    "Grade Platinum A++ (GRADE A++) for Institution of Academic Excellence OBE Rankings 2022",
+    "Galgotias University Ranked Top 5 in India for Filing Record 417 Patents as per the Indian Patent Office Report for Academic Institutes and Universities",
+    "Top Placement: National Employability Award 2023 (AMCAT Test) for School of Computing Science and Engineering, Galgotias University on account of students performance being among the top 10% Nationally",
+    "CEOWORLD Magazine: Galgotias University, School of Hospitality & Tourism, India is ranked among the TOP 50 Best Hospitality and Hotel Management Schools in the World for 2023 as per CEOWORLD, USA",
+    "EduSkills: Galgotias University awarded as the star performing institute in internships with an All India 6th Rank in AICTE - EduSkills virtual internship programme 2022",
+    "Times Engineering Ranking 2023: Galgotias University Ranked #19 Amongst All India Engineering Institutions",
+    "Times Engineering Ranking 2023: Galgotias University Ranked #17 Amongst Top Private Universities in India",
+    "Times Engineering Ranking 2023: Galgotias University Ranked #14 for providing Top Placement, Pan India",
+    "Times Engineering Ranking 2023: Galgotias University Ranked #10 for Top Research Capability, Pan India",
+    "Admission Open 2023-24 for Career-Focused UG / PG / Ph.D. Degrees",
+    "Courses: Computing Science and Engineering, Civil Engineering, Media and Communications Studies, Pharmacy, Electrical Engineering, Design, Law, Medical & Allied Sciences, Electronics & Communication Engineering, Education, Agriculture, Business, Mechanical Engineering, Nursing, Basic & Applied Science, Hospitality & Tourism, Liberal Education, Finance & Commerce, Polytechnic",
+    "Call to action: #GetYourSelfPlaced",
+    "Address: Plot No.2, Sector 17-A, Yamuna Expressway, Greater Noida, Gautam Buddh Nagar, Uttar Pradesh, India",
+    "Website: https://admissions.galgotiasuniversity.edu.in, www.galgotiasuniversity.edu.in",
+    "Email: admission@galgotiasuniversity.edu.in",
+    "Phones: +91-98101-62221, +91-97173-00418, +91-95828-47072, +91-120-4370000"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Galgotias University advertises its record-breaking 632,722 CUET applications for 2023-24, along with numerous national rankings and accreditations including NAAC A+, NBA Tier-1, and NIRF rankings. Admissions are open for 2023-24 for career-focused UG, PG, and Ph.D. degrees across many disciplines. Prospective students can apply online or contact the university via phone, email, or visit the Greater Noida campus.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9810162221",
+     "kind": "mobile",
+     "as_printed": "+91-98101-62221"
+    },
+    "evidence": "Call : +91-98101-62221,+91-97173-00418, +91-95828-47072, +91-120-4370000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717300418",
+     "kind": "mobile",
+     "as_printed": "+91-97173-00418"
+    },
+    "evidence": "Call : +91-98101-62221,+91-97173-00418, +91-95828-47072, +91-120-4370000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582847072",
+     "kind": "mobile",
+     "as_printed": "+91-95828-47072"
+    },
+    "evidence": "Call : +91-98101-62221,+91-97173-00418, +91-95828-47072, +91-120-4370000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01204370000",
+     "kind": "landline",
+     "as_printed": "+91-120-4370000"
+    },
+    "evidence": "Call : +91-98101-62221,+91-97173-00418, +91-95828-47072, +91-120-4370000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "admissions.galgotiasuniversity.edu.in",
+    "evidence": "to apply online visit: https://admissions.galgotiasuniversity.edu.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.galgotiasuniversity.edu.in",
+    "evidence": "www.galgotiasuniversity.edu.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "admission@galgotiasuniversity.edu.in",
+    "evidence": "admission@galgotiasuniversity.edu.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Plot No.2, Sector 17-A, Yamuna Expressway, Greater Noida, Gautam Buddh Nagar, Uttar Pradesh, India.",
+    "evidence": "Plot No.2, Sector 17-A,\nYamuna Expressway, Greater Noida,\nGautam Buddh Nagar,\nUttar Pradesh, India.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "NAAC A+ Accreditation in First Cycle",
+    "evidence": "NAAC A+\nAccreditation in First Cycle",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NBA Tier-1 Accredited",
+    "evidence": "NBA\nNATIONAL BOARD\nOF ACCREDITATION\nTIER-1 ACCREDITED",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ranked Amongst TOP 50 in India in Innovation",
+    "evidence": "Ranked Amongst\nTOP 50\nin India in Innovation",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ranked #52 in India (Pharmacy Category)",
+    "evidence": "Ranked\n#52 in India\n(Pharmacy Category)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ranked #91 in India (Management Category)",
+    "evidence": "Ranked\n#91 in India\n(Management Category)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Band 100-150 in India (Engineering Category)",
+    "evidence": "Band\n100-150\nin India\n(Engineering Category)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Grade Platinum A++ (GRADE A++) for Institution of Academic Excellence",
+    "evidence": "Grade\nPLATINUM\nA++\nBAND\nOBE RANKINGS 2022\n(GRADE A++) for Institution\nof Academic Excellence",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ranked Top 5 in India for Filing Record 417 Patents",
+    "evidence": "Galgotias University Ranked Top 5\nin India for Filing Record 417\nPatents as per the Indian Patent\nOffice Report for Academic\nInstitutes and Universities",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "National Employability Award 2023 (AMCAT Test)",
+    "evidence": "TOP PLACEMENT:\nNational Employability Award 2023 (AMCAT Test)\nfor School of Computing Science and Engineering,\nGalgotias University on account of students\nperformance being among the top 10% Nationally.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ranked among the TOP 50 Best Hospitality and Hotel Management Schools in the World for 2023",
+    "evidence": "Galgotias University, School of Hospitality & Tourism,\nIndia is ranked among the ToP 50 Best Hospitality\nand Hotel Management Schools in the World for 2023\nas per CEOWORLD, USA",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "All India 6th Rank in AICTE - EduSkills virtual internship programme 2022",
+    "evidence": "Galgotias University awarded as the star\nperforming institute in internships with an\nAll India 6th Rank in AICTE - EduSkills\nvirtual internship programme 2022.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "Uttar Pradesh Private Universities Act No. 12 of 2019",
+    "evidence": "(Under the Uttar Pradesh Private Universities Act No. 12 of 2019)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Galgotias University",
+   "evidence": "Galgotias University",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "Computing Science and Engineering, Civil Engineering, Media and Communications Studies, Pharmacy, Electrical Engineering, Design, Law, Medical & Allied Sciences, Electronics & Communication Engineering, Education, Agriculture, Business, Mechanical Engineering, Nursing, Basic & Applied Science, Hospitality & Tourism, Liberal Education, Finance & Commerce, Polytechnic",
+   "evidence": "Computing Science and Engineering\nCivil Engineering\nMedia and Communications Studies\nPharmacy\nElectrical Engineering\nDesign\nLaw\nMedical & Allied Sciences\nElectronics & Communication\nEngineering\nEducation\nAgriculture\nBusiness\nMechanical Engineering\nNursing\nBasic & Applied Science\nHospitality & Tourism\nLiberal Education\nFinance & Commerce\nPolytechnic",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "exam": {
+   "value": "CUET",
+   "evidence": "BREAKING 632,722 CUET APPLICATIONS (2023-24)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "admission_dates": {
+   "value": "2023-24",
+   "evidence": "ADMISSION OPEN 2023-24 for CAREER-FOCUSED UG / PG / Ph.D. DEGREES in",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Galgotias University record breaking 632,722 CUET applications 2023-24",
+  "NAAC A+ accreditation in First Cycle",
+  "NBA Tier-1 Accredited",
+  "Ranked Amongst TOP 50 in India in Innovation by NIRF Ranking 2023",
+  "Ranked #52 in India (Pharmacy Category) by NIRF Ranking 2023",
+  "Ranked #91 in India (Management Category) by NIRF Ranking 2023",
+  "Band 100-150 in India (Engineering Category) by NIRF Ranking 2023",
+  "Top Ranked by India Today: School of Law Ranked No.1 in Academic Excellence in Private Institutions in India",
+  "Top Ranked by India Today: School of Hospitality and Tourism Ranked No.1 in Infrastructure & Living Experience among Private Institutions in North India",
+  "Top Ranked by India Today: School of Mass Communication Ranked No.1 in Academic Excellence amongst Private Institutions in North India",
+  "Grade Platinum A++ (GRADE A++) for Institution of Academic Excellence OBE Rankings 2022",
+  "Galgotias University Ranked Top 5 in India for Filing Record 417 Patents as per the Indian Patent Office Report for Academic Institutes and Universities",
+  "Top Placement: National Employability Award 2023 (AMCAT Test) for School of Computing Science and Engineering, Galgotias University on account of students performance being among the top 10% Nationally",
+  "CEOWORLD Magazine: Galgotias University, School of Hospitality & Tourism, India is ranked among the TOP 50 Best Hospitality and Hotel Management Schools in the World for 2023 as per CEOWORLD, USA",
+  "EduSkills: Galgotias University awarded as the star performing institute in internships with an All India 6th Rank in AICTE - EduSkills virtual internship programme 2022",
+  "Times Engineering Ranking 2023: Galgotias University Ranked #19 Amongst All India Engineering Institutions",
+  "Times Engineering Ranking 2023: Galgotias University Ranked #17 Amongst Top Private Universities in India",
+  "Times Engineering Ranking 2023: Galgotias University Ranked #14 for providing Top Placement, Pan India",
+  "Times Engineering Ranking 2023: Galgotias University Ranked #10 for Top Research Capability, Pan India",
+  "Admission Open 2023-24 for Career-Focused UG / PG / Ph.D. Degrees",
+  "Courses: Computing Science and Engineering, Civil Engineering, Media and Communications Studies, Pharmacy, Electrical Engineering, Design, Law, Medical & Allied Sciences, Electronics & Communication Engineering, Education, Agriculture, Business, Mechanical Engineering, Nursing, Basic & Applied Science, Hospitality & Tourism, Liberal Education, Finance & Commerce, Polytechnic",
+  "Call to action: #GetYourSelfPlaced",
+  "Address: Plot No.2, Sector 17-A, Yamuna Expressway, Greater Noida, Gautam Buddh Nagar, Uttar Pradesh, India",
+  "Website: https://admissions.galgotiasuniversity.edu.in, www.galgotiasuniversity.edu.in",
+  "Email: admission@galgotiasuniversity.edu.in",
+  "Phones: +91-98101-62221, +91-97173-00418, +91-95828-47072, +91-120-4370000"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "अमरउजाला",
+   "score": 0.971,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "amarujala.com",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "नई दिल्लीसोमवार, 10 जुलाई 2023",
+   "score": 0.9275,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "Galgotias University",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Surpassing Milestones,",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "GALGOTIAS UNIVERSITY",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Year-After-Year",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Top Rankings, Accreditations and",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Recognition for Excellence",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "in Education, Research and Placements",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "GALGOTIAS UNIVERSITY RECEIVES RECORD",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "BREAKING 632,722 CUET APPLICATIONS(2023-24)",
+   "score": 0.9905,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "NAAC A+",
+   "score": 0.9554,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "This makes Galgotias",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "Galgotias University",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Galgotias University",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Galgotias University",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Galgotias University",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "University the only",
+   "score": 0.9808,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "Ranked Amongst",
+   "score": 0.9862,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Ranked",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "Ranked",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Band",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "private university",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "TOP 50",
+   "score": 0.9621,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "#52 in India",
+   "score": 0.9292,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "#91in India",
+   "score": 0.9332,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "100-150",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "in Uttar Pradesh with",
+   "score": 0.9761,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "in India",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "- Accreditation in First Cycle-",
+   "score": 0.9375,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "the highest NAAC CGPA",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "in India in Innovation",
+   "score": 0.9747,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "(Pharmacy Category)",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "(Management Category)",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "(Engineering Category)",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "and the second highest amongst state private universities",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "in the entire country with a NAAC CGPA of 3.37 out of 4",
+   "score": 0.9873,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "by NIRF Ranking 2023",
+   "score": 0.9666,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "awarded by NAAC in the First Cycle of NAAC Accreditation.",
+   "score": 0.9951,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "nirf",
+   "score": 0.9926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "NATIONAL INSTITUTIONAL",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "शिक्षा मंत्रालय",
+   "score": 0.9752,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "NBA",
+   "score": 0.9248,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "NATIONAL BOARD",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "RANKING FRAMEWORK",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "Ministry of Education",
+   "score": 0.9901,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "Government of India",
+   "score": 0.9986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "OF ACCREDITATION",
+   "score": 0.9852,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "TIER-1ACCREDITED",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "TOP RANKED BY INDIA TODAY",
+   "score": 0.9795,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "The Highest Benchmark of Academic Excellence,",
+   "score": 0.9981,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "Placements & Research for Computer Science",
+   "score": 0.994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "Galgotias University Ranked#1",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "School of Law,",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "School of Hospitality",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "School of Mass",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 58,
+   "text": "Engineering, Mechanical Engineering, Electronics &",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 59,
+   "text": "in India",
+   "score": 0.9703,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "Galgotias",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "and Tourism,",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 62,
+   "text": "Communication,",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "Communications Engineering, B.Pharm and MBA",
+   "score": 0.9935,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 64,
+   "text": "in Academic",
+   "score": 0.9821,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 65,
+   "text": "University",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "Galgotias University",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "Galgotias University",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "and Research",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 69,
+   "text": "Ranked No.1 in",
+   "score": 0.9727,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 70,
+   "text": "Ranked No.1 in",
+   "score": 0.9739,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 71,
+   "text": "Ranked No.1in",
+   "score": 0.9988,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 72,
+   "text": "Students who graduate in the above mentioned NBA accredited",
+   "score": 0.9923,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 73,
+   "text": "Excellence as",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 74,
+   "text": "Academic",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 75,
+   "text": "Infrastructure & Living",
+   "score": 0.9947,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 76,
+   "text": "Academic Excellence",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "programmes during the validity period of accreditation will be",
+   "score": 0.98,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 78,
+   "text": "per India Today",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 79,
+   "text": "Excellence in",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "Experience among",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 81,
+   "text": "amongst Private",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 82,
+   "text": "deemed to have graduated with an NBA accredited degree.",
+   "score": 0.9771,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 83,
+   "text": "Private Institutions",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 84,
+   "text": "- MDRA Best",
+   "score": 0.9714,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 85,
+   "text": "Private Institutions",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 86,
+   "text": "Institutions in",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 87,
+   "text": "Universities",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 88,
+   "text": "THE BEST",
+   "score": 0.9635,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 89,
+   "text": "in India",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "in North India",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 91,
+   "text": "North India",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 92,
+   "text": "Grade",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "Galgotias University",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "Survey 2022",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 95,
+   "text": "OF INDIA",
+   "score": 0.9863,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 96,
+   "text": "As per India Today-MDRA Survey 2023 \"The Best Colleges of India\"",
+   "score": 0.9958,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 97,
+   "text": "Ranked in Platinum Band",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 98,
+   "text": "PLATINUM",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "(GRADE A++) for Institution",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 100,
+   "text": "Galgotias University Ranked Top 5",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 101,
+   "text": "TOP PLACEMENT:",
+   "score": 0.9696,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 102,
+   "text": "BAND",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 103,
+   "text": "of Academic Excellence",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 104,
+   "text": "in India for Filing Record 417",
+   "score": 0.9834,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 105,
+   "text": "National Employability Award 2023(AMCAT Test)",
+   "score": 0.9905,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 106,
+   "text": "OBE RANKINGS 2022",
+   "score": 0.979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 107,
+   "text": "OBE Rankings 2022",
+   "score": 0.9876,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 108,
+   "text": "Patents as per the Indian Patent",
+   "score": 0.9931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 109,
+   "text": "for School of Computing Science and Engineering,",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 110,
+   "text": "Achieves excellence in quality education, & implementation of the latest teaching-",
+   "score": 0.9827,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 111,
+   "text": "Office Report for Academic",
+   "score": 0.9907,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 112,
+   "text": "Galgotias University on account of students",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 113,
+   "text": "learning methodologies, including the outcome-based education models.",
+   "score": 0.9942,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 114,
+   "text": "Institutes and Universities",
+   "score": 0.9778,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 115,
+   "text": "performance being among the top 10% Nationally.",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 116,
+   "text": "CEOWORLD Magazine",
+   "score": 0.9772,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 117,
+   "text": "Galgotias University, School of Hospitality & Tourism,",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 118,
+   "text": "EduSkills®",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 119,
+   "text": "Galgotias University awarded as the star",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 120,
+   "text": "India is ranked among the ToP 50 Best Hospitality",
+   "score": 0.9826,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 121,
+   "text": "performing institute in internships with an",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 122,
+   "text": "and Hotel Management Schools in the World for 2023",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 123,
+   "text": "Nation Building Through Skills",
+   "score": 0.9956,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 124,
+   "text": "All India 6th Rank in AICTE - EduSkills",
+   "score": 0.9434,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 125,
+   "text": "as per CEOWORLD, USA",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 126,
+   "text": "virtual internship programme 2022.",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 127,
+   "text": "TIMES ENGINEERING",
+   "score": 0.9828,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 128,
+   "text": "Galgotias University",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 129,
+   "text": "Galgotias University",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 130,
+   "text": "Galgotias University",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 131,
+   "text": "Galgotias University",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 132,
+   "text": "Ranked #19",
+   "score": 0.9966,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 133,
+   "text": "Ranked #17",
+   "score": 0.9962,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 134,
+   "text": "Ranked #14",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 135,
+   "text": "Ranked #10",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 136,
+   "text": "Ranking 2023",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 137,
+   "text": "Amongst All India",
+   "score": 0.9973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 138,
+   "text": "Amongst Top Private",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 139,
+   "text": "for providing Top Placement,",
+   "score": 0.9829,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 140,
+   "text": "for Top Research",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 141,
+   "text": "Engineering Institutions",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 142,
+   "text": "Universities in India",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 143,
+   "text": "Pan India",
+   "score": 0.9972,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 144,
+   "text": "Capability, Pan India",
+   "score": 0.9927,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 145,
+   "text": "ADMISSION OPEN 2023-24 for CAREER-FOCUSED UG / PG / Ph.D. DEGREES in",
+   "score": 0.9715,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 146,
+   "text": "Computing Science and Engineering",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 147,
+   "text": "Civil Engineering",
+   "score": 0.9759,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 148,
+   "text": "Media and Communications Studies",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 149,
+   "text": "Pharmacy",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 150,
+   "text": "Electrical Engineering",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 151,
+   "text": "Design",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 152,
+   "text": "Law",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 153,
+   "text": "Medical & Allied Sciences",
+   "score": 0.9873,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 154,
+   "text": "Electronics & Communication",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 155,
+   "text": "Education",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 156,
+   "text": "Agriculture",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 157,
+   "text": "Business",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 158,
+   "text": "Engineering",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 159,
+   "text": "Nursing",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 160,
+   "text": "Basic & Applied Science",
+   "score": 0.9964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 161,
+   "text": "Hospitality & Tourism",
+   "score": 0.9837,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 162,
+   "text": "Mechanical Engineering",
+   "score": 0.9828,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 163,
+   "text": "Liberal Education",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 164,
+   "text": "Finance & Commerce",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 165,
+   "text": "Polytechnic",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 166,
+   "text": "#GetYourSelfPlaced",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 167,
+   "text": "GALGOTIAS",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 168,
+   "text": "UNIVERSITY",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 169,
+   "text": "(Under the Uttar Pradesh Private Universities Act No. 12 of 2019)",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 170,
+   "text": "We are committed to carry forward the vision of our Visionary Honourable Prime Minister Shri Narendra Modi Ji of making India a Vishvaguru and the dream",
+   "score": 0.9935,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 171,
+   "text": "of our Dynamic Honourable Chief Minister of Uttar Pradesh Shri Yogi AdityaNath Ji for making the State of UP a truly Global Knowledge Superpower.",
+   "score": 0.9941,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 172,
+   "text": "Plot No.2, Sector 17-A,",
+   "score": 0.9904,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 173,
+   "text": "For the complete list of programmes offered and",
+   "score": 0.9806,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 174,
+   "text": "Yamuna Expressway, Greater Noida,",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 175,
+   "text": "to applyonline visit: https://admissions.galgotiasuniversity.edu.in",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 176,
+   "text": "Gautam Buddh Nagar,",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 177,
+   "text": "www.galgotiasuniversity.edu.in,",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 178,
+   "text": "Uttar Pradesh, India.",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 179,
+   "text": "admission@galgotiasuniversity.edu.in",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 180,
+   "text": "Call:+91-98101-62221,+91-97173-00418, +91-95828-47072,+91-120-4370000",
+   "score": 0.9908,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 181,
+   "text": "Follow us on",
+   "score": 0.965,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "67 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 36.31,
+  "extract": 28.97
+ }
+}

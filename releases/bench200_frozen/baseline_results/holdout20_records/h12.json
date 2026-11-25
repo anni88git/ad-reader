@@ -1,0 +1,4015 @@
+{
+ "image": "h12_hyundai_415.jpg",
+ "fields": {
+  "brand": {
+   "value": "Hyundai",
+   "evidence": "Hyundai",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Hyundai' (#3)"
+   ],
+   "matched_id": 3,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 3,
+     "name": "Hyundai",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "AURA",
+   "evidence": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Aura' (#35)"
+   ],
+   "matched_id": 35,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 35,
+     "name": "Aura",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": "1.2 I Eco TORQ",
+   "evidence": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Hyundai",
+   "evidence": "HYUNDAI",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: DEEP / HANS / UNIVERSAL / FRONTIER / VD / SAPPHIRE / SAPPHIRE / LAMBA / KONCEPT / KONCEPT / KONCEPT / SHUBAN SAI / PAHWA / UNITY / UNITY / HEMKUND / PAHWA / MALWA / HIMGIRI / HIMGIRI / SHUBAN SAI / SUNRISE / SUNRISE / MAHADEV / MAHADEV / BOHRA / TRIUMPH / PARASHAR / MALWA / HIMGIRI / JMV / SAFDARJANG / SUPERON / SUPERON / TRIUMPH / TRIUMPH / DEE EMM / DEE EMM / JRD NIMBUS CAPITAL / CAPITAL / DREAM / KARMA / FORTUNE / M.R / M.R. / SHINE / PAWAN / DREAM / FORTUNE / FORTUNE",
+    "exact match to existing record 'Hyundai Motor India Ltd' (#8)",
+    "record #8 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 8,
+   "candidates": [
+    {
+     "id": 8,
+     "name": "Hyundai Motor India Ltd",
+     "score": 100.0
+    },
+    {
+     "id": 6,
+     "name": "Kothari Hyundai",
+     "score": 96.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "Diesel fuels weekends.",
+   "evidence": "Diesel fuels weekends.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "evidence": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Hyundai presents the widest and the most powerful range of diesel engines."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Hyundai presents the widest and the most powerful range of diesel engines.",
+   "evidence": "Hyundai presents the widest and the most powerful range of diesel engines.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "5 Year Wonder Warranty",
+   "evidence": "5 Year Wonder Warranty",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Give a missed call on 7829042833",
+   "evidence": "Give a missed call on 7829042833",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "HYUNDAI",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Hyundai AURA with 1.2 I Eco TORQ engine delivers 75ps power and superb mileage",
+    "Widest and most powerful range of diesel engines across Grand i10 NIOS, i20, VERNA, ELANTRA, VENUE, CRETA, TUCSON",
+    "Exclusive ₹ 8 000 LTC offer for government employees",
+    "Special offer for medical professionals, selected corporates, teachers and CAs",
+    "5 Year Wonder Warranty, Complete Peace of Mind 3 Years Road Side Assistance (RSA), Lowest cost of maintenance, Hyundai ClicktoBuy, Hyundai Mobility Membership",
+    "Give a missed call on 7829042833",
+    "Dealer network across West Delhi, South Delhi, Central Delhi, North Delhi, East Delhi, Faridabad, Palwal, Kundli, Gurugram, Noida, Greater Noida, Ghaziabad, Modinagar"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Hyundai promotes its diesel engine range, highlighting the AURA with 1.2 I Eco TORQ engine delivering 75ps power and superb mileage. Special offers include ₹ 8,000 LTC for government employees and special offers for medical professionals, corporates, teachers and CAs. Readers can give a missed call on 7829042833 or visit dealers across Delhi NCR.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7829042833",
+     "kind": "mobile",
+     "as_printed": "7829042833"
+    },
+    "evidence": "Give a missed call on 7829042833",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896366",
+     "kind": "mobile",
+     "as_printed": "7428896366"
+    },
+    "evidence": "DEEP (Mangolpuri) 7428896366",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896360",
+     "kind": "mobile",
+     "as_printed": "7428896360"
+    },
+    "evidence": "HANS (Motinagar) 7428896360",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9319485011",
+     "kind": "mobile",
+     "as_printed": "9319485011"
+    },
+    "evidence": "UNIVERSAL (Najafgarh) 9319485011",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896363",
+     "kind": "mobile",
+     "as_printed": "7428896363"
+    },
+    "evidence": "FRONTIER (Raja Puri Dwarka) 7428896363",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896234",
+     "kind": "mobile",
+     "as_printed": "7428896234"
+    },
+    "evidence": "VD (Peeragarhi) 7428896234",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896362",
+     "kind": "mobile",
+     "as_printed": "7428896362"
+    },
+    "evidence": "SAPPHIRE (Mayapuri Ph-1) 7428896362",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896369",
+     "kind": "mobile",
+     "as_printed": "7428896369"
+    },
+    "evidence": "SAPPHIRE (Sec. 20 Dwarka) 7428896369",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896374",
+     "kind": "mobile",
+     "as_printed": "7428896374"
+    },
+    "evidence": "LAMBA (Malviya Nagar) 7428896374",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896368",
+     "kind": "mobile",
+     "as_printed": "7428896368"
+    },
+    "evidence": "KONCEPT (Okhla) 7428896368",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896367",
+     "kind": "mobile",
+     "as_printed": "7428896367"
+    },
+    "evidence": "KONCEPT (Kailash Colony Branch) 7428896367",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896361",
+     "kind": "mobile",
+     "as_printed": "7428896361"
+    },
+    "evidence": "KONCEPT (Green park) 7428896361",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896232",
+     "kind": "mobile",
+     "as_printed": "7428896232"
+    },
+    "evidence": "SHUBAN SAI (Mathura Road, MCIE) 7428896232",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896370",
+     "kind": "mobile",
+     "as_printed": "7428896370"
+    },
+    "evidence": "PAHWA (Karol Bagh) 7428896370",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896356",
+     "kind": "mobile",
+     "as_printed": "7428896356"
+    },
+    "evidence": "UNITY (Shalimar Place) 7428896356",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896371",
+     "kind": "mobile",
+     "as_printed": "7428896371"
+    },
+    "evidence": "UNITY (Rohini) 7428896371",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896365",
+     "kind": "mobile",
+     "as_printed": "7428896365"
+    },
+    "evidence": "PAHWA (Shakti Nagar) 7428896365",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896358",
+     "kind": "mobile",
+     "as_printed": "7428896358"
+    },
+    "evidence": "MALWA (Narela) 7428896358",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896355",
+     "kind": "mobile",
+     "as_printed": "7428896355"
+    },
+    "evidence": "HIMGIRI (Dayanand Vihar) 7428896355",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896373",
+     "kind": "mobile",
+     "as_printed": "7428896373"
+    },
+    "evidence": "HIMGIRI (Jhilmil Indl. Area) 7428896373",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896364",
+     "kind": "mobile",
+     "as_printed": "7428896364"
+    },
+    "evidence": "SHUBAN SAI (East Gokulpur) 7428896364",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896359",
+     "kind": "mobile",
+     "as_printed": "7428896359"
+    },
+    "evidence": "SUNRISE (Patparganj) 7428896359",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896357",
+     "kind": "mobile",
+     "as_printed": "7428896357"
+    },
+    "evidence": "SUNRISE (Opp. Mother Dairy Plant) 7428896357",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896227",
+     "kind": "mobile",
+     "as_printed": "7428896227"
+    },
+    "evidence": "MAHADEV (NHPC Chowk) 7428896227",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896230",
+     "kind": "mobile",
+     "as_printed": "7428896230"
+    },
+    "evidence": "MAHADEV (Byepass rad) 7428896230",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896231",
+     "kind": "mobile",
+     "as_printed": "7428896231"
+    },
+    "evidence": "BOHRA (Neelam Bata Road) 7428896231",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896108",
+     "kind": "mobile",
+     "as_printed": "7428896108"
+    },
+    "evidence": "PARASHAR (NH-1,31 K.M. Stone) 7428896108",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896103",
+     "kind": "mobile",
+     "as_printed": "7428896103"
+    },
+    "evidence": "MALWA (Golf Course Road, Sector-53) 7428896103",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896107",
+     "kind": "mobile",
+     "as_printed": "7428896107"
+    },
+    "evidence": "HIMGIRI (Sohna Road) 7428896107",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896102",
+     "kind": "mobile",
+     "as_printed": "7428896102"
+    },
+    "evidence": "JMV (Udyog Vihar-IV) 7428896102",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896106",
+     "kind": "mobile",
+     "as_printed": "7428896106"
+    },
+    "evidence": "SAFDARJANG (Sohna Road) 7428896106",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9871715801",
+     "kind": "mobile",
+     "as_printed": "9871715801"
+    },
+    "evidence": "SUPERON (Hero Honda Chowk) 9871715801",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896109",
+     "kind": "mobile",
+     "as_printed": "7428896109"
+    },
+    "evidence": "SUPERON (Wazirpur) 7428896109",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896104",
+     "kind": "mobile",
+     "as_printed": "7428896104"
+    },
+    "evidence": "TRIUMPH (Manesar) 7428896104",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896220",
+     "kind": "mobile",
+     "as_printed": "7428896220"
+    },
+    "evidence": "DEE EMM (Indl. Estate Opp Sector-14) 7428896220",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896221",
+     "kind": "mobile",
+     "as_printed": "7428896221"
+    },
+    "evidence": "DEE EMM (Sector-5) 7428896221",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896223",
+     "kind": "mobile",
+     "as_printed": "7428896223"
+    },
+    "evidence": "JRD NIMBUS CAPITAL (Sector-63) 7428896223",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896222",
+     "kind": "mobile",
+     "as_printed": "7428896222"
+    },
+    "evidence": "CAPITAL (C-27,Sector-3) 7428896222",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896225",
+     "kind": "mobile",
+     "as_printed": "7428896225"
+    },
+    "evidence": "DREAM (Sector-85) 7428896225",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896217",
+     "kind": "mobile",
+     "as_printed": "7428896217"
+    },
+    "evidence": "KARMA (D-74, Site-IV) 7428896217",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896214",
+     "kind": "mobile",
+     "as_printed": "7428896214"
+    },
+    "evidence": "FORTUNE (Loni Road) 7428896214",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896216",
+     "kind": "mobile",
+     "as_printed": "7428896216"
+    },
+    "evidence": "M.R (Site-IV Indl. Area Branch) 7428896216",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896228",
+     "kind": "mobile",
+     "as_printed": "7428896228"
+    },
+    "evidence": "M.R. (Silver City Mall) 7428896228",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896229",
+     "kind": "mobile",
+     "as_printed": "7428896229"
+    },
+    "evidence": "SHINE (Lal Kuan) 7428896229",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896211",
+     "kind": "mobile",
+     "as_printed": "7428896211"
+    },
+    "evidence": "PAWAN (Meerut Road) 7428896211",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8194000824",
+     "kind": "mobile",
+     "as_printed": "8194000824"
+    },
+    "evidence": "DREAM (Meerut Road) 8194000824",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896213",
+     "kind": "mobile",
+     "as_printed": "7428896213"
+    },
+    "evidence": "FORTUNE (Meerut Road) 7428896213",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896215",
+     "kind": "mobile",
+     "as_printed": "7428896215"
+    },
+    "evidence": "FORTUNE (Meerut Road) 7428896215",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896233",
+     "kind": "mobile",
+     "as_printed": "7428896233"
+    },
+    "evidence": "7428896233",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428896101",
+     "kind": "mobile",
+     "as_printed": "7428896101"
+    },
+    "evidence": "7428896101",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "1.2 I Eco TORQ engine delivers 75ps power and a superb mileage",
+    "evidence": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Widest and most powerful range of diesel engines",
+    "evidence": "Hyundai presents the widest and the most powerful range of diesel engines.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Better power Advanced technology",
+    "evidence": "Better power Advanced technology",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Exclusive ₹ 8 000 LTC offer for government employees.",
+    "evidence": "Exclusive ₹ 8 000 LTC offer for government employees.~",
+    "english": "Exclusive ₹ 8,000 LTC offer for government employees.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Special offer for medical professionals, selected corporates, teachers and CAs.",
+    "evidence": "Special offer for medical professionals, selected corporates, teachers and CAs.~",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "DEEP",
+     "area": "(Mangolpuri)",
+     "city": "West Delhi",
+     "phones": [
+      "7428896366"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "DEEP (Mangolpuri) 7428896366",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "HANS",
+     "area": "(Motinagar)",
+     "city": "West Delhi",
+     "phones": [
+      "7428896360"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HANS (Motinagar) 7428896360",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UNIVERSAL",
+     "area": "(Najafgarh)",
+     "city": "West Delhi",
+     "phones": [
+      "9319485011"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "UNIVERSAL (Najafgarh) 9319485011",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FRONTIER",
+     "area": "(Raja Puri Dwarka)",
+     "city": "West Delhi",
+     "phones": [
+      "7428896363"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FRONTIER (Raja Puri Dwarka) 7428896363",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VD",
+     "area": "(Peeragarhi)",
+     "city": "West Delhi",
+     "phones": [
+      "7428896234"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VD (Peeragarhi) 7428896234",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAPPHIRE",
+     "area": "(Mayapuri Ph-1)",
+     "city": "West Delhi",
+     "phones": [
+      "7428896362"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SAPPHIRE (Mayapuri Ph-1) 7428896362",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAPPHIRE",
+     "area": "(Sec. 20 Dwarka)",
+     "city": "West Delhi",
+     "phones": [
+      "7428896369"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SAPPHIRE (Sec. 20 Dwarka) 7428896369",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LAMBA",
+     "area": "(Malviya Nagar)",
+     "city": "South Delhi",
+     "phones": [
+      "7428896374"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "LAMBA (Malviya Nagar) 7428896374",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KONCEPT",
+     "area": "(Okhla)",
+     "city": "South Delhi",
+     "phones": [
+      "7428896368"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KONCEPT (Okhla) 7428896368",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (77%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KONCEPT",
+     "area": "(Kailash Colony Branch)",
+     "city": "South Delhi",
+     "phones": [
+      "7428896367"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KONCEPT (Kailash Colony Branch) 7428896367",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KONCEPT",
+     "area": "(Green park)",
+     "city": "South Delhi",
+     "phones": [
+      "7428896361"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KONCEPT (Green park) 7428896361",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHUBAN SAI",
+     "area": "(Mathura Road, MCIE)",
+     "city": "Central Delhi",
+     "phones": [
+      "7428896232"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHUBAN SAI (Mathura Road, MCIE) 7428896232",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PAHWA",
+     "area": "(Karol Bagh)",
+     "city": "Central Delhi",
+     "phones": [
+      "7428896370"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PAHWA (Karol Bagh) 7428896370",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UNITY",
+     "area": "(Shalimar Place)",
+     "city": "North Delhi",
+     "phones": [
+      "7428896356"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "UNITY (Shalimar Place) 7428896356",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "UNITY",
+     "area": "(Rohini)",
+     "city": "North Delhi",
+     "phones": [
+      "7428896371"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "UNITY (Rohini) 7428896371",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "HEMKUND",
+     "area": "(Wazirpur)",
+     "city": "North Delhi",
+     "phones": [
+      "7428896371"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HEMKUND (Wazirpur) 7428896371",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PAHWA",
+     "area": "(Shakti Nagar)",
+     "city": "North Delhi",
+     "phones": [
+      "7428896365"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PAHWA (Shakti Nagar) 7428896365",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MALWA",
+     "area": "(Narela)",
+     "city": "North Delhi",
+     "phones": [
+      "7428896358"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MALWA (Narela) 7428896358",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "HIMGIRI",
+     "area": "(Dayanand Vihar)",
+     "city": "East Delhi",
+     "phones": [
+      "7428896355"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HIMGIRI (Dayanand Vihar) 7428896355",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "HIMGIRI",
+     "area": "(Jhilmil Indl. Area)",
+     "city": "East Delhi",
+     "phones": [
+      "7428896373"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "HIMGIRI (Jhilmil Indl. Area) 7428896373",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHUBAN SAI",
+     "area": "(East Gokulpur)",
+     "city": "East Delhi",
+     "phones": [
+      "7428896364"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHUBAN SAI (East Gokulpur) 7428896364",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (95%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SUNRISE",
+     "area": "(Patparganj)",
+     "city": "East Delhi",
+     "phones": [
+      "7428896359"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SUNRISE (Patparganj) 7428896359",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (93%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SUNRISE",
+     "area": "(Opp. Mother Dairy Plant)",
+     "city": "East Delhi",
+     "phones": [
+      "7428896357"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SUNRISE (Opp. Mother Dairy Plant) 7428896357",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MAHADEV",
+     "area": "(NHPC Chowk)",
+     "city": "Faridabad",
+     "phones": [
+      "7428896227"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 22,
+     "city_id": null
+    },
+    "evidence": "MAHADEV (NHPC Chowk) 7428896227",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Faridabad' (#22)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MAHADEV",
+     "area": "(Byepass rad)",
+     "city": "Faridabad",
+     "phones": [
+      "7428896230"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 22,
+     "city_id": null
+    },
+    "evidence": "MAHADEV (Byepass rad) 7428896230",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Faridabad' (#22)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BOHRA",
+     "area": "(Neelam Bata Road)",
+     "city": "Faridabad",
+     "phones": [
+      "7428896231"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 22,
+     "city_id": null
+    },
+    "evidence": "BOHRA (Neelam Bata Road) 7428896231",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Faridabad' (#22)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TRIUMPH",
+     "area": "(Near YMCA Chowk)",
+     "city": "Palwal",
+     "phones": [
+      "7428896231"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "TRIUMPH (Near YMCA Chowk) 7428896231",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PARASHAR",
+     "area": "(NH-1,31 K.M. Stone)",
+     "city": "Kundli",
+     "phones": [
+      "7428896108"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PARASHAR (NH-1,31 K.M. Stone) 7428896108",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MALWA",
+     "area": "(Golf Course Road, Sector-53)",
+     "city": "Kundli",
+     "phones": [
+      "7428896103"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MALWA (Golf Course Road, Sector-53) 7428896103",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "HIMGIRI",
+     "area": "(Sohna Road)",
+     "city": "Gurugram",
+     "phones": [
+      "7428896107"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "HIMGIRI (Sohna Road) 7428896107",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JMV",
+     "area": "(Udyog Vihar-IV)",
+     "city": "Gurugram",
+     "phones": [
+      "7428896102"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "JMV (Udyog Vihar-IV) 7428896102",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAFDARJANG",
+     "area": "(Sohna Road)",
+     "city": "Gurugram",
+     "phones": [
+      "7428896106"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "SAFDARJANG (Sohna Road) 7428896106",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SUPERON",
+     "area": "(Hero Honda Chowk)",
+     "city": "Gurugram",
+     "phones": [
+      "9871715801"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "SUPERON (Hero Honda Chowk) 9871715801",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SUPERON",
+     "area": "(Wazirpur)",
+     "city": "Gurugram",
+     "phones": [
+      "7428896109"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "SUPERON (Wazirpur) 7428896109",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TRIUMPH",
+     "area": "(Manesar)",
+     "city": "Gurugram",
+     "phones": [
+      "7428896104"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "TRIUMPH (Manesar) 7428896104",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TRIUMPH",
+     "area": "(Sohna Road)",
+     "city": "Gurugram",
+     "phones": [
+      "7428896104"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "TRIUMPH (Sohna Road) 7428896104",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "DEE EMM",
+     "area": "(Indl. Estate Opp Sector-14)",
+     "city": "Noida",
+     "phones": [
+      "7428896220"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "DEE EMM (Indl. Estate Opp Sector-14) 7428896220",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "DEE EMM",
+     "area": "(Sector-5)",
+     "city": "Noida",
+     "phones": [
+      "7428896221"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "DEE EMM (Sector-5) 7428896221",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JRD NIMBUS CAPITAL",
+     "area": "(Sector-63)",
+     "city": "Noida",
+     "phones": [
+      "7428896223"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "JRD NIMBUS CAPITAL (Sector-63) 7428896223",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "CAPITAL",
+     "area": "(C-27,Sector-3)",
+     "city": "Noida",
+     "phones": [
+      "7428896222"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "CAPITAL (C-27,Sector-3) 7428896222",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "DREAM",
+     "area": "(Sector-85)",
+     "city": "Noida",
+     "phones": [
+      "7428896225"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "DREAM (Sector-85) 7428896225",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KARMA",
+     "area": "(D-74, Site-IV)",
+     "city": "Greater Noida",
+     "phones": [
+      "7428896217"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "KARMA (D-74, Site-IV) 7428896217",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Noida"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FORTUNE",
+     "area": "(Loni Road)",
+     "city": "Greater Noida",
+     "phones": [
+      "7428896214"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FORTUNE (Loni Road) 7428896214",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Noida"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "M.R",
+     "area": "(Site-IV Indl. Area Branch)",
+     "city": "Ghaziabad",
+     "phones": [
+      "7428896216"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "M.R (Site-IV Indl. Area Branch) 7428896216",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "M.R.",
+     "area": "(Silver City Mall)",
+     "city": "Ghaziabad",
+     "phones": [
+      "7428896228"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "M.R. (Silver City Mall) 7428896228",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHINE",
+     "area": "(Lal Kuan)",
+     "city": "Ghaziabad",
+     "phones": [
+      "7428896229"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "SHINE (Lal Kuan) 7428896229",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PAWAN",
+     "area": "(Meerut Road)",
+     "city": "Ghaziabad",
+     "phones": [
+      "7428896211"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "PAWAN (Meerut Road) 7428896211",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "DREAM",
+     "area": "(Meerut Road)",
+     "city": "Modinagar",
+     "phones": [
+      "8194000824"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "DREAM (Meerut Road) 8194000824",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FORTUNE",
+     "area": "(Meerut Road)",
+     "city": "Modinagar",
+     "phones": [
+      "7428896213"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FORTUNE (Meerut Road) 7428896213",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FORTUNE",
+     "area": "(Meerut Road)",
+     "city": "Modinagar",
+     "phones": [
+      "7428896215"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FORTUNE (Meerut Road) 7428896215",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "fuel_type": {
+   "value": [
+    "Diesel"
+   ],
+   "evidence": "Diesel fuels weekends.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "normalised from 'Diesel'"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "mileage": {
+   "value": "superb mileage",
+   "evidence": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "engine": {
+   "value": "1.2 I Eco TORQ",
+   "evidence": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ev_type": {
+   "value": "Non-EV",
+   "evidence": "Diesel fuels weekends.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "derived by rule from fuel types ['Diesel'] (only fully electric = EV)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Hyundai AURA with 1.2 I Eco TORQ engine delivers 75ps power and superb mileage",
+  "Widest and most powerful range of diesel engines across Grand i10 NIOS, i20, VERNA, ELANTRA, VENUE, CRETA, TUCSON",
+  "Exclusive ₹ 8 000 LTC offer for government employees",
+  "Special offer for medical professionals, selected corporates, teachers and CAs",
+  "5 Year Wonder Warranty, Complete Peace of Mind 3 Years Road Side Assistance (RSA), Lowest cost of maintenance, Hyundai ClicktoBuy, Hyundai Mobility Membership",
+  "Give a missed call on 7829042833",
+  "Dealer network across West Delhi, South Delhi, Central Delhi, North Delhi, East Delhi, Faridabad, Palwal, Kundli, Gurugram, Noida, Greater Noida, Ghaziabad, Modinagar"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Diesel fuels weekends.",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Hyundai AURA fuelled by 1.2 I Eco TORQ engine delivers 75ps power and a superb mileage.",
+   "score": 0.9717,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "G",
+   "score": 0.703,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "MH2TC2019 474",
+   "score": 0.9193,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "Better power",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Advanced technology",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Hyundai presents the widest and the most powerful range of diesel engines.",
+   "score": 0.9824,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "75 ps",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "100 ps",
+   "score": 0.9369,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "115 ps",
+   "score": 0.9908,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "115 ps",
+   "score": 0.9354,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "100 ps",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "115 ps",
+   "score": 0.9847,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "185 ps",
+   "score": 0.9748,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "1.21U2",
+   "score": 0.9802,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "1.51U2",
+   "score": 0.961,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "1.51U2",
+   "score": 0.969,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "1.51U2",
+   "score": 0.9455,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "1.51U2",
+   "score": 0.9803,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "1.51U2",
+   "score": 0.943,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "R 2.01",
+   "score": 0.9457,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "Grand i10 NIOS",
+   "score": 0.9742,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "i20",
+   "score": 0.9955,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "VERNA",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "ELANTRA",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "VENUE",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "CRETA",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "TUCSON",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "Exclusive8 000 LTC offer for government employees.~",
+   "score": 0.9661,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "Special offer for medical professionals, selected corporates, teachers and CAs.~",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "Wonder",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "Complete Peace of Mind",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "Hyundai",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "Hyundai",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "Give a missed call",
+   "score": 0.9807,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "HYUNDAI",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "Warranty",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Lowest cost of",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "CllcktoBuy",
+   "score": 0.9153,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "Mobility Membership",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "on 7829042833",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "3 Years Road Side Assistance (RSA)",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "maintenance\"*",
+   "score": 0.957,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "WEST DELHI",
+   "score": 0.9602,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "SOUTH DELHI",
+   "score": 0.9958,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "CENTRAL DELHI",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "NORTH DELHI",
+   "score": 0.9894,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "EAST DELHI",
+   "score": 0.9881,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "DEEP",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "HANS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "UNIVERSAL",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "FRONTIER",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "VD",
+   "score": 0.9962,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 54,
+   "text": "SAPPHIRE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "SAPPHIRE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "LAMBA",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "KONCEPT",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "KONCEPT",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "KONCEPT",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "SHUBAN SAI",
+   "score": 0.9859,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "PAHWA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "UNITY",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "UNITY",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "HEMKUND",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 65,
+   "text": "PAHWA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "MALWA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "HIMGIRI",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "HIMGIRI",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "SHUBAN SAI",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "SUNRISE",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "SUNRISE",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 72,
+   "text": "(Mangolpuri) (Motinagar)",
+   "score": 0.9869,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 73,
+   "text": "(Najafgarh)",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "(Raja Puri Dwarka) (Peeragarhi) (Mayapuri Ph-1) (Sec. 20 Dwarka)",
+   "score": 0.8767,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 75,
+   "text": "(Raja Puri Dwarkca)",
+   "score": 0.9595,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 76,
+   "text": "(Peeragarhi)",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "(Mayapuri Ph-1) (Sec. 20 Dwarka)",
+   "score": 0.9592,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 78,
+   "text": "(Malviya Nagar)",
+   "score": 0.9832,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 79,
+   "text": "(0khla)",
+   "score": 0.9625,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 80,
+   "text": "(Kailash Colony Branch)",
+   "score": 0.9811,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 81,
+   "text": "(Green park)",
+   "score": 0.9946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 82,
+   "text": "(Mathura Road, MCIE)",
+   "score": 0.9719,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 83,
+   "text": "(Karol Bagh)",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "(Shalimar Place)",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "(Rohini)",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 86,
+   "text": "(Wazirpur)",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 87,
+   "text": "(Shakti Nagar)",
+   "score": 0.9822,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 88,
+   "text": "(Narela)",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 89,
+   "text": "(Dayanand Vihar)",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "(Jhilmil Indl. Area)",
+   "score": 0.9262,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 91,
+   "text": "(East Gokulpun)",
+   "score": 0.9753,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 92,
+   "text": "(Patpargan))",
+   "score": 0.926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "(Opp. Mother Dairy Plant)",
+   "score": 0.9545,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "7428896366 7428896360",
+   "score": 0.9828,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 95,
+   "text": "9319485011",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 96,
+   "text": "7428896363",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 97,
+   "text": "7428896234",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "7428896362",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "7428896369",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 100,
+   "text": "7428896374",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 101,
+   "text": "7428896368",
+   "score": 0.9953,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 102,
+   "text": "7428896367",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 103,
+   "text": "7428896361",
+   "score": 0.948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 104,
+   "text": "7428896232",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 105,
+   "text": "7428896370",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 106,
+   "text": "7428896356",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 107,
+   "text": "7428896371",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 108,
+   "text": "7428896371 7428896365",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 109,
+   "text": "7428896365",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 110,
+   "text": "7428896358",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 111,
+   "text": "7428896355",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 112,
+   "text": "7428896373",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 113,
+   "text": "7428896364",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 114,
+   "text": "7428896359",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 115,
+   "text": "7428896357",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 116,
+   "text": "7428896233",
+   "score": 0.9638,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 117,
+   "text": "FARIDABAD",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 118,
+   "text": "PALWAL",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 119,
+   "text": "KUNDLI",
+   "score": 0.8622,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 120,
+   "text": "GURUGRAM",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 121,
+   "text": "NOIDA",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 122,
+   "text": "GREATER NOIDA",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 123,
+   "text": "GHAZIABAD",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 124,
+   "text": "MODINAGAR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 125,
+   "text": "MAHADEV MAHADEV",
+   "score": 0.9796,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 126,
+   "text": "BOHRA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 127,
+   "text": "TRIUMPH",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 128,
+   "text": "PARASHAR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 129,
+   "text": "MALWA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 130,
+   "text": "HIMGIRI",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 131,
+   "text": "JMV",
+   "score": 0.9684,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 132,
+   "text": "SAFDARJANG",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 133,
+   "text": "SUPERON",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 134,
+   "text": "SUPERON",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 135,
+   "text": "TRIUMPH",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 136,
+   "text": "TRIUMPH",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 137,
+   "text": "DEE EMM",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 138,
+   "text": "DEE EMM",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 139,
+   "text": "JRD NIMBUS CAPITAL",
+   "score": 0.9888,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 140,
+   "text": "DREAM",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 141,
+   "text": "KARMA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 142,
+   "text": "FORTUNE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 143,
+   "text": "M.R",
+   "score": 0.8714,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 144,
+   "text": "M.R.",
+   "score": 0.9942,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 145,
+   "text": "SHINE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 146,
+   "text": "PAWAN",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 147,
+   "text": "DREAM",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 148,
+   "text": "FORTUNE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 149,
+   "text": "(NHPC Chowk) (Byepass rad)",
+   "score": 0.9691,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 150,
+   "text": "(Neelam",
+   "score": 0.9344,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 151,
+   "text": "(Near YMCA",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 152,
+   "text": "7428896231",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 153,
+   "text": "(NH-1,31",
+   "score": 0.9885,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 154,
+   "text": "(Golf Course",
+   "score": 0.9078,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 155,
+   "text": "(Sohna Road)",
+   "score": 0.9935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 156,
+   "text": "(Udyog Vihar-IV)",
+   "score": 0.982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 157,
+   "text": "(Sohna Road",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 158,
+   "text": "(Hero Honda",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 159,
+   "text": "(Wazirpur)",
+   "score": 0.9432,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 160,
+   "text": "(Manesar)",
+   "score": 0.9961,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 161,
+   "text": "(Sohna Road)",
+   "score": 0.9907,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 162,
+   "text": "(IndI. Estate",
+   "score": 0.8819,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 163,
+   "text": "(Sector-5)",
+   "score": 0.986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 164,
+   "text": "(Sector-63) (C-27,Sector-3) (Sector-85)",
+   "score": 0.9346,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 165,
+   "text": "(D-74, Site-IV)",
+   "score": 0.9854,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 166,
+   "text": "(Loni Road)",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 167,
+   "text": "(Site-IV IndI.",
+   "score": 0.9101,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 168,
+   "text": "(Silver City",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 169,
+   "text": "(Lal Kuan)",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 170,
+   "text": "(Meerut Road)",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 171,
+   "text": "8194000824",
+   "score": 0.9715,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 172,
+   "text": "7428896227 7428896230",
+   "score": 0.983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 173,
+   "text": "Bata Road)",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 174,
+   "text": "Chowk)",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 175,
+   "text": "K.M. Stone)",
+   "score": 0.9947,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 176,
+   "text": "Road, Sector-53)",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 177,
+   "text": "7428896108",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 178,
+   "text": "7428896101",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 179,
+   "text": "Branch)",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 180,
+   "text": "Chowk)",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 181,
+   "text": "9871715801 7428896109 7428896104",
+   "score": 0.9952,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 182,
+   "text": "Opp Sector-14)",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 183,
+   "text": "7428896220 7428896221 7428896223 7428896222",
+   "score": 0.9799,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 184,
+   "text": "7428896225",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 185,
+   "text": "7428896217 Area Branch)",
+   "score": 0.9701,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 186,
+   "text": "Mall)",
+   "score": 0.996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 187,
+   "text": "7428896214 7428896216",
+   "score": 0.9935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 188,
+   "text": "7428896228 7428896229",
+   "score": 0.9551,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 189,
+   "text": "7428896211",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 190,
+   "text": "7428896103",
+   "score": 0.9932,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 191,
+   "text": "7428896107",
+   "score": 0.9902,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 192,
+   "text": "7428896102",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 193,
+   "text": "7428896106",
+   "score": 0.9813,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 194,
+   "text": "7428896213 7428896215",
+   "score": 0.9629,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 195,
+   "text": "*Terms & Conditions apply. -Applicable on select models and variants. Hyundal is also available in CSD and GeM, contact us at rahul.malaviya@hmil.net (Delhi) and vakul.gupta@hmilnet (NCR). ^Wonder warranty with option to choose from 3 years/1 00 000 km or 4 years/50 000 km or 5 years/ 40 000 km for Grand it0 NIOS, i20 and AURA. Wonder",
+   "score": 0.9795,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 196,
+   "text": "warranty with option to choose from 3 years/unlimited km or 4 years/60 000 km or 5 years/ 50 000 km for VERNA, CRETA, ELANTRA and TUCSON. 3 Years/unlimited km for VENUE. ##Hyundai Grand i10 Nios (Petrol) has lowest average yearly periodic maintenance service cost of 2 746 for 5 years in Delhi. Source: Cardekho.com. Visit your nearest",
+   "score": 0.9706,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 197,
+   "text": "Hyundai dealership for more details. Features and specifications as shown may not be part of standard fitment and are subject to change without prior notice. Hyundai urges you to follow traffic rules - these are meant to keep you safe on roads.",
+   "score": 0.9904,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "36 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 26.49,
+  "extract": 60.93
+ }
+}

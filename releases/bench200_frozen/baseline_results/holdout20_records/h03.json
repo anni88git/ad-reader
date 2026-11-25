@@ -1,0 +1,638 @@
+{
+ "image": "h03_Apple_laptops_and_computers_416.jpg",
+ "fields": {
+  "brand": {
+   "value": "Apple",
+   "evidence": "iPhone XR",
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "value not in its evidence quote, but printed elsewhere in the ad",
+    "second model disagrees - suggestion: citi",
+    "exact match to existing record 'Apple' (#120)",
+    "brand name 'Apple Inc.' found printed in the ad (OCR)"
+   ],
+   "matched_id": 120,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 120,
+     "name": "Apple",
+     "score": 100.0
+    },
+    {
+     "id": 35,
+     "name": "Allen Career Institute",
+     "score": 60.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "iPhone XR",
+   "evidence": "iPhone XR",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "ambiguous: several records match (iPhone, iPhone X, iPhone 8)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 221,
+     "name": "iPhone",
+     "score": 96.0
+    },
+    {
+     "id": 222,
+     "name": "iPhone X",
+     "score": 93.3
+    },
+    {
+     "id": 223,
+     "name": "iPhone 8",
+     "score": 81.7
+    }
+   ],
+   "db_match": "ambiguous"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Apple",
+   "evidence": "TM and ©2018 Apple Inc. All rights reserved.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "partial match only - confirm: Imagine Apple Premium Reseller"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 13,
+     "name": "Imagine Apple Premium Reseller",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "Make the celebrations bigger with iPhone XR.",
+   "evidence": "Make the celebrations bigger with iPhone XR.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Above offers also available on iPhone Xs, iPhone Xs Max, iPhone X, iPhone 8, iPhone 8 Plus.",
+   "evidence": "Above offers also available on iPhone Xs, iPhone Xs Max, iPhone X, iPhone 8, iPhone 8 Plus.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "SMS: Store <space> Pincode to 7600030000 or log on to www.indiaistore.com",
+   "evidence": "For nearest store details, SMS: Store <space> Pincode to 7600030000 or log on to www.indiaistore.com",
+   "english": "SMS Store space Pincode to 7600030000 or log on to www.indiaistore.com for nearest store details",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "TM and ©2018 Apple Inc. All rights reserved.",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Mobiles & Computers",
+   "evidence": "iPhone XR",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #28"
+   ],
+   "matched_id": 28,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 28,
+     "name": "Retail & Consumer Electronics > Mobiles & Computers",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "iPhone XR advertisement",
+    "10% Cashback on EMI only with Citi Credit Cards",
+    "10% Cashback on Non-EMI on a combined purchase with AirPods",
+    "Offers also available on iPhone Xs, iPhone Xs Max, iPhone X, iPhone 8, iPhone 8 Plus",
+    "Valid 31st Oct - 7th Nov only",
+    "Offer valid at Apple Authorised Resellers and selected stores only"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Apple is advertising iPhone XR with Citi credit card cashback offers: 10% on EMI and 10% on Non-EMI when purchased with AirPods. The offer runs from 31st October to 7th November at Apple Authorised Resellers and selected stores only.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7600030000",
+     "kind": "mobile",
+     "as_printed": "7600030000"
+    },
+    "evidence": "SMS: Store <space> Pincode to 7600030000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.indiaistore.com",
+    "evidence": "log on to www.indiaistore.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "10% Cashback on EMI only with Citi Credit Cards*",
+    "evidence": "10% Cashback on EMI only with Citi Credit Cards*",
+    "english": "10% Cashback on EMI only with Citi Credit Cards",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "10% Cashback on Non-EMI on a combined purchase with AirPods*",
+    "evidence": "10% Cashback on Non-EMI on a combined purchase with AirPods*",
+    "english": "10% Cashback on Non-EMI on a combined purchase with AirPods",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "No Cost EMI financing schemes also available through Bajaj Finance Ltd.*",
+    "evidence": "No Cost EMI financing schemes also available through Bajaj Finance Ltd.*",
+    "english": "No Cost EMI financing schemes also available through Bajaj Finance Ltd",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Apple Authorised Resellers and selected stores",
+   "evidence": "Offer valid at Apple Authorised Resellers and selected stores only.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "iPhone XR, iPhone Xs, iPhone Xs Max, iPhone X, iPhone 8, iPhone 8 Plus",
+   "evidence": "Above offers also available on iPhone Xs, iPhone Xs Max, iPhone X, iPhone 8, iPhone 8 Plus.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "10% Cashback",
+   "evidence": "10% Cashback on EMI only with Citi Credit Cards* 10% Cashback on Non-EMI on a combined purchase with AirPods*",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "10% Cashback on EMI only with Citi Credit Cards* 10% Cashback on Non-EMI on a combined purchase with AirPods* No Cost EMI financing schemes also available through Bajaj Finance Ltd.*",
+   "evidence": "10% Cashback on EMI only with Citi Credit Cards* 10% Cashback on Non-EMI on a combined purchase with AirPods* No Cost EMI financing schemes also available through Bajaj Finance Ltd.*",
+   "english": "10% Cashback on EMI only with Citi Credit Cards 10% Cashback on Non-EMI on a combined purchase with AirPods No Cost EMI financing schemes also available through Bajaj Finance Ltd",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "31st Oct - 7th Nov only.",
+   "evidence": "31st Oct - 7th Nov only.",
+   "english": "31st Oct - 7th Nov only",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "iPhone XR advertisement",
+  "10% Cashback on EMI only with Citi Credit Cards",
+  "10% Cashback on Non-EMI on a combined purchase with AirPods",
+  "Offers also available on iPhone Xs, iPhone Xs Max, iPhone X, iPhone 8, iPhone 8 Plus",
+  "Valid 31st Oct - 7th Nov only",
+  "Offer valid at Apple Authorised Resellers and selected stores only"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Make the celebrations bigger",
+   "score": 0.9945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "with iPhone XR.",
+   "score": 0.9842,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "iPhoneX®",
+   "score": 0.9872,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "citi",
+   "score": 0.9646,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "10% Cashback on EMI only with Citi Credit Cards*",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "10% Cashback on Non-EMI on a combined purchase with AirPods*",
+   "score": 0.9921,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Above offers also available on iPhone Xs, iPhone Xs Max, iPhone X, iPhone 8, iPhone 8 Plus.",
+   "score": 0.9904,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "31st Oct - 7th Nov only.",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Offer valid at Apple Authorised Resellers and selected stores only.",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Distribution Partners:",
+   "score": 0.9995,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 11,
+   "text": "INDIA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "i",
+   "score": 0.8356,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "STORE.COM",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "INRAM",
+   "score": 0.9926,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "Redington",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "RASHI PERIPHERALS",
+   "score": 0.9986,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 17,
+   "text": "No Cost EMI financing schemes also available through Bajaj Finance Ltd.*",
+   "score": 0.9922,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "For nearest store details, SMS: Store <space> Pincode to 7600030000 or log on to www.indiaistore.com",
+   "score": 0.9932,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "The offer is valid for transactions made using Brand EMI option on Pine Labs terminals on Citi Credit Cards. Additional cashback is valid over and above the best available price at the store. The cashback, applicable only on EMI",
+   "score": 0.9922,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 20,
+   "text": "and Non-EMI transactions, shall be credited on or before 120 business days from the date of transaction on a best effort basis to all open and active card members' accounts only. The offer may be revised or withdrawn without",
+   "score": 0.9938,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 21,
+   "text": "Terms and conditions apply. Limited Period Offer. Product features vary by model. TM and ©2018 Apple Inc. All rights reserved.",
+   "score": 0.9929,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 22,
+   "text": "any prior notice. For detailed terms and conditions log on to www.indiaistore.com.",
+   "score": 0.9973,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 9.25,
+  "extract": 30.39
+ }
+}

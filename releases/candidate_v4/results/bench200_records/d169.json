@@ -1,0 +1,966 @@
+{
+ "image": "d169_Amar_Ujala_69.jpg",
+ "fields": {
+  "brand": {
+   "value": "GROWMED",
+   "evidence": "GROWMED",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "AD Vitamin Baby Oil",
+   "evidence": "AD VITAMIN BABY OIL",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "GROWMED MKT. INDIA PVT. LTD.",
+   "evidence": "GROWMED MKT. INDIA PVT. LTD.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: BANTI PHARMA PVT. LTD.",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "बच्चों के सम्पूर्ण शारीरिक विकास एवं विशेष इम्युनिटी बढ़ाने में सहयोग करता है",
+   "evidence": "बच्चों के सम्पूर्ण शारीरिक विकास एवं विशेष इम्युनिटी बढ़ाने में सहयोग करता है",
+   "english": "Helps in complete physical development of children and boosting special immunity",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 98% similar) - check spelling - suggestion: बच्चों के सम्पर्ण शारीरिक विकास एव विशेष इम्युनिटी बढ़ाने में सहयोग करता है",
+    "second model disagrees - suggestion: GROWMED®"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "नक्कालों से सावधान ग्रोमेड देखकर ही लें!",
+   "evidence": "नक्कालों से सावधान ग्रोमेड देखकर ही लें!",
+   "english": "Beware of imitations, buy Growmed only after seeing",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (97%)",
+    "wording is not an exact match to the printed text (closest OCR reading 68% similar) - check spelling",
+    "second model disagrees - suggestion: GROWMED AD Vitamin Baby Oil बच्चों की हड्डियों एवं मांसपेशियों की मजबूती एवं समृद्ध शारीरिक विकास के लिए जरूरी है।"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ग्रोमेड AD Vitamin Baby Oil बच्चों की हड्डियों एवं मांसपेशियों की मजबूती एवं सम्पूर्ण शारीरिक विकास के लिए जरूरी है।",
+   "evidence": "ग्रोमेड AD Vitamin Baby Oil बच्चों की हड्डियों एवं मांसपेशियों की मजबूती एवं सम्पूर्ण शारीरिक विकास के लिए जरूरी है।",
+   "english": "Growmed AD Vitamin Baby Oil is essential for strengthening children's bones and muscles and for complete physical development.",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (85%)",
+    "wording is not an exact match to the printed text (closest OCR reading 89% similar) - check spelling - suggestion: AD Vitamin Baby Oil हडिडयों एवं मांसपेशियों की मजवूती एवं सम्पूर्ण शारीरिक विकास के लिए जरूरी है।"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "ऑनलाइन ऑर्डर के लिए लॉग इन करे: www.growmed.in",
+   "evidence": "ऑनलाइन ऑर्डर के लिए लॉग इन करे: www.growmed.in",
+   "english": "Log in to www.growmed.in for online ordering",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (92%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Manufacturer : Tablet, Capsule, Liquid, Ointment, and Injection",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": "GROWMED AD VITAMIN BABY OIL",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: FMCG > Personal & Home Care",
+    "category #14",
+    "record #14 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 14,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Growmed AD Vitamin Baby Oil for children's bone and muscle strength",
+    "Contains Vitamin A 20000 I.U., Vitamin D 4000 I.U., Archis Oil, Olive Oil + Vitamin E",
+    "Stomacquar for gas, acidity, indigestion, constipation, peptic ulcer, vomiting, headache, restlessness, mouth ulcers, hyper-acidity, hiccups and other stomach ailments",
+    "Regular use helps maintain blood pressure",
+    "Manufacturer of Tablet, Capsule, Liquid, Ointment, and Injection",
+    "Available on Flipkart, Amazon, Indiamart",
+    "Distributor: Banti Pharma Pvt. Ltd., Delhi"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Growmed AD Vitamin Baby Oil supports children's complete physical development and immunity; Stomacquar relieves gas, acidity, indigestion and other stomach problems while helping maintain blood pressure. Order online at www.growmed.in or call the printed numbers; also available on Flipkart, Amazon and Indiamart.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9431237784",
+     "kind": "mobile",
+     "as_printed": "9431237784"
+    },
+    "evidence": "CALL : 9431237784",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8987383154",
+     "kind": "mobile",
+     "as_printed": "8987383154"
+    },
+    "evidence": "8987383154",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9311525446",
+     "kind": "mobile",
+     "as_printed": "9311525446/8178451597/8920376214"
+    },
+    "evidence": "M.: 9311525446/8178451597/8920376214",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8178451597",
+     "kind": "mobile",
+     "as_printed": "8178451597"
+    },
+    "evidence": "DELHI: BANTI PHARMA PVT. LTD., M.: 9311525446/8178451597/8920376214",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8920376214",
+     "kind": "mobile",
+     "as_printed": "8920376214"
+    },
+    "evidence": "DELHI: BANTI PHARMA PVT. LTD., M.: 9311525446/8178451597/8920376214",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.growmed.in",
+    "evidence": "www.growmed.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "GUJARAT GROWMED MKT. INDIA PVT. LTD.",
+    "evidence": "GUJARAT GROWMED MKT. INDIA PVT. LTD.",
+    "english": "Gujarat Growmed Mkt. India Pvt. Ltd.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DELHI: BANTI PHARMA PVT. LTD.",
+    "evidence": "DELHI: BANTI PHARMA PVT. LTD., M.: 9311525446/8178451597/8920376214",
+    "english": "Delhi: Banti Pharma Pvt. Ltd.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Vitamin A 20000 I.U., Vitamin D 4000 I.U., Archis Oil, Olive Oil + Vitamin E",
+    "evidence": "Vitamin A 20000 I.U., Vitamin D 4000 I.U., Archis Oil, Olive Oil + Vitamin E",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "पेट में गैस, जलन, अपच, खट्टे डकार, पुराना कब्ज, पेप्टिक अल्सर, ऑंव, सिरदर्द, बेचैनी, मुंह में छाले, हाइपर-एसिडिटी, हिचकी आना एवं पेट के अन्य तकलीफों से।",
+    "evidence": "पेट में गैस, जलन, अपच, खट्टे डकार, पुराना कब्ज, पेप्टिक अल्सर, ऑंव, सिरदर्द, बेचैनी, मुंह में छाले, हाइपर-एसिडिटी, हिचकी आना एवं पेट के अन्य तकलीफों से।",
+    "english": "Relieves gas, burning, indigestion, sour belching, old constipation, peptic ulcer, vomiting, headache, restlessness, mouth ulcers, hyper-acidity, hiccups and other stomach ailments.",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (79%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "साथ ही इसका नियमित सेवन रक्तचाप को भी सही रखने में काफी लाभदायक है।",
+    "evidence": "साथ ही इसका नियमित सेवन रक्तचाप को भी सही रखने में काफी लाभदायक है।",
+    "english": "Regular consumption is also very beneficial in maintaining blood pressure.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "A-88094/2010",
+    "evidence": "A-88094/2010",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "BANTI PHARMA PVT. LTD.",
+     "area": null,
+     "city": "DELHI",
+     "phones": [
+      "9311525446"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 2,
+     "city_id": null
+    },
+    "evidence": "DELHI: BANTI PHARMA PVT. LTD., M.: 9311525446/8178451597/8920376214",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Delhi' (#2)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Growmed AD Vitamin Baby Oil for children's bone and muscle strength",
+  "Contains Vitamin A 20000 I.U., Vitamin D 4000 I.U., Archis Oil, Olive Oil + Vitamin E",
+  "Stomacquar for gas, acidity, indigestion, constipation, peptic ulcer, vomiting, headache, restlessness, mouth ulcers, hyper-acidity, hiccups and other stomach ailments",
+  "Regular use helps maintain blood pressure",
+  "Manufacturer of Tablet, Capsule, Liquid, Ointment, and Injection",
+  "Available on Flipkart, Amazon, Indiamart",
+  "Distributor: Banti Pharma Pvt. Ltd., Delhi"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "बच्चों के सम्पर्ण शारीरिक विकास एव विशेष इम्युनिटी बढ़ाने में सहयोग करता है",
+   "score": 0.8899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "GROWMED",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "R",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "AD Vitamin Baby Oil",
+   "score": 0.9606,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "हडिडयों एवं मांसपेशियों की मजवूती एवं",
+   "score": 0.8916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "सम्पूर्ण शारीरिक विकास के लिए जरूरी है।",
+   "score": 0.9185,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "नक्कालों से सावयान",
+   "score": 0.8185,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "ग्रोमेड",
+   "score": 0.8578,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "देखकर ही लें।",
+   "score": 0.9282,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "©:A-88094/2010",
+   "score": 0.9399,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "VITANINAD.E",
+   "score": 0.9044,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "AND OLIVE OIL",
+   "score": 0.9163,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "GROWMED",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "R",
+   "score": 0.9982,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "GROWMED",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "AD",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "AD",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "VITAMIN",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "VITAMIN",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "BABY OIL.",
+   "score": 0.9442,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "A-88094/2010",
+   "score": 0.9726,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "BABY OIL",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "VIAMIE A E E",
+   "score": 0.6957,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "AND DLIVE OE",
+   "score": 0.7941,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "TOR GROWTHAND",
+   "score": 0.9036,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "VIOOUR OF SABES",
+   "score": 0.6826,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "GROWMED",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "AD",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "Vitamin A 2000 L.U, Vitamin D 4000 LU, Archis Oil, Olive Oil + Vitamin E",
+   "score": 0.9195,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "VITAMIN",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "BABY DS",
+   "score": 0.6797,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "GLLARAT",
+   "score": 0.611,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "STOMAQUAR",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "Lmt",
+   "score": 0.4713,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "अब एुटकारा पाईये",
+   "score": 0.9199,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "STOMAQUAR",
+   "score": 0.9955,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "पेट में गैेस, जलन, अपच, खट्टे डकार,",
+   "score": 0.9486,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "PHIETETRE CSATINI",
+   "score": 0.5991,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "पुराना कब्ज, पेप्टिक अल्सर, ऑँव, सिरदर्द,",
+   "score": 0.9448,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "ACTION",
+   "score": 0.9987,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "वेचैनी, मुंह मं छाले, हाइपर-एसीडीटी,",
+   "score": 0.8863,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "हिचकी आना एवं पेट के अन्य तकलीफों से ।",
+   "score": 0.96,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "साथ ही इसका नियमित सेवन रक्तचाप को भी",
+   "score": 0.9624,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "COATING",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "PROTECTIVE",
+   "score": 0.9972,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "सही रखने में काफी लाभदायक है।",
+   "score": 0.9555,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "ACTION",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "Manufacturer : Tablet, Capsule, Liquid, Ointment, and Injection",
+   "score": 0.9953,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "ऑनलाईन ऑ्डर के लिए लोंग इन करे:",
+   "score": 0.9344,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "www.growmed.in",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "GUJARAT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "CALL:9431237784",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "Gp",
+   "score": 0.9554,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 54,
+   "text": "ALSO AVAILABLE ON",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "GROWMED MKT. INDIA PVT. LTD.",
+   "score": 0.9611,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "8987383154",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "Flipkart",
+   "score": 0.9674,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "amazon",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "indlamart",
+   "score": 0.9894,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 60,
+   "text": "Distributor:-",
+   "score": 0.9845,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 61,
+   "text": "DELHI: BANTI PHARMA PVT. LTD., M.: 9311525446/8178451597/8920376214",
+   "score": 0.9771,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "12 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 29.79,
+  "extract": 18.24
+ }
+}

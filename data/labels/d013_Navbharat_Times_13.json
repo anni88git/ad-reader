@@ -1,0 +1,64 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Bodycare",
+   "Bodycare Women's Innerwear"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "retailer",
+   "manufacturer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Fashion & Apparel"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Sale up to 50% off",
+   "Sale"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "phones": [
+  "9871836969",
+  "9654521468"
+ ],
+ "_uncertain_fields": []
+}

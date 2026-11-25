@@ -1,0 +1,71 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Bosch"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "GSR 185-LI Professional",
+   "Bosch GSR 185-LI",
+   "GSR 185-LI"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Retail & Consumer Electronics",
+   "Furniture & Home",
+   "Retail & Consumer Electronics > Home Appliances"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "कॉर्डलेस मतलब पैसा वसूल.",
+   "कॉर्डलेस मतलब पैसा वसूल. 500+ स्क्रूज़*, 1 चार्ज. कार्डलेस मतलब Bosch."
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "emails": [
+  "pt-in.communications@in.bosch.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "category",
+   "why": "drafter unsure"
+  }
+ ]
+}

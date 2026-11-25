@@ -1,0 +1,75 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Skoda",
+   "Skoda Auto"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Kushaq",
+   "Kushaq Matte Edition",
+   "New Kushaq Matte Edition"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "dealer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Automobile > Cars",
+   "Automobile"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "ಹೊಸ ಕುಶಾಕ್ ಮ್ಯಾಟ್ ಎಡಿಶನ್",
+   "Limited Edition in Matte Finish"
+  ]
+ },
+ "price": 1159000,
+ "qr_code_present": false,
+ "websites": [
+  "skoda-auto.co.in"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Kannada",
+    "English"
+   ],
+   [
+    "English",
+    "Kannada"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

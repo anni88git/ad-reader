@@ -1,0 +1,69 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "product",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Fashion Factory",
+   "Reliance Fashion Factory",
+   "Reliance"
+  ]
+ },
+ "model_variant": null,
+ "ad_type": "retailer",
+ "category": {
+  "any_of": [
+   "Fashion & Apparel",
+   "Retail & Consumer Electronics"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Buy 2 Get 3 Free on almost everything",
+   "Buy 2 Get 3 Free",
+   "Fashion Factory Brands for Less"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "Brands for Less",
+   "Till 21st May",
+   "On almost everything",
+   "Fashion Factory Brands for Less",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "6360605247",
+  "8104917753"
+ ],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": true,
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

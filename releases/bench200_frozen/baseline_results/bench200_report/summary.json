@@ -1,0 +1,73 @@
+{
+ "labelled_ads": 200,
+ "systems": {
+  "nemotron+nano": {
+   "records": 200,
+   "labelled_without_record": 0,
+   "values_scored": 1614,
+   "accuracy_pct": 86.4,
+   "confirmed_values": 777,
+   "silent_errors": 22,
+   "silent_error_rate_pct": 2.8,
+   "confirmed_precision_pct": 97.2,
+   "auto_fill_rate_pct": 54.7,
+   "error_catch_rate_pct": 87.8,
+   "over_flag_rate_pct": 35.5,
+   "missed_values": 39,
+   "lists": {
+    "websites": {
+     "tp": 58,
+     "fp": 2,
+     "fn": 2,
+     "confirmed_fp": 1,
+     "precision_pct": 96.7,
+     "recall_pct": 96.7
+    },
+    "emails": {
+     "tp": 24,
+     "fp": 0,
+     "fn": 1,
+     "confirmed_fp": 0,
+     "precision_pct": 100.0,
+     "recall_pct": 96.0
+    },
+    "phones": {
+     "tp": 35,
+     "fp": 1,
+     "fn": 0,
+     "confirmed_fp": 0,
+     "precision_pct": 97.2,
+     "recall_pct": 100.0
+    }
+   },
+   "ids": {},
+   "by_group": {
+    "regional": {
+     "values_scored": 1390,
+     "accuracy_pct": 86.0,
+     "confirmed_values": 650,
+     "silent_errors": 20,
+     "silent_error_rate_pct": 3.1,
+     "confirmed_precision_pct": 96.9,
+     "auto_fill_rate_pct": 53.1,
+     "error_catch_rate_pct": 87.3,
+     "over_flag_rate_pct": 37.1,
+     "missed_values": 36
+    },
+    "english": {
+     "values_scored": 224,
+     "accuracy_pct": 88.8,
+     "confirmed_values": 127,
+     "silent_errors": 2,
+     "silent_error_rate_pct": 1.6,
+     "confirmed_precision_pct": 98.4,
+     "auto_fill_rate_pct": 65.1,
+     "error_catch_rate_pct": 90.9,
+     "over_flag_rate_pct": 26.0,
+     "missed_values": 3
+    }
+   },
+   "avg_seconds_per_ad": 39.9
+  }
+ }
+}

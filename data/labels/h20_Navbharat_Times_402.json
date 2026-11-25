@@ -1,0 +1,85 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "English",
+    "Hindi"
+   ],
+   [
+    "English"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Navdip Tundiya",
+   "Kala Sangam"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Patola-Bandhani Exhibition",
+   "Kala Sangam",
+   null
+  ]
+ },
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "Navdip Tundiya",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "retailer",
+   "other"
+  ]
+ },
+ "category": "Fashion & Apparel",
+ "headline": {
+  "any_of": [
+   "कला Sangam",
+   "Kala Sangam",
+   "Patola-Bandhani Exhibition",
+   "Navdip Tundiya Presents Patola-Bandhani Exhibition"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "Patola-Bandhani Exhibition",
+   "Today 1st Day",
+   "Navdip Tundiya Presents",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "ad_type",
+   "why": "ambiguous"
+  }
+ ]
+}

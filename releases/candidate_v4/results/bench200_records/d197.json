@@ -1,0 +1,690 @@
+{
+ "image": "d197_Amar_Ujala_97.jpg",
+ "fields": {
+  "brand": {
+   "value": "Sehwag International School",
+   "evidence": "Sehwag International School",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Sehwag International School",
+   "evidence": "Sehwag International School",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ADMISSIONS OPEN",
+   "evidence": "ADMISSIONS OPEN",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ONE LIFE ONE PLACE TO CHASE EVERY DREAM"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "For the Session 2023-2024 Classes - I to IX & XI Online Admissions Available",
+   "evidence": "For the Session 2023-2024 Classes - I to IX & XI Online Admissions Available",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Excellence in Leadership"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "WHY SIS? 1. Holistic education: fully balanced academics & sports 2. Fair play, sportsman spirit & character building 3. Collaborative learning and focus on teamwork 4. Learning from mistakes: the art of failure & a winning attitude 5. Worldclass Infrastructure facility: Sehwag Cricket Academy to nurture cricketing skills in student 6. Unique opportunity to interact & learn from inspiring role models",
+   "evidence": "WHY SIS? 1. Holistic education: fully balanced academics & sports 2. Fair play, sportsman spirit & character building 3. Collaborative learning and focus on teamwork 4. Learning from mistakes: the art of failure & a winning attitude 5. Worldclass Infrastructure facility: Sehwag Cricket Academy to nurture cricketing skills in student 6. Unique opportunity to interact & learn from inspiring role models",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "ADMISSIONS OPEN",
+   "evidence": "ADMISSIONS OPEN",
+   "english": "Apply for admission",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": "ADMISSIONS OPEN For the Session 2023-2024 Classes - I to IX & XI Online Admissions Available",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Schools",
+   "evidence": "Sehwag International School DAY CUM BOARDING SCHOOL ADMISSIONS OPEN For the Session 2023-2024 Classes - I to IX & XI",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #8"
+   ],
+   "matched_id": 8,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 8,
+     "name": "Education > Schools",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Sehwag International School admissions open for session 2023-2024",
+    "Classes I to IX & XI",
+    "Day cum boarding school",
+    "Online admissions available",
+    "Six reasons to choose SIS listed",
+    "Website www.sisj.in and email info@sisj.in provided",
+    "Address Silani Kesho, 7 KM Milestone, Main Jhajjar Gurugaon Road, Jhajjar (Haryana)",
+    "Call numbers +91 9711188700, 8930059111"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Sehwag International School is accepting admissions for the 2023-2024 session for classes I to IX and XI. It is a day cum boarding school offering holistic education with a cricket academy; interested parents can apply online or call the provided numbers.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9711188700",
+     "kind": "mobile",
+     "as_printed": "+91 9711188700"
+    },
+    "evidence": "+91 9711188700",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8930059111",
+     "kind": "mobile",
+     "as_printed": "8930059111"
+    },
+    "evidence": "8930059111",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.sisj.in",
+    "evidence": "www.sisj.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "info@sisj.in",
+    "evidence": "info@sisj.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Silani Kesho, 7 KM Milestone, Main Jhajjar Gurugaon Road, Jhajjar (Haryana).",
+    "evidence": "Silani Kesho, 7 KM Milestone, Main Jhajjar Gurugaon Road, Jhajjar (Haryana).",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Holistic education: fully balanced academics & sports",
+    "evidence": "1. Holistic education: fully balanced academics & sports",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Fair play, sportsman spirit & character building",
+    "evidence": "2. Fair play, sportsman spirit & character building",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Collaborative learning and focus on teamwork",
+    "evidence": "3. Collaborative learning and focus on teamwork",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Learning from mistakes: the art of failure & a winning attitude",
+    "evidence": "4. Learning from mistakes: the art of failure & a winning attitude",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Worldclass Infrastructure facility: Sehwag Cricket Academy to nurture cricketing skills in student",
+    "evidence": "5. Worldclass Infrastructure facility: Sehwag Cricket Academy to nurture cricketing skills in student",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Unique opportunity to interact & learn from inspiring role models",
+    "evidence": "6. Unique opportunity to interact & learn from inspiring role models",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Sehwag International School",
+   "evidence": "Sehwag International School",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "Classes - I to IX & XI",
+   "evidence": "Classes - I to IX & XI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "admission_dates": {
+   "value": "For the Session 2023-2024",
+   "evidence": "For the Session 2023-2024",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "mode": {
+   "value": "DAY CUM BOARDING SCHOOL",
+   "evidence": "DAY CUM BOARDING SCHOOL",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Sehwag International School admissions open for session 2023-2024",
+  "Classes I to IX & XI",
+  "Day cum boarding school",
+  "Online admissions available",
+  "Six reasons to choose SIS listed",
+  "Website www.sisj.in and email info@sisj.in provided",
+  "Address Silani Kesho, 7 KM Milestone, Main Jhajjar Gurugaon Road, Jhajjar (Haryana)",
+  "Call numbers +91 9711188700, 8930059111"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ARISE",
+   "score": 0.8155,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "\"ONE",
+   "score": 0.973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "LIFE ONE PLACE",
+   "score": 0.9796,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "TO CHASE EVERY DREAM\"",
+   "score": 0.9595,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "Sehwag International School",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Excellence in Leadership",
+   "score": 0.9866,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "DAY CUM BOARDING SCHOOL",
+   "score": 0.9647,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "ADMISSIONS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "OPEN",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "For the Session 2023-2024",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Classes - I to IX & XI",
+   "score": 0.9734,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Online Admissions Available",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "WHY SIS?",
+   "score": 0.9382,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "1. Holistic education: fully balanced academics & sports",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "2. Fair play, sportsman spirit & character building",
+   "score": 0.9901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "3. Collaborative learning and focus on teamwork",
+   "score": 0.9814,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "4. Learning from mistakes: the art of failure & a winning attitude",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "5. Worldclass Infrastructure facility: Sehwag Cricket Academy to nurture cricketing",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "skills in student",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "6. Unique opportunity to interact & learn from inspiring role models",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Website:- www.sisj.in / Email:- info@sisj.in",
+   "score": 0.9846,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "Silani Kesho, 7 KM Milestone, Main Jhajjar Gurugaon Road, Jhajjar (Haryana).",
+   "score": 0.9961,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "CALL :- +91 9711188700, 8930059111",
+   "score": 0.9673,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 9.73,
+  "extract": 15.67
+ }
+}

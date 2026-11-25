@@ -1,0 +1,101 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ],
+   [
+    "Hindi"
+   ]
+  ]
+ },
+ "brand": "LIC",
+ "product": {
+  "any_of": [
+   "Jeevan Akshay VII",
+   "LIC's Jeevan Akshay VII",
+   "Jeevan Akshay"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "VII"
+  ]
+ },
+ "advertiser": {
+  "any_of": [
+   "Life Insurance Corporation of India",
+   "LIC"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "manufacturer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Insurance",
+   "Banking & Finance"
+  ]
+ },
+ "headline": "हँसता खेलता रिटायरमेंट",
+ "sub_headline": {
+  "any_of": [
+   "हर पल आपके साथ",
+   "हमारे बढ़े हुए वार्षिकी दरों के साथ",
+   null
+  ]
+ },
+ "price": null,
+ "phones": {
+  "required": [
+   "02268276827",
+   "8976862090"
+  ],
+  "optional": [
+   "56767474"
+  ]
+ },
+ "websites": [
+  "licindia.in"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "reference_numbers": {
+  "required": [
+   "UIN-512N337V04"
+  ],
+  "optional": [
+   "प्लान नं. 857",
+   "Plan No. 857",
+   "IRDAI Regn No.: 512"
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

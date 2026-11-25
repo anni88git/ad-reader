@@ -1,0 +1,80 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Bengali",
+    "English"
+   ],
+   [
+    "Bengali"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Roop Mantra",
+   "Dr. Juneja's",
+   "রূপ মন্ত্রা"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Roop Mantra Ayurvedic Face Cream & Face Washes",
+   "Ayurvedic Face Cream & Face Washes",
+   "Roop Mantra Face Wash",
+   "Ayurvedic Medicinal Facewash",
+   "Roop Mantra Cucumber Face Wash",
+   null
+  ]
+ },
+ "model_variant": null,
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Personal & Home Care",
+   "FMCG",
+   "Healthcare"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "স্বাস্থ্যোজ্জ্বল ও ঝলমলে ত্বকের জন্য",
+   "রূপ মন্ত্রা"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   null,
+   "Ayurvedic Face Cream & Face Washes",
+   "স্বাস্থ্যোজ্জ্বল ও ঝলমলে ত্বকের জন্য"
+  ]
+ },
+ "price": null,
+ "phones": [
+  "8725966666"
+ ],
+ "websites": [
+  "www.roopmantra.com"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

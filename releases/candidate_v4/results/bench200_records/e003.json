@@ -1,0 +1,1558 @@
+{
+ "image": "e003_Daily_Thanthi_539.jpg",
+ "fields": {
+  "brand": {
+   "value": "Suzuki",
+   "evidence": "SUZUKI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    },
+    {
+     "id": 24,
+     "name": "Suzuki Motorcycle",
+     "score": 96.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "GIXXER series",
+   "evidence": "The new GIXXER series comes with Suzuki Ride Connect\\* enabled with a Bluetooth® Digital Console.",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: GIXXER SF 250",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Suzuki Motorcycle India Private Limited",
+   "evidence": "For further information, call Suzuki Motorcycle India Private Limited (Toll-Free): 1800-121-7996",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: ABT Suzuki / Jain's Suzuki / Pramaan Suzuki / Roonwal Suzuki / SMK Suzuki / Athyuk Suzuki / Athvith Suzuki / MRC Suzuki / Adrian Suzuki",
+    "no exact record; closest: Kia India, Maruti Suzuki India Ltd"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    },
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 64.6
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "BORN OF GREATNESS.",
+   "evidence": "BORN OF GREATNESS.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 100% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "UPGRADE TO STAY CONNECTED",
+   "evidence": "UPGRADE TO STAY CONNECTED",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "The new GIXXER series comes with Suzuki Ride Connect\\* enabled with a Bluetooth® Digital Console.",
+   "evidence": "The new GIXXER series comes with Suzuki Ride Connect\\* enabled with a Bluetooth® Digital Console.",
+   "english": "The new GIXXER series comes with Suzuki Ride Connect enabled with a Bluetooth Digital Console.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "Extended Warranty is available for 3 Years.",
+   "evidence": "Extended Warranty is available for 3 Years.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "For further information, call Suzuki Motorcycle India Private Limited (Toll-Free): 1800-121-7996 (Mon-Sat from 9:00 am to 6:00 pm), or write to us at: customer.queries@suzukimotorcycle.in, visit website: www.suzukimotorcycle.in for T&C or visit nearest Suzuki two-wheeler dealership for more.",
+   "evidence": "For further information, call Suzuki Motorcycle India Private Limited (Toll-Free): 1800-121-7996 (Mon-Sat from 9:00 am to 6:00 pm), or write to us at: customer.queries@suzukimotorcycle.in, visit website: www.suzukimotorcycle.in for T&C or visit nearest Suzuki two-wheeler dealership for more.",
+   "english": "Call the toll-free number 1800-121-7996, email customer.queries@suzukimotorcycle.in, visit www.suzukimotorcycle.in, or visit the nearest Suzuki two-wheeler dealership.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "FROM THE MAKERS OF HAYABUSA AND GSX-R",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Two Wheelers",
+   "evidence": "GIXXER SF 250 GIXXER SF",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #3"
+   ],
+   "matched_id": 3,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 3,
+     "name": "Automobile > Two Wheelers",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://www.suzukimotorcycle.co.in/)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://www.suzukimotorcycle.co.in/",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Gixxer SF 250 and Gixxer SF motorcycles",
+    "Born of Greatness",
+    "Suzuki Ride Connect enabled Bluetooth Digital Console",
+    "Exchange Bonus and Extended Warranty",
+    "Total Benefits up to ₹ 7 000",
+    "Toll-free number 1800-121-7996",
+    "Website www.suzukimotorcycle.in",
+    "Dealer addresses in Chennai"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Suzuki is advertising its Gixxer SF 250 and Gixxer SF motorcycles, highlighting the new Gixxer series with Suzuki Ride Connect enabled Bluetooth Digital Console. The ad offers Exchange Bonus and Extended Warranty with total benefits up to ₹ 7,000, valid till 31st March 2023, and invites readers to call the toll-free number or visit the website or nearest dealership.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001217996",
+     "kind": "toll_free",
+     "as_printed": "1800-121-7996"
+    },
+    "evidence": "For further information, call Suzuki Motorcycle India Private Limited (Toll-Free): 1800-121-7996",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7397783763",
+     "kind": "mobile",
+     "as_printed": "7397783763"
+    },
+    "evidence": "Chennai: Nandhanam: ABT Suzuki, Ph: 7397783763",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9500902195",
+     "kind": "mobile",
+     "as_printed": "9500902195"
+    },
+    "evidence": "Chennai: Nandhanam: ABT Suzuki, Ph: 7397783763, 9500902195",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04422644001",
+     "kind": "landline",
+     "as_printed": "044-22644001"
+    },
+    "evidence": "Pallavaram: Jain's Suzuki, Ph: 044-22644001",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8190087770",
+     "kind": "mobile",
+     "as_printed": "8190087770"
+    },
+    "evidence": "Pallavaram: Jain's Suzuki, Ph: 044-22644001, 8190087770",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04422601599",
+     "kind": "landline",
+     "as_printed": "044-22601599"
+    },
+    "evidence": "Adambakkam: Pramaan Suzuki, 044-22601599",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9176622204",
+     "kind": "mobile",
+     "as_printed": "9176622204"
+    },
+    "evidence": "Adambakkam: Pramaan Suzuki, 044-22601599, 9176622204",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04443570017",
+     "kind": "landline",
+     "as_printed": "044-43570017"
+    },
+    "evidence": "Old Washermanpet: Roonwal Suzuki, Ph: 044-43570017",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9176922342",
+     "kind": "mobile",
+     "as_printed": "9176922342"
+    },
+    "evidence": "Old Washermanpet: Roonwal Suzuki, Ph: 044-43570017, 9176922342",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04423861444",
+     "kind": "landline",
+     "as_printed": "044-23861444"
+    },
+    "evidence": "Porur: SMK Suzuki, Ph: 044-23861444",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9962519445",
+     "kind": "mobile",
+     "as_printed": "9962519445"
+    },
+    "evidence": "Porur: SMK Suzuki, Ph: 044-23861444 9962519445",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04442018999",
+     "kind": "landline",
+     "as_printed": "044-42018999"
+    },
+    "evidence": "Anna Nagar: Athyuk Suzuki Pb: 044-42018999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9940237775",
+     "kind": "mobile",
+     "as_printed": "9940237775"
+    },
+    "evidence": "Anna Nagar: Athyuk Suzuki Pb: 044-42018999 9940237775",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9884281913",
+     "kind": "mobile",
+     "as_printed": "9884281913"
+    },
+    "evidence": "Sholinganallur: Athvith Suzuki Pb: 9884281913",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9884281914",
+     "kind": "mobile",
+     "as_printed": "9884281914"
+    },
+    "evidence": "Sholinganallur: Athvith Suzuki Pb: 9884281913, 9884281914",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04448556931",
+     "kind": "landline",
+     "as_printed": "044-48556931"
+    },
+    "evidence": "Gowrivakkam: MRC Suzuki, Ph: 044-48556931",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7397775581",
+     "kind": "mobile",
+     "as_printed": "7397775581"
+    },
+    "evidence": "Gowrivakkam: MRC Suzuki, Ph: 044-48556931,7397775581",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8056004938",
+     "kind": "mobile",
+     "as_printed": "8056004938"
+    },
+    "evidence": "Ambattur Wavin: Adrian Suzuki Pb: 8056004938",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9952991101",
+     "kind": "mobile",
+     "as_printed": "9952991101"
+    },
+    "evidence": "Ambattur Wavin: Adrian Suzuki Pb: 8056004938, 9952991101",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.suzukimotorcycle.in",
+    "evidence": "visit website: www.suzukimotorcycle.in for T&C",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "customer.queries@suzukimotorcycle.in",
+    "evidence": "or write to us at: customer.queries@suzukimotorcycle.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Nandhanam: ABT Suzuki",
+    "evidence": "Chennai: Nandhanam: ABT Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Pallavaram: Jain's Suzuki",
+    "evidence": "Pallavaram: Jain's Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Adambakkam: Pramaan Suzuki",
+    "evidence": "Adambakkam: Pramaan Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Old Washermanpet: Roonwal Suzuki",
+    "evidence": "Old Washermanpet: Roonwal Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Porur: SMK Suzuki",
+    "evidence": "Porur: SMK Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Anna Nagar: Athyuk Suzuki",
+    "evidence": "Anna Nagar: Athyuk Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Sholinganallur: Athvith Suzuki",
+    "evidence": "Sholinganallur: Athvith Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Gowrivakkam: MRC Suzuki",
+    "evidence": "Gowrivakkam: MRC Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ambattur Wavin: Adrian Suzuki",
+    "evidence": "Ambattur Wavin: Adrian Suzuki",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Suzuki Ride Connect\\* enabled with a Bluetooth® Digital Console",
+    "evidence": "The new GIXXER series comes with Suzuki Ride Connect\\* enabled with a Bluetooth® Digital Console.",
+    "english": "Suzuki Ride Connect enabled with a Bluetooth Digital Console",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SOCS SUZUKI OIL COOLING SYSTEM",
+    "evidence": "SOCS SUZUKI OIL COOLNG SYSTEM",
+    "english": "Suzuki Oil Cooling System",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ABS DUAL CHANNEL",
+    "evidence": "ABS DUAL CHANNEL",
+    "english": "Anti-lock Braking System Dual Channel",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "Valid till 31st March 2023",
+    "evidence": "Alloffer valid till stock last and valid till 31° March 2023",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "Total Benefits up to ₹ 7 000*",
+    "evidence": "Total Benefits up to 7 000*",
+    "english": "Total Benefits up to ₹ 7,000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "EXCHANGE BONUS**",
+    "evidence": "EXCHANGE BONUS**",
+    "english": "EXCHANGE BONUS",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "EXTENDED WARRANTY^",
+    "evidence": "EXTENDED WARRANTY^",
+    "english": "EXTENDED WARRANTY",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "ABT Suzuki",
+     "area": "Nandhanam",
+     "city": "Chennai",
+     "phones": [
+      "7397783763",
+      "9500902195"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 9,
+       "name": "Maruti Suzuki India Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Chennai: Nandhanam: ABT Suzuki, Ph: 7397783763, 9500902195",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Maruti Suzuki India Ltd; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jain's Suzuki",
+     "area": "Pallavaram",
+     "city": "Chennai",
+     "phones": [
+      "04422644001",
+      "8190087770"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Pallavaram: Jain's Suzuki, Ph: 044-22644001, 8190087770",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pramaan Suzuki",
+     "area": "Adambakkam",
+     "city": "Chennai",
+     "phones": [
+      "04422601599",
+      "9176622204"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Adambakkam: Pramaan Suzuki, 044-22601599, 9176622204",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Roonwal Suzuki",
+     "area": "Old Washermanpet",
+     "city": "Chennai",
+     "phones": [
+      "04443570017",
+      "9176922342"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Old Washermanpet: Roonwal Suzuki, Ph: 044-43570017, 9176922342",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SMK Suzuki",
+     "area": "Porur",
+     "city": "Chennai",
+     "phones": [
+      "04423861444",
+      "9962519445"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 9,
+       "name": "Maruti Suzuki India Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Porur: SMK Suzuki, Ph: 044-23861444 9962519445",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Maruti Suzuki India Ltd; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Athyuk Suzuki",
+     "area": "Anna Nagar",
+     "city": "Chennai",
+     "phones": [
+      "04442018999",
+      "9940237775"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Anna Nagar: Athyuk Suzuki Pb: 044-42018999 9940237775",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Athvith Suzuki",
+     "area": "Sholinganallur",
+     "city": "Chennai",
+     "phones": [
+      "9884281913",
+      "9884281914"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Sholinganallur: Athvith Suzuki Pb: 9884281913, 9884281914",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MRC Suzuki",
+     "area": "Gowrivakkam",
+     "city": "Chennai",
+     "phones": [
+      "04448556931",
+      "7397775581"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 9,
+       "name": "Maruti Suzuki India Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Gowrivakkam: MRC Suzuki, Ph: 044-48556931,7397775581",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Maruti Suzuki India Ltd; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Adrian Suzuki",
+     "area": "Ambattur Wavin",
+     "city": "Chennai",
+     "phones": [
+      "8056004938",
+      "9952991101"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "Ambattur Wavin: Adrian Suzuki Pb: 8056004938, 9952991101",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "safety_features": {
+   "value": "ABS DUAL CHANNEL",
+   "evidence": "ABS DUAL CHANNEL",
+   "english": "Anti-lock Braking System Dual Channel",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "EXCHANGE BONUS**",
+   "evidence": "EXCHANGE BONUS**",
+   "english": "Exchange Bonus",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Gixxer SF 250 and Gixxer SF motorcycles",
+  "Born of Greatness",
+  "Suzuki Ride Connect enabled Bluetooth Digital Console",
+  "Exchange Bonus and Extended Warranty",
+  "Total Benefits up to ₹ 7 000",
+  "Toll-free number 1800-121-7996",
+  "Website www.suzukimotorcycle.in",
+  "Dealer addresses in Chennai"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "SUZUKI",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "FROM THE MAKERS OF HAYABUSA AND GSX-R",
+   "score": 0.988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "GXXEFSF2SO",
+   "score": 0.7766,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "GIXXERSF",
+   "score": 0.9256,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "BORN OF",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "S43",
+   "score": 0.6719,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "SORR",
+   "score": 0.6536,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "GREATNESS.",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "290m ETA",
+   "score": 0.9028,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "000000",
+   "score": 0.8808,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "MODC",
+   "score": 0.9134,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "05155P28.7",
+   "score": 0.6478,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "SUZUKI",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "UPGRADE TO STAY",
+   "score": 0.9871,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "CONNECTED",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "The new GIXXER series comes with",
+   "score": 0.9701,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Suzuki Ride Connect\" enabled with a",
+   "score": 0.9786,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "SUZUKI",
+   "score": 0.9753,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "Bluetooth® Digital Console.",
+   "score": 0.9751,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ECSTAR",
+   "score": 0.9943,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "SUZUKI",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "GIXXERS",
+   "score": 0.7884,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "SUZUKI",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "SOCS",
+   "score": 0.9947,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "SUZUKI OIL COOLNG SYSTEM",
+   "score": 0.954,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "DUAL CHANNEL",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "EXCHANGE BONUS**",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "EXTENDED WARRANTY",
+   "score": 0.9925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "SUZUKI",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "MEE COMMECT",
+   "score": 0.7849,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "00",
+   "score": 0.5742,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "Total Benefits up to 7 000*",
+   "score": 0.964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "SEP",
+   "score": 0.9973,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 34,
+   "text": "POWERED BY",
+   "score": 0.9538,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "#amGIXXER",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "$ SUZUKI",
+   "score": 0.911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "• Images are used frillustration purposes only. • Accessories shown are not a part of the standard product and may vary from variant to variant. Company reserves the right to make changes at any point of time, without prior notice In design, colour, specifications and feature of the product• **Exchange Bonus Is based on the condition of the vehicle, avaiabilit of",
+   "score": 0.977,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 38,
+   "text": "be clubbed with any other offer. For the latest authentic information, kindly contact your nearest Authorized Dealer. Gixer 5F 250/Gixxer 250 Is avaiable at Suzuki Premium Dealership only.*Suzuki Ride connect application is available for Android\" OS version 6 onwards and iOS version 12.0 onwards. Android is a trademark of Google LLC. IOS is a trademark or registered",
+   "score": 0.967,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "documents and is applicable on the purchase of Gixxer Ride Connect series in exchange of any two wheeler. Exchange up to 7 000 on Gioxer Ride Connect series - ^Extended Warranty is available for 3 Years. · Company reserves the right to modify or withdraw any or all offers without any prior notice. Alloffer valid till stock last and valid till 31° March 2023 and cannot",
+   "score": 0.979,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "trademark of Cisco in the U.S. and other countries and is used under license.",
+   "score": 0.9868,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "For further information, call Suzuki Motorcycle India Private Limited (Toll-Free): 1800-121-7996 (Mon-Sat from 9:00 am to 6:00 pm), or write to us at: customer.queries@suzukimotorcycle.in,",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "visit website: www:suzukimotorcycle.in for T&C or visit nearest Suzuki two-wheeler dealership for more.",
+   "score": 0.9925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "Chennai: Nandhanam: ABT Suzuki, Ph: 7397783763, 9500902195, Pallavaram: Jain's Suzuki, Ph: 044-22644001, 8190087770, Adambakkam: Pramaan Suzuki, 044-22601599, 9176622204, Old Washermanpet: Roonwal Suzuki, Ph: 044-43570017, 9176922342, Porur: SMK Suzuki, Ph:",
+   "score": 0.9799,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 44,
+   "text": "044-23861444 9962519445,Anna Nagar: Athyuk Suzuki Pb: 044-42018999 9940237775, Sholinganallur: Athvith Suzuki Pb: 9884281913, 9884281914-Gowrivakkam: MRC Suzuki, Ph: 044-48556931,7397775581,Ambattur Wavin: Adrian Suzuki Pb: 8056004938, 9952991101,Avadi:",
+   "score": 0.9103,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: OCR line [003] reads GXXEFSF2SO but image shows GIXXER SF 250; used image reading.",
+  "model note: OCR line [006] reads S43 but image shows speed 35 on console; not used as price.",
+  "model note: OCR line [030] reads MEE COMMECT but image shows Suzuki Ride Connect; used image reading.",
+  "model note: OCR line [031] reads 00 but image shows Bluetooth symbol; not used.",
+  "model note: OCR line [036] reads $ SUZUKI but image shows SUZUKI logo; used image reading.",
+  "model note: OCR line [037] has typos (frillustration, avaiabilit); used image reading where legible.",
+  "model note: OCR line [038] reads Gioxer but image shows Gixxer; used image reading.",
+  "model note: OCR line [039] reads Gioxer but image shows Gixxer; used image reading.",
+  "model note: OCR line [043] reads Athyuk Suzuki Pb but image likely says Ph; used OCR reading as printed.",
+  "model note: OCR line [044] reads Athvith Suzuki Pb but image likely says Ph; used OCR reading as printed.",
+  "model note: OCR line [044] reads Ambattur Wavin but image may say Ambattur; used OCR reading as printed.",
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 42.47,
+  "extract": 46.26
+ }
+}

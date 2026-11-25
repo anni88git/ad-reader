@@ -1,0 +1,69 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Hero",
+   "Hero MotoCorp"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Super Splendor XTEC",
+   "Super Splendor",
+   "New Super Splendor XTEC 125cc",
+   "Super Splendor XTEC 125cc"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "dealer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Automobile > Two Wheelers",
+   "Automobile"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "আমাদের টাইম হল সুপার"
+  ]
+ },
+ "price": 84418,
+ "qr_code_present": true,
+ "language": {
+  "any_of": [
+   [
+    "Bengali",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

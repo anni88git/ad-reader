@@ -1,0 +1,786 @@
+{
+ "image": "d287_Dainik_Bhaskar_87.jpg",
+ "fields": {
+  "brand": {
+   "value": "Fena",
+   "evidence": "FENA",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Maruti Suzuki"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Fena (P) Limited",
+   "evidence": "Fena (P) Limited",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "47 साल के परीक्षण के बाद, जीता है यह विश्वास",
+   "evidence": "47 साल के परीक्षण के बाद, जीता है यह विश्वास",
+   "english": "After 47 years of testing, this trust is won",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (82%)",
+    "wording is not an exact match to the printed text (closest OCR reading 80% similar) - check spelling - suggestion: परीक्षण 市 बाढ, जीता है यह विश्वास",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Better products, Cleaner world",
+   "evidence": "Better products, Cleaner world",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: फेना, विश्वस असली भारत का"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "चार दशकों से भी ज्यादा से, फेना ने असली 'क्वालिटी टेस्ट' दिए है, जो होते है हर रोज, हर भारतीय के घर में। जहाँ इसे जम के परखा और इस्तेमाल किया जाता है - और 47 वर्षों से, फेना सबकी उम्मीदों पर खरा उतरा है। फैब्रिक केयर, होम केयर हो या फेना की पर्सनल केयर रेंज, हमने भारत को हमेशा श्रेष्ठ क्वालिटी ब्रांडस दिये है जिनमें फेना डिटर्जेंट, इम्पैक्ट प्रीमियमवॉश, निप डिशवॉश, कॉप टॉयलेट एवं फ्लोर क्लीनर्स, फेमस ब्यूटी सोप्स और फेमस हैंडवॉश शामिल है। हमें अपने जीवन का हिस्सा बनाने के लिए, धन्यवाद भारत फेना ही लेना",
+   "evidence": "चार दशकों से भी ज्यादा से, फेना ने असली 'क्वालिटी टेस्ट' दिए है, जो होते है हर रोज, हर भारतीय के घर में। जहाँ इसे जम के परखा और इस्तेमाल किया जाता है - और 47 वर्षों से, फेना सबकी उम्मीदों पर खरा उतरा है। फैब्रिक केयर, होम केयर हो या फेना की पर्सनल केयर रेंज, हमने भारत को हमेशा श्रेष्ठ क्वालिटी ब्रांडस दिये है जिनमें फेना डिटर्जेंट, इम्पैक्ट प्रीमियमवॉश, निप डिशवॉश, कॉप टॉयलेट एवं फ्लोर क्लीनर्स, फेमस ब्यूटी सोप्स और फेमस हैंडवॉश शामिल है। हमें अपने जीवन का हिस्सा बनाने के लिए, धन्यवाद भारत फेना ही लेना",
+   "english": "For more than four decades, Fena has given real quality tests that happen every day in every Indian home. Where it is tested and used extensively - and for 47 years, Fena has lived up to everyone's expectations. Whether fabric care, home care or Fena's personal care range, we have always given India the best quality brands which include Fena detergent, Impact premium wash, Nip dishwash, Cop toilet and floor cleaners, Famous beauty soaps and Famous handwash. Thank you India for making us a part of your life. Fena hi lena",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (90%)",
+    "wording is not an exact match to the printed text (closest OCR reading 77% similar) - check spelling - suggestion: चार दशकों से भी ज्यादा से, फेना ने असली 'क्वालिटी टेस्ट' दिए है, जो होते है हर रोज, हर भारतीय के घर में। जहाँ इसे जम के परखा और इस्तेमाल किया जाता है - और 47 वर्ों े, YEARSOFRESEARCHIN फेना सबकी उम्मीदों पर खरा उतरा है। फैब्रिक केयर, होम केयर हो या फेना की पर्सनल केयरेज, हमने भारत को हमेशाशरेछ क्वालिटी बराडस दिये है जिनमे ेना डिट्ेट, इ्पक्ट पीमियमवॉंश,"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "फेना ही लेना",
+   "evidence": "फेना ही लेना",
+   "english": "Take Fena / Choose Fena",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #25"
+   ],
+   "matched_id": 25,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Fena brand advertisement",
+    "47 years of research in the science of washing",
+    "Products shown: Fena detergent, Fena Impact Wash, Cop toilet cleaner, Cop floor cleaner, Famus handwash, Nip dishwash",
+    "Made in India with pride",
+    "Fena hi lena (Take Fena)"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Fena (P) Limited advertises its range of home and personal care products, claiming 47 years of testing and trust. Products include Fena detergent, Impact Wash, Cop toilet and floor cleaners, Famus handwash, and Nip dishwash. The ad thanks India and urges consumers to choose Fena.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "No.1 Quality Detergent",
+    "evidence": "No.1 QUALITY DETERGENT*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Superwash Germclean",
+    "evidence": "Superwash Germclean",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Removes 99% Germs",
+    "evidence": "REMOVES 99% GERMS",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (57%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Nature & Shakti",
+    "evidence": "Nature & Shakti",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Made in India with pride",
+    "evidence": "Made in India with pride",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Fena brand advertisement",
+  "47 years of research in the science of washing",
+  "Products shown: Fena detergent, Fena Impact Wash, Cop toilet cleaner, Cop floor cleaner, Famus handwash, Nip dishwash",
+  "Made in India with pride",
+  "Fena hi lena (Take Fena)"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "FENA",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "FENA (P) LIMITED",
+   "score": 0.9709,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "BETTER PRODUCTS,CLEANER WORLD",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "47",
+   "score": 0.9996,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "के",
+   "score": 0.9897,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 6,
+   "text": "परीक्षण",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "市",
+   "score": 0.9902,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "बाढ, जीता है यह",
+   "score": 0.9384,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "विश्वास",
+   "score": 0.9926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "No.",
+   "score": 0.9997,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "QUALITY DETERGENT*",
+   "score": 0.9668,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Fena",
+   "score": 0.8986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Fena",
+   "score": 0.9042,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Impact",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Wash",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "NIP",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "SUPERWASH GERMCLEAN",
+   "score": 0.9717,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "NATURE&SHAKTI",
+   "score": 0.9926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "COP",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "COP",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "RENOS",
+   "score": 0.4723,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "TOEAL+",
+   "score": 0.5892,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "GERMS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "FAMU",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "FAMU",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "FAMUS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "TOCLEANER",
+   "score": 0.8802,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "MADE IN",
+   "score": 0.9376,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "FLOOR",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "CLEANER",
+   "score": 0.9696,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "US",
+   "score": 0.8797,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "JS",
+   "score": 0.7647,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "INDIA",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "NIP",
+   "score": 0.996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "FAMUS",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Feng",
+   "score": 0.9475,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "Impact",
+   "score": 0.9855,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Feno",
+   "score": 0.9144,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "NIP",
+   "score": 0.9707,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "WITH PRIDE",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "Wash",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "NATURE&SHAKTI",
+   "score": 0.9204,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "NATURE& SHAKTI",
+   "score": 0.9355,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "Ajuo asodind uouequsadan 1ojae sabewl",
+   "score": 0.7218,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 45,
+   "text": "**年**",
+   "score": 0.5414,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 46,
+   "text": "RWASH PLUS",
+   "score": 0.9523,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 47,
+   "text": "Rete e Chandn",
+   "score": 0.7563,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 48,
+   "text": "1o",
+   "score": 0.6583,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 49,
+   "text": "FREE",
+   "score": 0.9997,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 50,
+   "text": "15",
+   "score": 0.998,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 51,
+   "text": "47+",
+   "score": 0.9979,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 52,
+   "text": "फेना, विश्वास असली भारत का",
+   "score": 0.9745,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "चार दशकों से भी ज्यादा से, फेना ने असली 'क्वालिटी टेस्ट' दिए है, जो होते है हर रोज, हर भारतीय के घर में। जहाँ इसे जम के परखा और इस्तेमाल किया जाता है - और 47 वर्ों े,",
+   "score": 0.9385,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "YEARSOFRESEARCHIN",
+   "score": 0.9775,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 55,
+   "text": "फेना सबकी उम्मीदों पर खरा उतरा है। फैब्रिक केयर, होम केयर हो या फेना की पर्सनल केयरेज, हमने भारत को हमेशाशरेछ क्वालिटी बराडस दिये है जिनमे ेना डिट्ेट, इ्पक्ट पीमियमवॉंश,",
+   "score": 0.8916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "THE SCIENCE OF WASHING",
+   "score": 0.9964,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "निप डिशवॉंश, ॉप टॉंयलेट एवं फ्लोर क्लीनर्स, फेमस ब्यूटी सोप्स और फेमस हैंडवॉंश शामिल है। हमें अपने जीवन का हिस्सा बनाने के लिए, धन्यवाद भारत",
+   "score": 0.9685,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "फेना ही लेना",
+   "score": 0.9829,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 18.03,
+  "extract": 13.13
+ }
+}

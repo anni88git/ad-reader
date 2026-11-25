@@ -1,0 +1,29 @@
+{
+ "_note": "Claude's reading of each wrong-and-confirmed value on bench200 (provisional; not a human audit). Labels and scores were NOT changed. 'genuine' = system clearly wrong; 'debatable' = label strictness or judgement call that a human auditor should decide.",
+ "genuine": [
+  {"id": "d305", "field": "language", "why": "Marathi ad reported as Hindi (same Devanagari script)"},
+  {"id": "d333", "field": "language", "why": "Marathi ad reported as Hindi"},
+  {"id": "d306", "field": "language", "why": "Marathi ad reported as Hindi"},
+  {"id": "e076", "field": "language", "why": "Punjabi (Gurmukhi) text not reported"},
+  {"id": "e081", "field": "language", "why": "Hindi added to an English-only ad"},
+  {"id": "e046", "field": "headline", "why": "Gujarati headline with a Devanagari letter mixed in (no Gujarati OCR to cross-check)"},
+  {"id": "d107", "field": "price", "why": "'Rs 50 000 tak ke fayde' (benefits) taken as the price - Hindi benefit word not recognised"},
+  {"id": "e026", "field": "ad_type", "why": "university admission ad classed as recruitment"},
+  {"id": "d032", "field": "ad_type", "why": "medical college admission ad classed as recruitment"},
+  {"id": "e064", "field": "ad_type", "why": "Air India fare sale classed as manufacturer (service provider)"},
+  {"id": "d015", "field": "category", "why": "Volvo bus travel service classed as Commercial Vehicles"},
+  {"id": "e018", "field": "category", "why": "JSW cement classed as FMCG > Personal & Home Care"}
+ ],
+ "debatable": [
+  {"id": "d176", "field": "language", "why": "Hindi government ad; small English text (website) may justify 'English'"},
+  {"id": "d148", "field": "language", "why": "English ad with a Hindi newspaper masthead in the crop"},
+  {"id": "d070", "field": "ad_type", "why": "small classified-style box for a copier - manufacturer vs dealer/classified"},
+  {"id": "d070", "field": "category", "why": "copier: Home Appliances vs Mobiles & Computers sub-category"},
+  {"id": "e031", "field": "category", "why": "admissions fair: 'Education > Universities & Colleges' vs label top-level 'Education'"},
+  {"id": "e099", "field": "category", "why": "herbal nutraceutical: Personal & Home Care vs Healthcare"},
+  {"id": "d097", "field": "category", "why": "sandals: 'Watches & Accessories' sub-category vs label 'Fashion & Apparel'"},
+  {"id": "d384", "field": "ad_type", "why": "hearing-aid clinic ad for a brand - manufacturer vs dealer/service provider"},
+  {"id": "e010", "field": "headline", "why": "system took the first part of a two-part headline line"},
+  {"id": "d021", "field": "headline", "why": "system took the first line of a two-line headline"}
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser",
+  "phones",
+  "websites",
+  "emails"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Rupa",
+   "Rupa Frontline",
+   "Colors",
+   "Colors by Rupa Frontline",
+   "Rupa & Co"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Colors",
+   "Colors by Rupa Frontline",
+   "Frontline",
+   "Colors innerwear",
+   null
+  ]
+ },
+ "model_variant": null,
+ "ad_type": "manufacturer",
+ "category": "Fashion & Apparel",
+ "headline": {
+  "any_of": [
+   "One India One Brand One Legacy",
+   "Colors by Rupa Frontline",
+   "Product Range",
+   "One India Brand Legacy"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   null,
+   "Product Range",
+   "One India One Brand One Legacy"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

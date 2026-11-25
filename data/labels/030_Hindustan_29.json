@@ -1,0 +1,101 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi"
+   ],
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Delhi Development Authority",
+   "DDA",
+   "दिल्ली विकास प्राधिकरण"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "FCFS Scheme Phase 4",
+   "एफसीएफएस योजना चरण 4",
+   "DDA Housing Scheme",
+   "FCFS Housing Scheme",
+   null
+  ]
+ },
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "Delhi Development Authority",
+   "DDA",
+   "दिल्ली विकास प्राधिकरण",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "public_notice",
+   "real_estate_developer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Government & Public Notices",
+   "Real Estate"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "घर खरीदने वाले हो जाएं तैयार !!!",
+   "डीडीए की आवासीय योजना के लिए नरेला में मेगा कैंप का आयोजन"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "डीडीए की आवासीय योजना के लिए नरेला में मेगा कैंप का आयोजन",
+   "सार्वजनिक सूचना",
+   "घर खरीदने वाले हो जाएं तैयार !!!",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "1800110332"
+ ],
+ "websites": {
+  "required": [
+   "www.dda.gov.in"
+  ],
+  "optional": [
+   "http://eservices.dda.org.in/public/uploads/Contact_Us_List.pdf"
+  ]
+ },
+ "emails": [],
+ "qr_code_present": true,
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "ambiguous"
+  }
+ ]
+}

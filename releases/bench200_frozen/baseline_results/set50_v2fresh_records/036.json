@@ -1,0 +1,707 @@
+{
+ "image": "036_Pudhari_180.jpg",
+ "fields": {
+  "brand": {
+   "value": "Sachi Saheli",
+   "evidence": "सच्ची सहेली",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: Sachchi Sahli",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Ayurvedic Tonic",
+   "evidence": "आयुर्वेदिक टॉनिक",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "headline": {
+   "value": "कठीण समस्या आता राहणार नाहीत",
+   "evidence": "कठीण समस्या आता राहणार नाहीत",
+   "english": "Difficult problems will no longer remain",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 86% similar) - check spelling - suggestion: समर्या आता राहणार नाहीत",
+    "second model disagrees - suggestion: कडीन समस्याचा आता राहणार नाहीत"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "सच्ची सहेली आहे उत्तम आरोग्याकरिता सर्वात विश्वसनीय औषधी आगणी टॉनिक",
+   "evidence": "सच्ची सहेली आहे उत्तम आरोग्याकरिता सर्वात विश्वसनीय औषधी आगणी टॉनिक",
+   "english": "Sachi Saheli is the most trusted medicine tonic for good health",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (93%)",
+    "wording is not an exact match to the printed text (closest OCR reading 90% similar) - check spelling - suggestion: सच्ची र उत्तम आरोग्याकरिता सर्वात विश्वसनीय औषधी आगणि टॉनिक",
+    "second model disagrees - suggestion: सच्ची सहेली आहे उत्तम आरोग्याकरिता सर्वात विश्वसनीय आणि आणि टोनिक"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "67 दुर्मळ जडीबुटीपासून निर्मित “सच्ची सहेली” आयुर्वेदिक टॉनिक खालील समस्यांमध्ये विशेष सहाय्यक आहे.",
+   "evidence": "67 दुर्मळ जडीबुटीपासून निर्मित “सच्ची सहेली” आयुर्वेदिक टॉनिक खालील समस्यांमध्ये विशेष सहाय्यक आहे.",
+   "english": "Sachi Saheli Ayurvedic Tonic made from 67 rare herbs is especially helpful in the following problems.",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (84%)",
+    "wording is not an exact match to the printed text (closest OCR reading 67% similar) - check spelling"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: FMCG > Personal & Home Care",
+    "category #14",
+    "record #14 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 14,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Marathi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Sachi Saheli Ayurvedic Tonic made from 67 rare herbs",
+    "Helps in body pain, weakness, back pain, irritability, low immunity",
+    "100% Swadeshi, 100% Ayurvedic",
+    "India's Most Trusted Brand",
+    "World's Greatest Brands 2015-16"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Sachi Saheli is an Ayurvedic tonic made from 67 rare herbs that helps with body pain, weakness, back pain, irritability and low immunity. It is 100% Swadeshi and 100% Ayurvedic, and is positioned as India's most trusted brand.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "67 दुर्मळ जडीबुटीपासून निर्मित",
+    "evidence": "67 दुर्मळ जडीबुटीपासून निर्मित",
+    "english": "Made from 67 rare herbs",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (89%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "पूर्ण स्वदेशी, पूर्ण आयुर्वेदिक",
+    "evidence": "पूर्ण स्वदेशी, पूर्ण आयुर्वेदिक",
+    "english": "100% Swadeshi, 100% Ayurvedic",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Sachi Saheli Ayurvedic Tonic made from 67 rare herbs",
+  "Helps in body pain, weakness, back pain, irritability, low immunity",
+  "100% Swadeshi, 100% Ayurvedic",
+  "India's Most Trusted Brand",
+  "World's Greatest Brands 2015-16"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "कठीण",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "समर्या",
+   "score": 0.9102,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "आता",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "राहणार",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "नाहीत",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "सच्ची सहेली आहे",
+   "score": 0.992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "सच्ची र",
+   "score": 0.9856,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "उत्तम आरोग्याकरिता",
+   "score": 0.9287,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "सर्वात विश्वसनीय",
+   "score": 0.9712,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "औषधी आगणि टॉनिक",
+   "score": 0.9787,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "औषधी 3",
+   "score": 0.8854,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "आणि",
+   "score": 0.959,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "टॉनिक",
+   "score": 0.9734,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "TRUSTED",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "INDIA'S",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "MOST",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "GREANES",
+   "score": 0.8561,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "WORLD'S",
+   "score": 0.9585,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 19,
+   "text": "पूर्ण स्वदेशी,",
+   "score": 0.9424,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": ",ूर्ण आयु्वेटिक",
+   "score": 0.8318,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "BRAND",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "67",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "67",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "दुर्माळ",
+   "score": 0.938,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "जडीबु्टीपासून",
+   "score": 0.8755,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "न निर्मित \"सच्ची सहेली\"",
+   "score": 0.8453,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "वनिर्मित",
+   "score": 0.9136,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "आयुर्वेदिक",
+   "score": 0.9604,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "XC",
+   "score": 0.5822,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "टॉनिक",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "खालील समस्यांमध्े विशेष र",
+   "score": 0.8531,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "खालील",
+   "score": 0.9873,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "सहायक",
+   "score": 0.9961,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "आहे.",
+   "score": 0.8569,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "कठीण दुखणे",
+   "score": 0.8889,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "Helps in:",
+   "score": 0.9992,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 37,
+   "text": "चिडचिडेपणा",
+   "score": 0.9672,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "सच्वी",
+   "score": 0.8997,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 39,
+   "text": "थकवा",
+   "score": 0.8799,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 40,
+   "text": "अशक्तपणा",
+   "score": 0.9906,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "सहेली",
+   "score": 0.9617,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "कंबरेचे दुखणे",
+   "score": 0.8026,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "प्रतिकारशक्ती",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "आयुटिक अण्तीय निक",
+   "score": 0.5324,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 45,
+   "text": "सच्वी",
+   "score": 0.8886,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 46,
+   "text": "BS",
+   "score": 0.536,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 47,
+   "text": "सच्वी",
+   "score": 0.878,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 48,
+   "text": "सहेजी",
+   "score": 0.8236,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 49,
+   "text": "सहेली",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "a s a",
+   "score": 0.5388,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "67 जड़ी शृट्ियों से बना।",
+   "score": 0.7269,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 52,
+   "text": "67",
+   "score": 0.9986,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 53,
+   "text": "67",
+   "score": 0.9992,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "7 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 19.05,
+  "extract": 21.88
+ }
+}

@@ -1,0 +1,581 @@
+{
+ "image": "d350_Maharashtra_Times_50.jpg",
+ "fields": {
+  "brand": {
+   "value": "Baidyanath",
+   "evidence": "बैधनाथ",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (83%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: बैदनाथ",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Vita-Ex Gold Plus Capsule",
+   "evidence": "वीटा-एक्स गोल्ड प्लस कैप्सूल",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (83%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: वीटा-एक्स गोल्ड",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Baidyanath",
+   "evidence": "बैधनाथ",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (83%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "भरपूर उत्साह आणि शक्तिकरिता वीटा-एक्स गोल्ड प्लस कैप्सूल",
+   "evidence": "भरपूर उत्साह आणि शक्तिकरिता वीटा-एक्स गोल्ड प्लस कैप्सूल",
+   "english": "For full enthusiasm and power, Vita-Ex Gold Plus Capsule",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (92%)",
+    "wording is not an exact match to the printed text (closest OCR reading 72% similar) - check spelling",
+    "a larger printed line exists ('LZ/LO/V/LOOZ/OZ/OSZ-dW :N'I', 2.7x the headline size) - check which line is the main headline",
+    "second model disagrees - suggestion: भरपुर उत्साह आगि शाकितकरिता"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "असली आयुर्वेद",
+   "evidence": "असली आयुर्वेद",
+   "english": "Genuine Ayurveda",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (92%)",
+    "wording is not an exact match to the printed text (closest OCR reading 96% similar) - check spelling - suggestion: असली आयुर्वद",
+    "second model disagrees - suggestion: वीटा-एक्स गोल्ड प्लस कैप्सूल"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "पुरुषांच्या स्वास्थ्याकरिता प्रमाणित शुद्ध स्वर्ण भस्म, सफेद मुसली व शिलाजित ने युक्त",
+   "evidence": "पुरुषांच्या स्वास्थ्याकरिता प्रमाणित शुद्ध स्वर्ण भस्म, सफेद मुसली व शिलाजित ने युक्त",
+   "english": "For men's health, enriched with certified pure gold bhasma, white musli and shilajit",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (90%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Healthcare",
+    "category #25",
+    "record #25 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 25,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Hindi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Baidyanath Vita-Ex Gold Plus capsule for men's health",
+    "Contains certified pure gold bhasma, white musli and shilajit",
+    "100% Ayurvedic",
+    "100 years of caring",
+    "Contact: 844 844 4935, www.baidyanath.co"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Baidyanath Vita-Ex Gold Plus capsule is an Ayurvedic product for men's health, made with certified pure gold bhasma, white musli and shilajit. Contact Baidyanath sales at 844 844 4935 or visit www.baidyanath.co.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8448444935",
+     "kind": "mobile",
+     "as_printed": "844 844 4935"
+    },
+    "evidence": "844 844 4935",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.baidyanath.co",
+    "evidence": "www.baidyanath.co",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "100% आयुर्वेदिक",
+    "evidence": "100% आयुर्वेदिक",
+    "english": "100% Ayurvedic",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (92%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100 years of caring",
+    "evidence": "100 years of caring",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "IN: NP-25D/2020/001/A0121",
+    "evidence": "IN: NP-25D/2020/001/A0121",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (37%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only",
+     "identifier digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Baidyanath Vita-Ex Gold Plus capsule for men's health",
+  "Contains certified pure gold bhasma, white musli and shilajit",
+  "100% Ayurvedic",
+  "100 years of caring",
+  "Contact: 844 844 4935, www.baidyanath.co"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "बैEनाथ",
+   "score": 0.7054,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "असली आयुर्वद",
+   "score": 0.9704,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "भरपूर",
+   "score": 0.9498,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "उत्साह",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "आणि",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "शक्तिकरिता",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "वीटा-एक्स",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "बौe्ड",
+   "score": 0.778,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "प्लस",
+   "score": 0.9914,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "कंप्सूल",
+   "score": 0.8324,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "बैधनाय",
+   "score": 0.893,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "वीटा-एक्स",
+   "score": 0.9819,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "100 years of caring",
+   "score": 0.9543,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "anes",
+   "score": 0.8194,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "केसूल",
+   "score": 0.8022,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "प्लस",
+   "score": 0.73,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "LZ/LO/V/LOOZ/OZ/OSZ-dW :N'I",
+   "score": 0.8597,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "पुरूषांच्या",
+   "score": 0.9205,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "स्वास्थ्याकरिता",
+   "score": 0.9784,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "प्रमाणित शुध्द स्वर्ण भरस्म,",
+   "score": 0.9506,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "सफेद मुसली व शिलाजित",
+   "score": 0.9796,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "सफेद",
+   "score": 0.9954,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "ने युक्त",
+   "score": 0.8465,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "100% आयुरवेदिक",
+   "score": 0.913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "शक्ति और स्फूरति के लिये",
+   "score": 0.9282,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "100 वर्षापासुन लोकांच्या पसंतीचे, विश्वसनिय व पारखलेले",
+   "score": 0.949,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "u :844844 4935, www.baidyanath.co",
+   "score": 0.9517,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (491x879); small print may be unreadable"
+ ],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 11.62,
+  "extract": 7.4
+ }
+}

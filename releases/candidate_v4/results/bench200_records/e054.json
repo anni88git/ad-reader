@@ -1,0 +1,713 @@
+{
+ "image": "e054_Dharitri_193.jpg",
+ "fields": {
+  "brand": {
+   "value": "Roop Mantra",
+   "evidence": "Roop Mantra",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Tropicana"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 88,
+     "name": "Tropicana",
+     "score": 63.2
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Roop Mantra Ayurvedic Medicinal Cream",
+   "evidence": "Roop Mantra An Ayurvedic Medicinal Cream",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Dr. Juneja's",
+   "evidence": "Dr. Juneja's",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Healthy + Glowing + Spotless Skin?",
+   "evidence": "Healthy + Glowing + Spotless Skin?",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "ଆମର ଆପଣଙ୍କ ପାଇଁ ଅନନ୍ୟ",
+   "evidence": "ଆମର ଆପଣଙ୍କ ପାଇଁ ଅନନ୍ୟ",
+   "english": "Our unique for you",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (0%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: An Ayurvedic Medicinal Cream"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ଆମର ଅନନ୍ୟ କ୍ରିୟା-ପ୍ରତିକ୍ରିୟା ଭାବେ, ଅନୁଭବିକ ଆପଣଙ୍କ ଚର୍ମର ପାଇଁ ଉଚ୍ଚତମ ବୈଦ୍ୟକ୍ୟ ସମାଧାନ। ଆମର ବୈଦ୍ୟକ୍ୟ ଚର୍ମର ଚିକିତ୍ସା ପାଇଁ ଉଚ୍ଚତମ ବୈଦ୍ୟକ୍ୟ ସମାଧାନ।",
+   "evidence": "ଆମର ଅନନ୍ୟ କ୍ରିୟା-ପ୍ରତିକ୍ରିୟା ଭାବେ, ଅନୁଭବିକ ଆପଣଙ୍କ ଚର୍ମର ପାଇଁ ଉଚ୍ଚତମ ବୈଦ୍ୟକ୍ୟ ସମାଧାନ। ଆମର ବୈଦ୍ୟକ୍ୟ ଚର୍ମର ଚିକିତ୍ସା ପାଇଁ ଉଚ୍ଚତମ ବୈଦ୍ୟକ୍ୟ ସମାଧାନ।",
+   "english": "Our unique reaction-emotion, experiential best medical solution for your skin. Our medical skin treatment best medical solution.",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (0%); devanagari text is hard for OCR"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Helpline: 87259 66666 | www.roopmantra.com",
+   "evidence": "Helpline: 87259 66666 | www.roopmantra.com",
+   "english": "Call helpline 87259 66666 or visit www.roopmantra.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Dr. Juneja's Roop Mantra",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": "Ayurvedic Medicinal Cream",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #25"
+   ],
+   "matched_id": 25,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Odia",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Odia: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Roop Mantra Ayurvedic Medicinal Cream",
+    "Complete Ayurvedic Skin Health Solution for Entire Family",
+    "Net Wt. 30g",
+    "For external use only",
+    "Helpline: 87259 66666",
+    "www.roopmantra.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Roop Mantra Ayurvedic Medicinal Cream by Dr. Juneja's promises healthy, glowing, spotless skin. It is a complete Ayurvedic skin health solution for the entire family, 30g, for external use only. Call helpline 87259 66666 or visit www.roopmantra.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8725966666",
+     "kind": "mobile",
+     "as_printed": "87259 66666"
+    },
+    "evidence": "Helpline: 87259 66666",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.roopmantra.com",
+    "evidence": "www.roopmantra.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "ଅନନ୍ୟ କ୍ରିୟା-ପ୍ରତିକ୍ରିୟା ଭାବେ",
+    "evidence": "ଅନନ୍ୟ କ୍ରିୟା-ପ୍ରତିକ୍ରିୟା ଭାବେ",
+    "english": "Unique reaction-emotion",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (0%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ଅନୁଭବିକ ଆପଣଙ୍କ ଚର୍ମର ପାଇଁ ଉଚ୍ଚତମ ବୈଦ୍ୟକ୍ୟ ସମାଧାନ",
+    "evidence": "ଅନୁଭବିକ ଆପଣଙ୍କ ଚର୍ମର ପାଇଁ ଉଚ୍ଚତମ ବୈଦ୍ୟକ୍ୟ ସମାଧାନ",
+    "english": "Experiential best medical solution for your skin",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (0%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "A Complete Ayurvedic Skin Health Solution for Entire Family",
+    "evidence": "A Complete Ayurvedic Skin Health Solution for Entire Family",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Net Wt. 30g",
+    "evidence": "Net Wt. 30g",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (88%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "For external use only",
+    "evidence": "For external use only",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (67%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Roop Mantra Ayurvedic Medicinal Cream",
+  "Complete Ayurvedic Skin Health Solution for Entire Family",
+  "Net Wt. 30g",
+  "For external use only",
+  "Helpline: 87259 66666",
+  "www.roopmantra.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "NO.1BRAND",
+   "score": 0.9354,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "BRAND",
+   "score": 0.9999,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 3,
+   "text": "TRUSTED",
+   "score": 0.9998,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 4,
+   "text": "Divisa",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "2016",
+   "score": 0.5834,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "www.divisastore.com",
+   "score": 0.9744,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 7,
+   "text": "'a aaa a dgss",
+   "score": 0.629,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "Healthy + Glowing + Spotless",
+   "score": 0.9686,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Skin?",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "V6M|60QI",
+   "score": 0.7653,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "910960g9",
+   "score": 0.6007,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "Or. Juneja's",
+   "score": 0.6547,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "69I6Q ggaG1",
+   "score": 0.4914,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "Roop",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Mantra",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "An Ayurvedic",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Medicinal Cream",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "áa",
+   "score": 0.4958,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "शतका कथा ।",
+   "score": 0.5261,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "3610 2667",
+   "score": 0.6841,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "60m g9 96211",
+   "score": 0.8485,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "वापात",
+   "score": 0.7246,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "90ाक थादला देस 16",
+   "score": 0.6181,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "A Complete Ayurvedic",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "026 69199 962N1",
+   "score": 0.6561,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "for Entire Family",
+   "score": 0.9463,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Skin Health Solution",
+   "score": 0.9612,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "mg",
+   "score": 0.6842,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "ho etemne use only",
+   "score": 0.6874,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "Net t: 30g",
+   "score": 0.8308,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "पशा कलावाहा ( शशात1 वाहाक",
+   "score": 0.5348,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "9q 969160 9g1a01 962N1",
+   "score": 0.653,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "800 960901",
+   "score": 0.5464,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "gal8 96aN1",
+   "score": 0.6799,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "1e° य्पा84 -6ह 9, 8911 16° त181त",
+   "score": 0.5054,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "ए8ा घा99ाहत वशावक् 6्ातथार।",
+   "score": 0.4641,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "New",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 38,
+   "text": "Dr. Juneja's",
+   "score": 0.9854,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "QA AGI",
+   "score": 0.5876,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "Ayurvedic Face Cream & Face Washes",
+   "score": 0.9877,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "aa ab9iaa g61a an ald vg qaí alg65?g aala",
+   "score": 0.632,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 42,
+   "text": "Helpline: 87259 66666 | www.roopmantra.com",
+   "score": 0.9855,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 13.59,
+  "extract": 38.68
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Super 5G Aqua",
+   "3G Aqua Water Treatment Technology",
+   "3G Aqua",
+   "Swahal"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Catalytic Super 5G Aqua",
+   "Super 5G Aqua"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "recruitment",
+   "classified"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Retail & Consumer Electronics > Home Appliances",
+   "Furniture & Home",
+   "Retail & Consumer Electronics"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Hard Water Problem?",
+   "Get permanent solution for hard water"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "phones": [
+  "8889899933",
+  "9300904222"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "English",
+    "Hindi"
+   ],
+   [
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

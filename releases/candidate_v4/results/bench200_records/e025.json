@@ -1,0 +1,2154 @@
+{
+ "image": "e025_Vijaya_Karnataka_107.jpg",
+ "fields": {
+  "brand": {
+   "value": "Skoda",
+   "evidence": "SKODA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Skoda' (#9)"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Skoda",
+     "score": 100.0
+    },
+    {
+     "id": 29,
+     "name": "Lodha",
+     "score": 60.0
+    },
+    {
+     "id": 31,
+     "name": "Sobha",
+     "score": 60.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Kushaq",
+   "evidence": "Kushaq",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Kushaq' (#86)"
+   ],
+   "matched_id": 86,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 86,
+     "name": "Kushaq",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": "Limited Edition in Matte Finish",
+   "evidence": "Limited Edition in Matte Finish",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Skoda",
+   "evidence": "SKODA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ಹೂಸಕುಶಾಕ್.ಮಾ.ಟ್ಎಡಶನ್",
+   "evidence": "ಹೂಸಕುಶಾಕ್.ಮಾ.ಟ್ಎಡಶನ್",
+   "english": "Kushaq Matte Edition",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ಹೊಸ ಕುಶಾಕ್ ಮ್ಯಾಟ್ ವಡಿಕನ್"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "ನಿಮೃನೂತನಶಕೈಶಾಲಿಸಂಗಾತಿ",
+   "evidence": "ನಿಮೃನೂತನಶಕೈಶಾಲಿಸಂಗಾತಿ",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ನಿಮ್ಮ ನೂತನ ಶಕ್ತಿಕಾರಿ ಸಂಗಾತಿ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "4-Years Complimentary Maintenance Package**",
+   "evidence": "4-Years Complimentary Maintenance Package**",
+   "english": "4-Years Complimentary Maintenance Package",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Kannada",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 1159000,
+   "evidence": "₹ 11.59 Lakh*",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (1,159,000)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Skoda Kushaq Limited Edition in Matte Finish",
+    "Range starts at ₹ 11.59 Lakh*",
+    "Powered by 1.5 TSI",
+    "Exchange benefits up to ₹ 60 000*",
+    "Corporate benefits up to ₹ 60 000*",
+    "4-Years Complimentary Maintenance Package**",
+    "Up to 100% On-Road Funding^",
+    "Extended Warranty Benefits up to ₹ 4 000*",
+    "246 Touchpoints Across India",
+    "Toll-free 1800 2700 260",
+    "www.skoda-auto.co.in"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Skoda is launching the Kushaq Limited Edition in Matte Finish, powered by 1.5 TSI, with prices starting at ₹ 11.59 Lakh. The ad lists exchange and corporate benefits, complimentary maintenance, on-road funding, extended warranty, a toll-free number, website, and dealer contacts across India.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002700260",
+     "kind": "toll_free",
+     "as_printed": "1800 2700 260"
+    },
+    "evidence": "Toll-free 1800 2700 260",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7874223333",
+     "kind": "mobile",
+     "as_printed": "7874223333"
+    },
+    "evidence": "Sales: Bengaluru: (HSR Layout): TAFE Access: 7874223333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8800776947",
+     "kind": "mobile",
+     "as_printed": "8800776947"
+    },
+    "evidence": "(Jakkur) PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7230087090",
+     "kind": "mobile",
+     "as_printed": "7230087090"
+    },
+    "evidence": "(Mahadevpura): Raja Motors: 7230087090",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8041000032",
+     "kind": "mobile",
+     "as_printed": "080-41000032"
+    },
+    "evidence": "(JP Nagar): TAFE Access: 080-41000032",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18002022866",
+     "kind": "toll_free",
+     "as_printed": "18002022866"
+    },
+    "evidence": "(Bommasandra]: Raja Motors 18002022866",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7874334444",
+     "kind": "mobile",
+     "as_printed": "7874334444"
+    },
+    "evidence": "Mangalore: TAFE Access 7874334444",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7518701229",
+     "kind": "mobile",
+     "as_printed": "7518701229/9902056184"
+    },
+    "evidence": "Hubli: Priti Cars: 7518701229/9902056184",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8216615555",
+     "kind": "mobile",
+     "as_printed": "0821-6615555"
+    },
+    "evidence": "Mysore: (Koorgalli Industrial Estate): Palace SKODA: 0821-6615555",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7518701222",
+     "kind": "mobile",
+     "as_printed": "7518701222/9902056184"
+    },
+    "evidence": "Belgaum: Priti Cars: 7518701222/9902056184",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9591998570",
+     "kind": "mobile",
+     "as_printed": "9591998570"
+    },
+    "evidence": "Service: Bengaluru: (Off Hosur Road): TAFE Acoess: 9591998570",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9620018618",
+     "kind": "mobile",
+     "as_printed": "9620018618"
+    },
+    "evidence": "(Mahadevpura): Raja Motors: 9620018618",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9384822472",
+     "kind": "mobile",
+     "as_printed": "9384822472"
+    },
+    "evidence": "Mangalore: TAFE Access: 9384822472",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9686205095",
+     "kind": "mobile",
+     "as_printed": "9686205095"
+    },
+    "evidence": "Hubli: Priti Cars: 9686205095",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "6366955730",
+     "kind": "mobile",
+     "as_printed": "6366955730"
+    },
+    "evidence": "7874334444; Hubli: Priti Cars: 7518701229/9902056184, Mysore: (Koorgalli Industrial Estate): Palace SKODA: 0821-6615555, (New Kantharaj URS Road): Palace SKODA: 0821-6615555/6366955730; Belgaum: Priti Cars: 7518701222/9902056184;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9902056184",
+     "kind": "mobile",
+     "as_printed": "9902056184"
+    },
+    "evidence": "7874334444; Hubli: Priti Cars: 7518701229/9902056184, Mysore: (Koorgalli Industrial Estate): Palace SKODA: 0821-6615555, (New Kantharaj URS Road): Palace SKODA: 0821-6615555/6366955730; Belgaum: Priti Cars: 7518701222/9902056184;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 1159000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range starts at",
+     "item": "Skoda Kushaq Limited Edition in Matte Finish",
+     "as_printed": "₹ 11.59 Lakh*"
+    },
+    "evidence": "₹ 11.59 Lakh*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (1,159,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.skoda-auto.co.in",
+    "evidence": "www.skoda-auto.co.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Limited Edition in Matte Finish",
+    "evidence": "Limited Edition in Matte Finish",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "POWERED BY 1.5 TSI",
+    "evidence": "POWERED BY 1.5 TSI",
+    "english": "Powered by 1.5 TSI",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "India's Safest Family Car",
+    "evidence": "India's Safest Family Car",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "GLOBAL NCAP",
+    "evidence": "GLOBAL NCAP",
+    "english": "Global NCAP",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "246 Touchpoints Across India",
+    "evidence": "246 Touchpoints Across India",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Exchange Benefits up to ₹ 60 000*",
+    "evidence": "Exchange Benefits up to ₹ 60 000*",
+    "english": "Exchange benefits up to ₹ 60 000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Corporate Benefits up to ₹ 60 000",
+    "evidence": "Corporate Benefits up to ₹ 60 000",
+    "english": "Corporate benefits up to ₹ 60 000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "4-Years Complimentary Maintenance Package**",
+    "evidence": "4-Years Complimentary Maintenance Package**",
+    "english": "4-Years Complimentary Maintenance Package",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Up to 100% On-Road Funding^",
+    "evidence": "Up to 100% On-Road Funding^",
+    "english": "Up to 100% On-Road Funding",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Extended Warranty Benefits up to ₹ 4 000*",
+    "evidence": "Extended Warranty Benefits up to ₹ 4 000*",
+    "english": "Extended Warranty Benefits up to ₹ 4 000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 60000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Exchange Benefits",
+     "item": "exchange",
+     "as_printed": "up to ₹ 60 000*"
+    },
+    "evidence": "up to ₹ 60 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (60,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 60000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Corporate Benefits",
+     "item": "corporate",
+     "as_printed": "up to ₹ 60 000"
+    },
+    "evidence": "up to ₹ 60 000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (60,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 4000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Extended Warranty",
+     "item": "extended warranty",
+     "as_printed": "Benefits up to ₹ 4 000*"
+    },
+    "evidence": "Benefits up to ₹ 4 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (4,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": "HSR Layout",
+     "city": "Bengaluru",
+     "phones": [
+      "7874223333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "Sales: Bengaluru: (HSR Layout): TAFE Access: 7874223333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": "St. Marks Road",
+     "city": "Bengaluru",
+     "phones": [
+      "7874223333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(St: Marks Road): TAFE Access: 7874223333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Jakkur",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Jakkur) PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Sadashivanagar",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Sadashivanagar): PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Raja Motors",
+     "area": "Mahadevpura",
+     "city": "Bengaluru",
+     "phones": [
+      "7230087090"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 72.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 69.6
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Mahadevpura): Raja Motors: 7230087090",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": "JP Nagar",
+     "city": "Bengaluru",
+     "phones": [
+      "8041000032"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(JP Nagar): TAFE Access: 080-41000032",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Mysore Road",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Mysore Road): PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Rajajinagar",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Rajajinagar): PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Kalyan Nagar",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Kalyan Nagar): PPS Motors 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": "Sarjapur",
+     "city": "Bengaluru",
+     "phones": [
+      "7874223333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Sarjapur): TAFE Access 7874223333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Raja Motors",
+     "area": "Bommasandra",
+     "city": "Bengaluru",
+     "phones": [
+      "18002022866"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 72.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 69.6
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Bommasandra]: Raja Motors 18002022866",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": null,
+     "city": "Mangalore",
+     "phones": [
+      "7874334444"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Mangalore: TAFE Access 7874334444",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Bengaluru"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Priti Cars",
+     "area": null,
+     "city": "Hubli",
+     "phones": [
+      "7518701229"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Hubli: Priti Cars: 7518701229/9902056184",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Palace SKODA",
+     "area": "Koorgalli Industrial Estate",
+     "city": "Mysore",
+     "phones": [
+      "8216615555"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 44,
+     "city_id": null
+    },
+    "evidence": "Mysore: (Koorgalli Industrial Estate): Palace SKODA: 0821-6615555",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mysuru' (#44)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Palace SKODA",
+     "area": "New Kantharaj URS Road",
+     "city": "Mysore",
+     "phones": [
+      "8216615555"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 44,
+     "city_id": null
+    },
+    "evidence": "(New Kantharaj URS Road): Palace SKODA: 0821-6615555/6366955730",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mysuru' (#44)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Priti Cars",
+     "area": null,
+     "city": "Belgaum",
+     "phones": [
+      "7518701222"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Belgaum: Priti Cars: 7518701222/9902056184",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Bengaluru"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": null,
+     "city": "Tumkur",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "Tumkur: PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": null,
+     "city": "Udupi",
+     "phones": [
+      "7874334444"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Udupk TAFE Access: 7874334444",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": null,
+     "city": "Shivammogga",
+     "phones": [
+      "7874334444"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Shivammogga: TAFE Access: 7874334444",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": null,
+     "city": "Bellary",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "Bellary: PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Acoess",
+     "area": "Off Hosur Road",
+     "city": "Bengaluru",
+     "phones": [
+      "9591998570"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "Service: Bengaluru: (Off Hosur Road): TAFE Acoess: 9591998570",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Hennur Road",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Hennur Road): PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Sreerampura Okhlipuram",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Sreerampura Okhlipuram): PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Raja Motors",
+     "area": "Mahadevpura",
+     "city": "Bengaluru",
+     "phones": [
+      "9620018618"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 72.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 69.6
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Mahadevpura): Raja Motors: 9620018618",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Mysore Road",
+     "city": "Bengaluru",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "(Mysore Road): PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": null,
+     "city": "Mangalore",
+     "phones": [
+      "9384822472"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Mangalore: TAFE Access: 9384822472",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Bengaluru"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Priti Cars",
+     "area": null,
+     "city": "Hubli",
+     "phones": [
+      "9686205095"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Hubli: Priti Cars: 9686205095",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Palace ŠKODA",
+     "area": null,
+     "city": "Mysore",
+     "phones": [
+      "8216615555"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 44,
+     "city_id": null
+    },
+    "evidence": "Mysore: Palace ŠKODA:0821-6615555",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mysuru' (#44)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": "Tumkun",
+     "city": "Tumkur",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "Tumkun PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PPS Motors",
+     "area": null,
+     "city": "Bellary",
+     "phones": [
+      "8800776947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "Bellary: PPS Motors: 8800776947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TAFE Access",
+     "area": null,
+     "city": "Shivammogga",
+     "phones": [
+      "7874223333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Shivammogga: TAFE Access: 7874223333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "fuel_type": {
+   "value": "1.5 TSI",
+   "evidence": "POWERED BY 1.5 TSI",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "fuel type not recognised (expected petrol/diesel/CNG/hybrid/electric...)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_type": {
+   "value": "Limited Edition in Matte Finish",
+   "evidence": "Limited Edition in Matte Finish",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "Up to 100% On-Road Funding^",
+   "evidence": "Up to 100% On-Road Funding^",
+   "english": "Up to 100% On-Road Funding",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Skoda Kushaq Limited Edition in Matte Finish",
+  "Range starts at ₹ 11.59 Lakh*",
+  "Powered by 1.5 TSI",
+  "Exchange benefits up to ₹ 60 000*",
+  "Corporate benefits up to ₹ 60 000*",
+  "4-Years Complimentary Maintenance Package**",
+  "Up to 100% On-Road Funding^",
+  "Extended Warranty Benefits up to ₹ 4 000*",
+  "246 Touchpoints Across India",
+  "Toll-free 1800 2700 260",
+  "www.skoda-auto.co.in"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "SKODA",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "ಹೂಸಕುಶಾಕ್.ಮಾ.ಟ್ಎಡಶನ್",
+   "score": 0.935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "8",
+   "score": 0.9818,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "ನಿಮೃನೂತನಶಕೈಶಾಲಿಸಂಗಾತಿ",
+   "score": 0.9435,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Kushaq",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "POWERED",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Limited Edition in Matte Finish",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "BY15TSI",
+   "score": 0.9665,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Range starts at11.59 Lakh*",
+   "score": 0.9936,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "GLOBAL",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "NCAP",
+   "score": 0.9257,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "India's",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Safest",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "©****|©*****",
+   "score": 0.6266,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "Family Car",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Exchange Benefits",
+   "score": 0.973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Corporate Benefits",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "4-Years Complimentary",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "Up to 100%",
+   "score": 0.991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Extended Warranty",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "246 Touchpoints",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "Toll-free 1800 2700 260",
+   "score": 0.9856,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "up to 60 000°",
+   "score": 0.9281,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "up to 60 000",
+   "score": 0.9301,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Maintenance Package**",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "On-Road Funding^",
+   "score": 0.9731,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Benefits up to 7 4 000*",
+   "score": 0.9291,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "Across India",
+   "score": 0.9668,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "www.skoda-auto.co.in",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "Sales: Bengaluru: (HSR Layout): TAFE Access: 7874223333; (St: Marks Road): TAFE Access: 7874223333; (Jakkur) PPS Motors: 8800776947. (Sadashivanagar): PPS Motors: 8800776947; (Mahadevpura): Raja Motors: 7230087090; (JP Nagar): TAFE Access:",
+   "score": 0.9628,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "080-41000032; (Mysore Road): PPS Motors: 8800776947; (Rajajinagar): PPS Motors: 8800776947; (Kalyan Nagar): PPS Motors 8800776947, (Sarjapur): TAFE Access 7874223333; (Bommasandra]: Raja Motors 18002022866; Mangalore: TAFE Access",
+   "score": 0.9594,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 32,
+   "text": "7874334444; Hubli: Priti Cars: 7518701229/9902056184, Mysore: (Koorgalli Industrial Estate): Palace SKODA: 0821-6615555, (New Kantharaj URS Road): Palace SKODA: 0821-6615555/6366955730; Belgaum: Priti Cars: 7518701222/9902056184;",
+   "score": 0.9726,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "Tumkur: PPS Motors: 8800776947; Udupk TAFE Access: 7874334444; Shivammogga: TAFE Access: 7874334444; Bellary: PPS Motors: 8800776947",
+   "score": 0.9743,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 34,
+   "text": "Service: Bengaluru: (Off Hosur Road): TAFE Acoess: 9591998570; (Hennur Road): PPS Motors: 8800776947; (Sreerampura Okhlipuram): PPS Motors: 8800776947; (Mahadevpura): Raja Motors: 9620018618; (Mysore Road): PPS Motors: 8800776947;",
+   "score": 0.9705,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "Mangalore: TAFE Access: 9384822472; Hubli: Priti Cars: 9686205095; Mysore: Palace ŠKODA:0821-6615555; Tumkun PPS Motors: 8800776947; Bellary: PPS Motors: 8800776947; Shivammogga: TAFE Access: 7874223333",
+   "score": 0.969,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 36,
+   "text": "T&C Aaply. Dclvory of the car is sutjoct to stodk avalablty Crodit at sole discretion of thefranoor Saics offers may vary fromn varene to veriant on seloctod stodks. Corporatc/loyatyspcoulallance offlers cannot be cuboeditagecher Spofcations gvon iffor ror modelto model Aways insist on gonuine Sode Auto",
+   "score": 0.75,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "perts avalable a Soda authoraed dealer Complimentary S is applicable on select models and varats Waanty - Vears [2 Years standard wamy romotona ffers onetended warany Etanded Warrany - d soourt of 3 on selected vaanes o Kushaq & Slava and dscount of on selected",
+   "score": 0.6936,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "-- ewt oe",
+   "score": 0.51,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "\"Car Prloos mentionod aro t-shownon. Dx-showroons Prioois of Kusheq Activc MT 1.0 TSt Car is ratod with the ho p of comiputor g'aphics soloty ltor the purposn of advortising.",
+   "score": 0.8622,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "voriants of Koda RoadsideAssstarce - 4Yeans ar un imtedlim letendble up to B years optiona: Soda Maneenance Package-4 Year0 00 kr 4-Year perodic maintenanoe servioes at anintarval of 15 000 in or 1 year (whicheveris earlerrom the date of delivey A dsputes are subject to Mumba oouts only",
+   "score": 0.7324,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 43.32,
+  "extract": 43.92
+ }
+}

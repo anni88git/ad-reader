@@ -1,0 +1,66 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "Hindi"
+ ],
+ "brand": {
+  "any_of": [
+   "Horticulture Department, Haryana",
+   "Udyan Vibhag Haryana",
+   "Haryana Government",
+   "Government of Haryana",
+   "Department of Horticulture, Haryana"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Fal Utsav",
+   "Aam Mela",
+   "Fal Utsav evam Aam Mela"
+  ]
+ },
+ "ad_type": "public_notice",
+ "category": {
+  "any_of": [
+   "Government & Public Notices"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "फल उत्सव एवं आम मेला"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "drafter unsure"
+  }
+ ]
+}

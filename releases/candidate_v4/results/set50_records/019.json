@@ -1,0 +1,695 @@
+{
+ "image": "019_Haldiram_410.jpg",
+ "fields": {
+  "brand": {
+   "value": "Haldiram's",
+   "evidence": "Haldiram's",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Haldiram's' (#83)"
+   ],
+   "matched_id": 83,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 83,
+     "name": "Haldiram's",
+     "score": 100.0
+    },
+    {
+     "id": 115,
+     "name": "Adidas",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Navratra Feast",
+   "evidence": "Navratra Feast",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "no products on record for Haldiram's"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Haldiram's",
+   "evidence": "Haldiram's",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Navratra Feast",
+   "evidence": "Navratra Feast",
+   "english": null,
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 76% similar) - check spelling - suggestion: NAVRATRA",
+    "headline is only the brand/product name",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "DIVINE DELICACIES FILLED WITH WHOLESOME FLAVORS TO LIGHTEN UP BLISSFUL DAYS OF NAVRATRA",
+   "evidence": "DIVINE DELICACIES FILLED WITH WHOLESOME FLAVORS TO LIGHTEN UP BLISSFUL DAYS OF NAVRATRA",
+   "english": "Divine delicacies filled with wholesome flavors to lighten up blissful days of Navratra",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: 6th - 12th APRIL"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Shop online @ www.haldiramsonline.com",
+   "evidence": "Shop online @ www.haldiramsonline.com",
+   "english": "Shop online at www.haldiramsonline.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: retailer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Food Delivery & Restaurants",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: FMCG > Food & Beverages",
+    "category #30",
+    "brand 'Haldiram's' is filed under 'FMCG > Food & Beverages' in the master data",
+    "record #30 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 30,
+   "candidates": [
+    {
+     "id": 30,
+     "name": "Food Delivery & Restaurants",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Navratra Thali available from 6th to 12th April",
+    "Divine delicacies with wholesome flavors",
+    "Shop online at www.haldiramsonline.com",
+    "Visit outlets across Delhi, Chandigarh, Gurgaon, Haryana, Noida, Greater Noida, Khatauli, Rajasthan, Ghaziabad"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Haldiram's is offering a Navratra Feast with Navratra Thali and other fasting dishes from 6th to 12th April. Customers can shop online at www.haldiramsonline.com or visit outlets in Delhi, Chandigarh, Gurgaon, Haryana, Noida, Greater Noida, Khatauli, Rajasthan, and Ghaziabad.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.haldiramsonline.com",
+    "evidence": "www.haldiramsonline.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "DELHI: Moti Nagar, D Mall Rohini, D Mall Pitampura, Tilak Nagar, Pacific Mall Subhash Nagar, Unity One Mall Janakpuri, City Centre Mall Dwarka, Connaught Place, Chandni Chowk, Janak Cinema Janakpuri, Akshardham Metro Station, Dilshad Garden Metro Station, Cross River Mall, Lajpat Nagar, Sarojini Nagar, Dhaula Kuan Metro Station, DLF Place Saket, DLF Promenade Vasant Kunj, Mathura Road, Mallviya Nagar, ARSS Mall Paschim Vihar, Apollo Hospital Sarita Vihar, T1D Domestic Airport, T1A Domestic Airport, T3 IGI Airport, Model Town 2 Red Light, Pusa Road Near Karol Bagh Metro Station",
+    "evidence": "VISIT OUR OUTLETS AT: DELHI: Moti Nagar, D Mall Rohini, D Mall Pitampura, Tilak Nagar, Pacific Mall Subhash Nagar, Unity One Mall Janakpuri, City Centre Mall Dwarka, Connaught Place, Chandni Chowk, Janak Cinema Janakpuri, Akshardham Metro Station, Dilshad Garden Metro Station, Cross River Mall, Lajpat Nagar, Sarojini Nagar, Dhaula Kuan Metro Station, DLF Place Saket, DLF Promenade Vasant Kunj, Mathura Road, Mallviya Nagar, ARSS Mall Paschim Vihar, Apollo Hospital Sarita Vihar, T1D Domestic Airport, T1A Domestic Airport, T3 IGI Airport, Model Town 2 Red Light, Pusa Road Near Karol Bagh Metro Station",
+    "english": "Delhi outlets: Moti Nagar, D Mall Rohini, D Mall Pitampura, Tilak Nagar, Pacific Mall Subhash Nagar, Unity One Mall Janakpuri, City Centre Mall Dwarka, Connaught Place, Chandni Chowk, Janak Cinema Janakpuri, Akshardham Metro Station, Dilshad Garden Metro Station, Cross River Mall, Lajpat Nagar, Sarojini Nagar, Dhaula Kuan Metro Station, DLF Place Saket, DLF Promenade Vasant Kunj, Mathura Road, Mallviya Nagar, ARSS Mall Paschim Vihar, Apollo Hospital Sarita Vihar, T1D Domestic Airport, T1A Domestic Airport, T3 IGI Airport, Model Town 2 Red Light, Pusa Road Near Karol Bagh Metro Station",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CHANDIGARH: Zirakpur",
+    "evidence": "CHANDIGARH: Zirakpur",
+    "english": "Chandigarh: Zirakpur",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "GURGAON: Cyberhub, Ambience Mall, MGF Mall, Sahara Mall, City Center Mall, Global Foyer Mall Palam Vihar, Omaxe Mall Sohna Road, Delhi Jaipur Highway NH-8, Fortis Hospital Gurgaon, Element One Mall",
+    "evidence": "GURGAON: Cyberhub, Ambience Mall, MGF Mall, Sahara Mall, City Center Mall, Global Foyer Mall Palam Vihar, Omaxe Mall Sohna Road, Delhi Jaipur Highway NH-8, Fortis Hospital Gurgaon, Element One Mall",
+    "english": "Gurgaon: Cyberhub, Ambience Mall, MGF Mall, Sahara Mall, City Center Mall, Global Foyer Mall Palam Vihar, Omaxe Mall Sohna Road, Delhi Jaipur Highway NH-8, Fortis Hospital Gurgaon, Element One Mall",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "HARYANA: Bawal NH-8, NH-1 Sonipat, NH-1 Karnal, Parsvnath Mall Faridabad, Crown Interiorz Mall Faridabad, Piyush Mahendra Metropolitan Mall Faridabad",
+    "evidence": "HARYANA: Bawal NH-8, NH-1 Sonipat, NH-1 Karnal, Parsvnath Mall Faridabad, Crown Interiorz Mall Faridabad, Piyush Mahendra Metropolitan Mall Faridabad",
+    "english": "Haryana: Bawal NH-8, NH-1 Sonipat, NH-1 Karnal, Parsvnath Mall Faridabad, Crown Interiorz Mall Faridabad, Piyush Mahendra Metropolitan Mall Faridabad",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NOIDA: Spice Mall, Sector 63, Logix Mall, Sector 18",
+    "evidence": "NOIDA: Spice Mall, Sector 63, Logix Mall, Sector 18",
+    "english": "Noida: Spice Mall, Sector 63, Logix Mall, Sector 18",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "GREATER NOIDA: MSX Mall, The Grand Venice Mall",
+    "evidence": "GREATER NOIDA: MSX Mall, The Grand Venice Mall",
+    "english": "Greater Noida: MSX Mall, The Grand Venice Mall",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "KHATAULI: Namaste Midway NH-58",
+    "evidence": "KHATAULI: Namaste Midway NH-58",
+    "english": "Khatauli: Namaste Midway NH-58",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "RAJASTHAN: V Square Mall Bhiwadi",
+    "evidence": "RAJASTHAN: V Square Mall Bhiwadi",
+    "english": "Rajasthan: V Square Mall Bhiwadi",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "GHAZIABAD: Shipra Mall, Angel Mall, World Square Mall, EDM Mall",
+    "evidence": "GHAZIABAD: Shipra Mall, Angel Mall, World Square Mall, EDM Mall",
+    "english": "Ghaziabad: Shipra Mall, Angel Mall, World Square Mall, EDM Mall",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "PAPDI CHAAT",
+    "evidence": "PAPDI CHAAT",
+    "english": "Papdi Chaat",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SABUDANA TIKKI",
+    "evidence": "SABUDANA TIKKI",
+    "english": "Sabudana Tikki",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NAVRATRA THALI",
+    "evidence": "NAVRATRA THALI",
+    "english": "Navratra Thali",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PANEER WRAP",
+    "evidence": "PANEER WRAP",
+    "english": "Paneer Wrap",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SABUDANA KHICHDI",
+    "evidence": "SABUDANA KHICHDI",
+    "english": "Sabudana Khichdi",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Navratra Thali available from 6th to 12th April",
+  "Divine delicacies with wholesome flavors",
+  "Shop online at www.haldiramsonline.com",
+  "Visit outlets across Delhi, Chandigarh, Gurgaon, Haryana, Noida, Greater Noida, Khatauli, Rajasthan, Ghaziabad"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "PAPDI CHAAT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Haldiram's",
+   "score": 0.9784,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "NAVRATRA",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Navratra",
+   "score": 0.977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "THALI",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "SABUDANA TIKKI",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Feast",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "6th - 12th APRIL",
+   "score": 0.9327,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": "DIVINE DELICACIES",
+   "score": 0.9884,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "FILLED WITH",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "WHOLESOMEFLAVORS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "TO LIGHTEN UP BLISSFUL",
+   "score": 0.9738,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "DAYS OF NAVRATRA",
+   "score": 0.9557,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Shop online @",
+   "score": 0.9616,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "www.haldiramsonline.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "PANEER WRAP",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "SABUDANA KHICHDI",
+   "score": 0.9936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "*All items may not be available at all times. Pictures & presentation may not represent the actual product / portion.",
+   "score": 0.9844,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "Limited period offer. GST extra as applicable. Any item may be changed / discontinued without prior notice.",
+   "score": 0.9851,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 20,
+   "text": "VISIT OUR OUTLETS AT: DELHI: Moti Nagar, D Mall Rohini, D Mall Pitampura, Tilak Nagar, Pacific Mall Subhash Nagar, Unity One Mall Janakpuri, City Centre Mall Dwarka, Connaught Place, Chandni Chowk, Janak Cinema Janakpuri, Akshardham Metro Station,",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Dilshad Garden Metro Station, Cross River Mall, Lajpat Nagar, Sarojini Nagar, Dhaula Kuan Metro Station, DLF Place Saket, DLF Promenade Vasant Kunj, Mathura Road, Mallviya Nagar, ARSS Mall Paschim Vihar, Apollo Hospital Sarita Vihar, T1D Domestic Airport,",
+   "score": 0.9913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "T1A Domestic Airport, T3 IGI Airport, Model Town 2 Red Light, Pusa Road Near Karol Bagh Metro Station. CHANDIGARH: Zirakpur. GURGAON: Cyberhub, Ambience Mall, MGF Mall, Sahara Mall, City Center Mall, Global Foyer Mall Palam Vihar, Omaxe Mall Sohna",
+   "score": 0.9937,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 23,
+   "text": "Road, Delhi Jaipur Highway NH-8, Fortis Hospital Gurgaon, Element One Mall. HARYANA: Bawal NH-8, NH-1 Sonipat, NH-1 Karnal, Parsvnath Mall Faridabad, Crown Interiorz Mall Faridabad, Piyush Mahendra Metropolitan Mall Faridabad. NOIDA: Spice Mall,",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Sector 63, Logix Mall, Sector 18. GREATER NOIDA: MSX Mall, The Grand Venice Mall. KHATAULI: Namaste Midway NH-58. RAJASTHAN: V Square Mall Bhiwadi. GHAZIABAD: Shipra Mall, Angel Mall, World Square Mall, EDM Mall.",
+   "score": 0.9932,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 17.46,
+  "extract": 31.54
+ }
+}

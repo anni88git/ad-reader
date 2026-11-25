@@ -1,0 +1,67 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Haldiram's",
+   "Haldirams",
+   "Haldiram"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Navratra Thali",
+   "Navratra Feast",
+   null
+  ]
+ },
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "retailer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "FMCG > Food & Beverages",
+   "FMCG",
+   "Food Delivery & Restaurants"
+  ]
+ },
+ "headline": "Navratra Feast",
+ "sub_headline": {
+  "any_of": [
+   "Divine delicacies filled with wholesome flavors to lighten up blissful days of Navratra",
+   "6th - 12th April",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [
+  "www.haldiramsonline.com"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

@@ -1,0 +1,64 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Sehwag International School",
+   "SIS"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Admissions 2023-2024",
+   "Day cum Boarding School"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "other"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Education > Schools",
+   "Education"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Admissions Open",
+   "One life one place to chase every dream"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

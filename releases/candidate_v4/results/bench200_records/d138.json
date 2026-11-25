@@ -1,0 +1,552 @@
+{
+ "image": "d138_Amar_Ujala_38.jpg",
+ "fields": {
+  "brand": {
+   "value": "Dr. Ortho",
+   "evidence": "Dr. Ortho",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Strong Oil",
+   "evidence": "Strong Oil",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Dr. Juneja's",
+   "evidence": "Dr. Juneja's",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "जोड़ों के दर्द की बेजोड़ दवा",
+   "evidence": "जोड़ों के दर्द की बेजोड़ दवा",
+   "english": "Unmatched medicine for joint pain",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (98%)",
+    "wording is not an exact match to the printed text (closest OCR reading 98% similar) - check spelling - suggestion: जोड़ों के दर्द की बेजोड दवा",
+    "second model disagrees - suggestion: जोड़ों के दर्द की बेहोई दवा"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "डा. ऑर्थो ही क्यों खरीदें ?",
+   "evidence": "डा. ऑर्थो ही क्यों खरीदें ?",
+   "english": "Why buy Dr. Ortho only?",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (90%)",
+    "wording is not an exact match to the printed text (closest OCR reading 90% similar) - check spelling - suggestion: डा. आरथों ही क्यों खरीदें ?",
+    "second model disagrees - suggestion: Dr. Juneja's"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "10 गुणकारी आयुर्वेदिक तेलों व सत्वों के योग से निर्मित डा. ऑर्थो स्ट्रांग तेल जोड़ों के अंदर तक समाकर दर्द को कम करने में विशेष सहायता करता है। मात्र 8-10ml तेल दिन में सिर्फ एक या दो बार हल्के हाथों से पीड़ित अंग पर मालिश करें। आयुर्वेदिक होने के कारण इसका प्रभाव अल्पकालिक नहीं लम्बे समय तक बना रहता है।",
+   "evidence": "10 गुणकारी आयुर्वेदिक तेलों व सत्वों के योग से निर्मित डा. ऑर्थो स्ट्रांग तेल जोड़ों के अंदर तक समाकर दर्द को कम करने में विशेष सहायता करता है। मात्र 8-10ml तेल दिन में सिर्फ एक या दो बार हल्के हाथों से पीड़ित अंग पर मालिश करें। आयुर्वेदिक होने के कारण इसका प्रभाव अल्पकालिक नहीं लम्बे समय तक बना रहता है।",
+   "english": "Made with 10 potent Ayurvedic oils and extracts, Dr. Ortho Strong Oil penetrates deep into joints to help reduce pain. Just 8-10ml oil, massage lightly on the affected part once or twice a day. Being Ayurvedic, its effect lasts long, not short-term.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (95%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #14"
+   ],
+   "matched_id": 14,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Dr. Ortho Strong Oil for joint pain",
+    "10 Ayurvedic oils and extracts",
+    "8-10ml oil once or twice daily",
+    "Ayurvedic, long-lasting effect",
+    "Ayurvedic Oil, Capsules, Spray & Ointment"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Dr. Ortho Strong Oil is an Ayurvedic medicine for joint pain made with 10 potent oils; apply 8-10ml once or twice daily for long-lasting relief. The brand also offers Ayurvedic oil, capsules, spray and ointment.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7876977777",
+     "kind": "mobile",
+     "as_printed": "7876977777"
+    },
+    "evidence": "Helpline : 7876977777",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.drorthoil.com",
+    "evidence": "www.drorthoil.com",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (53%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "10 गुणकारी आयुर्वेदिक तेलों व सत्वों के योग से निर्मित",
+    "evidence": "10 गुणकारी आयुर्वेदिक तेलों व सत्वों के योग से निर्मित",
+    "english": "Made with 10 potent Ayurvedic oils and extracts",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "मात्र 8-10ml तेल दिन में सिर्फ एक या दो बार",
+    "evidence": "मात्र 8-10ml तेल दिन में सिर्फ एक या दो बार",
+    "english": "Only 8-10ml oil once or twice a day",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "प्रभाव अल्पकालिक नहीं लम्बे समय तक बना रहता है",
+    "evidence": "प्रभाव अल्पकालिक नहीं लम्बे समय तक बना रहता है",
+    "english": "Effect lasts long, not short-term",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "NO.1 BRAND",
+    "evidence": "NO.1 BRAND",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Dr. Ortho Strong Oil for joint pain",
+  "10 Ayurvedic oils and extracts",
+  "8-10ml oil once or twice daily",
+  "Ayurvedic, long-lasting effect",
+  "Ayurvedic Oil, Capsules, Spray & Ointment"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "जोड़ों के दर्द की बेजोड दवा",
+   "score": 0.9483,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "120ml",
+   "score": 0.9932,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 3,
+   "text": "W03|!00410JpMMM • LLLL∠6928 : au!d|aH",
+   "score": 0.6291,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "डा. आरथों ही क्यों खरीदें ?",
+   "score": 0.9587,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "NO.1BRAND",
+   "score": 0.9953,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Dr. Ortho",
+   "score": 0.9478,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "10 गुणकारी आयुवेदिक तेलों व सत्वों के योग से निर्मित डा. ऑरथो स्टूांग तेल जोड़ों के अंदर",
+   "score": 0.9129,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Strong Oil",
+   "score": 0.9525,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "तक समाकर दर्द को कम करनेमें विशेष सहायता करता है। मात्र 8-10म तेल दिन में सिर्फ",
+   "score": 0.9019,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "एक या दो बार हल्के हाथों से पीड़ित अंग पर मालिश करें। आयुवेदिक होने के कारण इसका",
+   "score": 0.9506,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "प्रभाव अल्पकालिक नहीं लम्बे समय तक बना रहता है।",
+   "score": 0.9593,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "डा.आथों",
+   "score": 0.7321,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "घुटना दर्द कमर दर्द",
+   "score": 0.8989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "कंधा दर्द कलाई दर्द",
+   "score": 0.9723,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "Dr. Juneja's",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "हर बूंद",
+   "score": 0.9627,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "Dr.Ortho",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "में असर",
+   "score": 0.9548,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "SirenyO",
+   "score": 0.8069,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 20,
+   "text": "मिलते-जुलते नामों वि्ञापन से सावधान",
+   "score": 0.9371,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 21,
+   "text": "Ayurvedic Oil, Capsules, Spray & Ointment",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "Help PAINFUL CONDITIONS",
+   "score": 0.9112,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.55,
+  "extract": 10.07
+ }
+}

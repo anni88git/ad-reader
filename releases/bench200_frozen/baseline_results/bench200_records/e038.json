@@ -1,0 +1,819 @@
+{
+ "image": "e038_Anandabazaar_Patrika_516.jpg",
+ "fields": {
+  "brand": {
+   "value": "Fashion Factory",
+   "evidence": "FASHION FACTORY",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Reliance",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Reliance",
+   "evidence": "Reliance",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "partial match only - confirm: Reliance Digital"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 15,
+     "name": "Reliance Digital",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "BRANDS FOR LESS",
+   "evidence": "BRANDS FOR LESS",
+   "english": "Brands for Less",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: FASHION FACTORY"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Scan For Store Location",
+   "evidence": "Scan For Store Location",
+   "english": "Scan for store location",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "FASHION FACTORY BRANDS FOR LESS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "FASHION FACTORY",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://relff.com/F50print?r=qr)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://relff.com/F50print?r=qr",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Fashion Factory stores in Kolkata and Howrah",
+    "Store manager contact numbers provided",
+    "QR code to scan for store location",
+    "Social media handles listed"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Fashion Factory advertises its retail stores in Kolkata and Howrah with addresses, store manager phone numbers, a QR code for store location, and social media handles.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "6291342307",
+     "kind": "mobile",
+     "as_printed": "6291342307 / 6289907489"
+    },
+    "evidence": "STORE MANAGER :6291342307 / 6289907489",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "6289907489",
+     "kind": "mobile",
+     "as_printed": "6289907489"
+    },
+    "evidence": "STORE MANAGER:6291342307 / 6289907489",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "@rel_fashionfactory",
+    "evidence": "@rel_fashionfactory",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "@FashionF_IND",
+    "evidence": "@FashionF_IND",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "BEHALA, OPP. M.P. BIRLA SCHOOL",
+    "evidence": "BEHALA, OPP. M.P. BIRLA SCHOOL",
+    "english": "Behala, opposite M.P. Birla School",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CHINAR PARK, BESIDE. HOLIDAY INN HOTEL",
+    "evidence": "CHINAR PARK, BESIDE. HOLIDAY INN HOTEL",
+    "english": "Chinar Park, beside Holiday Inn Hotel",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DUM DUM ROAD, CHATAKAL BUS STOP",
+    "evidence": "DUM DUM ROAD, CHATAKAL BUS STOP",
+    "english": "Dum Dum Road, Chata kal Bus Stop",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "LEE ROAD, NR. FORUM MALL",
+    "evidence": "LEE ROAD, NR. FORUM MALL",
+    "english": "Lee Road, near Forum Mall",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BELEGHATA, OPP SALT LAKE STADIUM",
+    "evidence": "BELEGHATA, OPP SALT LAKE STADIUM",
+    "english": "Beleghata, opposite Salt Lake Stadium",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BT ROAD, NEAR PRABARTAK JUTE MILL BUS STOP",
+    "evidence": "BT ROAD, NEAR PRABARTAK JUTE MILL BUS STOP",
+    "english": "BT Road, near Prabartak Jute Mill Bus Stop",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NR. HOWRAH MAIDAN METRO STATION",
+    "evidence": "NR. HOWRAH MAIDAN METRO STATION",
+    "english": "near Howrah Maidan Metro Station",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Fashion Factory - Behala",
+     "area": "Behala",
+     "city": "Kolkata",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "STORES IN KOLKATA: BEHALA, OPP. M.P. BIRLA SCHOOL",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Fashion Factory - Chinar Park",
+     "area": "Chinar Park",
+     "city": "Kolkata",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "CHINAR PARK, BESIDE. HOLIDAY INN HOTEL",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Fashion Factory - Dum Dum Road",
+     "area": "Dum Dum Road",
+     "city": "Kolkata",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "DUM DUM ROAD, CHATAKAL BUS STOP",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Fashion Factory - Lee Road",
+     "area": "Lee Road",
+     "city": "Kolkata",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "LEE ROAD, NR. FORUM MALL",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Fashion Factory - Beleghata",
+     "area": "Beleghata",
+     "city": "Kolkata",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "BELEGHATA, OPP SALT LAKE STADIUM",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Fashion Factory - BT Road",
+     "area": "BT Road",
+     "city": "Kolkata",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 5,
+     "city_id": null
+    },
+    "evidence": "BT ROAD, NEAR PRABARTAK JUTE MILL BUS STOP",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Kolkata' (#5)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Fashion Factory - Howrah",
+     "area": "Howrah Maidan",
+     "city": "Howrah",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "STORE IN HOWRAH:NR.HOWRAH MAIDAN METRO STATION",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Fashion Factory",
+   "evidence": "FASHION FACTORY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Fashion Factory stores in Kolkata and Howrah",
+  "Store manager contact numbers provided",
+  "QR code to scan for store location",
+  "Social media handles listed"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Reliance",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Growth is Life",
+   "score": 0.9814,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "FASHIONFACTORY",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "BRANDS FOR LESS",
+   "score": 0.9897,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "PUMA",
+   "score": 0.8696,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 6,
+   "text": "FASHION",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "FASHION",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "FACTORY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "R",
+   "score": 0.4947,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "FACTORY",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "BRANDS FOR LESS",
+   "score": 0.9614,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "BRANDSFCR LESS",
+   "score": 0.9496,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "STORES IN KOLKATA: BEHALA, OPP. M.P. BIRLA SCHOOL | CHINAR PARK, BESIDE. HOLIDAY",
+   "score": 0.9787,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "INN HOTEL | DUM DUM ROAD, CHATAKAL BUS STOP | LEE ROAD, NR. FORUM MALL",
+   "score": 0.9703,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "BELEGHATA, OPP SALT LAKE STADIUM | BT ROAD, NEAR PRABARTAK JUTE MILL BUS STOP",
+   "score": 0.9855,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "FREE",
+   "score": 0.9996,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 17,
+   "text": "STORE IN HOWRAH:NR.HOWRAH MAIDAN METRO STATION",
+   "score": 0.9752,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Scan For Store Location",
+   "score": 0.9974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "STORE MANAGER:6291342307 / 6289907489",
+   "score": 0.9732,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "@rel_fashionfactory",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "@FashionF_IND",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "@rel.fashionfactory",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.9,
+  "extract": 38.53
+ }
+}

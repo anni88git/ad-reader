@@ -1,0 +1,64 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "State Bank of India",
+   "SBI"
+  ]
+ },
+ "product": null,
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "State Bank of India",
+   "SBI",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "manufacturer"
+  ]
+ },
+ "category": "Banking & Finance",
+ "headline": {
+  "any_of": [
+   "Celebrating 66th Bank Day",
+   "For us, every customer is important and each one of them is the \"I\" in SBI"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "The banker to every Indian",
+   "1st July, 2021",
+   "For us, every customer is important and each one of them is the \"I\" in SBI",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

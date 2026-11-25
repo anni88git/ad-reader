@@ -1,0 +1,1347 @@
+{
+ "image": "012_Hitachi_air_conditioners_404.jpg",
+ "fields": {
+  "brand": {
+   "value": "Hitachi",
+   "evidence": "HITACHI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Hitachi' (#133)"
+   ],
+   "matched_id": 133,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 133,
+     "name": "Hitachi",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Expandable Inverter AC",
+   "evidence": "Hitachi Expandable Inverter AC",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for Hitachi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Johnson Controls-Hitachi Air Conditioning India Limited",
+   "evidence": "Johnson Controls-Hitachi Air Conditioning India Limited, Registered Office: 9th Floor, Abhijeet-1, Mithakhali Six Roads, Ahmedabad - 380 006, Gujarat, India.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "Get 5-Star offers with 5-Star Expandable Inverter AC.",
+   "evidence": "Get 5-Star offers with 5-Star Expandable Inverter AC.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 83% similar) - check spelling - suggestion: Get 5-Star offers Feel it to believe it with 5-Star Expandable Inverter AC.",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Hitachi air Feel it to believe it",
+   "evidence": "Hitachi air Feel it to believe it",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 79% similar) - check spelling - suggestion: Hitachi air Get 5-Star offers Feel it to believe it",
+    "second model disagrees - suggestion: Feel it to believe it"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Bring home Hitachi Expandable Inverter AC which expands its capacity with respect to change in temperature, humidity and number of people in a room to provide you with a superior air-conditioning experience.",
+   "evidence": "Bring home Hitachi Expandable Inverter AC which expands its capacity with respect to change in temperature, humidity and number of people in a room to provide you with a superior air-conditioning experience.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "CONTROLLER/PCB 1+4 years warranty; AIR CONDITIONER 1+1 year warranty; COMPRESSOR 5+5 years warranty",
+   "evidence": "CONTROLLER/PCB 1+4 years warranty BENEFIT WORTH ₹8,000* AIR CONDITIONER 1+1 year warranty BENEFIT WORTH ₹2,700* COMPRESSOR 5+5 years warranty BENEFIT WORTH ₹10,000*",
+   "english": "Controller/PCB 1+4 years warranty; Air conditioner 1+1 year warranty; Compressor 5+5 years warranty",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Call: +91-797141-4848, +91-756788-4848",
+   "evidence": "Call: +91-797141-4848, +91-756788-4848",
+   "english": "Call +91-797141-4848 or +91-756788-4848",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics > Home Appliances",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #27"
+   ],
+   "matched_id": 27,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 27,
+     "name": "Retail & Consumer Electronics > Home Appliances",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Hitachi Expandable Inverter AC expands capacity based on temperature, humidity and number of people",
+    "Controller/PCB warranty 1+4 years benefit worth ₹8,000",
+    "Air conditioner warranty 1+1 year benefit worth ₹2,700",
+    "Compressor warranty 5+5 years benefit worth ₹10,000",
+    "Free installation benefit worth ₹1,500",
+    "No cost EMI finance scheme",
+    "Up to 10% cashback on Axis Bank Credit and Debit Card EMI"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Hitachi Expandable Inverter AC adjusts its capacity to room conditions. Warranty benefits: Controller/PCB 1+4 years worth ₹8,000, AC 1+1 year worth ₹2,700, Compressor 5+5 years worth ₹10,000. Free installation worth ₹1,500, no cost EMI, and up to 10% cashback on Axis Bank cards. Call +91-797141-4848 or +91-756788-4848.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7971414848",
+     "kind": "mobile",
+     "as_printed": "+91-797141-4848, +91-756788-4848"
+    },
+    "evidence": "Call: +91-797141-4848, +91-756788-4848",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7567884848",
+     "kind": "mobile",
+     "as_printed": "+91-756788-4848"
+    },
+    "evidence": "Call: +91-797141-4848, +91-756788-4848",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01204138042",
+     "kind": "landline",
+     "as_printed": "01204138042"
+    },
+    "evidence": "Johnson Controls - Hitachi Air Conditioning India Limited., 301, Third Floor, DMRC Building. New Ashok Nagar Metro Station New Delhi.110096. Website: www.hitachiaircon.in ; e-Mail: sales@jci-hitachi.com; Hitachi-Dial-A-Care: +91-7971414848, +91-756788-4848. NOIDA-B-43 Sector-65 Noida Ph: 01204138042",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8800889907",
+     "kind": "mobile",
+     "as_printed": "8800889907"
+    },
+    "evidence": "Pin: 201301; HITACHI HOME: R.K.Digital World Khanna Market, Lodhi Road- 9990868868, Sachdeva Electronics (P) Ltd Jail Road, Janakpuri- 8800889907/9212432171, Supreme Aircon West Patel Nagar- 011 45025353, 9811315544, Jeevan Jee Plaza Main Market, Lajpat Nagar- 9811209640, Lamba Electronics, Kalka",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9990634495",
+     "kind": "mobile",
+     "as_printed": "9990634495"
+    },
+    "evidence": "Shahdara- 9811303932, For Retail enquiries (Dehi) please contact-Raman Singla- 9814010059, Manoj Sharma- 9717795115, Shashwat Nagpal- 9910639933, Sidhant- 9871989310, Ashok Kumar- 9891923540, Sahil Gupta- 8053382600, For Noida/Gzb: Satpal Singh- 9990634495; Noida: Ace Technomark Noida, GIP",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818019340",
+     "kind": "mobile",
+     "as_printed": "9818019340"
+    },
+    "evidence": "Mall- 4311395, 9654716654, DLF MALL OF INDIA- 01206229554, 9540443857, 9810747444, New Rhythm House- 09717732169, 9818019340; Ghaziabad: Electromart Vaishali- 9911674646, 9911374646; Noida: Sec-18: Ace Technomark- 4354051, /8010594200, New Rhythm House- 09717732169, 9818019340, Also",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9911374646",
+     "kind": "mobile",
+     "as_printed": "9911374646"
+    },
+    "evidence": "Mall- 4311395, 9654716654, DLF MALL OF INDIA- 01206229554, 9540443857, 9810747444, New Rhythm House- 09717732169, 9818019340; Ghaziabad: Electromart Vaishali- 9911674646, 9911374646; Noida: Sec-18: Ace Technomark- 4354051, /8010594200, New Rhythm House- 09717732169, 9818019340, Also",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891918873",
+     "kind": "mobile",
+     "as_printed": "9891918873"
+    },
+    "evidence": "9654244323, 9990695552, Faridabad: Sector 16 Market-4041956, 57, 9891918873; HITACHI STUDIO: GURGAON: Old Delhi Road- 7836800077, Sushant Lok Vyapar Kendra- 9810380573; Gurgaon: Pahuja Airconditioning (P) Ltd.- 9818095494, 9711993066, Suraj Business Pvt. Ltd- 9891260999, Koolex Aircondi-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810380573",
+     "kind": "mobile",
+     "as_printed": "9810380573"
+    },
+    "evidence": "9654244323, 9990695552, Faridabad: Sector 16 Market-4041956, 57, 9891918873; HITACHI STUDIO: GURGAON: Old Delhi Road- 7836800077, Sushant Lok Vyapar Kendra- 9810380573; Gurgaon: Pahuja Airconditioning (P) Ltd.- 9818095494, 9711993066, Suraj Business Pvt. Ltd- 9891260999, Koolex Aircondi-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811614900",
+     "kind": "mobile",
+     "as_printed": "9811614900"
+    },
+    "evidence": "tioners- 9811614900; SRARetail Pvt Ltd-7836800072, 7836800071, 7836800073, Nidra Airconditioning- 9811292510, Bansal Electrovision Pvt Ltd- 9811826700/9899994241, Manesar: SRA Retail Pvt Ltd.- 7836800075, Sohna: Bharat Enterprises- 9215922099; Faridabad: Global Electronics- 9540906661, Aman Aircon-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811826700",
+     "kind": "mobile",
+     "as_printed": "9811826700"
+    },
+    "evidence": "tioners- 9811614900; SRARetail Pvt Ltd-7836800072, 7836800071, 7836800073, Nidra Airconditioning- 9811292510, Bansal Electrovision Pvt Ltd- 9811826700/9899994241, Manesar: SRA Retail Pvt Ltd.- 7836800075, Sohna: Bharat Enterprises- 9215922099; Faridabad: Global Electronics- 9540906661, Aman Aircon-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9215922099",
+     "kind": "mobile",
+     "as_printed": "9215922099"
+    },
+    "evidence": "tioners- 9811614900; SRARetail Pvt Ltd-7836800072, 7836800071, 7836800073, Nidra Airconditioning- 9811292510, Bansal Electrovision Pvt Ltd- 9811826700/9899994241, Manesar: SRA Retail Pvt Ltd.- 7836800075, Sohna: Bharat Enterprises- 9215922099; Faridabad: Global Electronics- 9540906661, Aman Aircon-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9958424245",
+     "kind": "mobile",
+     "as_printed": "9958424245"
+    },
+    "evidence": "9311090000, Gagan Entrepreneur- 9810108157, Mayur Engineers Pvt Ltd.- 9811861919, Ashoka Trading Co.- 9958424245; Ballabgarh: Fine Electronics- 9873916363. Also Available at all leading stores near you.",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.hitachiaircon.in",
+    "evidence": "Website: www.hitachiaircon.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.hitachiaircon.in/dealer-locator",
+    "evidence": "www.hitachiaircon.in/dealer-locatororcontact",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "sales@jci-hitachi.com",
+    "evidence": "Email: sales@jci-hitachi.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "customercare@jci-hitachi.com",
+    "evidence": "E-mail: customercare@jci-hitachi.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "https://www.facebook.com/HitachiHomes/",
+    "evidence": "https://www.facebook.com/HitachiHomes/",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "https://twitter.com/HitachiHomes",
+    "evidence": "https://twitter.com/HitachiHomes",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "https://www.youtube.com/user/hitachihome",
+    "evidence": "https://www.youtube.com/user/hitachihome",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "https://www.linkedin.com/company/johnson-controls-hitachi-air-conditioning",
+    "evidence": "https://www.linkedin.com/company/johnson-controls-hitachi-air-conditioning",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (75%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "9th Floor, Abhijeet-1, Mithakhali Six Roads, Ahmedabad - 380 006, Gujarat, India",
+    "evidence": "Registered Office: 9th Floor, Abhijeet-1, Mithakhali Six Roads, Ahmedabad - 380 006, Gujarat, India.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "expands its capacity with respect to change in temperature, humidity and number of people in a room",
+    "evidence": "expands its capacity with respect to change in temperature, humidity and number of people in a room to provide you with a superior air-conditioning experience.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "CONTROLLER/PCB 1+4 years warranty BENEFIT WORTH ₹8,000*",
+    "evidence": "CONTROLLER/PCB 1+4 years warranty BENEFIT WORTH ₹8,000*",
+    "english": "Controller/PCB 1+4 years warranty benefit worth ₹8,000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AIR CONDITIONER 1+1 year warranty BENEFIT WORTH ₹2,700*",
+    "evidence": "AIR CONDITIONER 1+1 year warranty BENEFIT WORTH ₹2,700*",
+    "english": "Air conditioner 1+1 year warranty benefit worth ₹2,700",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "COMPRESSOR 5+5 years warranty BENEFIT WORTH ₹10,000*",
+    "evidence": "COMPRESSOR 5+5 years warranty BENEFIT WORTH ₹10,000*",
+    "english": "Compressor 5+5 years warranty benefit worth ₹10,000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FREE INSTALLATION BENEFIT WORTH ₹1,500*",
+    "evidence": "FREE INSTALLATION BENEFIT WORTH ₹1,500*",
+    "english": "Free installation benefit worth ₹1,500",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NO COST EMI FINANCE SCHEME**",
+    "evidence": "NO COST EMI FINANCE SCHEME**",
+    "english": "No cost EMI finance scheme",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "UP TO 10% CASHBACK* on Axis Bank Credit and Debit Card EMI",
+    "evidence": "UP TO 10% CASHBACK* on Axis Bank Credit and Debit Card EMI",
+    "english": "Up to 10% cashback on Axis Bank Credit and Debit Card EMI",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "products_on_offer": {
+   "value": "Hitachi Expandable Inverter AC",
+   "evidence": "Hitachi Expandable Inverter AC",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "NO COST EMI FINANCE SCHEME** UP TO 10% CASHBACK* on Axis Bank Credit and Debit Card EMI",
+   "evidence": "NO COST EMI FINANCE SCHEME** UP TO 10% CASHBACK* on Axis Bank Credit and Debit Card EMI",
+   "english": "No cost EMI finance scheme Up to 10% cashback on Axis Bank Credit and Debit Card EMI",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Hitachi Expandable Inverter AC expands capacity based on temperature, humidity and number of people",
+  "Controller/PCB warranty 1+4 years benefit worth ₹8,000",
+  "Air conditioner warranty 1+1 year benefit worth ₹2,700",
+  "Compressor warranty 5+5 years benefit worth ₹10,000",
+  "Free installation benefit worth ₹1,500",
+  "No cost EMI finance scheme",
+  "Up to 10% cashback on Axis Bank Credit and Debit Card EMI"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "HITACHI",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Hitachi air",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Get 5-Star offers",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Feel it to believe it",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "with 5-Star Expandable",
+   "score": 0.9798,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Inverter AC.",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Bring home Hitachi Expandable Inverter AC which expands its capacity",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "with respect to change in temperature, humidity and number of people",
+   "score": 0.9825,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "in a room to provide you with a superior air-conditioning experience.",
+   "score": 0.9931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "UNMATCHED BENEFITS",
+   "score": 0.9973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "CONTROLLER/PCB",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "AIR CONDITIONER",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "COMPRESSOR",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "1+4",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "1+1",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "5+5",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "years",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "year",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "years",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "warranty",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "warranty",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "warranty",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "BENEFIT WORTH 8,000*",
+   "score": 0.9838,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "BENEFIT WORTH 2,700*",
+   "score": 0.9722,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "BENEFIT WORTH₹10,000*",
+   "score": 0.9714,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "air",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "buneaHbu!ood",
+   "score": 0.7872,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "Bring home Hitachi air at happy prices",
+   "score": 0.9933,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "X",
+   "score": 0.5534,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "FREE INSTALLATION",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "HIGHER THE STARS",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "WITH",
+   "score": 0.8075,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "BAJAJ",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "EMI",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "NO COST EMI",
+   "score": 0.9763,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "UP To10% CASHBACK*",
+   "score": 0.9383,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "AXIS BANK",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "X",
+   "score": 0.7493,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "LOWER THE EMI",
+   "score": 0.9753,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "B",
+   "score": 0.9975,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 41,
+   "text": "FINSERV",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "FINANCE SCHEME**",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "BENEFIT WORTH 1,500*",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "NETWORK",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "on Axis Bank Credit and Debit Card EMI",
+   "score": 0.9879,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "Johnson Controls-Hitachi Air Conditioning India Limited, Registered Office: 9th Floor, Abhijeet-1, Mithakhali Six Roads, Ahmedabad - 380 006, Gujarat, India. Email: sales@jci-hitachi.com; Website: www.hitachiaircon.in",
+   "score": 0.9904,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 47,
+   "text": "Join us at:",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "https://www.facebook.com/HitachiHomes/",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "https://twitter.com/HitachiHomes",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "https://www.youtube.com/user/hitachihome",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "https://www.linkedin.com/company/",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "Live Chat at www.hitachiaircon.in",
+   "score": 0.9895,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "Hitachi India Customer Care",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "App S",
+   "score": 0.8257,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "johnson-controls-hitachi-air-conditioning",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "Available at all leading stores near you. For more information visit,",
+   "score": 0.9841,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "Call: +91-797141-4848, +91-756788-4848",
+   "score": 0.986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "Dispose AC/Refrigerator after end of life",
+   "score": 0.9953,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 59,
+   "text": "through an authorised recycler.",
+   "score": 0.9853,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 60,
+   "text": "www.hitachiaircon.in/dealer-locatororcontact",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "Dial-a-Care",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "E-mail: customercare@jci-hitachi.com",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "Contact +91-797141-4848,+91-756788-4848",
+   "score": 0.9949,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 64,
+   "text": "for more details.",
+   "score": 0.9987,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 65,
+   "text": "Johnson Controls - Hitachi Air Conditioning India Limited., 301, Third Floor, DMRC Building. New Ashok Nagar Metro Station New Delhi.110096. Website: www.hitachiaircon.in ; e-Mail: sales@jci-hitachi.com; Hitachi-Dial-A-Care: +91-7971414848, +91-756788-4848. NOIDA-B-43 Sector-65 Noida Ph: 01204138042",
+   "score": 0.9881,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "Ji- 9811005614, Endovision Electronics, GTB Nagar- 9910230575, Navrang Audio & Video Pvt Ltd Laxmi Nagar 9211125120, HITACHI STUDIO: Pitampura- 9312213728, 011-41411724, Roshanara Road/Shakti Nagar- 8851614910, 8851107719, Alakhnanda-9811043481, Shakti Nagar- 9716109398, Babarpur Road",
+   "score": 0.9907,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 67,
+   "text": "Pin: 201301; HITACHI HOME: R.K.Digital World Khanna Market, Lodhi Road- 9990868868, Sachdeva Electronics (P) Ltd Jail Road, Janakpuri- 8800889907/9212432171, Supreme Aircon West Patel Nagar- 011 45025353, 9811315544, Jeevan Jee Plaza Main Market, Lajpat Nagar- 9811209640, Lamba Electronics, Kalka",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "Shahdara- 9811303932, For Retail enquiries (Dehi) please contact-Raman Singla- 9814010059, Manoj Sharma- 9717795115, Shashwat Nagpal- 9910639933, Sidhant- 9871989310, Ashok Kumar- 9891923540, Sahil Gupta- 8053382600, For Noida/Gzb: Satpal Singh- 9990634495; Noida: Ace Technomark Noida, GIP",
+   "score": 0.9858,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "Mall- 4311395, 9654716654, DLF MALL OF INDIA- 01206229554, 9540443857, 9810747444, New Rhythm House- 09717732169, 9818019340; Ghaziabad: Electromart Vaishali- 9911674646, 9911374646; Noida: Sec-18: Ace Technomark- 4354051, /8010594200, New Rhythm House- 09717732169, 9818019340, Also",
+   "score": 0.9879,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "9654244323, 9990695552, Faridabad: Sector 16 Market-4041956, 57, 9891918873; HITACHI STUDIO: GURGAON: Old Delhi Road- 7836800077, Sushant Lok Vyapar Kendra- 9810380573; Gurgaon: Pahuja Airconditioning (P) Ltd.- 9818095494, 9711993066, Suraj Business Pvt. Ltd- 9891260999, Koolex Aircondi-",
+   "score": 0.991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "available at: Noida: Sec-18: Ace Technomark-4354051/9810747444, Sargam Electronics- 8506095434, Sec-31: Ice Energy- 9654454119, Sec-10: Mishra Refrigeration- 9811652991, Greater Noida West: Value Plus- 9213604501, HITACHI HOME: Gurgaon: MG Road- 0124-4384164, 9971586964, Sohna Road-",
+   "score": 0.9875,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 72,
+   "text": "tioners- 9811614900; SRARetail Pvt Ltd-7836800072, 7836800071, 7836800073, Nidra Airconditioning- 9811292510, Bansal Electrovision Pvt Ltd- 9811826700/9899994241, Manesar: SRA Retail Pvt Ltd.- 7836800075, Sohna: Bharat Enterprises- 9215922099; Faridabad: Global Electronics- 9540906661, Aman Aircon-",
+   "score": 0.9793,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 73,
+   "text": "9311090000, Gagan Entrepreneur- 9810108157, Mayur Engineers Pvt Ltd.- 9811861919, Ashoka Trading Co.- 9958424245; Ballabgarh: Fine Electronics- 9873916363. Also Available at all leading stores near you.",
+   "score": 0.9882,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "*T&C apply. Above shown benefits are perceived value for a 5.2 KW (1.5 TR) 5-Star inverter split AC. 10 years warranty on compressor includes 5 years standard & 5 years extended. 5 years warranty on controller/PCB includes 1 year standard & 4 years extended, 2 years warranty on AC includes 1 year standard & 1 year extended. All these",
+   "score": 0.987,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 75,
+   "text": "warranty plans are on selected models only. Free installation is applicable on selected 5-Star inverter split AC models. Free Installation covers the standard installation only. Any additional copper pipe, drain pipe, stand or civil work required will be chargeable. For more information please visit www.axisbank.com. †Fixed EMI for each star",
+   "score": 0.9883,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 76,
+   "text": "rating. Applicableon selected 3,4&5-Starinvertersplit airconditioners.*Attractive no cost EMI finance schemes are available from selectfinancers. Easy monthly installments on select credit cards. Finance is atthe sole discretion offinancer only and on select products. Limited period offer.Formore details contact yournearest dealer.",
+   "score": 0.9542,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "12 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "15 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 39.8,
+  "extract": 42.3
+ }
+}

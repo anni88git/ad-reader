@@ -1,0 +1,47 @@
+{
+  "_note": "Ground truth saved from the review tool for 002_002_horlicks_hi.png",
+  "_verified_by": "anni",
+  "_verified_at": "2026-11-24T10:36:50+00:00",
+  "_skip": [
+    "body_copy"
+  ],
+  "brand": "Horlicks",
+  "brand_id": 77,
+  "product": "Horlicks Chocolate Delight",
+  "model_variant": "500 g",
+  "advertiser": null,
+  "ad_type": "manufacturer",
+  "category": "FMCG > Food & Beverages",
+  "category_id": 24,
+  "headline": "हॉर्लिक्स दूध की शक्ति बढ़ाए",
+  "sub_headline": null,
+  "description": "हॉर्लिक्स में हैं ग्रोथ न्यूट्रीएंट्स** जो बनाए बच्चों को टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+  "body_copy": [
+    "product photo",
+    "feature list",
+    "disclaimer"
+  ],
+  "price": null,
+  "warranty": null,
+  "call_to_action": null,
+  "language": [
+    "Hindi",
+    "English"
+  ],
+  "qr_code_present": false,
+  "disclaimer_present": true,
+  "prices": [],
+  "phones": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+    "ग्रोथ न्यूट्रीएंट्स**",
+    "टॉलर, स्ट्रॉन्गर' और शार्पर**:"
+  ],
+  "offers": [],
+  "dealers": [],
+  "reference_numbers": [],
+  "category_attributes": {}
+}

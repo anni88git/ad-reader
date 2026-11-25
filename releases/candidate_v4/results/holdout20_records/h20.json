@@ -1,0 +1,486 @@
+{
+ "image": "h20_Navbharat_Times_402.jpg",
+ "fields": {
+  "brand": {
+   "value": "NAVDIP TUNDIYA",
+   "evidence": "NAVDIP TUNDIYA",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "not found in the ad",
+    "first model gave no brand; second model's brand is printed in the ad (OCR)",
+    "v4: switched value - kept in review",
+    "no exact record; closest: Audi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Audi",
+     "score": 63.6
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "NAVDIP TUNDIYA",
+   "evidence": "NAVDIP TUNDIYA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "कला Sangam",
+   "evidence": "कला Sangam",
+   "english": "Art Sangam",
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "evidence partly matches OCR (89%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "PATOLA-BANDHANI EXHIBITION",
+   "evidence": "PATOLA-BANDHANI EXHIBITION",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: 10AM TO 8PM 13.14.15 April TODAY 1ST DAY"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "DOUBLE IKKAT PATOLA | RAJKOTI PATOLA SINGLE IKKAT PATOLA SAREES | DUPATTA | CLUTCHES | BATVA | POTU | LAHENGA | JACKETS | POCKET SQUARE | TIE",
+   "evidence": "DOUBLE IKKAT PATOLA | RAJKOTI PATOLA SINGLE IKKAT PATOLA SAREES | DUPATTA | CLUTCHES | BATVA | POTU | LAHENGA | JACKETS | POCKET SQUARE | TIE",
+   "english": "Double Ikkat Patola, Rajkoti Patola, Single Ikkat Patola, Sarees, Dupatta, Clutches, Batva, Potu, Lahenga, Jackets, Pocket Square, Tie",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "TODAY 1ST DAY",
+   "evidence": "TODAY 1ST DAY",
+   "english": "Visit today, the first day of the exhibition",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "PATOLA-BANDHANI EXHIBITION",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: public_notice"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "PATOLA-BANDHANI EXHIBITION",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English",
+    "Hindi"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "Hindi: OCR found no devanagari text",
+    "second model agrees",
+    "Hindi listed but OCR found no text in its script - second-model agreement is not enough"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Navdip Tundiya presents Patola-Bandhani Exhibition",
+    "Art Sangam event on 13, 14, 15 April",
+    "Timing 10 AM to 8 PM",
+    "Today 1st Day",
+    "Items: Double Ikkat Patola, Rajkoti Patola, Single Ikkat Patola, Sarees, Dupatta, Clutches, Batva, Potu, Lahenga, Jackets, Pocket Square, Tie",
+    "Venue: Aga Khan Hall, Sarojini House, Bhagwan Das Road, Mandi House, New Delhi, Delhi - 110001"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Navdip Tundiya presents a Patola-Bandhani exhibition called Art Sangam, running from 13 to 15 April, 10 AM to 8 PM. Today is the 1st day. Items include Double Ikkat Patola, Rajkoti Patola, Single Ikkat Patola, sarees, dupattas, clutches, batva, potu, lahenga, jackets, pocket square, and tie. Venue is Aga Khan Hall, Sarojini House, Bhagwan Das Road, Mandi House, New Delhi, Delhi - 110001.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "AGA KHAN HALL, SAROJINI HOUSE BHAGWAN DAS ROAD, MANDI HOUSE, NEW DELHI, DELHI - 110001",
+    "evidence": "AGA KHAN HALL, SAROJINI HOUSE BHAGWAN DAS ROAD, MANDI HOUSE, NEW DELHI, DELHI - 110001",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Navdip Tundiya presents Patola-Bandhani Exhibition",
+  "Art Sangam event on 13, 14, 15 April",
+  "Timing 10 AM to 8 PM",
+  "Today 1st Day",
+  "Items: Double Ikkat Patola, Rajkoti Patola, Single Ikkat Patola, Sarees, Dupatta, Clutches, Batva, Potu, Lahenga, Jackets, Pocket Square, Tie",
+  "Venue: Aga Khan Hall, Sarojini House, Bhagwan Das Road, Mandi House, New Delhi, Delhi - 110001"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "dra",
+   "score": 0.4831,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "NAVDIP TUNDIYA",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "PRESENTS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "PATOLA-BANDHANI",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "EXHIBITION",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "कया",
+   "score": 0.7686,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "Sangam",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "10AM TO 8PM",
+   "score": 0.9602,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "13,14,15April",
+   "score": 0.9667,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "TODAY 1ST",
+   "score": 0.9169,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "DAY",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "keom",
+   "score": 0.5008,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "DOUBLE IKKAT PATOLA|",
+   "score": 0.9781,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "RAJKOTI PATOLA",
+   "score": 0.9663,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "SINGLE IKKAT PATOLA",
+   "score": 0.9742,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "SAREES | DUPATTA | CLUTCHES |",
+   "score": 0.9515,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "BATVA | POTU | LAHENGA |",
+   "score": 0.8214,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "JACKETS | POCKET SQUARE | THIE",
+   "score": 0.9291,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "AGAKHANHALL,",
+   "score": 0.979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "SAROJINLHOUSE",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "BHAGWAN DAS ROAD.",
+   "score": 0.925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "MANDHHOUSE,NEW DELH,",
+   "score": 0.9852,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "DELH-110001",
+   "score": 0.9545,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 4.36,
+  "extract": 18.95
+ }
+}

@@ -1,0 +1,1404 @@
+{
+ "image": "001_kia_from_screenshot.jpg",
+ "fields": {
+  "brand": {
+   "value": "Kia",
+   "evidence": "Kia",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Kia' (#1)"
+   ],
+   "matched_id": 1,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 100.0
+    },
+    {
+     "id": 126,
+     "name": "Nokia",
+     "score": 75.0
+    },
+    {
+     "id": 80,
+     "name": "Kissan",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Sorento",
+   "evidence": "Kia Sorento",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Sorento' (#1)"
+   ],
+   "matched_id": 1,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Sorento",
+     "score": 100.0
+    },
+    {
+     "id": 3,
+     "name": "Sonet",
+     "score": 66.7
+    },
+    {
+     "id": 2,
+     "name": "Seltos",
+     "score": 61.5
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Kia India",
+   "evidence": "Look for \"Kia India\"",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Allied Kia / West Coast Kia",
+    "exact match to existing record 'Kia India' (#1)",
+    "record #1 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 1,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 100.0
+    },
+    {
+     "id": 8,
+     "name": "Hyundai Motor India Ltd",
+     "score": 67.4
+    },
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 67.4
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "Superior tech and elegance, beyond the class.",
+   "evidence": "Superior tech and elegance, beyond the class.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Movement that inspires",
+   "evidence": "Movement that inspires",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with three thoughtfully designed rows. With sophisticated interiors, intelligent technology, and advanced safety, it is tuned to deliver superior drives on highways and in cities. Because the journey should feel as amazing as the destination.",
+   "evidence": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with three thoughtfully designed rows. With sophisticated interiors, intelligent technology, and advanced safety, it is tuned to deliver superior drives on highways and in cities. Because the journey should feel as amazing as the destination.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "3 Years Unlimited km Warranty Extendable up to 5 Years*",
+   "evidence": "3 Years Unlimited km Warranty Extendable up to 5 Years*",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Book now",
+   "evidence": "Book now",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Look for \"Kia India\"",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "Kia Sorento",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 2799000,
+   "evidence": "₹ 27 99 000",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (2,799,000)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Kia Sorento with feature list",
+    "introductory price Rs 27 99 000",
+    "scan QR to book",
+    "toll-free and dealer numbers",
+    "3+2 year warranty",
+    "2 dealers in Udaipur"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Kia Sorento is advertised with an introductory price starting at Rs 27 99 000. Readers can book now, call 1800 108 5005, visit www.kia.com, or contact dealers Allied Kia in Bhuwana, Udaipur and West Coast Kia in Udaipur.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001085005",
+     "kind": "toll_free",
+     "as_printed": "1800 108 5005"
+    },
+    "evidence": "Call 1800 108 5005",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9289305692",
+     "kind": "mobile",
+     "as_printed": "9289305692"
+    },
+    "evidence": "Tel: 9289305692",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9351229009",
+     "kind": "mobile",
+     "as_printed": "9351229009"
+    },
+    "evidence": "Tel: 9351229009",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 2799000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Introductory price starts at",
+     "item": "Kia Sorento",
+     "as_printed": "₹ 27 99 000"
+    },
+    "evidence": "₹ 27 99 000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (2,799,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.kia.com",
+    "evidence": "Visit www.kia.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "Kia India",
+    "evidence": "Look for \"Kia India\"",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "Bhuwana, Udaipur",
+    "evidence": "Allied Kia Bhuwana, Udaipur",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Udaipur",
+    "evidence": "West Coast Kia Udaipur",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Kia AI Assistant (Real-time Generative AI)",
+    "evidence": "Kia AI Assistant (Real-time Generative AI)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Advanced Digital IRVM",
+    "evidence": "Advanced Digital IRVM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Remote Smart Parking Assist (RSPA)",
+    "evidence": "Remote Smart Parking Assist (RSPA)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Digital Key 2.0",
+    "evidence": "Digital Key 2.0",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Dial-type Shift-by-Wire Selector",
+    "evidence": "Dial-type Shift-by-Wire Selector",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Best-in-Segment Length (4 815 mm) & Width (1 900 mm)",
+    "evidence": "Best-in-Segment Length (4 815 mm) & Width (1 900 mm)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Hybrid & Diesel Powertrains",
+    "evidence": "Hybrid & Diesel Powertrains",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "All-Wheel Drive with Terrain Modes",
+    "evidence": "All-Wheel Drive with Terrain Modes",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "6 & 7-Seater Options",
+    "evidence": "6 & 7-Seater Options",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ADAS Level 2+ with 30 Features & 10 Airbags",
+    "evidence": "ADAS Level 2+ with 30 Features & 10 Airbags",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ARAI Certified Hybrid Mileage 19.6 km/l",
+    "evidence": "ARAI Certified Hybrid Mileage 19.6 km/l",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Assured Buyback – 70% Residual Value in 3 Years'",
+    "evidence": "Assured Buyback – 70% Residual Value in 3 Years'",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Allied Kia",
+     "area": "Bhuwana",
+     "city": "Udaipur",
+     "phones": [
+      "9289305692"
+     ],
+     "advertiser_id": 2,
+     "advertiser_candidates": [
+      {
+       "id": 2,
+       "name": "Allied Kia",
+       "score": 100.0
+      }
+     ],
+     "city_id": 10
+    },
+    "evidence": "Allied Kia Bhuwana, Udaipur Tel: 9289305692",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: exact match to existing record 'Allied Kia' (#2); city: exact match to existing record 'Udaipur' (#10)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "West Coast Kia",
+     "area": null,
+     "city": "Udaipur",
+     "phones": [
+      "9351229009"
+     ],
+     "advertiser_id": 3,
+     "advertiser_candidates": [
+      {
+       "id": 3,
+       "name": "West Coast Kia",
+       "score": 100.0
+      }
+     ],
+     "city_id": 10
+    },
+    "evidence": "West Coast Kia Udaipur Tel: 9351229009",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: exact match to existing record 'West Coast Kia' (#3); city: exact match to existing record 'Udaipur' (#10)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "fuel_type": {
+   "value": [
+    "Hybrid",
+    "Diesel"
+   ],
+   "evidence": "Hybrid & Diesel Powertrains",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "normalised from 'Hybrid & Diesel'"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "mileage": {
+   "value": "19.6 km/l",
+   "evidence": "ARAI Certified Hybrid Mileage 19.6 km/l",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (97%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "seating_capacity": {
+   "value": "6 & 7-Seater",
+   "evidence": "6 & 7-Seater Options",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "safety_features": {
+   "value": "ADAS Level 2+ with 30 Features & 10 Airbags",
+   "evidence": "ADAS Level 2+ with 30 Features & 10 Airbags",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "Assured Buyback – 70% Residual Value in 3 Years'",
+   "evidence": "Assured Buyback – 70% Residual Value in 3 Years'",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ev_type": {
+   "value": "Non-EV",
+   "evidence": "Hybrid & Diesel Powertrains",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "derived by rule from fuel types ['Hybrid', 'Diesel'] (only fully electric = EV)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Kia Sorento with feature list",
+  "introductory price Rs 27 99 000",
+  "scan QR to book",
+  "toll-free and dealer numbers",
+  "3+2 year warranty",
+  "2 dealers in Udaipur"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Kia Sorento",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Superior tech and elegance,",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "beyond the class.",
+   "score": 0.9791,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Sorento",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "KV",
+   "score": 0.5423,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "Introductory price starts at",
+   "score": 0.9876,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "27 99 000",
+   "score": 0.9241,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Movement that inspires",
+   "score": 0.9758,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with three thoughtfully designed",
+   "score": 0.9901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Scan to",
+   "score": 0.9887,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "rows. With sophisticated interiors, intelligent technology. and advanced safety, it is tuned to deliver superior drives on highways and in cities. Because the journey should",
+   "score": 0.9876,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "book your",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "Sorento",
+   "score": 0.9894,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "feel as amazing as the destination.",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "FIRST-IN-SEGMENT",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "A leap beyond",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "BEST-IN-SEGMENT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "A new benchmark",
+   "score": 0.9978,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "Kia Al Assistant",
+   "score": 0.9624,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Hybrid &",
+   "score": 0.9901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "All-Wheel",
+   "score": 0.9912,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "6&7-Seater",
+   "score": 0.9879,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "ADAS Level 2+",
+   "score": 0.9819,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "(Real-time",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Diesel",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Drive with",
+   "score": 0.9542,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Options",
+   "score": 0.9609,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "with 30 Features",
+   "score": 0.9785,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "SounoHoundA",
+   "score": 0.874,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "Generative Al)",
+   "score": 0.9632,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "Powertrains",
+   "score": 0.9734,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "Terrain Modes",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "& 10 Airbags",
+   "score": 0.9751,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "Kia Al Assistant (Real-",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "Advanced Digital IRVM",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Remote Smart Parking",
+   "score": 0.9953,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "Digital Key 2.0",
+   "score": 0.9675,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Dial-type Shift-by-Wire",
+   "score": 0.9719,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Best-in-Segment",
+   "score": 0.979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "time Generative Al)",
+   "score": 0.9645,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "Assist (RSPA)",
+   "score": 0.9774,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "Selector",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "Length (4 815 mm) &",
+   "score": 0.9783,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "Assured Buyback – 70% Residual Value in 3 Years' | ARAI Certifiled Hybrid Mileage 19.6 km/",
+   "score": 0.9418,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "Width (1 900 mm)",
+   "score": 0.9793,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "Kia Service",
+   "score": 0.9578,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "Kla Care Network",
+   "score": 0.971,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "3 Years Unlimited km Warranty",
+   "score": 0.9636,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "24x7 Natiorwide Roadside Assistance\"",
+   "score": 0.9645,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "Smart Services",
+   "score": 0.9973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 51,
+   "text": "Warranty on High Voltage",
+   "score": 0.9775,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "342",
+   "score": 0.8747,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 53,
+   "text": "My Convenience Plus",
+   "score": 0.9926,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "360\" Digital Experience*",
+   "score": 0.9613,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "Battery (on Hybrid)",
+   "score": 0.9877,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "Kia Genuine Spare Parts",
+   "score": 0.9655,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "Extendable up to 5 Years*",
+   "score": 0.9604,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "8 Years/1 60 000 km",
+   "score": 0.9655,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 59,
+   "text": "cve-Ergige",
+   "score": 0.779,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 60,
+   "text": "Book now",
+   "score": 0.9843,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "Call 1800 108 5005",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "1",
+   "score": 0.9335,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 63,
+   "text": "Visit www.kia.com",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "1",
+   "score": 0.925,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 65,
+   "text": "Kia Sorento",
+   "score": 0.9439,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "1",
+   "score": 0.9004,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 67,
+   "text": "Look for \"Kia India*@fX",
+   "score": 0.8953,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 68,
+   "text": "and heght behamen 1 d mme 1 a m The programme is avalabe mhoug parsciparing autherind Kia deler pertrers Eogtle cufomers tay enalin her prefened plen at the Sme o ueficle punchase, sotjec to opécable programme oseria Upon complesan of Te seeced tetane ustomers mhay exarcise The assured busteck oprion an accondance wt",
+   "score": 0.6466,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 69,
+   "text": "Terms & Condrors Acply Ee showrpomgnce all rndla foel offciency as corffed by Tesf opency under rue 1s of Cvi. 1o0 under slandard leot condticns lor fronf wheel dove verants orly. Actual mieage od raad mey say Sopment is defired as a 3 row saufet car win an overal lengh befueen 4 750 mes - 5 000 mm. width tbefeeen 1 850 em - 1 900 mm",
+   "score": 0.7251,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 70,
+   "text": "aceis lu he pro arme thoagh sartcoong aultorseo Ke dcaler parsers The poduc & lfure aoges shows are lor mepresetaton pupeses ony Feafues and speccatons as shean may not be pot of sonders ftecye ane msay vary The cplars shoan are Setiec zalatlry ane may not be aa lable aoros al variorts and way de Sigry frons those",
+   "score": 0.5827,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 71,
+   "text": "mee programee agyverset and éppécabie termn and cordtons. The Aasured Boylack Prograrrse is ndepondesly acrmnstered by tbe ldevan prograese paret whics às tasporutse la erromeet elgbéty asoe",
+   "score": 0.6129,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 72,
+   "text": "le voluat on, serlortert, and wlated prog amne cbogof ens, as gove",
+   "score": 0.7344,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 73,
+   "text": "mod by its spreoment wits he customet Kia Inda tac Bules",
+   "score": 0.6853,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 74,
+   "text": "show No a s and nro cos ae acicate ams Adarte Dre Assee Synem n re a stue for huran ee and dver vglence h an aance foe a enhunce dng peree and say Eectim o As m wy bd an atuel sfaon and al cech aund vede may ba be deced The er shal",
+   "score": 0.5169,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 75,
+   "text": "memain responssie for sfe vweglone and aerive diving Ca Caenect comes with a Iytar fieo suescaptee Ka Conect leyes Fray vary deendng ol the arore devioe congyiots soltwae. and metwork asaiaoy n the veh cle Kis ai asstatt wts igacne gomeratse Al gan be meraced in Engeh ony Al gonoraled sosrses re fe rfosationai and",
+   "score": 0.5847,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 76,
+   "text": "convenience purposos oniy and mutt net be conscdered as e replacomet ol human jalperment tor crecal cecscrs neared lo safats medical assistarce. jocal aas. navigatioe Ela Incda reservis the righe so make any cher",
+   "score": 0.6414,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 77,
+   "text": "ationain",
+   "score": 0.7633,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 78,
+   "text": "servitt wlhoul prior nolice Nia intia unges you to folow traltte fues Pese are reare is keep you sale on the roada",
+   "score": 0.7447,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 79,
+   "text": "Allied Kia",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "West Coast Kia",
+   "score": 0.9672,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 81,
+   "text": "Bhuwana, Udaipur",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 82,
+   "text": "Udaipur",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 83,
+   "text": "Tel: 9289305692",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "Tel: 9351229009",
+   "score": 0.9912,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (922x745); small print may be unreadable"
+ ],
+ "record_flags": [
+  "17 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 43.93,
+  "extract": 22.51
+ }
+}

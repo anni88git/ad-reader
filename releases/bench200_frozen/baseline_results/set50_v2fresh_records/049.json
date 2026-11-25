@@ -1,0 +1,1262 @@
+{
+ "image": "049_004_car_brands_403_Volkswagen_tilt4.jpg",
+ "fields": {
+  "brand": {
+   "value": "Volkswagen",
+   "evidence": "Volkswagen",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Volkswagen' (#10)"
+   ],
+   "matched_id": 10,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 10,
+     "name": "Volkswagen",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Polo GT TSI",
+   "evidence": "Polo GT TSI",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Golf GTI"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 94,
+     "name": "Golf GTI",
+     "score": 62.5
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "model_variant": {
+   "value": "GT TSI",
+   "evidence": "Polo GT TSI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Volkswagen",
+   "evidence": "Volkswagen Power Lease is leasing program facilitated by Volkswagen for its customers",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Upgrade to feature packed Polo GT TSI at unbelievable prices of 2020",
+   "evidence": "Upgrade to feature packed Polo GT TSI at unbelievable prices of 2020",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Offer valid for deliveries till 26th Jan",
+   "evidence": "Offer valid for deliveries till 26th Jan",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Terms and conditions apply. Volkswagen Power Lease is leasing program facilitated by Volkswagen for its customers. The Leasing products are offered by \"ORIX Leasing and Financial Services India Limited\" at its sole discretion and based on Agreements / Documents signed between Orix and the eligible customer. Volkswagen is not a party to any leasing transactions. Volkswagen is only a facilitator; all claims and disputes concerning the leasing program should be directly addressed to Orix. Available at selected 20 Dealer Corporate Business Centers (in Delhi NCR, Mumbai, Chennai, Bangalore, Pune, Ahmedabad and Hyderabad). ^Maximum Benefit on Polo is 45 000 (Exchange Benefit 20 000 + Loyalty Bonus 10 000 + Corporate Benefit 15 000). Exchange Benefits at the sole discretion of authorised dealers only. Loyalty Bonus is for individual customers only. Appearance, features, colours and specifications may differ across variants and are subject to change without prior notice. Dark shade on the glass is due to lighting effect. *4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services - 1 000 kilometers, 7 500 kilometers and 15 000 kilometers service only labour charges are free. Obey traffic rules. #Precautionary process undertaken to kill or eradicate bacteria, germs, fungus, microbes from the vehicle and cannot be construed to be a protection in relation to COviD-19 or related illnesses. \"Roadside Assistance only within covered limits. All offers from Volkswagen authorised dealership only. To know more on the schemes, please visit your nearest Volkswagen dealership, or log on to volkswagen.co.in",
+   "evidence": "Terms and conditions apply. Volkswagen Power Lease is leasing program facilitated by Volkswagen for its customers. The Leasing products are offered by \"ORIX Leasing and Financial Services India Limited\" at its sole discretion and based on Agreements / Documents signed between Orix and the eligible customer. Volkswagen is not a party to any leasing transactions. Volkswagen is only a facilitator; all claims and disputes concerning the leasing program should be directly addressed to Orix. Available at selected 20 Dealer Corporate Business Centers (in Delhi NCR, Mumbai, Chennai, Bangalore, Pune, Ahmedabad and Hyderabad). ^Maximum Benefit on Polo is 45 000 (Exchange Benefit 20 000 + Loyalty Bonus 10 000 + Corporate Benefit 15 000). Exchange Benefits at the sole discretion of authorised dealers only. Loyalty Bonus is for individual customers only. Appearance, features, colours and specifications may differ across variants and are subject to change without prior notice. Dark shade on the glass is due to lighting effect. *4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services - 1 000 kilometers, 7 500 kilometers and 15 000 kilometers service only labour charges are free. Obey traffic rules. #Precautionary process undertaken to kill or eradicate bacteria, germs, fungus, microbes from the vehicle and cannot be construed to be a protection in relation to COviD-19 or related illnesses. \"Roadside Assistance only within covered limits. All offers from Volkswagen authorised dealership only. To know more on the schemes, please visit your nearest Volkswagen dealership, or log on to volkswagen.co.in",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "4 Year Standard Warranty",
+   "evidence": "*4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services - 1 000 kilometers, 7 500 kilometers and 15 000 kilometers service only labour charges are free",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Call 1800 102 0909 volkswagen.co.in",
+   "evidence": "Call 1800 102 0909 volkswagen.co.in 24x7 Roadside Assistance**",
+   "english": "Call 1800 102 0909 or visit volkswagen.co.in",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Volkswagen Power Lease is leasing program facilitated by Volkswagen for its customers",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "Polo GT TSI",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Volkswagen Polo GT TSI at unbelievable prices of 2020",
+    "Maximum benefits up to ₹45 000 on Polo",
+    "Offer valid for deliveries till 26th Jan",
+    "Call 1800 102 0909",
+    "volkswagen.co.in",
+    "24x7 Roadside Assistance",
+    "4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services",
+    "Authorised dealers listed with mobile numbers"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Volkswagen is offering the Polo GT TSI at unbelievable prices of 2020 with maximum benefits up to ₹45 000, valid for deliveries till 26th January. Readers can call 1800 102 0909 or visit volkswagen.co.in for more details.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001020909",
+     "kind": "toll_free",
+     "as_printed": "1800 102 0909"
+    },
+    "evidence": "Call 1800 102 0909 volkswagen.co.in 24x7 Roadside Assistance**",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9900053496",
+     "kind": "mobile",
+     "as_printed": "9900053496, 9686203693"
+    },
+    "evidence": "Volkswagen Mysore Road: Mobile: 9900053496, 9686203693",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9686601249",
+     "kind": "mobile",
+     "as_printed": "9686601249"
+    },
+    "evidence": "Volkswagen Palace Cross: Palace Cross: Mobile: 9686601249, Victoria Road (DWA): Mobile: 9686601249, Rajajinagar / Hesaraghatta (Sales Point): Mobile: 9686601249",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9900010727",
+     "kind": "mobile",
+     "as_printed": "9900010727, 9900021210"
+    },
+    "evidence": "Volkswagen Whitefield: B. Narayanapura: Mobile: 9900010727, 9900021210",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9513964015",
+     "kind": "mobile",
+     "as_printed": "9513964015, 7625014773"
+    },
+    "evidence": "Volkswagen Bangalore: Hosur Road: Mobile: 9513964015, JP Nagar: Mobile: 7625014773",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9100666030",
+     "kind": "mobile",
+     "as_printed": "9100666030"
+    },
+    "evidence": "Volkswagen Bangalore North: Thanisandra: Mobile: 9100666030",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9100995774",
+     "kind": "mobile",
+     "as_printed": "9100995774"
+    },
+    "evidence": "Hebbal: Mobile: 9100995774",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9606988826",
+     "kind": "mobile",
+     "as_printed": "9606988826"
+    },
+    "evidence": "Volkswagen Bangalore Central: Richmond Road: Mobile: 9606988826",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9100919214",
+     "kind": "mobile",
+     "as_printed": "9100919214"
+    },
+    "evidence": "Volkswagen Tumkur: Sira Main Road: Mobile: 9100919214",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9686203693",
+     "kind": "mobile",
+     "as_printed": "9686203693"
+    },
+    "evidence": "Volkswagen Mysore Road: Mobile: 9900053496, 9686203693",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9900021210",
+     "kind": "mobile",
+     "as_printed": "9900021210"
+    },
+    "evidence": "Volkswagen Whitefield: B. Narayanapura: Mobile: 9900010727, 9900021210",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7625014773",
+     "kind": "mobile",
+     "as_printed": "7625014773"
+    },
+    "evidence": "JP Nagar: Mobile: 7625014773",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "volkswagen.co.in",
+    "evidence": "Call 1800 102 0909 volkswagen.co.in 24x7 Roadside Assistance**",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Volkswagen Mysore Road",
+    "evidence": "Volkswagen Mysore Road: Mobile: 9900053496, 9686203693",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Volkswagen Palace Cross: Palace Cross",
+    "evidence": "Volkswagen Palace Cross: Palace Cross: Mobile: 9686601249",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Victoria Road (DWA)",
+    "evidence": "Victoria Road (DWA): Mobile: 9686601249",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Rajajinagar / Hesaraghatta (Sales Point)",
+    "evidence": "Rajajinagar / Hesaraghatta (Sales Point): Mobile: 9686601249",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Volkswagen Whitefield: B. Narayanapura",
+    "evidence": "Volkswagen Whitefield: B. Narayanapura: Mobile: 9900010727, 9900021210",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Volkswagen Bangalore: Hosur Road",
+    "evidence": "Volkswagen Bangalore: Hosur Road: Mobile: 9513964015",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JP Nagar",
+    "evidence": "JP Nagar: Mobile: 7625014773",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Volkswagen Bangalore North: Thanisandra",
+    "evidence": "Volkswagen Bangalore North: Thanisandra: Mobile: 9100666030",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Hebbal",
+    "evidence": "Hebbal: Mobile: 9100995774",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Volkswagen Bangalore Central: Richmond Road",
+    "evidence": "Volkswagen Bangalore Central: Richmond Road: Mobile: 9606988826",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Volkswagen Tumkur: Sira Main Road",
+    "evidence": "Volkswagen Tumkur: Sira Main Road: Mobile: 9100919214",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "feature packed Polo GT TSI",
+    "evidence": "Upgrade to feature packed Polo GT TSI",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Exchange Benefit 20 000 + Loyalty Bonus 10 000 + Corporate Benefit 15 000",
+    "evidence": "^Maximum Benefit on Polo is 45 000 (Exchange Benefit 20 000 + Loyalty Bonus 10 000 + Corporate Benefit 15 000)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services - 1 000 kilometers, 7 500 kilometers and 15 000 kilometers service only labour charges are free",
+    "evidence": "*4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services - 1 000 kilometers, 7 500 kilometers and 15 000 kilometers service only labour charges are free",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 45000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "Maximum Benefits up to",
+     "item": "on Polo",
+     "as_printed": "₹45 000"
+    },
+    "evidence": "₹45 000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (45,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Volkswagen Mysore Road",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9900053496",
+      "9686203693"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Volkswagen Mysore Road: Mobile: 9900053496, 9686203693",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Volkswagen Palace Cross",
+     "area": "Palace Cross",
+     "city": null,
+     "phones": [
+      "9686601249"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Volkswagen Palace Cross: Palace Cross: Mobile: 9686601249",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Victoria Road (DWA)",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9686601249"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Victoria Road (DWA): Mobile: 9686601249",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Rajajinagar / Hesaraghatta (Sales Point)",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9686601249"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Rajajinagar / Hesaraghatta (Sales Point): Mobile: 9686601249",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Volkswagen Whitefield",
+     "area": "B. Narayanapura",
+     "city": null,
+     "phones": [
+      "9900010727",
+      "9900021210"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Volkswagen Whitefield: B. Narayanapura: Mobile: 9900010727, 9900021210",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Volkswagen Bangalore",
+     "area": "Hosur Road",
+     "city": null,
+     "phones": [
+      "9513964015"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Volkswagen Bangalore: Hosur Road: Mobile: 9513964015",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "JP Nagar",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7625014773"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "JP Nagar: Mobile: 7625014773",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Volkswagen Bangalore North",
+     "area": "Thanisandra",
+     "city": null,
+     "phones": [
+      "9100666030"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Volkswagen Bangalore North: Thanisandra: Mobile: 9100666030",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Hebbal",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9100995774"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Hebbal: Mobile: 9100995774",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Volkswagen Bangalore Central",
+     "area": "Richmond Road",
+     "city": null,
+     "phones": [
+      "9606988826"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Volkswagen Bangalore Central: Richmond Road: Mobile: 9606988826",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Volkswagen Tumkur",
+     "area": "Sira Main Road",
+     "city": null,
+     "phones": [
+      "9100919214"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Volkswagen Tumkur: Sira Main Road: Mobile: 9100919214",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "Volkswagen Power Lease is leasing program facilitated by Volkswagen for its customers. The Leasing products are offered by \"ORIX Leasing and Financial Services India Limited\"",
+   "evidence": "Volkswagen Power Lease is leasing program facilitated by Volkswagen for its customers. The Leasing products are offered by \"ORIX Leasing and Financial Services India Limited\" at its sole discretion and based on Agreements / Documents signed between Orix and the eligible customer.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Volkswagen Polo GT TSI at unbelievable prices of 2020",
+  "Maximum benefits up to ₹45 000 on Polo",
+  "Offer valid for deliveries till 26th Jan",
+  "Call 1800 102 0909",
+  "volkswagen.co.in",
+  "24x7 Roadside Assistance",
+  "4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services",
+  "Authorised dealers listed with mobile numbers"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Polo",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Upgrade to feature packed Polo GT TSI",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "at unbelievable prices of 2020",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Offer valid for deliveries till 26thJan",
+   "score": 0.979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "^Maximum Benefits up to",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "₹45 000 on Polo",
+   "score": 0.9422,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "Eechange theough",
+   "score": 0.875,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "4EVER",
+   "score": 0.9777,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 9,
+   "text": "My Velkrwages",
+   "score": 0.5335,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "POWER",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Das WeltAuto.",
+   "score": 0.9852,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "Connect",
+   "score": 0.9944,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "Sanitized",
+   "score": 0.925,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "Safe&",
+   "score": 0.9537,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "Call 1800 102 0909 volkswagen.co.in 24x7 Roadside Assistance**",
+   "score": 0.9882,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Certilied Pre-Owned",
+   "score": 0.9555,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "ORIX LEASE",
+   "score": 0.9982,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "Terms and conditions apply. Volkswagen Power Lease is leasing program facilitated by Volkswagen for its customers. The Leasing products are offered by \"ORIX Leasing and Financial Services India Limited\" at its sole discretion and based on",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "Agreements / Documents signed between Orix and the eligible customer. Volkswagen is not a party to any leasing transactions. Volkswagen is only a facilitator; all claims and disputes concerning the leasing program should be directly",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "addressed to Orix. Available at selected 20 Dealer Corporate Business Centers (in Delhi NCR, Mumbai, Chennai, Bangalore, Pune, Ahmedabad and Hyderabad). ^Maximum Benefit on Polo is 45 000 (Exchange Benefit 20 000 + Loyalty Bonus",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "10 000 + Corporate Benefit 15 000). Exchange Benefits at the sole discretion of authorised dealers only. Loyalty Bonus is for individual customers only. Appearance, features, colours and specifications may differ across variants and are",
+   "score": 0.9913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "subject to change without prior notice. Dark shade on the glass is due to lighting effect. *4 Year Standard Warranty, 4 Year Roadside Assistance and 3 Free Services - 1 000 kilometers, 7 500 kilometers and 15 000 kilometers service only labour",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "charges are free. Obey traffic rules. #Precautionary process undertaken to kill or eradicate bacteria, germs, fungus, microbes from the vehicle and cannot be construed to be a protection in relation to COviD-19 or related illnesses. \"**Roadside",
+   "score": 0.9863,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Assistance only within covered limits. All offers from Volkswagen authorised dealership only. To know more on the schemes, please visit your nearest Volkswagen dealership, or log on to volkswagen.co.in",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Authorised Dealers: Volkswagen Mysore Road: Mobile: 9900053496, 9686203693; Volkswagen Palace Cross: Palace Cross: Mobile: 9686601249, Victoria Road (DWA):",
+   "score": 0.9926,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "Mobile: 9686601249, Rajajinagar / Hesaraghatta (Sales Point): Mobile: 9686601249; Volkswagen Whitefield: B. Narayanapura: Mobile: 9900010727, 9900021210;",
+   "score": 0.9939,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 27,
+   "text": "Volkswagen Bangalore: Hosur Road: Mobile: 9513964015, JP Nagar: Mobile: 7625014773; Volkswagen Bangalore North: Thanisandra: Mobile: 9100666030, Hebbal: Mobile:",
+   "score": 0.9973,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "9100995774; Volkswagen Bangalore Central: Richmond Road: Mobile: 9606988826; Volkswagen Tumkur: Sira Main Road: Mobile: 9100919214",
+   "score": 0.9901,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "9 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 31.35,
+  "extract": 63.86
+ }
+}

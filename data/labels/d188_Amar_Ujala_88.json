@@ -1,0 +1,70 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "United",
+   "United Ekta Engineering Udyog"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Max Steel Inner Lid Steel Pressure Cooker",
+   "Max Steel",
+   "United Max Steel"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Furniture & Home",
+   "Retail & Consumer Electronics > Home Appliances"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Max Steel Inner Lid Steel Pressure Cooker",
+   "खाए जाओ खाए जाओ यूनाईटेड के गुण गाए जाओ"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "phones": [
+  "9667734279"
+ ],
+ "websites": [
+  "unitedektagroup.com"
+ ],
+ "emails": [
+  "info@unitedektagroup.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "English",
+    "Hindi"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

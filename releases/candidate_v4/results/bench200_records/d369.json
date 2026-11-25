@@ -1,0 +1,609 @@
+{
+ "image": "d369_Maharashtra_Times_69.jpg",
+ "fields": {
+  "brand": {
+   "value": "Galaxy",
+   "evidence": "GALAXY",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Maplewoods Phase 9",
+   "evidence": "Maplewoods चा फेज 9 विकला गेला",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: विकला गेला",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Galaxy / Prviso Group",
+   "evidence": "GALAXY PRVISO GROUP",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "headline": {
+   "value": "प्रगतीची नव्याने व्यारख्या सांगणार पत्ता !",
+   "evidence": "प्रगतीची नव्याने व्यारख्या सांगणार पत्ता !",
+   "english": "An address telling progress in a new way!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: प्रगतीची नवयाने द्यारख्या सांगणारा पत्ता !"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "एक समृद्ध जीवनाचा नवा अनुभव तुमची वाट पाहत आहे.",
+   "evidence": "एक समृद्ध जीवनाचा नवा अनुभव तुमची वाट पाहत आहे.",
+   "english": "A new experience of a prosperous life is waiting for you.",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 84% similar) - check spelling - suggestion: एक समृद्ध जीवनाचा नवा सुरु होण्या आधीच अनुभव तुमची वाट पाहत आहे.",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "मनात कल्पना केलेल्या समृद्ध जीवनाचा गगनचुंबी अनुभव ध्या तुमच्या कुटुंबातील प्रत्येक सदस्यांसाठी ४५ हून जास्त अनोख्या जीवनशैलीचे मार्ग.",
+   "evidence": "मनात कल्पना केलेल्या समृद्ध जीवनाचा गगनचुंबी अनुभव ध्या तुमच्या कुटुंबातील प्रत्येक सदस्यांसाठी ४५ हून जास्त अनोख्या जीवनशैलीचे मार्ग.",
+   "english": "Take a skyscraper experience of the prosperous life imagined in your mind. More than 45 unique lifestyle paths for every member of your family.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (98%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": "प्रोजेक्ट सुरु होण्या आधीच विकला गेला",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": "1, 2 आणि 3 बीएचके निवासी घरे",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Galaxy Maplewoods Phase 9 project sold out",
+    "1, 2 and 3 BHK residential homes",
+    "Airoli location",
+    "Passcode Growth Sector",
+    "45+ unique lifestyle amenities"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Galaxy is launching Maplewoods Phase 9 in Airoli, offering 1, 2 and 3 BHK homes with over 45 lifestyle amenities including a roof garden, infinity pool and skating rink. The previous phase sold out within 12 hours.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "रूफ गार्डन",
+    "evidence": "ROOF GARDEN",
+    "english": "Roof Garden",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "इन्फिनिटी पूल",
+    "evidence": "INFINITY POOL",
+    "english": "Infinity Pool",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "स्केटिंग रिंक",
+    "evidence": "SKATING RINK",
+    "english": "Skating Rink",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "Maplewoods Phase 9",
+   "evidence": "Maplewoods चा फेज 9 विकला गेला",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "Airoli",
+   "evidence": "AIROLI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "configuration": {
+   "value": "1, 2 आणि 3 बीएचके",
+   "evidence": "1, 2 आणि 3 बीएचके निवासी घरे",
+   "english": "1, 2 and 3 BHK",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "amenities": {
+   "value": "रूफ गार्डन, इन्फिनिटी पूल, स्केटिंग रिंक",
+   "evidence": "ROOF GARDEN INFINITY POOL SKATING RINK",
+   "english": "Roof Garden, Infinity Pool, Skating Rink",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Galaxy Maplewoods Phase 9 project sold out",
+  "1, 2 and 3 BHK residential homes",
+  "Airoli location",
+  "Passcode Growth Sector",
+  "45+ unique lifestyle amenities"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "GALAXY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "PRVISO",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "GROUP",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "प्रगतीची",
+   "score": 0.9927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "नव्याने",
+   "score": 0.9379,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "व्यारख्या",
+   "score": 0.9806,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "सांगणार पत्ता !",
+   "score": 0.983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "प्रोजेक्ट",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "एक समृद्ध जीवनाचा नवा",
+   "score": 0.9729,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "सुरु होण्या आधीच",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "अनुभव तुमची वाट पाहत आहे.",
+   "score": 0.9594,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "विकला गेला",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "अवध्या 12 तासात",
+   "score": 0.9487,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 14,
+   "text": "1, 2 आणि 3 बीएचके निवासी घरे",
+   "score": 0.9686,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Maplewoodsā",
+   "score": 0.9451,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "फेज 9 विकला गेला",
+   "score": 0.9531,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "मनात कल्पना केलेल्या समृद् जीवनाचा",
+   "score": 0.9694,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "गगनचुंबी अनुभव ध्या",
+   "score": 0.98,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "तुमच्या कुटुंबातील प्रत्येक सदस्यांसाठी",
+   "score": 0.9577,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Artist's Impression",
+   "score": 0.9998,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 21,
+   "text": "45 हून जास्त अनोख्या जिवनशैलीचे मार्ग.",
+   "score": 0.9522,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "PASSCODE",
+   "score": 0.9149,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "GROWTH",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "SECTOR",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "ROOF GARDEN",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "INFINITY POOL",
+   "score": 0.9797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "SKATING RINK",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "Representative Images",
+   "score": 0.923,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 29,
+   "text": "AIROLI",
+   "score": 0.9382,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: OCR line 006 reads 'व्यारख्या' but image text appears to be 'व्यवस्था' - using image reading 'व्यवस्था' would be more accurate but OCR reference says 'व्यारख्या'. Keeping as per image visual inspection which shows 'व्यवस्था' contextually but OCR says 'व्यारख्या'. Using OCR reference 'व्यारख्या' as per instructions to use OCR as spelling reference but image is primary truth. Visual inspection suggests 'व्यवस्था' (arrangement/system) makes more sense than 'व्यारख्या'. However, strict adherence to image text: the word appears to be 'व्यवस्था' based on context. I will use the image text reading which appears to be 'व्यवस्था' but OCR says 'व्यारख्या'. Given the instruction 'If the OCR and the image disagree on a digit or name, re-check the image and add a note', I am noting this discrepancy. The headline in image reads: 'प्रगतीची नव्याने व्यवस्था सांगणार पत्ता !'",
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 11.11,
+  "extract": 36.64
+ }
+}

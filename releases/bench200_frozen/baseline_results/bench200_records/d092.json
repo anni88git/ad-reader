@@ -1,0 +1,715 @@
+{
+ "image": "d092_Navbharat_Times_92.jpg",
+ "fields": {
+  "brand": {
+   "value": "Vardhman Crichel Homes",
+   "evidence": "VARDHMAN CRICHEL HOMES",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: VARDHMAN",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "4BHK Air Conditioned Independent Floors",
+   "evidence": "4BHK AIR CONDITIONED INDEPENDENT FLOORS",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: 4 BHK",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Vardhman Plazas",
+   "evidence": "VARDHMAN PLAZAS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "VARDHMAN OFFERS AN OPPORTUNITY TO UPGRADE TO A Luxury Lifestyle",
+   "evidence": "VARDHMAN OFFERS AN OPPORTUNITY TO UPGRADE TO A Luxury Lifestyle",
+   "english": "Vardhman offers an opportunity to upgrade to a Luxury Lifestyle",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 67% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "SINCE 1981",
+   "evidence": "SINCE 1981",
+   "english": "Since 1981",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: A-BLOCK, VIVEK VIHAR, DELHI"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ORIGINAL BOOKING FOR 4BHK AIR CONDITIONED INDEPENDENT FLOORS",
+   "evidence": "ORIGINAL BOOKING FOR 4BHK AIR CONDITIONED INDEPENDENT FLOORS",
+   "english": "Original booking for 4BHK air conditioned independent floors",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "011-411-94400",
+   "evidence": "011-411-94400",
+   "english": "Call 011-411-94400",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": "VARDHMAN CRICHEL HOMES A-BLOCK, VIVEK VIHAR, DELHI",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": "VARDHMAN CRICHEL HOMES A-BLOCK, VIVEK VIHAR, DELHI",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://viewer.infinityvoid.io/?645ca8350df40e1b1bd70d00)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://viewer.infinityvoid.io/?645ca8350df40e1b1bd70d00",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Vardhman Crichel Homes at A-Block, Vivek Vihar, Delhi",
+    "Original booking for 4BHK air conditioned independent floors",
+    "Phone 011-411-94400",
+    "Highlights: Stilt + 4 levels, park facing, ample parking in stilt area, advance elevator",
+    "Ready possession with completion certificate",
+    "Project experience in Metaverse",
+    "Build your dreams true at affordable prices"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Vardhman Crichel Homes offers original booking for 4BHK air conditioned independent floors in A-Block, Vivek Vihar, Delhi. Features include stilt + 4 levels, park facing, ample parking, advance elevator, and ready possession with completion certificate. Call 011-411-94400.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "01141194400",
+     "kind": "landline",
+     "as_printed": "011-411-94400"
+    },
+    "evidence": "011-411-94400",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "A-BLOCK, VIVEK VIHAR, DELHI",
+    "evidence": "A-BLOCK, VIVEK VIHAR, DELHI",
+    "english": "A-Block, Vivek Vihar, Delhi",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "STILT + 4 LEVELS",
+    "evidence": "HIGHLIGHTS: STILT + 4 LEVELS",
+    "english": "Stilt + 4 levels",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PARK FACING",
+    "evidence": "PARK FACING",
+    "english": "Park facing",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "AMPLE PARKING IN THE STILT AREA",
+    "evidence": "AMPLE PARKING IN THE STILT AREA",
+    "english": "Ample parking in the stilt area",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ADVANCE ELEVATOR",
+    "evidence": "ADVANCE ELEVATOR",
+    "english": "Advance elevator",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "READY POSSESSION WITH COMPLETION CERTIFICATE",
+    "evidence": "READY POSSESSION WITH COMPLETION CERTIFICATE",
+    "english": "Ready possession with completion certificate",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Project Experience in Metaverse",
+    "evidence": "Project Experience in Metaverse",
+    "english": "Project experience in Metaverse",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "VARDHMAN CRICHEL HOMES",
+   "evidence": "VARDHMAN CRICHEL HOMES",
+   "english": "Vardhman Crichel Homes",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "A-BLOCK, VIVEK VIHAR, DELHI",
+   "evidence": "A-BLOCK, VIVEK VIHAR, DELHI",
+   "english": "A-Block, Vivek Vihar, Delhi",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "configuration": {
+   "value": "4BHK AIR CONDITIONED INDEPENDENT FLOORS",
+   "evidence": "4BHK AIR CONDITIONED INDEPENDENT FLOORS",
+   "english": "4BHK air conditioned independent floors",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "possession_date": {
+   "value": "READY POSSESSION",
+   "evidence": "READY POSSESSION WITH COMPLETION CERTIFICATE",
+   "english": "Ready possession",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "amenities": {
+   "value": [
+    {
+     "value": "STILT + 4 LEVELS",
+     "evidence": "STILT + 4 LEVELS",
+     "english": "Stilt + 4 levels"
+    },
+    {
+     "value": "PARK FACING",
+     "evidence": "PARK FACING",
+     "english": "Park facing"
+    },
+    {
+     "value": "AMPLE PARKING IN THE STILT AREA",
+     "evidence": "AMPLE PARKING IN THE STILT AREA",
+     "english": "Ample parking in the stilt area"
+    },
+    {
+     "value": "ADVANCE ELEVATOR",
+     "evidence": "ADVANCE ELEVATOR",
+     "english": "Advance elevator"
+    }
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.35,
+   "status": "missing",
+   "reasons": [
+    "model gave no evidence quote",
+    "numbers not found in OCR text",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Vardhman Crichel Homes at A-Block, Vivek Vihar, Delhi",
+  "Original booking for 4BHK air conditioned independent floors",
+  "Phone 011-411-94400",
+  "Highlights: Stilt + 4 levels, park facing, ample parking in stilt area, advance elevator",
+  "Ready possession with completion certificate",
+  "Project experience in Metaverse",
+  "Build your dreams true at affordable prices"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "VARDHMAN",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "SHOP",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "PLAZAS",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "OFFICE",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "P",
+   "score": 0.9989,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 6,
+   "text": "LEADER",
+   "score": 0.9979,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "VARDHMAN OFFERS",
+   "score": 0.9777,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "SINCE 1981",
+   "score": 0.9635,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Luxury Lifestyle",
+   "score": 0.9821,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "AN OPPORTUNITY TO UPGRADE TO A",
+   "score": 0.9665,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "VARDHMAN",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "CRICHEL HOMES",
+   "score": 0.9758,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "A-BLOCK,VIVEK VIHAR,DELHI",
+   "score": 0.9813,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "ORIGINAL BOOKING FOR",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "4BHK",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "AIR CONDITIONED",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "INDEPENDENT FLOORS",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "011-411-94400",
+   "score": 0.9958,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "HIGHLIGHTS: STILT + 4 LEVELS· PARK FACING",
+   "score": 0.9751,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "AMPLE PARKING IN THE STILT AREA • ADVANCE ELEVATOR",
+   "score": 0.9788,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "READY POSSESSION WITH",
+   "score": 0.9893,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "COMPLETION CERTIFICATE",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Project Experience in Metaverse",
+   "score": 0.9833,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "BUILD YOUR DREAMS TRUE AT AFFORDABLE PRICES",
+   "score": 0.9903,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "VARDHMANS",
+   "score": 0.9531,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "PLAZAS·MALLS·RESIDENTIAL·MULTIPLEXES·HOTELS",
+   "score": 0.9958,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.78,
+  "extract": 14.69
+ }
+}

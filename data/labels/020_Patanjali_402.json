@@ -1,0 +1,78 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "English"
+   ],
+   [
+    "English",
+    "Hindi"
+   ]
+  ]
+ },
+ "brand": "Patanjali",
+ "product": {
+  "any_of": [
+   "Special Chyawanprash",
+   "Patanjali Special Chyawanprash",
+   "Chyawanprash",
+   "Special Chyawanprash with Saffron",
+   "Chyawanprash with Saffron"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "with Saffron",
+   "Kesar"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG",
+   "FMCG > Food & Beverages",
+   "FMCG > Personal & Home Care",
+   "Healthcare"
+  ]
+ },
+ "headline": "Increase your immunity in this changing weather, acquire full strength to fight diseases.",
+ "sub_headline": {
+  "any_of": [
+   "Eat Patanjali Special Chyawanprash with the goodness of Kashmiri Kesar",
+   "Prakriti ka Aashirwad",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "18001804108"
+ ],
+ "websites": [
+  "www.patanjaliayurved.net",
+  "www.patanjaliayurved.org"
+ ],
+ "emails": [
+  "feedback@patanjaliayurved.org"
+ ],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

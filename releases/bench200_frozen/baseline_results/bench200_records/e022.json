@@ -1,0 +1,800 @@
+{
+ "image": "e022_Prajavani_191.jpg",
+ "fields": {
+  "brand": {
+   "value": "LIC",
+   "evidence": "LIC",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'LIC' (#62)"
+   ],
+   "matched_id": 62,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 62,
+     "name": "LIC",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Jeevan Aasthi",
+   "evidence": "ಜೀವನ್ ಆಸ್ತಿ",
+   "english": null,
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (50%); kannada text is hard for OCR",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: null",
+    "no products on record for LIC"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Life Insurance Corporation of India",
+   "evidence": "LIFE INSURANCE CORPORATION OF INDIA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "exact match to existing record 'Life Insurance Corporation of India' (#12)"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Life Insurance Corporation of India",
+     "score": 100.0
+    },
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "ನಿಮ್ಮ ಜೀವಮಾನದ ಖಾತರಿ ಮಾಸಿಕ ಆದಾಯವನ್ನು ಇಗಲೇ ಯೋಜಿಸಿ.",
+   "evidence": "ನಿಮ್ಮ ಜೀವಮಾನದ ಖಾತರಿ ಮಾಸಿಕ ಆದಾಯವನ್ನು ಇಗಲೇ ಯೋಜಿಸಿ.",
+   "english": "Plan your guaranteed monthly income for life right now.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (80%)",
+    "second model disagrees - suggestion: ನಿಮ್ಮ ಜೀವನವನರ ಬಾರತರಿ ಮಾಸಿಕ ಆದಾಯವನ್ನು ಸ್ಕೇಗಲೇ ಯೋಜಿಸಿ."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "ಹitchedಾದ ನಿಮ್ಮ ಮಾಸಿಕ ದರಗಳೂಂದಾಗಿ",
+   "evidence": "ಹitchedಾದ ನಿಮ್ಮ ಮಾಸಿಕ ದರಗಳೂಂದಾಗಿ",
+   "english": null,
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (55%); kannada text is hard for OCR",
+    "second model disagrees - suggestion: ಹೆಚ್ಚಿನ ಆದಾಯವನ್ನು ಸ್ಕೇಗಲೇ ಮನವನರ ದರಗೊಳಿಸಿದಿಗೆ ಒಂದು ವರ್ಷದ ಕನಿಷ್ಠ ಮನೊಡಿಕಿ ಆಸಿದಿಯ ನಂತರ ಮನವನವನ್ನು ಪೂರೈಸಿ ಮಾಡುವುದು."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ಒಂದು ವೇಳೆ ನೀವು ಮದುವೆಯಾದರೆ ಅವಧಿಯ ನಂತರವೂ ಪಾವತಿಸಬಹುದು.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.35,
+   "status": "missing",
+   "reasons": [
+    "model gave no evidence quote",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "LIFE INSURANCE CORPORATION OF INDIA",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Insurance",
+   "evidence": "LIFE INSURANCE CORPORATION OF INDIA",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #13"
+   ],
+   "matched_id": 13,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 13,
+     "name": "Insurance",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Kannada",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "model did not say; based on OCR"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "missing",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "missing",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8976862090",
+     "kind": "mobile",
+     "as_printed": "8976862090"
+    },
+    "evidence": "8976862090",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "I s++ Loce",
+   "score": 0.6221,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "G2@",
+   "score": 0.9005,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "es a",
+   "score": 0.6987,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "ನಮೃಜೀವಮಾನದಖಾತಂಮಾಸಿಕ",
+   "score": 0.9584,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "ಆದಾಯವನುೃಈಗಲೇಯೋಜಿಸಿ.",
+   "score": 0.9624,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "ಹಿಚಿಸಲಾದಿನಮವಷಾ9ಶನಿದರಗಳೂಂದಗಿ",
+   "score": 0.9411,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "23",
+   "score": 0.7748,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "&",
+   "score": 0.7906,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "ಒಂದುವಷ9ದಿಕನಿಷೃಮುಂದೂಡಕೆಅವಧಿಯ",
+   "score": 0.9349,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "ನಂತರಿವಷಾ9ಶನವನು.ಪಾೃರಂಭಸಬಹುದು.",
+   "score": 0.966,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "2",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "Hat!",
+   "score": 0.7541,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "ಎರ್ಯಯದೆ",
+   "score": 0.5214,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "4",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "azirr)",
+   "score": 0.5531,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "ಜೀವನ್",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "9003",
+   "score": 0.8715,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "6",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "UBN-S1JN2a9VO4 Plan No. asa",
+   "score": 0.7176,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "ಗಾಗ್ -ಲodೈ, aಾt್-aಾಟF Aಪtಜonf.",
+   "score": 0.7135,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "ವಶೂಗಳು",
+   "score": 0.785,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "ಇodಎeಜು$ಲ್, boಗಲ್ aeಮಯಮ್.",
+   "score": 0.677,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "d",
+   "score": 0.7681,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "12",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 25,
+   "text": "ವಪಾfಶನ ಯೋಜನೆಗೆ",
+   "score": 0.873,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "ಗಂಷೈ",
+   "score": 0.82,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 27,
+   "text": "ಮುಂದೂಡಕ",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "ವಷಿ9ಗಳು",
+   "score": 0.9202,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "ಅವಧ",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "ಆನೆನ್.ನಲೂ",
+   "score": 0.8725,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 31,
+   "text": "ಲಭೃ",
+   "score": 0.9598,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "ಎಗದಪಡದ",
+   "score": 0.8219,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "ಬಹು",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "ಮುಂದೂದಕೆಯ",
+   "score": 0.7761,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "ವಷಾ9ಶನದರಗಳು",
+   "score": 0.9789,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "ವಷಾ9ಶನ",
+   "score": 0.9923,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "ಆವgಯe.",
+   "score": 0.7067,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "Wesಯ",
+   "score": 0.6395,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "ಹೆಚುವ",
+   "score": 0.9415,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "ಪೃರಂಭದಂದ",
+   "score": 0.8607,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 41,
+   "text": "ಅಯೃೈಗಳು",
+   "score": 0.7793,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 42,
+   "text": "ಮರಣದಲಾಭ",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "25",
+   "score": 0.9718,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 44,
+   "text": ".",
+   "score": 0.6859,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 45,
+   "text": "H",
+   "score": 0.9846,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 46,
+   "text": "EAIEETEE-LEDERIAI JI!",
+   "score": 0.6754,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 47,
+   "text": "8976862090",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "Be00",
+   "score": 0.491,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 49,
+   "text": "LIC",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "da dt",
+   "score": 0.5395,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "++ o+ B..",
+   "score": 0.5138,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 52,
+   "text": "zodies0:",
+   "score": 0.4935,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 53,
+   "text": "ಕಲ್ಸಟರ್ಕದ್",
+   "score": 0.4547,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "licinda.in",
+   "score": 0.7927,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 55,
+   "text": "CTUIO",
+   "score": 0.6261,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 56,
+   "text": "(022) 6827 6827",
+   "score": 0.997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "ಎವರಗಳಾn aಮ ಎteಟರdಸಮುeaದ m ಬt sJಯಗ. eಪoeo",
+   "score": 0.6375,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 58,
+   "text": "ಅತ aರರತ ದಕೊಗೇರನ್ ಲತ ವ",
+   "score": 0.488,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 59,
+   "text": "zodBr8 www.licindia.in e a rdd add56767474n SMS 8",
+   "score": 0.7873,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 60,
+   "text": "LIFE INSURANCE CORPORATION OF INDIA",
+   "score": 0.9567,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "I pde dat.",
+   "score": 0.5643,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 62,
+   "text": "uc ledia Frer",
+   "score": 0.6782,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 63,
+   "text": "DAI Rege No: 512",
+   "score": 0.866,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 64,
+   "text": "ಚ್gಣವನಿರೊಂದರ",
+   "score": 0.6454,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 65,
+   "text": "s:Zwwwfresherwave.com",
+   "score": 0.9126,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 66,
+   "text": "+++$+ $+++++ +++$+ +++ ++o+ ++$++$++ $+++++++$++$+$++++++$+ ++ +$+ o hecrcaತ do$+ + +dತmd ou.",
+   "score": 0.5482,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 67,
+   "text": "S as ah do thtote ced wsar ta sad aite. Wne sto tht Wi h Mtithn celtey lscod tolr ee to too, lo dt t aid Woe",
+   "score": 0.5425,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (456x715); small print may be unreadable"
+ ],
+ "record_flags": [
+  "1 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "13 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 32.36,
+  "extract": 23.5
+ }
+}

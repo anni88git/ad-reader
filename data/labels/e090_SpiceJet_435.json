@@ -1,0 +1,57 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "SpiceJet"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null
+  ]
+ },
+ "ad_type": "recruitment",
+ "category": {
+  "any_of": [
+   "Recruitment",
+   "Travel & Hospitality"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "SpiceJet is seeking woman-power to power its flights."
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "emails": [
+  "anushree.varma@spicejet.com"
+ ],
+ "_uncertain_fields": []
+}

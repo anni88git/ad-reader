@@ -1,0 +1,66 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "Hindi",
+  "English"
+ ],
+ "brand": "Dabur",
+ "product": {
+  "any_of": [
+   "Red Paste",
+   "Dabur Red Paste",
+   "Red Paste Dental Brigade"
+  ]
+ },
+ "model_variant": null,
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Personal & Home Care",
+   "FMCG"
+  ]
+ },
+ "headline": "आयुर्वेद की शक्ति, साइंस का प्रूफ़.",
+ "sub_headline": {
+  "any_of": [
+   "करें डेंटल प्रॉब्लम्स को दूर, बनें रेड ब्रिगेड का हिस्सा!",
+   "प्रूफ़ है",
+   "7 डेन्टल प्रॉब्लम्स पर काम करे 2 हफ़्तों में असर दिखाए",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "18001031644"
+ ],
+ "websites": [
+  "www.daburdentalcare.com"
+ ],
+ "emails": [
+  "dentalbrigade@nda.jagran.com"
+ ],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "language",
+   "why": "ambiguous"
+  }
+ ]
+}

@@ -1,0 +1,906 @@
+{
+ "image": "e026_Vijaya_Karnataka_372.jpg",
+ "fields": {
+  "brand": {
+   "value": "Indian Maritime University",
+   "evidence": "INDIAN MARITIME UNIVERSITY",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Amity University, Chandigarh University"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 41,
+     "name": "Amity University",
+     "score": 72.9
+    },
+    {
+     "id": 43,
+     "name": "Chandigarh University",
+     "score": 68.2
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Management Programmes in Maritime Sector",
+   "evidence": "OFFERING MANAGEMENT PROGRAMMES IN MARITIME SECTOR",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Indian Maritime University",
+   "evidence": "INDIAN MARITIME UNIVERSITY (A Central University, Government of India) (Established by an Act of the Parliament in 2008)",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ADMISSION OPEN AY 2023-24",
+   "evidence": "ADMISSION OPEN AY 2023-24",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "OFFERING MANAGEMENT PROGRAMMES IN MARITIME SECTOR",
+   "evidence": "OFFERING MANAGEMENT PROGRAMMES IN MARITIME SECTOR",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Programmes offered • MBA - International Transportation & Logistics Management -(Chennai/Kochi/Kolkata/Visakhapatnam) • MBA - Port & Shipping Management -(Chennai/Kochi) • BBA - Logistics, Retailing & E-Commerce -(Chennai/Kochi) • BBA - Apprenticeship Embedded Maritime Logistics -(Visakhapatnam)",
+   "evidence": "Programmes offered • MBA - International Transportation & Logistics Management -(Chennai/Kochi/Kolkata/Visakhapatnam) • MBA - Port & Shipping Management -(Chennai/Kochi) • BBA - Logistics, Retailing & E-Commerce -(Chennai/Kochi) • BBA - Apprenticeship Embedded Maritime Logistics -(Visakhapatnam)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "SCAN THE QR CODE TO REGISTER NOW",
+   "evidence": "SCAN THE QR CODE TO REGISTER NOW",
+   "english": "Scan the QR code to register now",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "recruitment",
+   "evidence": "ADMISSION OPEN AY 2023-24",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": "INDIAN MARITIME UNIVERSITY (A Central University, Government of India)",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://imu.edu.in/imuadmissions/)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://imu.edu.in/imuadmissions/",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Indian Maritime University admission open AY 2023-24",
+    "MBA and BBA programmes in maritime sector",
+    "Registration closing date MBA: 18-05-2023",
+    "Registration closing date BBA: 22.06.2023",
+    "Stipend of Rs 7000 per month for BBA Apprenticeship Embedded Maritime Logistics students",
+    "Scan QR code to register now",
+    "Email for enquiries: cet23@imu.ac.in; bba23@imu.ac.in"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Indian Maritime University is open for admission for AY 2023-24, offering MBA and BBA programmes in the maritime sector. MBA registration closes on 18-05-2023 and BBA registration closes on 22.06.2023. Students of BBA Apprenticeship Embedded Maritime Logistics will receive a stipend of Rs 7000 per month during their apprenticeship period. Scan the QR code to register now or email cet23@imu.ac.in / bba23@imu.ac.in for enquiries.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 7000,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "Stipend",
+     "item": "Students of BBA - Apprenticeship Embedded Maritime Logistics during their apprenticeship period",
+     "as_printed": "Rs 7000 per month"
+    },
+    "evidence": "Rs 7000 per month",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (71%) - possible misreading or invention",
+     "amount digits not found in OCR text",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.imu.edu.in",
+    "evidence": "www.imu.edu.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "cet23@imu.ac.in",
+    "evidence": "cet23@imu.ac.in; bba23@imu.ac.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "@IMUHeadquarters",
+    "evidence": "@IMUHeadquarters",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "@MU_HQ",
+    "evidence": "@MU_HQ",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "Stipend of Rs 7000 per month",
+    "evidence": "Students of BBA - Apprenticeship Embedded Maritime Logistics will receive a Stipend of Rs 7000 per month during their apprenticeship period.",
+    "english": "Stipend of Rs 7000 per month for BBA Apprenticeship Embedded Maritime Logistics students during apprenticeship period",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (84%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Indian Maritime University",
+   "evidence": "INDIAN MARITIME UNIVERSITY (A Central University, Government of India) (Established by an Act of the Parliament in 2008)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "MBA - International Transportation & Logistics Management; MBA - Port & Shipping Management; BBA - Logistics, Retailing & E-Commerce; BBA - Apprenticeship Embedded Maritime Logistics",
+   "evidence": "MBA - International Transportation & Logistics Management -(Chennai/Kochi/Kolkata/Visakhapatnam) • MBA - Port & Shipping Management -(Chennai/Kochi) • BBA - Logistics, Retailing & E-Commerce -(Chennai/Kochi) • BBA - Apprenticeship Embedded Maritime Logistics -(Visakhapatnam)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "exam": {
+   "value": "IMU-CET/CAT/MAT/CMAT",
+   "evidence": "IMBA - IMU-CET/CAT/MAT/CMAT",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (95%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "admission_dates": {
+   "value": "Registration closing date (MBA): 18-05-2023; Registration closing date (BBA): 22.06.2023",
+   "evidence": "Registration closing date (MBA): 18-05-2023 • Registration closing date (BBA): 22.06.2023",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Indian Maritime University admission open AY 2023-24",
+  "MBA and BBA programmes in maritime sector",
+  "Registration closing date MBA: 18-05-2023",
+  "Registration closing date BBA: 22.06.2023",
+  "Stipend of Rs 7000 per month for BBA Apprenticeship Embedded Maritime Logistics students",
+  "Scan QR code to register now",
+  "Email for enquiries: cet23@imu.ac.in; bba23@imu.ac.in"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "INDIAN MARITIME UNIVERSITY",
+   "score": 0.9936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "(A Central University, Government of India)",
+   "score": 0.9872,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "(Established by an Act of tne Parliament in 2008)",
+   "score": 0.9513,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "ADMISSION OPEN",
+   "score": 0.9951,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "AY2023-24",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "OFFERING",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "MANAGEMENT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "PROGRAMMES IN",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "MARITIME",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "SECTOR",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Progtammes offered",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "MBA - International Transportation & Logistics Management",
+   "score": 0.9703,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "SCAN THE QR CODE",
+   "score": 0.9382,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "-(Chennai/Kochi/Kolkata/Visakhapatnam)",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "TO REGISTER NOW",
+   "score": 0.9897,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "MBA- Port & Shipping Management -(Chennai/Kochi)",
+   "score": 0.9677,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Heh",
+   "score": 0.8021,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "BBA -Logistics, Retailing & E-Commerce -(Chennai/Kochi)",
+   "score": 0.9798,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "BBA- Apprenticeship Embedded Maritime Logistics -(Visakhapatnam)",
+   "score": 0.9841,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "\"Entry Mechanisms:",
+   "score": 0.9787,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "3. BBA - CU17F (UC) /12th Class marks",
+   "score": 0.8634,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "HL.MBA-IMU-CET/CAT/MAT/CMAT",
+   "score": 0.9637,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Important Dates:",
+   "score": 0.9987,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "Studerts of BBA- Apprentieship Embedded Maritime",
+   "score": 0.9204,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "• Registration closing date (MBA):",
+   "score": 0.9786,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Logistkes will reccive a Süpend of Rs 7ooo per moath",
+   "score": 0.9346,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "18-05-2023",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "during their apprenticeship period",
+   "score": 0.9721,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "Registration closing date (BBA):",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "For enquiries, email us at",
+   "score": 0.9977,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "22.06.2023",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "cet23@imu.ac.in;bba23@imu.ac.in",
+   "score": 0.9694,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "Our Previous Recruiters",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "MAERSK LINE",
+   "score": 0.9428,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "adani",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "KLINE",
+   "score": 0.9856,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "TVS",
+   "score": 0.9985,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 38,
+   "text": "PAREKH",
+   "score": 0.8816,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 39,
+   "text": "2",
+   "score": 0.717,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "DP WORLD",
+   "score": 0.9566,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "h.",
+   "score": 0.547,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 42,
+   "text": "GROUD",
+   "score": 0.869,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 43,
+   "text": "m",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 44,
+   "text": "CMACOM",
+   "score": 0.9607,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "PSA CHENNAI",
+   "score": 0.9753,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "BSM",
+   "score": 0.8914,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 47,
+   "text": "allcarço logistics",
+   "score": 0.9739,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "SC",
+   "score": 0.9688,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 49,
+   "text": "HCL",
+   "score": 0.9994,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 50,
+   "text": "NYE-",
+   "score": 0.676,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "JABNALAL NEWAU",
+   "score": 0.4964,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 52,
+   "text": "fpt n",
+   "score": 0.5181,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 53,
+   "text": "Vanguard",
+   "score": 0.9847,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "Drewry",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "SeashelLogstcs",
+   "score": 0.8724,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 56,
+   "text": "For details please read academic brochure available on wwwimu.eduin",
+   "score": 0.9797,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "Follow us",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 58,
+   "text": "@IMUHeadquarters",
+   "score": 0.972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "IMU Headquarters",
+   "score": 0.9803,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "@MU_HQ",
+   "score": 0.9457,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "17 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 19.18,
+  "extract": 24.9
+ }
+}

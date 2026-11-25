@@ -1,0 +1,3286 @@
+{
+ "image": "005_hero_motocorp_429.jpg",
+ "fields": {
+  "brand": {
+   "value": "Hero",
+   "evidence": "Hero",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Hero MotoCorp' (#19)"
+   ],
+   "matched_id": 19,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 19,
+     "name": "Hero MotoCorp",
+     "score": 100.0
+    },
+    {
+     "id": 26,
+     "name": "Ather Energy",
+     "score": 66.7
+    },
+    {
+     "id": 135,
+     "name": "Haier",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Destini 125",
+   "evidence": "DESTiNi125",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Destini 125' (#143)"
+   ],
+   "matched_id": 143,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 143,
+     "name": "Destini 125",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Hero MotoCorp Ltd.",
+   "evidence": "Hero MotoCorp LM. Reg, Offico: 34, Comnunity Centro, Basant Lok, Vasant Vhar, Mow Dolhi-110057, India.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: Himgiri Hero / Himgiri Hero / Himgiri Hero / Auto Needs Hero / Auto Needs Hero / Auto Needs Hero / Aman Hero / Aman Hero / Aman Hero / Aman Hero / R.K. Hero / Avni Hero / Shiv Ganga Hero / Singla Hero / Singla Hero / Singla Hero / Khanna Hero / Khanna Automobiles / Sangam Automobile / Sharma Auto / Oswal Hero / Oswal Hero / S.K Automobiles / Essay Hero / Metro Hero / Metro Hero / Metro Agencies / J M D Automobiles / Jagdamba Auto / Pashupati Hero / Pashupati Hero / Pashupati Hero / Singla Hero / ARC Hero / ARC Hero / K.S. Hero / K.S. Hero / Pooja Automobiles / Auto Service / Kukreja Automobiles / Upper India Hero / Upper India Hero / Upper India Hero / Essay Hero / Essay Hero / ARC Hero / KK Auto / Tewatia Hero / Sehgal Hero / Yuva Hero / Autoneeds Hero / Jaasodha Hero / Himgiri Hero / Dev Vaahan Hero / Globe Hero / Aman Hero / Uppal Hero / Singla Hero / Dhansri Hero / Sahib Hero",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "SOCHO DO KADAM AÁGEY",
+   "evidence": "SOCHO DO KADAM AÁGEY",
+   "english": "Think, take a step forward",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: SOCHO DO KADAM AAGEY"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "INDIA'S FIRST FAMILY SCOOTER WITH i3S TECHNOLOGY",
+   "evidence": "INDIA'S FIRST FAMILY SCOOTER WITH i3S TECHNOLOGY",
+   "english": "India's first family scooter with i3S technology",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 81% similar) - check spelling - suggestion: INDIA'S FIRST FAMILY SCOOTER WITH",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "5 YEAR WARRANTY",
+   "evidence": "5 YEAR WARRANTY",
+   "english": "5 year warranty",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (67%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Hero MotoCorp LM. Reg, Offico: 34, Comnunity Centro, Basant Lok, Vasant Vhar, Mow Dolhi-110057, India.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Two Wheelers",
+   "evidence": "DESTiNi125",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #3"
+   ],
+   "matched_id": 3,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 3,
+     "name": "Automobile > Two Wheelers",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "Hindi: OCR found no devanagari text",
+    "second model disagrees - suggestion: English",
+    "removed Hindi: OCR found no text in that script and the second model does not list it - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 55080,
+   "evidence": "₹55080*",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (55,080)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Hero Destini 125 scooter with i3S technology",
+    "Ex-showroom price Delhi ₹55080*",
+    "Low down payment ₹2000/- inclusive of registration & insurance charges",
+    "₹7000 benefit via Paytm Mall",
+    "5 year warranty",
+    "Features: 125cc energy boost engine, telescopic front suspension, external fuel filling, mobile charging port, service reminder",
+    "List of Hero dealers across Delhi and NCR with phone numbers"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Hero Destini 125, India's first family scooter with i3S technology that stops when idle, restarts instantly and saves fuel. Ex-showroom price in Delhi is ₹55080*, with low down payment of ₹2000/- inclusive of registration and insurance charges and a ₹7000 benefit on Paytm Mall. Contact listed dealers in Delhi and NCR.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "180026600118",
+     "kind": "unknown",
+     "as_printed": "1800-266-00-118"
+    },
+    "evidence": "contact us on our Toll Fre Ne: 1800-266-00-118",
+    "english": null,
+    "confidence": 0.3,
+    "status": "missing",
+    "reasons": [
+     "not a valid Indian phone number (12 digits)",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290073249",
+     "kind": "mobile",
+     "as_printed": "7290073249"
+    },
+    "evidence": "East Delhi :Durgapuri (Loni Road, Shahadra) - Himgiri Hero : 7290073249",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290046407",
+     "kind": "mobile",
+     "as_printed": "7290046407"
+    },
+    "evidence": "Pandav Nagar (Patparganj Road) - Auto Needs Hero : 7290046407",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290039893",
+     "kind": "mobile",
+     "as_printed": "7290039893"
+    },
+    "evidence": "Pushta Kartar Nagar - Aman Hero: 7290039893",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8447755766",
+     "kind": "mobile",
+     "as_printed": "8447755766"
+    },
+    "evidence": "Karawal Nagar- Aman Hero: 8447755766",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9599953172",
+     "kind": "mobile",
+     "as_printed": "9599953172"
+    },
+    "evidence": "Chaman Park - Aman Hero : 9599953172",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290086709",
+     "kind": "mobile",
+     "as_printed": "7290086709"
+    },
+    "evidence": "Dilshad Garden - R.K. Hero : 7290086709",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290054537",
+     "kind": "mobile",
+     "as_printed": "7290054537"
+    },
+    "evidence": "New Roshanpura (Najafgarh) - Avni Hero: 7290054537",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7291864335",
+     "kind": "mobile",
+     "as_printed": "7291864335"
+    },
+    "evidence": "Paschim Vihar (Peeragarhi)-Shiv Ganga Hero:7291864335",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290073582",
+     "kind": "mobile",
+     "as_printed": "7290073582"
+    },
+    "evidence": "Palam DabriRoad(Dwarka)-Singla Hero:7290073582",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290039046",
+     "kind": "mobile",
+     "as_printed": "7290039046"
+    },
+    "evidence": "TilakNagar- Khanna Hero:7290039046",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8527910910",
+     "kind": "mobile",
+     "as_printed": "8527910910"
+    },
+    "evidence": "Kanjhwala-Sangam Automobile -8527910910",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8745880880",
+     "kind": "mobile",
+     "as_printed": "8745880880"
+    },
+    "evidence": "Nangloi- Sharma Auto-8745880880",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290054273",
+     "kind": "mobile",
+     "as_printed": "7290054273"
+    },
+    "evidence": "Azadpur Chowk- Oswal Hero:7290054273",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953898989",
+     "kind": "mobile",
+     "as_printed": "9953898989"
+    },
+    "evidence": "Rani Bagh-S.K Automobiles:9953898989",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290026521",
+     "kind": "mobile",
+     "as_printed": "7290026521"
+    },
+    "evidence": "Burari-Essaay Hero:7290026521",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290067387",
+     "kind": "mobile",
+     "as_printed": "7290067387"
+    },
+    "evidence": "Rithala(Rohini)-Metro Hero:7290067387",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9278915798",
+     "kind": "mobile",
+     "as_printed": "9278915798"
+    },
+    "evidence": "Bawana- Metro Agencies - 9278915798",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838685858",
+     "kind": "mobile",
+     "as_printed": "7838685858"
+    },
+    "evidence": "Budh Vihar - J M D Automobiles - 7838685858",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9310880044",
+     "kind": "mobile",
+     "as_printed": "9310880044"
+    },
+    "evidence": "Libaspur (G.T. KarnalRoad) - Jagdamba Auto - 9310880044",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290064271",
+     "kind": "mobile",
+     "as_printed": "7290064271"
+    },
+    "evidence": "Adchini (Main Mehrauli Road) - Pashupati Hero: 7290064271",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290028026",
+     "kind": "mobile",
+     "as_printed": "7290028026"
+    },
+    "evidence": "Badarpur (M.B Road) - Singla Hero : 7290028026",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290086308",
+     "kind": "mobile",
+     "as_printed": "7290086308"
+    },
+    "evidence": "Okhla Phase II - ARC Hero : 7290086308",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9540398833",
+     "kind": "mobile",
+     "as_printed": "9540398833"
+    },
+    "evidence": "AbulFazal (KalindiKunj Road) - ARC Hero -9540398833",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290046820",
+     "kind": "mobile",
+     "as_printed": "7290046820"
+    },
+    "evidence": "Rangpuri (Mahipalpur) - K.S. Hero : 7290046820",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9899139984",
+     "kind": "mobile",
+     "as_printed": "9899139984"
+    },
+    "evidence": "Chirag Delhi - Pooja Automobiles -9899139984",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9312869874",
+     "kind": "mobile",
+     "as_printed": "9312869874"
+    },
+    "evidence": "Lajpat Nagar - Auto Service - 9312869874",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9212222440",
+     "kind": "mobile",
+     "as_printed": "9212222440"
+    },
+    "evidence": "Munirka - Kukreja Automobiles -9212222440",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290085068",
+     "kind": "mobile",
+     "as_printed": "7290085068"
+    },
+    "evidence": "Moti Nagar- Upper India Hero : 7290085068",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "45635678",
+     "kind": "landline",
+     "as_printed": "45635678"
+    },
+    "evidence": "Naraina(Industrial Area)- KK Auto-45635678",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290028893",
+     "kind": "mobile",
+     "as_printed": "7290028893"
+    },
+    "evidence": "NCR:Ballabgarh:-Tewatia Hero-7290028893",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290025164",
+     "kind": "mobile",
+     "as_printed": "7290025164"
+    },
+    "evidence": "Faridabad:- Sehgal Hero -7290025164",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290045130",
+     "kind": "mobile",
+     "as_printed": "7290045130"
+    },
+    "evidence": "Yuva Hero-7290045130",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290035446",
+     "kind": "mobile",
+     "as_printed": "7290035446"
+    },
+    "evidence": "Gurgaon:-Autoneeds Hero- 7290035446",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290906397",
+     "kind": "mobile",
+     "as_printed": "7290906397"
+    },
+    "evidence": "Jaasodha Hero-7290906397",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7291982606",
+     "kind": "mobile",
+     "as_printed": "7291982606"
+    },
+    "evidence": "Himgiri Hero -7291982606",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290076549",
+     "kind": "mobile",
+     "as_printed": "7290076549"
+    },
+    "evidence": "Palwal:- Dev Vaahan Hero -7290076549",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290067830",
+     "kind": "mobile",
+     "as_printed": "7290067830"
+    },
+    "evidence": "Ghaziabad:- Globe Hero- Meerut, Delhi Road -7290067830",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7291983182",
+     "kind": "mobile",
+     "as_printed": "7291983182"
+    },
+    "evidence": "Aman Hero- 184, Shiv Puri, VIjay Nagar-7291983182",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290057915",
+     "kind": "mobile",
+     "as_printed": "7290057915"
+    },
+    "evidence": "Noida:-Uppal Hero, A-5, Sec-10-7290057915",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290075937",
+     "kind": "mobile",
+     "as_printed": "7290075937"
+    },
+    "evidence": "Singla Hero- 7290075937",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290059861",
+     "kind": "mobile",
+     "as_printed": "7290059861"
+    },
+    "evidence": "Dhansri Hero-7290059861",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290062812",
+     "kind": "mobile",
+     "as_printed": "7290062812"
+    },
+    "evidence": "Sahibabad:Sahib Hero-7290062812",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "0180326600",
+     "kind": "landline",
+     "as_printed": "1803-266-00"
+    },
+    "evidence": "L359110L1984PLc017354. For further information, centact us on our Toll Fre Ne: 1803-266-00-118.\"I3s Tochnelogy -",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 55080,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Ex-Shworoom Price Delhi",
+     "item": "Hero Destini 125",
+     "as_printed": "₹55080*"
+    },
+    "evidence": "₹55080*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (55,080)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 2000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "LOW DOWN PAYMENT Inclusive of Registration & Insurance charges",
+     "item": "Hero Destini 125",
+     "as_printed": "₹2000/-"
+    },
+    "evidence": "₹2000/-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (2,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "heromotocorp.com",
+    "evidence": "heromotocorp.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "@HeroMotoCorp",
+    "evidence": "@HeroMotoCorp",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "TheHeroMotoCorp",
+    "evidence": "TheHeroMotoCorp",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "Hero MotoCorp LM. Reg, Offico: 34, Comnunity Centro, Basant Lok, Vasant Vhar, Mow Dolhi-110057, India.",
+    "evidence": "Hero MotoCorp LM. Reg, Offico: 34, Comnunity Centro, Basant Lok, Vasant Vhar, Mow Dolhi-110057, India.",
+    "english": "Hero MotoCorp Ltd. Regd. Office: 34, Community Centre, Basant Lok, Vasant Vihar, New Delhi-110057, India.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Revolutionary i3S Technology for Great Mileage",
+    "evidence": "Revolutionary i3S Technology for Great Mileage",
+    "english": "Revolutionary i3S technology for great mileage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "125cc Energy Boost Engine for a Power Packed Performance",
+    "evidence": "125cc Energy Boost Engine for a Power Packed Performance",
+    "english": "125cc energy boost engine for power packed performance",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Telescopic Front Suspension for a Smooth Ride",
+    "evidence": "Telescopic Front Suspension for a Smooth Ride",
+    "english": "Telescopic front suspension for a smooth ride",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "External Fuel Filling, Mobile Charging Port, Service Reminder and many more",
+    "evidence": "External Fuel Filling, Mobile Charging Port, Service Reminder and many more",
+    "english": "External fuel filling, mobile charging port, service reminder and many more",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "L359110L1984PLC017354",
+    "evidence": "L359110L1984PLC017354",
+    "english": "CIN: L359110L1984PLC017354",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "₹7000 BENEFIT",
+    "evidence": "Paytm मall ₹7000* BENEFIT",
+    "english": "₹7000 benefit on Paytm Mall",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "value verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "LOW DOWN PAYMENT ₹2000/- Inclusive of Registration & Insurance charges",
+    "evidence": "LOW DOWN PAYMENT ₹2000/- Inclusive of Registration & Insurance charges",
+    "english": "Low down payment ₹2000/- inclusive of registration and insurance charges",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Himgiri Hero",
+     "area": "Durgapuri (Loni Road, Shahadra)",
+     "city": "East Delhi",
+     "phones": [
+      "7290073249"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "East Delhi :Durgapuri (Loni Road, Shahadra) - Himgiri Hero : 7290073249",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Himgiri Hero",
+     "area": "Kanti Nagar",
+     "city": "East Delhi",
+     "phones": [
+      "7290073249"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Kanti Nagar - Himgiri Hero: 7290073249",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Himgiri Hero",
+     "area": "Guru Angad Nagar",
+     "city": "East Delhi",
+     "phones": [
+      "7290073249"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Guru Angad Nagar - Himgiri Hero:7290073249",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Auto Needs Hero",
+     "area": "Pandav Nagar (Patparganj Road)",
+     "city": "East Delhi",
+     "phones": [
+      "7290046407"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Pandav Nagar (Patparganj Road) - Auto Needs Hero : 7290046407",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Auto Needs Hero",
+     "area": "Mayur Vihar",
+     "city": "West Delhi",
+     "phones": [
+      "7290046407"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Mayur Vihar - Auto Needs Hero : 7290046407",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Auto Needs Hero",
+     "area": "Khichripur",
+     "city": "East Delhi",
+     "phones": [
+      "7290046407"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Khichripur - Auto Needs Hero - 7290046407",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Aman Hero",
+     "area": "Pushta Kartar Nagar",
+     "city": "East Delhi",
+     "phones": [
+      "7290039893"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Pushta Kartar Nagar - Aman Hero: 7290039893",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Aman Hero",
+     "area": "Bhajanpura",
+     "city": "East Delhi",
+     "phones": [
+      "7290039893"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Bhajanpura - Aman Hero: 7290039893",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Aman Hero",
+     "area": "Karawal Nagar",
+     "city": "East Delhi",
+     "phones": [
+      "8447755766"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Karawal Nagar- Aman Hero: 8447755766",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Aman Hero",
+     "area": "Chaman Park",
+     "city": "East Delhi",
+     "phones": [
+      "9599953172"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Chaman Park - Aman Hero : 9599953172",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "R.K. Hero",
+     "area": "Dilshad Garden",
+     "city": "West Delhi",
+     "phones": [
+      "7290086709"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Dilshad Garden - R.K. Hero : 7290086709",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Avni Hero",
+     "area": "New Roshanpura (Najafgarh)",
+     "city": "West Delhi",
+     "phones": [
+      "7290054537"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "New Roshanpura (Najafgarh) - Avni Hero: 7290054537",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Shiv Ganga Hero",
+     "area": "Paschim Vihar (Peeragarhi)",
+     "city": "West Delhi",
+     "phones": [
+      "7291864335"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Paschim Vihar (Peeragarhi)-Shiv Ganga Hero:7291864335",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Singla Hero",
+     "area": "Palam Dabri Road (Dwarka)",
+     "city": "West Delhi",
+     "phones": [
+      "7290073582"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Palam DabriRoad(Dwarka)-Singla Hero:7290073582",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Singla Hero",
+     "area": "C1-Janakpuri, Pankha Road",
+     "city": "West Delhi",
+     "phones": [
+      "7290073582"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "C1-Janakpuri, Pankha Road-Singla Hero:7290073582",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Singla Hero",
+     "area": "Rajapuri",
+     "city": "West Delhi",
+     "phones": [
+      "7290073582"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Rajapuri-Singla Hero:7290073582",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Khanna Hero",
+     "area": "Tilak Nagar",
+     "city": "West Delhi",
+     "phones": [
+      "7290039046"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "TilakNagar- Khanna Hero:7290039046",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Khanna Automobiles",
+     "area": "Nawada",
+     "city": "West Delhi",
+     "phones": [
+      "7290039046"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Nawada-Khanna Automobiles-7290039046",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sangam Automobile",
+     "area": "Kanjhwala",
+     "city": "West Delhi",
+     "phones": [
+      "8527910910"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Kanjhwala-Sangam Automobile -8527910910",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sharma Auto",
+     "area": "Nangloi",
+     "city": "West Delhi",
+     "phones": [
+      "8745880880"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Nangloi- Sharma Auto-8745880880",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Oswal Hero",
+     "area": "Azadpur Chowk",
+     "city": "North Delhi",
+     "phones": [
+      "7290054273"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Azadpur Chowk- Oswal Hero:7290054273",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Oswal Hero",
+     "area": "Pitampura",
+     "city": "North Delhi",
+     "phones": [
+      "7290054273"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Pitampura-Oswal Hero:7290054273",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "S.K Automobiles",
+     "area": "Rani Bagh",
+     "city": "North Delhi",
+     "phones": [
+      "9953898989"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Rani Bagh-S.K Automobiles:9953898989",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Essay Hero",
+     "area": "Burari",
+     "city": "North Delhi",
+     "phones": [
+      "7290026521"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Burari-Essaay Hero:7290026521",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Metro Hero",
+     "area": "Rithala (Rohini)",
+     "city": "North Delhi",
+     "phones": [
+      "7290067387"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Rithala(Rohini)-Metro Hero:7290067387",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Metro Hero",
+     "area": "Narela",
+     "city": "North Delhi",
+     "phones": [
+      "7290067387"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Narela- Metro Hero:7290067387",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Metro Agencies",
+     "area": "Bawana",
+     "city": "North Delhi",
+     "phones": [
+      "9278915798"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Bawana- Metro Agencies - 9278915798",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "J M D Automobiles",
+     "area": "Budh Vihar",
+     "city": "North Delhi",
+     "phones": [
+      "7838685858"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Budh Vihar - J M D Automobiles - 7838685858",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jagdamba Auto",
+     "area": "Libaspur (G.T. Karnal Road)",
+     "city": "North Delhi",
+     "phones": [
+      "9310880044"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Libaspur (G.T. KarnalRoad) - Jagdamba Auto - 9310880044",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pashupati Hero",
+     "area": "Adchini (Main Mehrauli Road)",
+     "city": "South Delhi",
+     "phones": [
+      "7290064271"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Adchini (Main Mehrauli Road) - Pashupati Hero: 7290064271",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pashupati Hero",
+     "area": "Aaya Nagar",
+     "city": "South Delhi",
+     "phones": [
+      "7290064271"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Aaya Nagar - Pashupati Hero : 7290064271",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pashupati Hero",
+     "area": "Devli Khanpur Road",
+     "city": "South Delhi",
+     "phones": [
+      "7290064271"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Devli Khanpur Road - Pashupati Hero : 7290064271",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Singla Hero",
+     "area": "Badarpur (M.B Road)",
+     "city": "South Delhi",
+     "phones": [
+      "7290028026"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Badarpur (M.B Road) - Singla Hero : 7290028026",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ARC Hero",
+     "area": "Okhla Phase II",
+     "city": "South Delhi",
+     "phones": [
+      "7290086308"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Okhla Phase II - ARC Hero : 7290086308",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ARC Hero",
+     "area": "Abul Fazal (Kalindi Kunj Road)",
+     "city": "South Delhi",
+     "phones": [
+      "9540398833"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "AbulFazal (KalindiKunj Road) - ARC Hero -9540398833",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "K.S. Hero",
+     "area": "Rangpuri (Mahipalpur)",
+     "city": "South Delhi",
+     "phones": [
+      "7290046820"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Rangpuri (Mahipalpur) - K.S. Hero : 7290046820",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "K.S. Hero",
+     "area": "Bijwasan",
+     "city": "South Delhi",
+     "phones": [
+      "7290046820"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Bijwasan - KS. Hero : 7290046820",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Pooja Automobiles",
+     "area": "Chirag Delhi",
+     "city": "South Delhi",
+     "phones": [
+      "9899139984"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Chirag Delhi - Pooja Automobiles -9899139984",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Auto Service",
+     "area": "Lajpat Nagar",
+     "city": "South Delhi",
+     "phones": [
+      "9312869874"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Lajpat Nagar - Auto Service - 9312869874",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Kukreja Automobiles",
+     "area": "Munirka",
+     "city": "Central Delhi",
+     "phones": [
+      "9212222440"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Munirka - Kukreja Automobiles -9212222440",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Upper India Hero",
+     "area": "Moti Nagar",
+     "city": "Central Delhi",
+     "phones": [
+      "7290085068"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 1,
+       "name": "Kia India",
+       "score": 67.4
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "Moti Nagar- Upper India Hero : 7290085068",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia India; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Upper India Hero",
+     "area": "Shastri Nagar",
+     "city": "Central Delhi",
+     "phones": [
+      "7290085068"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 1,
+       "name": "Kia India",
+       "score": 67.4
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "Shastri Nagar - Upper India Hero : 7290085068",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia India; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Upper India Hero",
+     "area": "Kashmiri Gate",
+     "city": "Central Delhi",
+     "phones": [
+      "7290085068"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 1,
+       "name": "Kia India",
+       "score": 67.4
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "Kashmiri Gate - Upper India Hero: 7290085068",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia India; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Essay Hero",
+     "area": "Karol Bagh (Faiz Road)",
+     "city": "Central Delhi",
+     "phones": [
+      "7290026521"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Karol Bagh (Faiz Road) - Essaay Hero- 7290026521",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Essay Hero",
+     "area": "Anand Parvat",
+     "city": "Central Delhi",
+     "phones": [
+      "7290026521"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Anand Parvat - Essaay Hero : 7290026521",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ARC Hero",
+     "area": "Ashram",
+     "city": "Central Delhi",
+     "phones": [
+      "7290086308"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Ashram-ARC Hero:7290086308",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KK Auto",
+     "area": "Naraina (Industrial Area)",
+     "city": "Central Delhi",
+     "phones": [
+      "45635678"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Naraina(Industrial Area)- KK Auto-45635678",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Tewatia Hero",
+     "area": "Ballabgarh",
+     "city": "NCR",
+     "phones": [
+      "7290028893"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NCR:Ballabgarh:-Tewatia Hero-7290028893",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sehgal Hero",
+     "area": "Faridabad",
+     "city": "NCR",
+     "phones": [
+      "7290025164"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Faridabad:- Sehgal Hero -7290025164",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Yuva Hero",
+     "area": "Faridabad",
+     "city": "NCR",
+     "phones": [
+      "7290045130"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Yuva Hero-7290045130",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Autoneeds Hero",
+     "area": "Gurgaon",
+     "city": "NCR",
+     "phones": [
+      "7290035446"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Gurgaon:-Autoneeds Hero- 7290035446",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Jaasodha Hero",
+     "area": "Gurgaon",
+     "city": "NCR",
+     "phones": [
+      "7290906397"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Jaasodha Hero-7290906397",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Himgiri Hero",
+     "area": "Gurgaon",
+     "city": "NCR",
+     "phones": [
+      "7291982606"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Himgiri Hero -7291982606",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Dev Vaahan Hero",
+     "area": "Palwal",
+     "city": "NCR",
+     "phones": [
+      "7290076549"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Palwal:- Dev Vaahan Hero -7290076549",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Globe Hero",
+     "area": "Ghaziabad",
+     "city": "NCR",
+     "phones": [
+      "7290067830"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Ghaziabad:- Globe Hero- Meerut, Delhi Road -7290067830",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Aman Hero",
+     "area": "184, Shiv Puri, Vijay Nagar",
+     "city": "Ghaziabad",
+     "phones": [
+      "7291983182"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "Aman Hero- 184, Shiv Puri, VIjay Nagar-7291983182",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Uppal Hero",
+     "area": "A-5, Sec-10",
+     "city": "Noida",
+     "phones": [
+      "7290057915"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "Noida:-Uppal Hero, A-5, Sec-10-7290057915",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Singla Hero",
+     "area": "Noida",
+     "city": "NCR",
+     "phones": [
+      "7290075937"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Singla Hero- 7290075937",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Dhansri Hero",
+     "area": "Noida",
+     "city": "NCR",
+     "phones": [
+      "7290059861"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Dhansri Hero-7290059861",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Sahib Hero",
+     "area": "Sahibabad",
+     "city": "NCR",
+     "phones": [
+      "7290062812"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Sahibabad:Sahib Hero-7290062812",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "engine": {
+   "value": "125cc",
+   "evidence": "125cc Energy Boost Engine",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_type": {
+   "value": "scooter",
+   "evidence": "INDIA'S FIRST FAMILY SCOOTER WITH i3S TECHNOLOGY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "LOW DOWN PAYMENT ₹2000/- Inclusive of Registration & Insurance charges",
+   "evidence": "LOW DOWN PAYMENT ₹2000/- Inclusive of Registration & Insurance charges",
+   "english": "Low down payment ₹2000/- inclusive of registration and insurance charges",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Hero Destini 125 scooter with i3S technology",
+  "Ex-showroom price Delhi ₹55080*",
+  "Low down payment ₹2000/- inclusive of registration & insurance charges",
+  "₹7000 benefit via Paytm Mall",
+  "5 year warranty",
+  "Features: 125cc energy boost engine, telescopic front suspension, external fuel filling, mobile charging port, service reminder",
+  "List of Hero dealers across Delhi and NCR with phone numbers"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Hero",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "DESTiNi125",
+   "score": 0.9869,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "INDIA'S FIRST FAMILY SCOOTER WITH",
+   "score": 0.9895,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "i350",
+   "score": 0.7234,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "-STOPS WHEN IDLE",
+   "score": 0.9776,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "-RESTARTS INSTANTLY",
+   "score": 0.9939,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "-SAVES FUEL",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "DESTiNi125",
+   "score": 0.9413,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "TECHNOLOGY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "SOCHO DO",
+   "score": 0.9432,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "KADAM AÁGEY",
+   "score": 0.9256,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "AM AAGEY",
+   "score": 0.9931,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "Revolutionary",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "125cc Energy Boost",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Telescopic Front",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "External Fuel Filling.",
+   "score": 0.9895,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "1.3s Technology",
+   "score": 0.9703,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Engine for a Power",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "Suspension",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Mobile Charging Port, Service",
+   "score": 0.9852,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "for Great Mileage",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "Packed Performance",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "for a Smooth Ride",
+   "score": 0.9925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Reminder and many more",
+   "score": 0.9953,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "55080*",
+   "score": 0.9252,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Ex-Shworoom Price Delhi",
+   "score": 0.991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Hero MotoCorp LM. Reg, Offico: 34, Comnunity Centro, Basant Lok, Vasant Vhar, Mow Dolhi-110057, India. CIM:",
+   "score": 0.9249,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "HeroMotoCorplndiaHeroMotoCorpLimited",
+   "score": 0.9773,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "H",
+   "score": 0.9147,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "Paytm",
+   "score": 0.8985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "र7000",
+   "score": 0.9709,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "LOW DOWN PAYMENT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "2000/",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "WARRANTY",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "L359110L1984PLc017354. For further information, centact us on our Toll Fre Ne: 1803-266-00-118.\"I3s Tochnelogy -",
+   "score": 0.9345,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "heromotocorp.com",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "@HeroMotoCorp",
+   "score": 0.9702,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "mall",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Stops when scooter isidle, crankrotation up to 2000 RPM, irrospective of speed. Restarts with tho press of the lefthrake",
+   "score": 0.9552,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "HeroFinCorp.",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "\"Condisons apply",
+   "score": 0.8977,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "Conditions Aply.**Finance Otlris by Hero FinCorp Ltd., subjoctto thoir rospeotivo TaC atthoir sole disoretion.",
+   "score": 0.8723,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "levor Accossotios and foatures sheun may not bo part of standard fitment Ahways wsar a helmet wtile riding. \"Terms &",
+   "score": 0.9013,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "TheHeroMotoCorp",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "BENEFIT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "Inclusive of Registration & Insurance charges",
+   "score": 0.988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "East Delhi :Durgapuri (Loni Road, Shahadra) - Himgiri Hero : 7290073249, Kanti Nagar - Himgiri Hero: 7290073249, Guru Angad Nagar - Himgiri Hero:7290073249, Pandav Nagar (Patparganj Road) - Auto Needs Hero : 7290046407, Mayur Vihar - Auto Needs Hero : 7290046407, Khichripur - Auto Needs Hero -",
+   "score": 0.9744,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 48,
+   "text": "7290046407, Pushta Kartar Nagar - Aman Hero: 7290039893, Bhajanpura - Aman Hero: 7290039893, Karawal Nagar- Aman Hero: 8447755766, Chaman Park - Aman Hero : 9599953172, Dilshad Garden - R.K. Hero : 7290086709 West Delhi: New Roshanpura (Najafgarh) - Avni Hero: 7290054537, Paschim Vihar",
+   "score": 0.98,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 49,
+   "text": "(Peeragarhi)-Shiv Ganga Hero:7291864335, Palam DabriRoad(Dwarka)-Singla Hero:7290073582,C1-Janakpuri,PankhaRoad-Singla Hero:7290073582,Rajapuri-Singla Hero:7290073582, TilakNagar- Khanna Hero:7290039046, Nawada-Khanna Automobiles-7290039046, Kanjhwala-Sangam Automobile",
+   "score": 0.9851,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 50,
+   "text": "-8527910910, Nangloi- Sharma Auto-8745880880, North Delhi:Azadpur Chowk- Oswal Hero:7290054273,Pitampura-Oswal Hero:7290054273, Rani Bagh-S.K Automobiles:9953898989, Burari-Essaay Hero:7290026521, Rithala(Rohini)-Metro Hero:7290067387, Narela- Metro Hero:7290067387, Bawana-",
+   "score": 0.9741,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 51,
+   "text": "Metro Agencies - 9278915798, Budh Vihar - J M D Automobiles - 7838685858, Libaspur (G.T. KarnalRoad) - Jagdamba Auto - 9310880044, South Delhi: Adchini (Main Mehrauli Road) - Pashupati Hero: 7290064271, Aaya Magar - Pashupati Hero : 7290064271, Devli Khanpur Road - Pashupati Hero : 7290064271,",
+   "score": 0.9785,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 52,
+   "text": "Badarpur (M.B Road) - Singla Hero : 7290028026, Okhla Phase II - ARC Hero : 7290086308, AbulFazal (KalindiKunj Road) - ARC Hero -9540398833, Rangpuri (Mahipalpur) - K.S. Hero : 7290046820, Bijwasan - KS. Hero : 7290046820, Chirag Delhi - Pooja Automobiles -9899139984, Lajpat Nagar - Auto Service -",
+   "score": 0.981,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 53,
+   "text": "9312869874, Munirka - Kukreja Automobiles -9212222440, Central Delhi: Moti Nagar- Upper India Hero : 7290085068, Shastri Nagar - Upper India Hero : 7290085068, Kashmiri Gate - Upper India Hero: 7290085068, Karol Bagh (Faiz Road) - Essaay Hero- 7290026521, Anand Parvat - Essaay Hero : 7290026521,",
+   "score": 0.9756,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 54,
+   "text": "Ashram-ARC Hero:7290086308, Naraina(Industrial Area)- KK Auto-45635678, NCR:Ballabgarh:-Tewatia Hero-7290028893, Faridabad:- Sehgal Hero -7290025164, Yuva Hero-7290045130, Gurgaon:-Autoneeds Hero- 7290035446, Jaasodha Hero-7290906397, Himgiri Hero -7291982606 Palwal:- Dev Vaahan",
+   "score": 0.9771,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 55,
+   "text": "Hero -7290076549, Ghaziabad:- Globe Hero- Meerut, Delhi Road -7290067830, Aman Hero- 184, Shiv Puri, VIjay Nagar-7291983182, Noida:-Uppal Hero, A-5, Sec-10-7290057915, Singla Hero- 7290075937; Dhansri Hero-7290059861, Sahibabad:Sahib Hero-7290062812",
+   "score": 0.962,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: OCR contains multiple spelling errors (e.g., 'Shworoom', 'Comnunity', 'Vhar', 'Dolhi'); image text was used where legible.",
+  "model note: Dealer list is dense and may contain OCR transcription errors; values copied as printed where readable.",
+  "1 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "8 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 30.02,
+  "extract": 65.27
+ }
+}

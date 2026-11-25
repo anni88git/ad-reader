@@ -1,0 +1,3919 @@
+{
+ "image": "009_LG_television_409.jpg",
+ "fields": {
+  "brand": {
+   "value": "LG",
+   "evidence": "LG",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'LG Electronics' (#54)"
+   ],
+   "matched_id": 54,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 54,
+     "name": "LG Electronics",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "OLED TV AI ThinQ",
+   "evidence": "LG OLED TV AI ThinQ",
+   "english": "LG OLED TV AI ThinQ",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for LG Electronics"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "LG Electronics India Pvt. Ltd.",
+   "evidence": "Regd. Office: LG Electronics India Pvt, Ltd., A Wing (3rd Floor), D-3, District Center, Saket, New Delhi-110017",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / LG SHOPPE MUMBAI / MIRA ROAD BOISAR / MIRA ROAD BOISAR / MIRA ROAD BOISAR / MIRA ROAD BOISAR / THANE / THANE / Kalwa (W) / Bhiwandi / Dombivli (E) / Dombivali (W) / Kalyan (W) / Titwala / Ulhasnagar / Shahapur / Badlapur (E) / Ambernath (W) / Ambarnath (E) / NAVI MUMBAI / NAVI MUMBAI / Kamothe Sector 7 / Vashi Station / Kharghar / Belapur Palm Beach Road / LG PREFERRED TRADE PARTNER / LG PREFERRED TRADE PARTNER / LG PREFERRED TRADE PARTNER",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "This festive season, bring home the best of TV technology",
+   "evidence": "This festive season, bring home the best of TV technology",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Life's Good",
+   "evidence": "Life's Good",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: LG OLED TV AI ThinQ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "LG changed the way the world watches TV by inventing the revolutionary OLED technology. No wonder why the world buys its favorite OLED TV, directly from its makers.",
+   "evidence": "LG changed the way the world watches TV by inventing the revolutionary OLED technology. No wonder why the world buys its favorite OLED TV, directly from its makers.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "2 YEAR WARRANTY",
+   "evidence": "2 YEAR WARRANTY",
+   "english": "2 year warranty",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Regd. Office: LG Electronics India Pvt, Ltd., A Wing (3rd Floor), D-3, District Center, Saket, New Delhi-110017",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics",
+   "evidence": "LG OLED TV AI ThinQ",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #11"
+   ],
+   "matched_id": 11,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Retail & Consumer Electronics",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 174990,
+   "evidence": "₹174990",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (174,990)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "LG OLED TV AI ThinQ",
+    "OLED TV E8/C8/B8 195cm (77), 164cm (65), 139cm (55)",
+    "UHD TV UK75/UK67/UK65/UK63 164cm (65), 139cm (55), 127cm (50) 123cm (49), 108cm (43)",
+    "SMART TV LK62/LK61/LK57 108cm (43), 80cm(32)",
+    "LED TV LK526 108cm (43), 80cm(32)",
+    "Range Starts: ₹174990 EMI: ₹6999*",
+    "Range Starts: ₹53990 EMI: ₹2999* onwards",
+    "Range Starts: ₹29190 EMI: ₹1999* onwards",
+    "Range Starts: ₹18490 EMI: ₹1999* onwards (Under Exchange)",
+    "15% CASHBACK on select Debit & Credit Cards",
+    "We Pay 1 EMI*",
+    "FIXED EMI ₹1999/2999 ₹4999/6999*",
+    "SOUND BAR Worth up to ₹29990*",
+    "JioFi Device and Data worth ₹3500*",
+    "2 YEAR WARRANTY"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "LG is advertising its OLED, UHD, SMART and LED TVs for the festive season, with prices starting from ₹18490 and EMIs from ₹1999, plus offers like 15% cashback, one EMI free, fixed EMI options, a sound bar worth up to ₹29990, JioFi worth ₹3500 and a 2 year warranty.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001809999",
+     "kind": "toll_free",
+     "as_printed": "1800-180-9999"
+    },
+    "evidence": "1800-180-9999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18003159999",
+     "kind": "toll_free",
+     "as_printed": "1800-315-9999"
+    },
+    "evidence": "1800-315-9999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9820435252",
+     "kind": "mobile",
+     "as_printed": "9820435252"
+    },
+    "evidence": "LG SHOPPE MUMBAI: Borivali (W) Chandavarkar Rd., Nr. Station 9820435252",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9987283708",
+     "kind": "mobile",
+     "as_printed": "9987283708"
+    },
+    "evidence": "Borivali (E) Main Carter Road 9987283708",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9768646786",
+     "kind": "mobile",
+     "as_printed": "9768646786"
+    },
+    "evidence": "Malad Near Orlem Church 9768646786",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9223503992",
+     "kind": "mobile",
+     "as_printed": "9223503992"
+    },
+    "evidence": "Andheri (E), Opposite Kalpita Enclave 9223503992",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9619799896",
+     "kind": "mobile",
+     "as_printed": "9619799896"
+    },
+    "evidence": "Santacruz Next to Vijay stores 9619799896",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9820075670",
+     "kind": "mobile",
+     "as_printed": "9820075670"
+    },
+    "evidence": "Bandra Next to Lucky Restaurant 9820075670",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9619860180",
+     "kind": "mobile",
+     "as_printed": "9619860180"
+    },
+    "evidence": "Mahim Opp. Victoria School 9619860180",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9773777794",
+     "kind": "mobile",
+     "as_printed": "9773777794"
+    },
+    "evidence": "Dadar (E) Near Bhoiwada Court 9773777794",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9619860177",
+     "kind": "mobile",
+     "as_printed": "9619860177"
+    },
+    "evidence": "Charni Road Next to Saifee Hospital 9619860177",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9619860183",
+     "kind": "mobile",
+     "as_printed": "9619860183"
+    },
+    "evidence": "Mulund Opp. Balrajeshwar Temple 9619860183",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02261916844",
+     "kind": "landline",
+     "as_printed": "022-61916844"
+    },
+    "evidence": "Ghatkopar Next to Shoppers Stop 022-61916844",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "25298798",
+     "kind": "landline",
+     "as_printed": "25298798"
+    },
+    "evidence": "Chembur (E) Near Fine Art Hall 25298798, 25274547",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "25274547",
+     "kind": "landline",
+     "as_printed": "25274547"
+    },
+    "evidence": "Chembur (E) Near Fine Art Hall 25298798, 25274547",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9619860184",
+     "kind": "mobile",
+     "as_printed": "9619860184"
+    },
+    "evidence": "Nagar Flyover 9619860184",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9821139702",
+     "kind": "mobile",
+     "as_printed": "9821139702"
+    },
+    "evidence": "MIRA ROAD BOISAR: Mira Road, Golden Nest 9821139702",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9819126364",
+     "kind": "mobile",
+     "as_printed": "9819126364"
+    },
+    "evidence": "Bhayandar (W) Station Road 9819126364",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "2342324",
+     "kind": "landline",
+     "as_printed": "2342324"
+    },
+    "evidence": "Vasai (W) Station Road, Navghar 2342324",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9220987628",
+     "kind": "mobile",
+     "as_printed": "9220987628"
+    },
+    "evidence": "Boisar (W) Tarapur Boisar Road 9220987628",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9619860176",
+     "kind": "mobile",
+     "as_printed": "9619860176"
+    },
+    "evidence": "Thane Ghodbunder Rd 9619860176",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9320068761",
+     "kind": "mobile",
+     "as_printed": "9320068761"
+    },
+    "evidence": "Thane (W) Near Nitin Company 9320068761",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9867932209",
+     "kind": "mobile",
+     "as_printed": "9867932209"
+    },
+    "evidence": "Kalwa (W) Station Road 9867932209",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9619860181",
+     "kind": "mobile",
+     "as_printed": "9619860181"
+    },
+    "evidence": "Bhiwandi Anjur Phata 9619860181",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02512410002",
+     "kind": "landline",
+     "as_printed": "2512410002"
+    },
+    "evidence": "Dombivli (E) Tilak Road 2512410002 / 8149379349",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8149379349",
+     "kind": "mobile",
+     "as_printed": "8149379349"
+    },
+    "evidence": "Dombivli (E) Tilak Road 2512410002 / 8149379349",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9930501214",
+     "kind": "mobile",
+     "as_printed": "9930501214"
+    },
+    "evidence": "Dombivali (W) NSS Road, Near Gopi Cinema 9930501214",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9820598300",
+     "kind": "mobile",
+     "as_printed": "9820598300"
+    },
+    "evidence": "Kalyan (W) Santoshi Mata Mandir Rd, Rambaug 9820598300",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9653417300",
+     "kind": "mobile",
+     "as_printed": "9653417300"
+    },
+    "evidence": "Titwala Ganesh Mandir Lane 9653417300",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9822339559",
+     "kind": "mobile",
+     "as_printed": "09822339559"
+    },
+    "evidence": "Ulhasnagar Shivaji Chowk 09822339559",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9890231707",
+     "kind": "mobile",
+     "as_printed": "9890231707"
+    },
+    "evidence": "Shahapur 9890231707",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7498757844",
+     "kind": "mobile",
+     "as_printed": "07498757844"
+    },
+    "evidence": "Badlapur (E) Behind Aadarsh College 07498757844",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8087455666",
+     "kind": "mobile",
+     "as_printed": "8087455666"
+    },
+    "evidence": "Ambernath (W) Opp Ambernath Police Station 8087455666",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8080000999",
+     "kind": "mobile",
+     "as_printed": "8080000999"
+    },
+    "evidence": "Ambarnath (E) Next to Ambernath Station 8080000999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7506364392",
+     "kind": "mobile",
+     "as_printed": "7506364392"
+    },
+    "evidence": "NAVI MUMBAI: Airoli Opp. Airoli Railway Station 7506364392",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7506364393",
+     "kind": "mobile",
+     "as_printed": "7506364393"
+    },
+    "evidence": "Ghansoli near Railway Station 7506364393",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7506719631",
+     "kind": "mobile",
+     "as_printed": "7506719631"
+    },
+    "evidence": "Kamothe Sector 7, 7506719631",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7506364391",
+     "kind": "mobile",
+     "as_printed": "7506364391"
+    },
+    "evidence": "Vashi Station Nr Inorbit Mall 7506364391",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9890008080",
+     "kind": "mobile",
+     "as_printed": "9890008080"
+    },
+    "evidence": "Kharghar Opp. Reliance Fresh, Sec.20, 9890008080",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9167356220",
+     "kind": "mobile",
+     "as_printed": "9167356220"
+    },
+    "evidence": "Belapur Palm Beach Road 9167356220",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9821622765",
+     "kind": "mobile",
+     "as_printed": "9821622765"
+    },
+    "evidence": "LG PREFERRED TRADE PARTNER: Malad ON) 9821622765",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8879698964",
+     "kind": "mobile",
+     "as_printed": "8879698964"
+    },
+    "evidence": "Bhandup (W) 8879698964",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9699621250",
+     "kind": "mobile",
+     "as_printed": "9699621250"
+    },
+    "evidence": "Kandivali (W)9699621250",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 174990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range Starts:",
+     "item": "OLED TV E8/C8/B8",
+     "as_printed": "₹174990"
+    },
+    "evidence": "₹174990",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (174,990)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 6999,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI:",
+     "item": "OLED TV E8/C8/B8",
+     "as_printed": "₹6999*"
+    },
+    "evidence": "₹6999*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (6,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 53990,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range Starts:",
+     "item": "UHD TV UK75/UK67/UK65/UK63",
+     "as_printed": "₹53990"
+    },
+    "evidence": "₹53990",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (53,990)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 2999,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI:",
+     "item": "UHD TV UK75/UK67/UK65/UK63",
+     "as_printed": "₹2999* onwards"
+    },
+    "evidence": "₹2999* onwards",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (2,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 29190,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range Starts:",
+     "item": "SMART TV LK62/LK61/LK57",
+     "as_printed": "₹29190"
+    },
+    "evidence": "₹29190",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (29,190)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1999,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI:",
+     "item": "SMART TV LK62/LK61/LK57",
+     "as_printed": "₹1999* onwards"
+    },
+    "evidence": "₹1999* onwards",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (1,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 18490,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Range Starts:",
+     "item": "LED TV LK526",
+     "as_printed": "₹18490"
+    },
+    "evidence": "₹18490",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (18,490)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1999,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "EMI:",
+     "item": "LED TV LK526 (Under Exchange)",
+     "as_printed": "₹1999* onwards"
+    },
+    "evidence": "₹1999* onwards",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (1,999)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.lg.com/in",
+    "evidence": "visit www.lg.com/in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.facebook.com/lgindiapage",
+    "evidence": "www.facebook.com/lgindiapage/",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.twitter.com/lglndia",
+    "evidence": "www.twitter.com/LGlndia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "avhad.sukhdeo@lge.com",
+    "evidence": "email: avhad.sukhdeo@lge.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "www.facebook.com/lgindiapage/",
+    "evidence": "www.facebook.com/lgindiapage/",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.twitter.com/LGlndia",
+    "evidence": "www.twitter.com/LGlndia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "Regd. Office: LG Electronics India Pvt, Ltd., A Wing (3rd Floor), D-3, District Center, Saket, New Delhi-110017",
+    "evidence": "Regd. Office: LG Electronics India Pvt, Ltd., A Wing (3rd Floor), D-3, District Center, Saket, New Delhi-110017",
+    "english": "Regd. Office: LG Electronics India Pvt. Ltd., A Wing (3rd Floor), D-3, District Center, Saket, New Delhi-110017",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "LG AI TV (Artificial Intelligence)",
+    "evidence": "LG AI TV (Artificial Intelligence)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "α (Alpha 9) Intelligent Processor*",
+    "evidence": "α (Alpha 9) Intelligent Processor*",
+    "english": "Alpha 9 Intelligent Processor",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Dolby Atmos* Sound",
+    "evidence": "Dolby Atmos* Sound",
+    "english": "Dolby Atmos Sound",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "4K Cinema HDR with Dolby Vision*",
+    "evidence": "4K Cinema HDR with Dolby Vision*",
+    "english": "4K Cinema HDR with Dolby Vision",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "4K Active HDR",
+    "evidence": "4K Active HDR",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "2-Way Bluetooth* / Cloud Photos & Videos",
+    "evidence": "2-Way Bluetooth* / Cloud Photos & Videos",
+    "english": "2-Way Bluetooth / Cloud Photos & Videos",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DTS Virtual: X Sound",
+    "evidence": "DTS Virtual: X Sound",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Active HDR",
+    "evidence": "Active HDR",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Magic Remote",
+    "evidence": "Magic Remote",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "IPS Panel",
+    "evidence": "IPS Panel",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Regional Language",
+    "evidence": "Regional Language",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "20w Sound Output",
+    "evidence": "20w Sound Output",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Live Zoom",
+    "evidence": "Live Zoom",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "CIN No. U32107DL1997PTC220109",
+    "evidence": "CIN No. U32107DL1997PTC220109",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "15% CASHBACK on select Debit & Credit Cards*",
+    "evidence": "15% CASHBACK on select Debit & Credit Cards*",
+    "english": "15% cashback on select Debit & Credit Cards",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "We Pay 1 EMI*",
+    "evidence": "We Pay 1 EMI*",
+    "english": "We pay one EMI",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FIXED EMI ₹1999/2999 ₹4999/6999*",
+    "evidence": "FIXED EMI ₹1999/2999 ₹4999/6999*",
+    "english": "Fixed EMI options",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SOUND BAR Worth up to ₹29990*",
+    "evidence": "SOUND BAR Worth up to ₹29990*",
+    "english": "Sound bar worth up to ₹29990",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JioFi Device and Data worth ₹3500*",
+    "evidence": "JioFi Device and Data worth ₹3500*",
+    "english": "JioFi device and data worth ₹3500",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "2 YEAR WARRANTY",
+    "evidence": "2 YEAR WARRANTY",
+    "english": "2 year warranty",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Borivali (W)",
+     "city": "Mumbai",
+     "phones": [
+      "9820435252"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "LG SHOPPE MUMBAI: Borivali (W) Chandavarkar Rd., Nr. Station 9820435252",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Borivali (E)",
+     "city": "Mumbai",
+     "phones": [
+      "9987283708"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Borivali (E) Main Carter Road 9987283708",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Malad",
+     "city": "Mumbai",
+     "phones": [
+      "9768646786"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Malad Near Orlem Church 9768646786",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Andheri (E)",
+     "city": "Mumbai",
+     "phones": [
+      "9223503992"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Andheri (E), Opposite Kalpita Enclave 9223503992",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Santacruz",
+     "city": "Mumbai",
+     "phones": [
+      "9619799896"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Santacruz Next to Vijay stores 9619799896",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Bandra",
+     "city": "Mumbai",
+     "phones": [
+      "9820075670"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Bandra Next to Lucky Restaurant 9820075670",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Mahim",
+     "city": "Mumbai",
+     "phones": [
+      "9619860180"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Mahim Opp. Victoria School 9619860180",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Dadar (E)",
+     "city": "Mumbai",
+     "phones": [
+      "9773777794"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Dadar (E) Near Bhoiwada Court 9773777794",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Charni Road",
+     "city": "Mumbai",
+     "phones": [
+      "9619860177"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Charni Road Next to Saifee Hospital 9619860177",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Mulund",
+     "city": "Mumbai",
+     "phones": [
+      "9619860183"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Mulund Opp. Balrajeshwar Temple 9619860183",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Ghatkopar",
+     "city": "Mumbai",
+     "phones": [
+      "02261916844"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Ghatkopar Next to Shoppers Stop 022-61916844",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Chembur (E)",
+     "city": "Mumbai",
+     "phones": [
+      "25298798",
+      "25274547"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Chembur (E) Near Fine Art Hall 25298798, 25274547",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG SHOPPE MUMBAI",
+     "area": "Nagar Flyover",
+     "city": "Mumbai",
+     "phones": [
+      "9619860184"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Nagar Flyover 9619860184",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MIRA ROAD BOISAR",
+     "area": "Mira Road",
+     "city": "Mumbai",
+     "phones": [
+      "9821139702"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "MIRA ROAD BOISAR: Mira Road, Golden Nest 9821139702",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MIRA ROAD BOISAR",
+     "area": "Bhayandar (W)",
+     "city": "Mumbai",
+     "phones": [
+      "9819126364"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Bhayandar (W) Station Road 9819126364",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MIRA ROAD BOISAR",
+     "area": "Vasai (W)",
+     "city": "Mumbai",
+     "phones": [
+      "2342324"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Vasai (W) Station Road, Navghar 2342324",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MIRA ROAD BOISAR",
+     "area": "Boisar (W)",
+     "city": "Mumbai",
+     "phones": [
+      "9220987628"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Boisar (W) Tarapur Boisar Road 9220987628",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "THANE",
+     "area": "Thane Ghodbunder Rd",
+     "city": "Mumbai",
+     "phones": [
+      "9619860176"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Thane Ghodbunder Rd 9619860176",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "THANE",
+     "area": "Thane (W)",
+     "city": "Mumbai",
+     "phones": [
+      "9320068761"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Thane (W) Near Nitin Company 9320068761",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Kalwa (W)",
+     "area": "Station Road",
+     "city": "Mumbai",
+     "phones": [
+      "9867932209"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Kalwa (W) Station Road 9867932209",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Bhiwandi",
+     "area": "Anjur Phata",
+     "city": "Mumbai",
+     "phones": [
+      "9619860181"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 1,
+       "name": "Kia India",
+       "score": 62.5
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Bhiwandi Anjur Phata 9619860181",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia India; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Dombivli (E)",
+     "area": "Tilak Road",
+     "city": "Mumbai",
+     "phones": [
+      "02512410002",
+      "8149379349"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Dombivli (E) Tilak Road 2512410002 / 8149379349",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Dombivali (W)",
+     "area": "NSS Road",
+     "city": "Mumbai",
+     "phones": [
+      "9930501214"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Dombivali (W) NSS Road, Near Gopi Cinema 9930501214",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Kalyan (W)",
+     "area": "Santoshi Mata Mandir Rd",
+     "city": "Mumbai",
+     "phones": [
+      "9820598300"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Kalyan (W) Santoshi Mata Mandir Rd, Rambaug 9820598300",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Titwala",
+     "area": "Ganesh Mandir Lane",
+     "city": "Mumbai",
+     "phones": [
+      "9653417300"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Titwala Ganesh Mandir Lane 9653417300",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Ulhasnagar",
+     "area": "Shivaji Chowk",
+     "city": "Mumbai",
+     "phones": [
+      "9822339559"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Ulhasnagar Shivaji Chowk 09822339559",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Shahapur",
+     "area": null,
+     "city": "Mumbai",
+     "phones": [
+      "9890231707"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Shahapur 9890231707",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Badlapur (E)",
+     "area": "Behind Aadarsh College",
+     "city": "Mumbai",
+     "phones": [
+      "7498757844"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 60.0
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Badlapur (E) Behind Aadarsh College 07498757844",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Ambernath (W)",
+     "area": "Opp Ambernath Police Station",
+     "city": "Mumbai",
+     "phones": [
+      "8087455666"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Ambernath (W) Opp Ambernath Police Station 8087455666",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Ambarnath (E)",
+     "area": "Next to Ambernath Station",
+     "city": "Mumbai",
+     "phones": [
+      "8080000999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Ambarnath (E) Next to Ambernath Station 8080000999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NAVI MUMBAI",
+     "area": "Airoli Opp. Airoli Railway Station",
+     "city": "Mumbai",
+     "phones": [
+      "7506364392"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "NAVI MUMBAI: Airoli Opp. Airoli Railway Station 7506364392",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NAVI MUMBAI",
+     "area": "Ghansoli near Railway Station",
+     "city": "Mumbai",
+     "phones": [
+      "7506364393"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Ghansoli near Railway Station 7506364393",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Kamothe Sector 7",
+     "area": null,
+     "city": "Mumbai",
+     "phones": [
+      "7506719631"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Kamothe Sector 7, 7506719631",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Vashi Station",
+     "area": "Nr Inorbit Mall",
+     "city": "Mumbai",
+     "phones": [
+      "7506364391"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Vashi Station Nr Inorbit Mall 7506364391",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Kharghar",
+     "area": "Opp. Reliance Fresh, Sec.20",
+     "city": "Mumbai",
+     "phones": [
+      "9890008080"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Kharghar Opp. Reliance Fresh, Sec.20, 9890008080",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Belapur Palm Beach Road",
+     "area": null,
+     "city": "Mumbai",
+     "phones": [
+      "9167356220"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Belapur Palm Beach Road 9167356220",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG PREFERRED TRADE PARTNER",
+     "area": "Malad ON",
+     "city": "Mumbai",
+     "phones": [
+      "9821622765"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "LG PREFERRED TRADE PARTNER: Malad ON) 9821622765",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG PREFERRED TRADE PARTNER",
+     "area": "Bhandup (W)",
+     "city": "Mumbai",
+     "phones": [
+      "8879698964"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Bhandup (W) 8879698964",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "LG PREFERRED TRADE PARTNER",
+     "area": "Kandivali (W)",
+     "city": "Mumbai",
+     "phones": [
+      "9699621250"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Kandivali (W)9699621250",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "LG SHOPPE MUMBAI",
+   "evidence": "LG SHOPPE MUMBAI: Borivali (W) Chandavarkar Rd., Nr. Station 9820435252",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "OLED TV, UHD TV, SMART TV, LED TV",
+   "evidence": "OLED TV E8/C8/B8, UHD TV UK75/UK67/UK65/UK63, SMART TV LK62/LK61/LK57, LED TV LK526",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "15% CASHBACK",
+   "evidence": "15% CASHBACK on select Debit & Credit Cards*",
+   "english": "15% cashback",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "emi_or_cashback": {
+   "value": "15% CASHBACK on select Debit & Credit Cards*, We Pay 1 EMI*, FIXED EMI ₹1999/2999 ₹4999/6999*",
+   "evidence": "15% CASHBACK on select Debit & Credit Cards*, We Pay 1 EMI*, FIXED EMI ₹1999/2999 ₹4999/6999*",
+   "english": "15% cashback, one EMI free, fixed EMI options",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "numbers not found in OCR text"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "This festive season",
+   "evidence": "This festive season, bring home the best of TV technology",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "LG OLED TV AI ThinQ",
+  "OLED TV E8/C8/B8 195cm (77), 164cm (65), 139cm (55)",
+  "UHD TV UK75/UK67/UK65/UK63 164cm (65), 139cm (55), 127cm (50) 123cm (49), 108cm (43)",
+  "SMART TV LK62/LK61/LK57 108cm (43), 80cm(32)",
+  "LED TV LK526 108cm (43), 80cm(32)",
+  "Range Starts: ₹174990 EMI: ₹6999*",
+  "Range Starts: ₹53990 EMI: ₹2999* onwards",
+  "Range Starts: ₹29190 EMI: ₹1999* onwards",
+  "Range Starts: ₹18490 EMI: ₹1999* onwards (Under Exchange)",
+  "15% CASHBACK on select Debit & Credit Cards",
+  "We Pay 1 EMI*",
+  "FIXED EMI ₹1999/2999 ₹4999/6999*",
+  "SOUND BAR Worth up to ₹29990*",
+  "JioFi Device and Data worth ₹3500*",
+  "2 YEAR WARRANTY"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "*",
+   "score": 0.8709,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "LG",
+   "score": 0.9993,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "米",
+   "score": 0.9782,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "This festive season, bring home the best of TV technology",
+   "score": 0.9888,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "OLED TVThinQ-",
+   "score": 0.8933,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "吉",
+   "score": 0.817,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 7,
+   "text": "★",
+   "score": 0.8793,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "*",
+   "score": 0.8678,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 9,
+   "text": "UHD TV ThinQ\"",
+   "score": 0.8651,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "米",
+   "score": 0.9964,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "World's Best Selling",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "Life's Good",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "OLED Brand",
+   "score": 0.9887,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "E8/C8/B8 195cm (77), 164cm (65), 139cm (55)",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "UK75/UK67/UK65/UK63",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "164cm (65), 139cm (55), 127cm (50) 123cm (49), 108cm (43)",
+   "score": 0.986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "★",
+   "score": 0.9518,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "★",
+   "score": 0.9171,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "米",
+   "score": 0.9948,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 20,
+   "text": "World's Best Selling",
+   "score": 0.9602,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "OLED Brand",
+   "score": 0.9987,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "• LG AI TV (Artificial Intelligence) • α (Alpha 9) Intelligent Processor*",
+   "score": 0.9653,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "• LG AI TV (Artificial Intelligence)",
+   "score": 0.9946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "• 4K Active HDR",
+   "score": 0.9569,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "• Dolby Atmos* Sound",
+   "score": 0.9725,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "• 4K Cinema HDR with Dolby Vision",
+   "score": 0.9636,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "• 2-Way Bluetooth* / Cloud Photos & Videos • DTS Virtual: X Sound",
+   "score": 0.9738,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "Range Starts: 174990",
+   "score": 0.9971,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "EMI: 76999*",
+   "score": 0.9151,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "Range Starts: 53990",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "Range Starts: 53990EMI: 2999* onwards",
+   "score": 0.9694,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "EMI: 2999*onwards",
+   "score": 0.9895,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "SMART TVThinQ\"",
+   "score": 0.9152,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "LED TV",
+   "score": 0.9813,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "LK62/LK61/LK57 108cm (43), 80cm(32)",
+   "score": 0.9888,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "LK526 108cm (43), 80cm(32)",
+   "score": 0.9988,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "LG OLED TV A",
+   "score": 0.9305,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "ThinQ™",
+   "score": 0.9859,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "• LG AI TV (Artificial Intelligence)",
+   "score": 0.9825,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "• Active HDR",
+   "score": 0.908,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "• IPS Panel",
+   "score": 0.9232,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "• 20w Sound Output",
+   "score": 0.9577,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "LG changed the way the world watches TV by inventing the revolutionary OLED technology.",
+   "score": 0.9964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "• 2-Way Bluetooth* / Cloud Photos & Videos • Magic Remote",
+   "score": 0.9732,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "• Regional Language",
+   "score": 0.9677,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "• Live Zoom",
+   "score": 0.9437,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "No wonder why the world buys its favorite OLED TV, directly from its makers.",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "Range Starts: 29190",
+   "score": 0.9955,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "EMI: 1999* onwards",
+   "score": 0.9681,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "Range Starts: 18490",
+   "score": 0.9956,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 51,
+   "text": "Range Starts: 18490|EMI: 1999* onwards",
+   "score": 0.9665,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "EMI: 1999*onwards",
+   "score": 0.9796,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "(Under Exchange)",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "Awards 2018",
+   "score": 0.9907,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "Expert speaks",
+   "score": 0.9822,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "iF",
+   "score": 0.8661,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 57,
+   "text": "\"Fantastic picture quality",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 58,
+   "text": "OFFERS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "CEST",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "\"..this is simply an excellent \"The TVs of CES 2018 :",
+   "score": 0.9827,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 61,
+   "text": "and an Al that can answer",
+   "score": 0.9896,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 62,
+   "text": "15%",
+   "score": 0.9953,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 63,
+   "text": "TV in its own right...",
+   "score": 0.9903,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 64,
+   "text": "LG AI OLED E8\"",
+   "score": 0.9808,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 65,
+   "text": "all of our entertainment questions.\"",
+   "score": 0.9983,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 66,
+   "text": "We Pay",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "EMI",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "FIXED-",
+   "score": 0.9192,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "SOUND BAR",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "Jio",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "DIOITAL",
+   "score": 0.8085,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 72,
+   "text": "2YEAR",
+   "score": 0.9475,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 73,
+   "text": "roopesy'mm",
+   "score": 0.6735,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 74,
+   "text": "2012",
+   "score": 0.7502,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 75,
+   "text": "WHATHI·FI?",
+   "score": 0.9592,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 76,
+   "text": "★★★★★",
+   "score": 0.8214,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 77,
+   "text": "Pocketlint",
+   "score": 0.9409,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 78,
+   "text": "CASHBACK",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 79,
+   "text": "EMI*",
+   "score": 0.9874,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "CTA",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 81,
+   "text": "Pocket-lint",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 82,
+   "text": "iF Design",
+   "score": 0.9985,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 83,
+   "text": "1999/2999",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "JioFi Device and Data",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "WARRANTY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 86,
+   "text": "CES 2018 Innovation Awards",
+   "score": 0.9395,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 87,
+   "text": "016-0-108",
+   "score": 0.4659,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 88,
+   "text": "Award 2018",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 89,
+   "text": "on select Debit & Credit Cards*",
+   "score": 0.9755,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "4999/6999*",
+   "score": 0.9526,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 91,
+   "text": "Worth up to 29990*",
+   "score": 0.9818,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 92,
+   "text": "worth 3500",
+   "score": 0.9818,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "LG OLED TV 65E8",
+   "score": 0.9655,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 94,
+   "text": "LG OLED TV C8",
+   "score": 0.958,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 95,
+   "text": "©LG 24x 7",
+   "score": 0.8441,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 96,
+   "text": "CUSTOMIR CARE",
+   "score": 0.9621,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 97,
+   "text": "5757554",
+   "score": 0.9151,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 98,
+   "text": "5757554",
+   "score": 0.9975,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 99,
+   "text": "LG Service India Mobile App Available at",
+   "score": 0.9406,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 100,
+   "text": "Google Play",
+   "score": 0.998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 101,
+   "text": "f",
+   "score": 0.9909,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 102,
+   "text": "www.facebook.com/lgindiapage/",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 103,
+   "text": "To know more about LG,",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 104,
+   "text": "Cashback offer applicable with",
+   "score": 0.9918,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 105,
+   "text": "Delight&",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 106,
+   "text": "1800-180-9999",
+   "score": 0.9795,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 107,
+   "text": "1800-315-9999",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 108,
+   "text": "LG",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 109,
+   "text": "visit www.lg.com/in",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 110,
+   "text": "24×7",
+   "score": 0.9894,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 111,
+   "text": "LO",
+   "score": 0.8128,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 112,
+   "text": "BAJAJ",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 113,
+   "text": "CAPITAL",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 114,
+   "text": "HDFC BANK",
+   "score": 0.9991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 115,
+   "text": "Standard",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 116,
+   "text": "(Send SMS)",
+   "score": 0.8301,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 117,
+   "text": "For Coxporate/institutional enguities,",
+   "score": 0.8837,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 118,
+   "text": "Greencycle",
+   "score": 0.9546,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 119,
+   "text": "AXIS BANK",
+   "score": 0.997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 120,
+   "text": "ICICIBank",
+   "score": 0.9556,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 121,
+   "text": "LG Service",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 122,
+   "text": "www.lg.com/in/support",
+   "score": 0.9783,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 123,
+   "text": "(Tol Free)",
+   "score": 0.969,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 124,
+   "text": "MOBILE APP",
+   "score": 0.9854,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 125,
+   "text": "y",
+   "score": 0.663,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 126,
+   "text": "www.twitter.com/LGlndia",
+   "score": 0.9764,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 127,
+   "text": "please write to corpenquines@lge.com",
+   "score": 0.8804,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 128,
+   "text": "FINSERV",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 129,
+   "text": "FIRST",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 130,
+   "text": "We understand your warid",
+   "score": 0.9619,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 131,
+   "text": "Chartered",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 132,
+   "text": "Regd. Office: LG Electronics India Pvt, Ltd., A Wing (3rd Floor), D-3, District Center, Saket, New Delhi-110017",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 133,
+   "text": "CIN No. U32107DL1997PTC220109",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 134,
+   "text": "Terms & Conditions: Offers mentioned above are for limited period only and may vary with respect to the product purchased and amount mentioned above represent the maximum value for the same. Prices mentioned are for One Unit and are inclusive of all txes. LGOLEDTV has been the World's Best Sellig Brand since 2013. Based on HIS Markit, technology Group, TV Sets",
+   "score": 0.9792,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 135,
+   "text": "market Tracker, Q4 2017. Ranking is not an endorsement of LG. Any reliance on these results is at the third party's own risk. Visit technologyihs.com for more details. The CES innovation awards are based upon descriptive material submitted to the judges. CTA did not verify the accuracy of any submission or of any claims and did not test the item to which the award was given.",
+   "score": 0.9899,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 136,
+   "text": "Finance offer are applicable on the select product and models only, Finance offer is at the sole discretion of the financer Upto 15% Credit card cash back is applicable on EMI & Non EMI transactions of HDFC, Axis and Standard chartered Bank and only EMI Transaction of ICICI Bank. Special cash back of 17.5%(max 10000) on Brand shop and 15%( max 9000) on other channels",
+   "score": 0.9814,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 137,
+   "text": "on 123cm(49) and UHD and OLED (Except B-Series). Cashback of 12.5%(Max 6000) on Brand Shop and 10%(Max 6000) on other channels applicable on 108cm(43) UHD, B Series OLED, all 80 cm (32) & above FHD/HD Smart TV and FHD/HD LED TVs. This cash back valid till 31st Dec'18 except for Axis which is valid ill 15th Nov'18. Only 6/9/12/18 EMI tenure available in",
+   "score": 0.9888,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 138,
+   "text": "ICICI Credit Card EMI. Max of 3 transactions allowed on HDFC/SCB/ICICI card and one transaction on Axis Bank in offer period. Cash back will be posted to the customer account after 90 days from date of purchase. Reliance Jio offer is on 80cm(32) & above AI ThinQ TV - 2018 Models (Smart, UHD, OLED), 43UJ632T, 43UJ652T, 43UJ752T, 49UJ632, 55UJ632T, 43LJ554T. This",
+   "score": 0.9895,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 139,
+   "text": "offer is provided by Reliance and LG doesn't carry any liability of same. 2 year warranty is on 80cm (32) & Above LED/UHD/OLED models. 1st Year warranty is comprehensive. Additional one year warranty is applicable on panel/Module only, We pay 1 EMI is on purchase on UHD and OLED TV through Bajaj Finserv. Customer would get ful refund amount equal to his one EMI, This",
+   "score": 0.9881,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 140,
+   "text": "offer will only be applicable on invoice dated on the ofer date, Cash back amount equivalent to his 1 EMl amount will be credited into his account within 30 days of successful receipt of his first EMI with Bajaj Finance Limited. Free Soundbar worth 29990 applicable on 75SK8000PTA / 65SK8500PTA / 65UK7500PTA / 55SK8500PTA / 55UK7500PTA / 49SK8500PTA/",
+   "score": 0.9813,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 141,
+   "text": "49UK75ooPTA Gifts cannot be redeemed for cash at any point of time. LG Electronics India Pvt. Ltd. (LGEL) reserves the right to modify, alter or withdraw these offers at any point of time without any prior notice or justification to any person or third party, By participating in this offer, the customer agrees to the ll above terms & conditions. LGEIL reserves the rights to change,",
+   "score": 0.9859,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 142,
+   "text": "modify with Technology, Features Size & Specification may vary from model to model. All disputes arising out of offer are to be settled under jurisdiction of Delhi Court. 24x7 online brand store facilities are available in select cities only, *For more information kindly visit www.lg.com/in.",
+   "score": 0.9916,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 143,
+   "text": "LG SHOPPE MUMBAI: Borivali (W) Chandavarkar Rd., Nr. Station 9820435252, Borivali (E) Main Carter Road 9987283708, Malad Near Orlem Church 9768646786, Andheri (E), Opposite Kalpita Enclave 9223503992, Santacruz Next to Vijay stores 9619799896, Bandra Next to Lucky Restaurant 9820075670, Mahim",
+   "score": 0.9907,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 144,
+   "text": "Opp. Victoria School 9619860180, Dadar (E) Near Bhoiwada Court 9773777794, Charni Road Next to Saifee Hospital 9619860177, Mulund Opp. Balrajeshwar Temple 9619860183, Ghatkopar Next to Shoppers Stop 022-61916844, Chembur (E) Near Fine Art Hall 25298798, 25274547, Chembure (E) Below Suman",
+   "score": 0.9912,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 145,
+   "text": "Nagar Flyover 9619860184, MIRA ROAD BOISAR: Mira Road, Golden Nest 9821139702, Bhayandar (W) Station Road 9819126364, Vasai (W) Station Road, Navghar 2342324, Boisar (W) Tarapur Boisar Road 9220987628 Thane Ghodbunder Rd 9619860176, THANE: Thane (W) Near Nitin Company 9320068761,",
+   "score": 0.9934,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 146,
+   "text": "Kalwa (W) Station Road 9867932209, Bhiwandi Anjur Phata 9619860181, Dombivli (E) Tilak Road 2512410002 / 8149379349, Dombivali (W) NSS Road, Near Gopi Cinema 9930501214, Kalyan (W) Santoshi Mata Mandir Rd, Rambaug 9820598300, Titwala Ganesh Mandir Lane 9653417300, Ulhasnagar Shivaji Chowk",
+   "score": 0.9906,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 147,
+   "text": "09822339559, Shahapur 9890231707, Badlapur (E) Behind Aadarsh College 07498757844, Ambernath (W) Opp Ambernath Police Station 8087455666, Ambarnath (E) Next to Ambernath Station 8080000999, NAVI MUMBAl: Airoli Opp. Airoli Railway Station 7506364392, Ghansoli near Railway Station 7506364393,",
+   "score": 0.9909,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 148,
+   "text": "Kamothe Sector 7, 7506719631, Vashi Station Nr Inorbit Mall 7506364391, Kharghar Opp. Reliance Fresh, Sec.20, 9890008080, Belapur Palm Beach Road 9167356220. LG PREFERRED TRADE PARTNER: Malad ON) 9821622765, Bhandup (W) 8879698964, Kandivali (W)9699621250. For bulk",
+   "score": 0.9859,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 149,
+   "text": "orders/inquiries/corporate gifting please contact Mr. Prashant Avhad - email: avhad.sukhdeo@lge.com.",
+   "score": 0.9836,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 150,
+   "text": "ARCEE",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 151,
+   "text": "croma",
+   "score": 0.9509,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 152,
+   "text": "Digi1",
+   "score": 0.9955,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 153,
+   "text": "ezone",
+   "score": 0.9582,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 154,
+   "text": "KOHINOOR",
+   "score": 0.9403,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 155,
+   "text": "Malaika",
+   "score": 0.9978,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 156,
+   "text": "Rellncedytizct.",
+   "score": 0.6617,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 157,
+   "text": "RAHUL",
+   "score": 0.9949,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 158,
+   "text": "Snehaanjali",
+   "score": 0.9952,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 159,
+   "text": "SONY MONY",
+   "score": 0.9497,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 160,
+   "text": "SSUPER ELECTRONICS",
+   "score": 0.876,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 161,
+   "text": "USHA AGENCIES",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 162,
+   "text": "vijuy sules",
+   "score": 0.8453,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 163,
+   "text": "ALSO AVAILABLE AT:",
+   "score": 0.9941,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "79 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 49.19,
+  "extract": 65.64
+ }
+}

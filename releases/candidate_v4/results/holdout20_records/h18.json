@@ -1,0 +1,537 @@
+{
+ "image": "h18_Anandabazaar_Patrika_278.jpg",
+ "fields": {
+  "brand": {
+   "value": "Raja",
+   "evidence": "RAJA",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Bajaj Auto"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 21,
+     "name": "Bajaj Auto",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Sugar Free Cream Cracker Biscuits",
+   "evidence": "Sugar Free CREAM CRACKER BISCUITS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Raja Udyog Pvt. Ltd.",
+   "evidence": "RAJA UDYOG PVT. LTD.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "রাজা ও স্মার্টের গুণগুণবান্দি",
+   "evidence": "রাজা ও স্মার্টের গুণগুণবান্দি",
+   "english": "Raja and Smart's qualities",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available",
+    "second model disagrees - suggestion: শ্রোত ও সম্প্রদার মুগলবন্দী"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "এসে গেল রাজা সুগার ফ্রি সোনা চাঁদি অফার",
+   "evidence": "এসে গেল রাজা সুগার ফ্রি সোনা চাঁদি অফার",
+   "english": "Come, Raja Sugar Free Sona Chandi Offer",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "রাজা সুগার ফ্রি কীস কাকাকের প্যাকেটে ফুললেই ঠান (পরে পেতে পাবেন সোনা বা রূপার কয়েন। শর্ত সীমিত, তাই তদ্বাতাদি করুন।",
+   "evidence": "রাজা সুগার ফ্রি কীস কাকাকের প্যাকেটে ফুললেই ঠান (পরে পেতে পাবেন সোনা বা রূপার কয়েন। শর্ত সীমিত, তাই তদ্বাতাদি করুন।",
+   "english": "Scan the QR code on Raja Sugar Free biscuit packets to get a gold or silver coin. Terms and conditions apply.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Bengali",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Bengali: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Raja Sugar Free scheme packets available",
+    "scan QR code to get gold or silver coin",
+    "terms and conditions apply",
+    "Raja Sugar Free Cream Cracker Biscuits",
+    "no added sugar"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Raja Sugar Free Cream Cracker Biscuits are available with a scheme: buy packets, scan the QR code, and get a gold or silver coin. Terms and conditions apply.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "NO ADDED SUGAR",
+    "evidence": "NO ADDED SUGAR",
+    "english": "No added sugar",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (58%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "ISO 22000: 2018",
+    "evidence": "AN ISO 22000: 2018 CERTIFIED COMPANY",
+    "english": "ISO 22000: 2018 certification",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "সোনা বা রূপার কয়েন",
+    "evidence": "সোনা বা রূপার কয়েন",
+    "english": "Gold or silver coin",
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "bengali script: no OCR cross-check available"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NO ADDED SUGAR",
+    "evidence": "NO ADDED SUGAR",
+    "english": "No added sugar",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (58%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Raja Sugar Free scheme packets available",
+  "scan QR code to get gold or silver coin",
+  "terms and conditions apply",
+  "Raja Sugar Free Cream Cracker Biscuits",
+  "no added sugar"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ग्राज्र 3 मम्ूलब",
+   "score": 0.6857,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "RAJA",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "यूशनयब्नी",
+   "score": 0.5997,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "BISCUITS",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "FAJA",
+   "score": 0.8923,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 6,
+   "text": "RAJA",
+   "score": 0.9592,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "शटम (न ब्राज मृगात्र य्ी",
+   "score": 0.7869,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "जाबा जपि",
+   "score": 0.7195,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "यात",
+   "score": 0.6644,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "एात चॉने",
+   "score": 0.5443,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "SugarFree",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "RAJA",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "ADOAR",
+   "score": 0.7672,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "NO",
+   "score": 0.9989,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 15,
+   "text": "जाकाग",
+   "score": 0.6986,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "कपगत",
+   "score": 0.6403,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "BISCUITS",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "तवाजा पूरात की कीस काकातत परातकषे थूललरे",
+   "score": 0.6869,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "RAJARAJA",
+   "score": 0.9565,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "शथत (प्रतय (घतछ श्रातत ्ाता ता कभ्रात क्त।",
+   "score": 0.8065,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "CREAM CRACKER BISCUITS",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "ैक ्ीक्तिण, जारे छाज़ाजा़ ककत।",
+   "score": 0.8026,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "RAJA UDYOG PVT. LTD. AN ISO 22000: 2018 CERTIFIED COMPANY",
+   "score": 0.9859,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "ideainc/RU/23",
+   "score": 0.9871,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: Bengali text transcription is approximate due to script complexity; English text on package and footer is clear.",
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 6.29,
+  "extract": 48.86
+ }
+}

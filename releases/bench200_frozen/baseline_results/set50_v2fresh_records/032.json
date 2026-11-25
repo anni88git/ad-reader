@@ -1,0 +1,800 @@
+{
+ "image": "032_Hari_Bhoomi__130.jpg",
+ "fields": {
+  "brand": {
+   "value": "Mantra",
+   "evidence": "Mantra",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Medanta, Yatra, Mahindra"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 66,
+     "name": "Medanta",
+     "score": 76.9
+    },
+    {
+     "id": 155,
+     "name": "Yatra",
+     "score": 72.7
+    },
+    {
+     "id": 5,
+     "name": "Mahindra",
+     "score": 71.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Eye Relief Drops",
+   "evidence": "Ayurvedic Eye Relief Drops",
+   "english": "Ayurvedic Eye Relief Drops",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Divisa Herbal Care",
+   "evidence": "दिविसा हर्बल केयर",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (93%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "आए दूर तक नज़र!",
+   "evidence": "आए दूर तक नज़र!",
+   "english": "See far away!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (82%)",
+    "second model disagrees - suggestion: आए दूर तक नजर!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "क्या आप सही 'आई' ड्रॉप की तलाश में है?",
+   "evidence": "क्या आप सही 'आई' ड्रॉप की तलाश में है?",
+   "english": "Are you looking for the right 'eye' drops?",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "रोजमर्र की भागदौड़ में न जाने हमारी आंखों में कितना कचरा पड़ जाता है। जो लोग कंप्यूटर स्क्रीन पर 8 घंटे काम करते हैं, ज्यादा टीवी देखते हैं या पूरा दिन मोबाइल पर बिजी रहते हैं, उनकी आंखों में नमी कम हो जाती है। इतना ही नहीं बढ़ता प्रदूषण, आंखों में जलन होना, खुजली, आंखों का थकना और आंखों पर जोर पड़ना आम बात हो गई है। आंखों के लिए हम तरह-तरह के देसी-अंग्रेजी उपाय भी आजमाते हैं। लेकिन आयुर्वेद में उपलब्ध औषधियों के इस्तेमाल से हम बिना किसी साइड-इफेक्ट के अपनी आंखों को इन परेशानियों से बचा सकते हैं। इसलिए दिविसा हर्बल केयर आपके लिए लेकर आयें हैं आयुर्वेदिक 'आई मंत्रा' आई ड्रॉप। जो बना है गुलाब, दारुहल्दी, शहद, आंवला, तुलसी और पुदीना जैसी 12 आयुर्वेदिक औषधियों से। आयुर्वेदिक होने के कारण इसका कोई साइड इफेक्ट भी नहीं है।",
+   "evidence": "रोजमर्र की भागदौड़ में न जाने हमारी आंखों में कितना कचरा पड़ जाता है। जो लोग कंप्यूटर स्क्रीन पर 8 घंटे काम करते हैं, ज्यादा टीवी देखते हैं या पूरा दिन मोबाइल पर बिजी रहते हैं, उनकी आंखों में नमी कम हो जाती है। इतना ही नहीं बढ़ता प्रदूषण, आंखों में जलन होना, खुजली, आंखों का थकना और आंखों पर जोर पड़ना आम बात हो गई है। आंखों के लिए हम तरह-तरह के देसी-अंग्रेजी उपाय भी आजमाते हैं। लेकिन आयुर्वेद में उपलब्ध औषधियों के इस्तेमाल से हम बिना किसी साइड-इफेक्ट के अपनी आंखों को इन परेशानियों से बचा सकते हैं। इसलिए दिविसा हर्बल केयर आपके लिए लेकर आयें हैं आयुर्वेदिक 'आई मंत्रा' आई ड्रॉप। जो बना है गुलाब, दारुहल्दी, शहद, आंवला, तुलसी और पुदीना जैसी 12 आयुर्वेदिक औषधियों से। आयुर्वेदिक होने के कारण इसका कोई साइड इफेक्ट भी नहीं है।",
+   "english": "The ad describes common eye problems from daily life, computer screens, TV, mobile use, pollution, and introduces Ayurvedic 'I Mantra' Eye Drops made from 12 Ayurvedic herbs (rose, daruhaldi, honey, amla, tulsi, pudina) with no side effects.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (96%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #14"
+   ],
+   "matched_id": 14,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Ayurvedic Eye Relief Drops",
+    "Relief from 5 eye problems",
+    "Works from the first day",
+    "Made from 12 Ayurvedic herbs",
+    "No side effects",
+    "24x7 Helpline: 8196822222",
+    "Website: www.eyemantra.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Mantra Ayurvedic Eye Relief Drops by Divisa Herbal Care relieve eye strain, freshness, tiredness, dryness and cleanliness, work from the first day, are made from 12 Ayurvedic herbs with no side effects; call 8196822222 or visit www.eyemantra.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8196822222",
+     "kind": "mobile",
+     "as_printed": "8196822222"
+    },
+    "evidence": "24x7 Helpline: 8196822222",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.eyemantra.com",
+    "evidence": "www.eyemantra.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Eye Strain",
+    "evidence": "Eye Strain",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Eye Freshness",
+    "evidence": "Eye Freshness",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Eye Tiredness",
+    "evidence": "Eye Tiredness",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Eye Dryness",
+    "evidence": "Eye Dryness",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Eye Cleanliness",
+    "evidence": "Eye Cleanliness",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "असर पहले दिन से",
+    "evidence": "असर पहले दिन से",
+    "english": "Effect from the first day",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Ayurvedic Eye Relief Drops",
+  "Relief from 5 eye problems",
+  "Works from the first day",
+  "Made from 12 Ayurvedic herbs",
+  "No side effects",
+  "24x7 Helpline: 8196822222",
+  "Website: www.eyemantra.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Mantra",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "3",
+   "score": 0.9996,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "दूर",
+   "score": 0.9932,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "तक",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "नज़र!",
+   "score": 0.8924,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Ayurvedic Eye Relief Drops",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "क्या आप",
+   "score": 0.9755,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "सही 'आई'",
+   "score": 0.9642,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ड्रॉप",
+   "score": 0.8728,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "की",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "तलाश",
+   "score": 0.8845,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "में है?",
+   "score": 0.9793,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "रोजमर्र की भागदौड़़ में न जाने हमारी",
+   "score": 0.9489,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "आयुर्वेद में उपलब्ध औषधियों के इस्तेमाल",
+   "score": 0.9542,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "आंखों में कितना कचरा पड़ जाता है। जो",
+   "score": 0.9532,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "से हम बिना किसी साईंड-इफेक्ट के अपनी",
+   "score": 0.9543,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "लोग कंप्यूटर स्क्रीन पर 8 घंटे काम करते हैं,",
+   "score": 0.962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "आंखों को इन परेशानियों से बचा सकते हैं।",
+   "score": 0.9604,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "ज्यादा टीवी देखते हैं या पूरा दिन मोबाइल",
+   "score": 0.9697,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "इसलिए दिविसा हर्ल केयर आपके लिए",
+   "score": 0.9817,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "पर बिज़ी रहते हैं, उनकी आंखों में नमी कम",
+   "score": 0.9559,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "लेकर आये हैं आयुर्वदिक 'आई मंत्रा' आई",
+   "score": 0.9609,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "हो जाती है। इतना ही नहीं बढ़ता प्रदूषण,",
+   "score": 0.9733,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "डोप्स। जो बना है गुलाब, दारुहल्दी,",
+   "score": 0.9357,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "आंखों में जलन होना, खुजली, आंखों का",
+   "score": 0.9649,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "शहद, आंवला, तुलसी और पुदीना जैसी",
+   "score": 0.901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "थकना और आंखों पर जोर पड़ना आम बात",
+   "score": 0.9735,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "12 आयर्वेदिक औषधियों से। आयुर्वदिक",
+   "score": 0.9208,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "हो गई है। आखों के लिए हम तरह-तरह के",
+   "score": 0.9678,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "होने के कारण इसका कोई साईड इफेक्ट",
+   "score": 0.9674,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "देसी-अंग्रेजी उपाय भी आजमाते हैं। लेकिन",
+   "score": 0.9644,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "भी नहीं है।",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "ऑँख की 5 समस्याओं से राहत!",
+   "score": 0.9386,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "• Eye Strain • Eye Freshness • Eye Tiredness",
+   "score": 0.9949,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "• Eye Dryness • Eye Cleanliness",
+   "score": 0.9712,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "असर पहले दिन से",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "ऑर्ई",
+   "score": 0.6694,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "EYE",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "मंत्रा",
+   "score": 0.8767,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "EYE Drops",
+   "score": 0.949,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 41,
+   "text": "Eye Relief Drops",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "AYURVEDIC",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "LLOCACAL",
+   "score": 0.7732,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 44,
+   "text": "EYE",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "भारत के उत्पाद",
+   "score": 0.9906,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "Mantra",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "भारत के लिए",
+   "score": 0.9791,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "ENE Drope",
+   "score": 0.7865,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 49,
+   "text": "Net Qty: 10mvl",
+   "score": 0.7924,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 50,
+   "text": "100% Ayurvedic",
+   "score": 0.7331,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "24x7 Helpline: 8196822222 • www.eyemantra.com",
+   "score": 0.9899,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 21.3,
+  "extract": 24.37
+ }
+}

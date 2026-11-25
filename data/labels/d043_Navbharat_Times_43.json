@@ -1,0 +1,70 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Dr Lal PathLabs",
+   "Dr. Lal PathLabs"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Swasth Fit Health Packages",
+   "Swasth Fit"
+  ]
+ },
+ "ad_type": "service_provider",
+ "category": {
+  "any_of": [
+   "Healthcare"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "भारत का विश्वास"
+  ]
+ },
+ "price": {
+  "any_of": [
+   399,
+   null
+  ]
+ },
+ "qr_code_present": true,
+ "phones": [
+  "01149885050"
+ ],
+ "websites": [
+  "lalpathlabs.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

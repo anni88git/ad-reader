@@ -1,0 +1,1491 @@
+{
+ "image": "d269_Dainik_Bhaskar_69.jpg",
+ "fields": {
+  "brand": {
+   "value": "Honda",
+   "evidence": "HONDA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "matched 'Honda Motorcycle & Scooter India' (#20): tie between 2 records resolved by ad category"
+   ],
+   "matched_id": 20,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 7,
+     "name": "Honda Cars",
+     "score": 96.0
+    },
+    {
+     "id": 20,
+     "name": "Honda Motorcycle & Scooter India",
+     "score": 96.0
+    },
+    {
+     "id": 3,
+     "name": "Hyundai",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Shine",
+   "evidence": "Shine",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Shine' (#147)"
+   ],
+   "matched_id": 147,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 147,
+     "name": "Shine",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": "100cc",
+   "evidence": "अब 100cc में",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Honda Motorcycle & Scooter India Pvt. Ltd.",
+   "evidence": "Honda Motorcycle & Scooter India Pvt. Ltd., Registered Office: Plot No. 1, Sector - 03, IMT Manesar, Distt. Gurugram, (Haryana) - 122050, India",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no exact record; closest: Kia India, Hyundai Motor India Ltd"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    },
+    {
+     "id": 8,
+     "name": "Hyundai Motor India Ltd",
+     "score": 64.2
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "Shine का वही भरोसा अब 100cc में",
+   "evidence": "Shine का वही भरोसा अब 100cc में",
+   "english": "Same trust of Shine now in 100cc",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 92% similar) - check spelling - suggestion: Shtne का वही भरोसा अब 100cट में",
+    "a larger printed line exists ('Shtne का वही भरोसा', 3.7x the headline size) - check which line is the main headline",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "दमदार माइलेज | शानदार स्टाइल | मजेदार कम्फर्ट | किफायती दाम",
+   "evidence": "दमदार माइलेज | शानदार स्टाइल | मजेदार कम्फर्ट | किफायती दाम",
+   "english": "Powerful mileage | Great style | Fun comfort | Affordable price",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "BOOK ONLINE NOW! www.honda2wheelersindia.com CLICK BOOK RELAX",
+   "evidence": "BOOK ONLINE NOW! www.honda2wheelersindia.com CLICK BOOK RELAX",
+   "english": "Book online now at www.honda2wheelersindia.com",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (83%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Honda Motorcycle & Scooter India Pvt. Ltd., Registered Office: Plot No. 1, Sector - 03, IMT Manesar, Distt. Gurugram, (Haryana) - 122050, India; Website: www.honda2wheelersindia.com; Customer Care: customercare@honda2wheelersindia.com",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Two Wheelers",
+   "evidence": "Shine का वही भरोसा अब 100cc में",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #3"
+   ],
+   "matched_id": 3,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 3,
+     "name": "Automobile > Two Wheelers",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 64900,
+   "evidence": "₹ 64900/-",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (64,900)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://qrstud.io/x6ntzlz)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://qrstud.io/x6ntzlz",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Honda Shine 100cc motorcycle",
+    "Ex-showroom price Rs 64900/- (Delhi)",
+    "Processing fee Rs 1*",
+    "Advance EMI Rs 0*",
+    "Documentation charge Rs 0*",
+    "Hypothecation at zero cost",
+    "WhatsApp or scan QR code for dealer info",
+    "Book online now at www.honda2wheelersindia.com",
+    "Finance scheme available till 30 June 2023"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Honda Shine 100cc motorcycle is available at an ex-showroom price of Rs 64900/- in Delhi, with processing fee Rs 1*, advance EMI Rs 0*, documentation charge Rs 0*, and hypothecation at zero cost. Scan the QR code or WhatsApp 7230032200 for dealer information, or book online at www.honda2wheelersindia.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7230032200",
+     "kind": "mobile",
+     "as_printed": "7230032200"
+    },
+    "evidence": "डीलर की जानकारी के लिए 7230032200 पर WhatsApp या मिस्ड कॉल करें या QR Code को स्कैन करें",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01129840621",
+     "kind": "landline",
+     "as_printed": "011-29840621"
+    },
+    "evidence": "Honda Exclusive Authorized Dealerships: DELHI: S0UTH DELHI: Malwa Honda(Lajpat Nagar)-011-29840621/22,9266802219;(Adchini)-011-43073681,8527996772/73/74; (Khanpur)-011-29963627/28,9266802221;(Saheen Bagh Jamia)- 011-26950016/17, 9266802220;(Dakshinpuri)-9266802215; Pragnya Honda(0khla)-011-40581600,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01129963627",
+     "kind": "landline",
+     "as_printed": "011-29963627"
+    },
+    "evidence": "Honda Exclusive Authorized Dealerships: DELHI: S0UTH DELHI: Malwa Honda(Lajpat Nagar)-011-29840621/22,9266802219;(Adchini)-011-43073681,8527996772/73/74; (Khanpur)-011-29963627/28,9266802221;(Saheen Bagh Jamia)- 011-26950016/17, 9266802220;(Dakshinpuri)-9266802215; Pragnya Honda(0khla)-011-40581600,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01126950016",
+     "kind": "landline",
+     "as_printed": "011-26950016"
+    },
+    "evidence": "Honda Exclusive Authorized Dealerships: DELHI: S0UTH DELHI: Malwa Honda(Lajpat Nagar)-011-29840621/22,9266802219;(Adchini)-011-43073681,8527996772/73/74; (Khanpur)-011-29963627/28,9266802221;(Saheen Bagh Jamia)- 011-26950016/17, 9266802220;(Dakshinpuri)-9266802215; Pragnya Honda(0khla)-011-40581600,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9266802220",
+     "kind": "mobile",
+     "as_printed": "9266802220"
+    },
+    "evidence": "Honda Exclusive Authorized Dealerships: DELHI: S0UTH DELHI: Malwa Honda(Lajpat Nagar)-011-29840621/22,9266802219;(Adchini)-011-43073681,8527996772/73/74; (Khanpur)-011-29963627/28,9266802221;(Saheen Bagh Jamia)- 011-26950016/17, 9266802220;(Dakshinpuri)-9266802215; Pragnya Honda(0khla)-011-40581600,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9266802215",
+     "kind": "mobile",
+     "as_printed": "9266802215"
+    },
+    "evidence": "Honda Exclusive Authorized Dealerships: DELHI: S0UTH DELHI: Malwa Honda(Lajpat Nagar)-011-29840621/22,9266802219;(Adchini)-011-43073681,8527996772/73/74; (Khanpur)-011-29963627/28,9266802221;(Saheen Bagh Jamia)- 011-26950016/17, 9266802220;(Dakshinpuri)-9266802215; Pragnya Honda(0khla)-011-40581600,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818856993",
+     "kind": "mobile",
+     "as_printed": "9818856993"
+    },
+    "evidence": "9818856993;(Pul Pehladpur Badarpur)- 011-26366952,9650028777; (Jaitpur)- 9811455777; Absolute Honda(Mahipalpur, NH-8)-011-40470000,9871600730,9811625338,9152462887; (RK Puram Sector1)-011-26713841,9871600734,9871500735,9069145268; Uday Honda (Adchini)-011-41834787,011-41834864,9212355512,9212355515,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9811455777",
+     "kind": "mobile",
+     "as_printed": "9811455777"
+    },
+    "evidence": "9818856993;(Pul Pehladpur Badarpur)- 011-26366952,9650028777; (Jaitpur)- 9811455777; Absolute Honda(Mahipalpur, NH-8)-011-40470000,9871600730,9811625338,9152462887; (RK Puram Sector1)-011-26713841,9871600734,9871500735,9069145268; Uday Honda (Adchini)-011-41834787,011-41834864,9212355512,9212355515,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9212355516",
+     "kind": "mobile",
+     "as_printed": "9212355516"
+    },
+    "evidence": "9212355516; (Aya Nagar)- 011-41026278,9266135550,9266155517; WEST DELHI: One Honda (Meenakshi Garden)-9120100400,8448071888; Punjabi Bagh-8448080272;Excel Honda(Raja Garden)-9811096676,01145528400/ 8500;Shuban Sai Honda(Najafgarh)-011-69651212,9212385581/82; (Vikaspuri)-8447527677,8506999938/39,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8448080272",
+     "kind": "mobile",
+     "as_printed": "8448080272"
+    },
+    "evidence": "9212355516; (Aya Nagar)- 011-41026278,9266135550,9266155517; WEST DELHI: One Honda (Meenakshi Garden)-9120100400,8448071888; Punjabi Bagh-8448080272;Excel Honda(Raja Garden)-9811096676,01145528400/ 8500;Shuban Sai Honda(Najafgarh)-011-69651212,9212385581/82; (Vikaspuri)-8447527677,8506999938/39,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8130988396",
+     "kind": "mobile",
+     "as_printed": "8130988396"
+    },
+    "evidence": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818826775",
+     "kind": "mobile",
+     "as_printed": "9818826775"
+    },
+    "evidence": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717455884",
+     "kind": "mobile",
+     "as_printed": "9717455884"
+    },
+    "evidence": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9717394588",
+     "kind": "mobile",
+     "as_printed": "9717394588"
+    },
+    "evidence": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9870200152",
+     "kind": "mobile",
+     "as_printed": "9870200152"
+    },
+    "evidence": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01147025801",
+     "kind": "landline",
+     "as_printed": "011-47025801"
+    },
+    "evidence": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999903295",
+     "kind": "mobile",
+     "as_printed": "9999903295"
+    },
+    "evidence": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01145528400",
+     "kind": "landline",
+     "as_printed": "011-45528400"
+    },
+    "evidence": "-011-49093930,9811025879;(Raja Garden)-011-45528400/500,9811096676;V.D. Honda(Mahavir Enclave)-9650415522,7042294777,7042294776,9212670292,7291998261;(Dabri)-9212670291;(Bijwasan)-9599442118,7290068240;(Rajapuri)9212670215,9910364903,7290068239;(Kapashera)7290068238,9910014183;CENTRAL DELHI:",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9212670291",
+     "kind": "mobile",
+     "as_printed": "9212670291"
+    },
+    "evidence": "-011-49093930,9811025879;(Raja Garden)-011-45528400/500,9811096676;V.D. Honda(Mahavir Enclave)-9650415522,7042294777,7042294776,9212670292,7291998261;(Dabri)-9212670291;(Bijwasan)-9599442118,7290068240;(Rajapuri)9212670215,9910364903,7290068239;(Kapashera)7290068238,9910014183;CENTRAL DELHI:",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873069992",
+     "kind": "mobile",
+     "as_printed": "9873069992"
+    },
+    "evidence": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891080111",
+     "kind": "mobile",
+     "as_printed": "9891080111"
+    },
+    "evidence": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999786767",
+     "kind": "mobile",
+     "as_printed": "9999786767"
+    },
+    "evidence": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9310008240",
+     "kind": "mobile",
+     "as_printed": "9310008240"
+    },
+    "evidence": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01122131205",
+     "kind": "landline",
+     "as_printed": "011-22131205"
+    },
+    "evidence": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7042024650",
+     "kind": "mobile",
+     "as_printed": "7042024650"
+    },
+    "evidence": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9560734814",
+     "kind": "mobile",
+     "as_printed": "9560734814"
+    },
+    "evidence": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 64900,
+     "currency": "INR",
+     "kind": "price",
+     "label": "एक्स - शोरूम कीमत (दिल्ली)",
+     "item": "Honda Shine 100cc",
+     "as_printed": "₹ 64900/-"
+    },
+    "evidence": "₹ 64900/-",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (64,900)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1,
+     "currency": "INR",
+     "kind": "price",
+     "label": "प्रोसेसिंग फी",
+     "item": "Processing fee",
+     "as_printed": "रु 1*"
+    },
+    "evidence": "रु 1*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (1)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": null,
+     "currency": "INR",
+     "kind": "emi",
+     "label": "एडवांस EMI",
+     "item": "Advance EMI",
+     "as_printed": "रु 0*"
+    },
+    "evidence": "रु 0*",
+    "english": null,
+    "confidence": 0.0,
+    "status": "missing",
+    "reasons": [
+     "not found in the ad",
+     "non-positive amount",
+     "too uncertain to fill - shown as a suggestion only",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": null,
+     "currency": "INR",
+     "kind": "price",
+     "label": "डॉक्यूमेटेशन चार्ज",
+     "item": "Documentation charge",
+     "as_printed": "रु 0*"
+    },
+    "evidence": "रु 0*",
+    "english": null,
+    "confidence": 0.0,
+    "status": "missing",
+    "reasons": [
+     "not found in the ad",
+     "non-positive amount",
+     "too uncertain to fill - shown as a suggestion only",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": null,
+     "currency": "INR",
+     "kind": "price",
+     "label": "हाइपोथकेशन",
+     "item": "Hypothecation",
+     "as_printed": "के बिना"
+    },
+    "evidence": "के बिना",
+    "english": null,
+    "confidence": 0.0,
+    "status": "missing",
+    "reasons": [
+     "not found in the ad",
+     "no number found",
+     "too uncertain to fill - shown as a suggestion only",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.honda2wheelersindia.com",
+    "evidence": "Website: www.honda2wheelersindia.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "customercare@honda2wheelersindia.com",
+    "evidence": "Customer Care: customercare@honda2wheelersindia.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Plot No. 1, Sector - 03, IMT Manesar, Distt. Gurugram, (Haryana) - 122050, India",
+    "evidence": "Honda Motorcycle & Scooter India Pvt. Ltd., Registered Office: Plot No. 1, Sector - 03, IMT Manesar, Distt. Gurugram, (Haryana) - 122050, India",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "दमदार माइलेज",
+    "evidence": "दमदार माइलेज",
+    "english": "Powerful mileage",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "शानदार स्टाइल",
+    "evidence": "शानदार स्टाइल",
+    "english": "Great style",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "मजेदार कम्फर्ट",
+    "evidence": "मजेदार कम्फर्ट",
+    "english": "Fun comfort",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "किफायती दाम",
+    "evidence": "किफायती दाम",
+    "english": "Affordable price",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "Plot No. 1, Sector - 03, IMT Manesar, Distt. Gurugram, (Haryana) - 122050",
+    "evidence": "Honda Motorcycle & Scooter India Pvt. Ltd., Registered Office: Plot No. 1, Sector - 03, IMT Manesar, Distt. Gurugram, (Haryana) - 122050, India",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "रु 1*",
+    "evidence": "प्रोसेसिंग फी रु 1*",
+    "english": "Processing fee Rs 1*",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (86%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "रु 0*",
+    "evidence": "एडवांस EMI रु 0*",
+    "english": "Advance EMI Rs 0*",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (82%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "के बिना",
+    "evidence": "हाइपोथकेशन के बिना",
+    "english": "Hypothecation at zero cost",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "engine": {
+   "value": "100cc",
+   "evidence": "अब 100cc में",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "फाइनेंस स्कीम ऑफर चुनिंदा पसंदीदा फाइनेंस पार्टनरों के ज़रिए शाइन 100cc मॉडल पर चुनिंदा ग्राहकों के लिए उनके एकमात्र निर्णय पर उपलब्ध हैं और वास्तविक डाउन पेंट फाइनेंस कंपनी की नीति अनुसार बदल सकती है चयनित डीलरशिप पर फाइनेंस स्कीम केवल 30 जून'23 तक उपलब्ध, जिसे किसी भी समय बिना पूर्व सूचना के वापस लिया जा सकता है. किन्हीं भी दो ऑफर्स को जोड़ा नहीं जा सकता है.",
+   "evidence": "फाइनेंस स्कीम ऑफर चुनिंदा पसंदीदा फाइनेंस पार्टनरों के ज़रिए शाइन 100cc मॉडल पर चुनिंदा ग्राहकों के लिए उनके एकमात्र निर्णय पर उपलब्ध हैं और वास्तविक डाउन पेंट फाइनेंस कंपनी की नीति अनुसार बदल सकती है चयनित डीलरशिप पर फाइनेंस स्कीम केवल 30 जून'23 तक उपलब्ध, जिसे किसी भी समय बिना पूर्व सूचना के वापस लिया जा सकता है. किन्हीं भी दो ऑफर्स को जोड़ा नहीं जा सकता है.",
+   "english": "Finance scheme offers available through selected preferred finance partners for selected customers on Shine 100cc model at their sole discretion and may change as per actual down payment finance company policy. Finance scheme at selected dealerships available only till 30 June 2023, which can be withdrawn at any time without prior notice. Any two offers cannot be combined.",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "DIGIT CONFLICT with OCR reading 0083023",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Honda Shine 100cc motorcycle",
+  "Ex-showroom price Rs 64900/- (Delhi)",
+  "Processing fee Rs 1*",
+  "Advance EMI Rs 0*",
+  "Documentation charge Rs 0*",
+  "Hypothecation at zero cost",
+  "WhatsApp or scan QR code for dealer info",
+  "Book online now at www.honda2wheelersindia.com",
+  "Finance scheme available till 30 June 2023"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "HONDA",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Shtne का वही भरोसा",
+   "score": 0.9399,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "अब 100cट में",
+   "score": 0.9336,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "दमदार माइलेज । शानदार स्टाइल । मजेदार कम्फर्ट । किफायती दाम",
+   "score": 0.9591,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "HONDA",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Shine",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Shine",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "e52",
+   "score": 0.6445,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "₹64900/-",
+   "score": 0.9497,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "एक्स - शोरूम कीमत",
+   "score": 0.9474,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "(दिल्ली)",
+   "score": 0.9525,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "CLICK",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "एडवांस EMI",
+   "score": 0.9602,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "डॉक्यूमेटेशन चार्ज",
+   "score": 0.9566,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "डीलर की जानकारी के लिए",
+   "score": 0.9478,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "1 इयरफ़ोन कनेक्ट करें",
+   "score": 0.9385,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "BOOK",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "प्रोसेसिंग फी",
+   "score": 0.965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "हाइपोथकेशन",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "7230032200",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "RELAX",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "1*",
+   "score": 0.9837,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "0*",
+   "score": 0.937,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "0*",
+   "score": 0.9454,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 25,
+   "text": "2. QR Code स्कैन करें",
+   "score": 0.9173,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "केबिना",
+   "score": 0.9302,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "WhatsApp",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "3. वीडियो का आनंद लें",
+   "score": 0.9127,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "करें या QR Code को स्कैन करें",
+   "score": 0.9134,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "Honda Motorcycle & Scooter India Pvt. Ltd., Registered Office: Plot No. 1, Sector - 03, IMT Manesar, Distt. Gurugram, (Haryana) - 122050, India; Website: www.honda2wheelersindia.com; Customer Care: customercare@honda2wheelersindia.com",
+   "score": 0.9843,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "फाइनेंस स्कीम ऑफर चुनिंदा पसंदीदा फाइनेंस पार्टनरों के ज़रिए शाइन 1008ट मॉडल पर चुनिंदा ग्राहकों के लिए उनके एकमात्र निर्णय पर उपलब्ध हैं और वास्तविक डाउन पेंट फाइनेंस कंपनी की नीति अनुसार बदल सकती है चयनित डीलरशिप पर फाइनेंस स्कीम केवल 30 जून'23 तक उपलब्ध,",
+   "score": 0.9537,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "जिसे किसी भी समय बिना पूर्व सूचना के वापस लिया जा सकता है. किन्हीं भी दो ऑफर्स को जोड़ा नहीं जा सकता है. तस्वीर में दिखाया गया उत्पाद बाज़ार में उपलब्ध वास्तविक उत्पाद से भिन्न हो सकता है. उत्पाद में दिखाई गई एक्सेसरीज सामान्य उपकरण का हिस्सा नहीं हैं.",
+   "score": 0.9594,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "Honda Exclusive Authorized Dealerships: DELHI: S0UTH DELHI: Malwa Honda(Lajpat Nagar)-011-29840621/22,9266802219;(Adchini)-011-43073681,8527996772/73/74; (Khanpur)-011-29963627/28,9266802221;(Saheen Bagh Jamia)- 011-26950016/17, 9266802220;(Dakshinpuri)-9266802215; Pragnya Honda(0khla)-011-40581600,",
+   "score": 0.9847,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "9818856993;(Pul Pehladpur Badarpur)- 011-26366952,9650028777; (Jaitpur)- 9811455777; Absolute Honda(Mahipalpur, NH-8)-011-40470000,9871600730,9811625338,9152462887; (RK Puram Sector1)-011-26713841,9871600734,9871500735,9069145268; Uday Honda (Adchini)-011-41834787,011-41834864,9212355512,9212355515,",
+   "score": 0.9869,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "9212355516; (Aya Nagar)- 011-41026278,9266135550,9266155517; WEST DELHI: One Honda (Meenakshi Garden)-9120100400,8448071888; Punjabi Bagh-8448080272;Excel Honda(Raja Garden)-9811096676,01145528400/ 8500;Shuban Sai Honda(Najafgarh)-011-69651212,9212385581/82; (Vikaspuri)-8447527677,8506999938/39,",
+   "score": 0.9797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "8130988396;(Kakrola Mod)-9212385537,9212389007,8506999936/37; (Vikas Nagar)- 9818826775; Dhingra Honda- (Peeragarhi)-011-41400000,9871200045,9717455880; (Uttam Nagar)- 9717455884/85, 9717394588; (Nangloi)-9871400045,9717455883; (Kirari)- 9870200152;Excel Honda (Moti Nagar)- 011-47025801/02, 9999903295;(Mayapuri)",
+   "score": 0.9785,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "-011-49093930,9811025879;(Raja Garden)-011-45528400/500,9811096676;V.D. Honda(Mahavir Enclave)-9650415522,7042294777,7042294776,9212670292,7291998261;(Dabri)-9212670291;(Bijwasan)-9599442118,7290068240;(Rajapuri)9212670215,9910364903,7290068239;(Kapashera)7290068238,9910014183;CENTRAL DELHI:",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Smooth Honda (Daryaganj)- 011-48119999,8010209992, 9873069992; J.B. Honda (Jhande Walan) -9555007307, 9891080111; (Shastri Nagar) - 8882719494, 9999786767; EAST DELHI: Rajindra Honda (Shahdara) -9310457400, 9310008240; (Dilshad Garden)-011-22131205/06,9818372386; (Bhajanpura) -7042024650 (II Pusta) - 9560734814;",
+   "score": 0.9679,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Johripur (Shiv Vihar Metro Station)- 7840080191; Swarup Honda (Vikas Marg)- 011-41015710/11/12, 9810806600, 9810268204; (Mayur Vihar Ph-IIl)- 9717099729; (Pandav Nagar)- 9717099723; Celebrate Honda (Jagatpuri) - 011-45644444, 9821398522; (Jheel) - 9821398526, 8448131114; (Khichripur) - 9871481114; N0RTH DELHI: Globus Honda",
+   "score": 0.9704,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "(Azadpur) - 011-45561871, 8826993152,8826993150; (Rani Bagh)- 8130093649,8826993157; (Pitampura) - 8130093651, 8826993162; (Zakira) - 8130093650; (Burari)- 8130093648, 8826993156; (Jahangirpuri)- 8130093655; Rohini Honda (Sector 3)- 8882201000; (Rithala) - 8527479000; (Budh Vihar)- 8527724000; Santoshi Honda (Narela) -",
+   "score": 0.9601,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 41,
+   "text": "8467085731/2/7, 8882493100/2; BALLABGARH: Kabir Honda - 9312655454; GAUNCHI BALLABGARH: Kabir Honda - 9599396896; FARIDABAD: Pick Up Honda - 9873875500; Regent Honda - 0129-4006142, 9899913146; Faridabad Honda - 9953547023, 8130515558; GREATER FARIDABAD: Pick up Honda - 9873820000; GURUGRAM: Big Swing Honda",
+   "score": 0.9802,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 42,
+   "text": "-8826897589, 9212168811, 9355990083; Ganpati Honda - 0124-4630500, 9910894235; Yume Honda - 9818250011, 9560380444; Malwa Gurugram Honda - 8595521151, 9311980996; KHANDSA R0AD GURUGRAM: Malwa Gurugram Honda - 9289223507, 9289223502; BADSHAHPUR GURUGRAM: 9773548811; PALAM VIHAR GURUGRAM: Ganpati",
+   "score": 0.9782,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 43,
+   "text": "Honda - 9910894234; GURUGRAM RAILWAY R0AD: Ganpati Honda - 0124-4423500, 9910894233; Yume Honda - 9650186777; SEC-52 GURUGRAM: Yume Honda - 8130364222, 9266668820; MANESAR: Ganpati Honda - 9910894239; PATAUDI: Yume Honda - 8222840011; GAUTAM BUDDHA NAGAR: Parkash Honda - 0120-4796600, 9999806883;",
+   "score": 0.9815,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 44,
+   "text": "Pioneer One Honda- 4313333, 8130788666; Pioneer One Honda (Sec-58)- 8130968666; Pioneer One Honda (Noida City Center) - 0120-2480666, 8178506905; Parkash Honda (Bhangel)- 9971713314; P.S. Honda (Dadri)- 9811669969; Rohit Honda (Jewar) - 9013709391; Rahul Honda (Dhankaur) - 9675756636; GHAZIABAD: JKM Leela Honda- 9999767614,",
+   "score": 0.9746,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 45,
+   "text": "931132240; Hindon Honda - 9910110017, 9910030484; Sangam Honda (Sahibabad)- 9311051166, 9911591166; Om Honda (Loni) - 9312254126; Hindon Honda (Modinagar)-08449790925; Chauhan Honda (Muradnagar)- 9897088340; Sangam Honda (Khoda Colony)-9540651166; GREATER NOIDA: Parkash Honda- 9971992604; Shanti Honda (Kulesra)",
+   "score": 0.9781,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 46,
+   "text": "- 8510000845; Khanna Honda (Surajpur) - 9810203519, 9717207234; H0DAL: Mukund Honda - 8814003484; PALWAL: Parashar Honda - 7056573100, 7056574100; S0HNA: Sohna Honda - 9812872333, 9813156539; BULANDSHAHR: Shri Masha Honda - 281455, 09568519999; Shri Masha Honda (Sikandrabad) - 8477004028; Sri Ganga Honda (Anoopshahr)",
+   "score": 0.9705,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 47,
+   "text": "- 9719524751; KLA Honda (Khurja)-9837098515, 9720088882; Shiva Honda (Siyana)- 9412532561; Agarwal Honda (Dibai)- 9412563721, Toshi Honda (Pahasu)-9758207547; Veer Honda (Shikarpur)- 7536810266; Chaudhary Honda (Aurangabad)- 8006704347; Shri Bhagirathi Honda (Jahagirabad)-9927544326; AI Uzair Honda (Gulaothi)- 9997729105;",
+   "score": 0.9709,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 48,
+   "text": "BAHADURGARH: Shri Balaji Honda - 9896297567, 7404533495; JHAJJAR: Shree Shyam Honda -9466511837,8607200651;ROHTAK: Lohchab Honda - 8684888803,8684888804; Shri Krishna Honda - 8930303243,9896655630; KALANAUR: Kamakshi Honda - 9034655187; SAMPLA: Rama Honda -8684840808,8684840505; GOHANA: Shirin Honda-",
+   "score": 0.9749,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 49,
+   "text": "8222999406, 8222999408; SONEPAT: Triumph Honda - 0130-2237002, 9254015907; CH0TU RAM CHOWK(SONEPAT): Triumph Honda - 9254015901; GANNAUR: Triumph Honda - 9254015908; KHARKH0DA: Ashirwad Honda - 9017190979; KUNDLI: Triumph Honda - 9254015904; BAHALGARH: Triumph Honda - 9034015921.",
+   "score": 0.9729,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 50,
+   "text": "For Bulk/Institutional enquiries, please write us at: institutionalsales@honda2wheelersindia.com",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "25 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 39.0,
+  "extract": 19.99
+ }
+}

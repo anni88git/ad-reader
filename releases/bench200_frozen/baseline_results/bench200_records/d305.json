@@ -1,0 +1,746 @@
+{
+ "image": "d305_Maharashtra_Times_5.jpg",
+ "fields": {
+  "brand": {
+   "value": "Britannia",
+   "evidence": "BRITANNIA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Britannia' (#79)"
+   ],
+   "matched_id": 79,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 79,
+     "name": "Britannia",
+     "score": 100.0
+    },
+    {
+     "id": 12,
+     "name": "Nissan",
+     "score": 60.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "The Laughing Cow Cheese",
+   "evidence": "The Laughing Cow",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for Britannia"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Britannia",
+   "evidence": "BRITANNIA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "प्रत्येक बाईट मध्ये मिळवा Creamy स्वादिष्ट चव",
+   "evidence": "प्रत्येक बाईट मध्ये मिळवा Creamy स्वादिष्ट चव",
+   "english": "Get Creamy tasty taste in every bite",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 81% similar) - check spelling - suggestion: प्रत्येक बाईट मध्ये मिळवा ★★ The Laughing Cow स्वादिष्ट चव",
+    "second model disagrees - suggestion: प्रत्येक बाइट में है मिठीवा Creamy स्वादिष्ट चव"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "NATURALLY RICH in PROTEIN",
+   "evidence": "NATURALLY RICH in PROTEIN",
+   "english": "Naturally Rich in Protein",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 58% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Britannia सादर करत आहे प्रसिद्ध अंतरराष्ट्रीय चीज ब्रँड The Laughing Cow, जयला जागबर्ग प्रेम मिळालं आहे. उत्तम क्रीमी आणि पौष्टिक चीजची रेंज, जी बनवते सकिंगचा प्र्येक क्षण मजेदार.",
+   "evidence": "Britannia सादर करत आहे प्रसिद्ध अंतरराष्ट्रीय चीज ब्रँड The Laughing Cow, जयला जागबर्ग प्रेम मिळालं आहे. उत्तम क्रीमी आणि पौष्टिक चीजची रेंज, जी बनवते सकिंगचा प्र्येक क्षण मजेदार.",
+   "english": "Britannia presents the famous international cheese brand The Laughing Cow, loved worldwide. An excellent creamy and nutritious cheese range that makes every moment fun.",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (83%)",
+    "wording is not an exact match to the printed text (closest OCR reading 72% similar) - check spelling"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "The Laughing Cow ला भेटण्यासाठी क्यूआर कोड स्कैन करा आणि आकर्षक बक्षिसे जिका*",
+   "evidence": "The Laughing Cow ला भेटण्यासाठी क्यूआर कोड स्कैन करा आणि आकर्षक बक्षिसे जिका*",
+   "english": "Scan QR code to visit The Laughing Cow and win attractive prizes*",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://docs.google.com/forms/d/e/1FAIpQLSdZf8iGbmjejzEEvrrqRbFlPTrpb59PX77kXLd4m6owgQdjKA/viewform?usp=sf_link)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://docs.google.com/forms/d/e/1FAIpQLSdZf8iGbmjejzEEvrrqRbFlPTrpb59PX77kXLd4m6owgQdjKA/viewform?usp=sf_link",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Britannia presents The Laughing Cow cheese",
+    "Naturally rich in protein",
+    "Cheese Slices pack",
+    "Cheezza Cheese for Pizza pack",
+    "Scan QR code for attractive prizes"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Britannia advertises The Laughing Cow cheese range, naturally rich in protein, with Cheese Slices and Cheezza for pizza; scan the QR code for attractive prizes.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "NATURALLY RICH in PROTEIN",
+    "evidence": "NATURALLY RICH in PROTEIN",
+    "english": "Naturally Rich in Protein",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "8 PORTIONS",
+    "evidence": "8 PORTIONS",
+    "english": "8 Portions",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (80%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "VITAMINS MINERAL & PROTEIN",
+    "evidence": "VITAMINS MINERAL & PROTEIN",
+    "english": "Vitamins Mineral & Protein",
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (64%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "10 SLICES",
+    "evidence": "10 SLICES",
+    "english": "10 Slices",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (75%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "With Mozzarella",
+    "evidence": "With Mozzarella",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "आकर्षक बक्षिसे जिका*",
+    "evidence": "आकर्षक बक्षिसे जिका*",
+    "english": "Win attractive prizes*",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Britannia presents The Laughing Cow cheese",
+  "Naturally rich in protein",
+  "Cheese Slices pack",
+  "Cheezza Cheese for Pizza pack",
+  "Scan QR code for attractive prizes"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "BRITANNIA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Creamy",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "प्रत्येक बाईट मध्ये मिळवा",
+   "score": 0.9619,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "★★",
+   "score": 0.9653,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "★★",
+   "score": 0.8424,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 6,
+   "text": "The Laughing Cow",
+   "score": 0.9848,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "स्वादिष्ट चव",
+   "score": 0.9591,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Britaनnia सादर करत आहे प्रसिध्द अंतरराष्टरीय",
+   "score": 0.9477,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "The Laughing Cow,",
+   "score": 0.9644,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "NATURALLY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "प्रेम मिळालं आहे. उत्तम क्रीमी आणि पौष्टिक चीजची",
+   "score": 0.9526,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "PROTEIN",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "RICH in",
+   "score": 0.9697,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "रेंज, जी बनवते सकिंगचा प्र्येक क्षण मजेदार.",
+   "score": 0.9459,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "स्लाइस करा",
+   "score": 0.9951,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "स्रेड करा",
+   "score": 0.9584,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "PROTEIN",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "JRALLY",
+   "score": 0.9284,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 19,
+   "text": "BRITANNIA",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "BRITANNIA",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "The Laughing Cow.",
+   "score": 0.9494,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "★",
+   "score": 0.8563,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 23,
+   "text": "★",
+   "score": 0.8932,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 24,
+   "text": "CHEESE",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "The Laughing Cow",
+   "score": 0.9533,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "★★",
+   "score": 0.9653,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 27,
+   "text": "★★",
+   "score": 0.8546,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "★",
+   "score": 0.8338,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "SLICES",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "POITIONS",
+   "score": 0.8122,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 31,
+   "text": "8",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "LOLIICES",
+   "score": 0.6867,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "&PROTEIN",
+   "score": 0.9793,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "MINERAL",
+   "score": 0.971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "and Crea",
+   "score": 0.9112,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "Deliciousluys",
+   "score": 0.8855,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 37,
+   "text": "BRITANNIA",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "PROTEIN",
+   "score": 0.9912,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "The Laughing Cow",
+   "score": 0.9767,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "★",
+   "score": 0.8349,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 41,
+   "text": "CHEEZZA",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "CHEESE FOR PIZZA",
+   "score": 0.985,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "With Mozzarella",
+   "score": 0.9812,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "मेल्ट करा",
+   "score": 0.9735,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "The Laughing Cow ला भेटण्यासाठी क्यूआर कोड स्कैन करा आणि आकर्षक बक्षिसे जिका*",
+   "score": 0.9513,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "नियम आणि अटी लागू स्केन केल्पावर तु्ही स्ें हेतूसाठी तुमचा डेटा शेअर करण्याची परवानगी देता.",
+   "score": 0.8868,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 47,
+   "text": "प्रोसेर्ड चीज । चित्र फक्त दाखवण्याच्या हेतूसाठी । सजेस्टेड सरविंग । 2 क्यूब्समधील प्रोटीन = 1 ग्लास दुधातील प्रोटीन । 1 ग्लास = 200णा गायीच दूध*",
+   "score": 0.9243,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.02,
+  "extract": 15.37
+ }
+}

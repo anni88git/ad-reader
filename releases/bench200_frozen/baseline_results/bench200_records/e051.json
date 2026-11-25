@@ -1,0 +1,1094 @@
+{
+ "image": "e051_Malyalam_Manorama_341.jpg",
+ "fields": {
+  "brand": {
+   "value": "Ramachandran",
+   "evidence": "RAMACHANDRAN",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Mahindra"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Mahindra",
+     "score": 70.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Ramachandran",
+   "evidence": "RAMACHANDRAN",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Eid Mubarak",
+   "evidence": "Eid Mubarak",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 100% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "അവര്ക്കും സ്നേഹമയവ് സൗഹൃദ്യം. വിശ്വാസ ഉടെ ആശംസിക്കുന്നു!",
+   "evidence": "അവര്ക്കും സ്നേഹമയവ് സൗഹൃദ്യം. വിശ്വാസ ഉടെ ആശംസിക്കുന്നു!",
+   "english": "Love and friendship to all. Wishes with trust!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "FASHION | LIFESTYLE | HOME | SUPERMARKET | FOOD COURT",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics",
+   "evidence": "FASHION | LIFESTYLE | HOME | SUPERMARKET | FOOD COURT",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #11"
+   ],
+   "matched_id": 11,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Retail & Consumer Electronics",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Malayalam",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Malayalam: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Eid Mubarak greeting from Ramachandran",
+    "Fashion, Lifestyle, Home, Supermarket, Food Court",
+    "Locations: Pazhavangadi, Attakulangara, Enchakkal, Ulloor, Attingal, Vellayambalam, Mall of Travancore",
+    "Phone: +91 471 7122 222, +91 8893 099 999",
+    "Email: care@rct.in",
+    "Website: www.ramachandran.in",
+    "Social: RamachandraN, ramachandrantex, theramachandran"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Ramachandran wishes Eid Mubarak and invites customers to shop for fashion, lifestyle, home, supermarket and food court items at its stores in Pazhavangadi, Attakulangara, Enchakkal, Ulloor, Attingal, Vellayambalam and Mall of Travancore. Contact via phone, email or website.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "04717122222",
+     "kind": "landline",
+     "as_printed": "+91 471 7122 222"
+    },
+    "evidence": "+91 471 7122 222",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8893099999",
+     "kind": "mobile",
+     "as_printed": "+91 8893 099 999"
+    },
+    "evidence": "+91 8893 099 999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.ramachandran.in",
+    "evidence": "www.ramachandran.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "care@rct.in",
+    "evidence": "care@rct.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "RamachandraN",
+    "evidence": "RamachandraN",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ramachandrantex",
+    "evidence": "ramachandrantex",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "theramachandran",
+    "evidence": "theramachandran",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "PAZHAVANGADI | ATTAKULANGARA | ENCHAKKAL | ULLOOR | ATTINGAL | VELLAYAMBALAM | MALL OF TRAVANCORE",
+    "evidence": "PAZHAVANGADI | ATTAKULANGARA | ENCHAKKAL | ULLOOR | ATTINGAL | VELLAYAMBALAM | MALL OF TRAVANCORE",
+    "english": "Pazhavangadi | Attakulangara | Enchakkal | Ulloor | Attingal | Vellayambalam | Mall of Travancore",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [
+   {
+    "value": "PR/MC1/E408/ E-Tender /2023",
+    "evidence": "PR/MC1/E408/ E-Tender /2023",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Ramachandran",
+     "area": null,
+     "city": null,
+     "phones": [
+      "04717122222",
+      "8893099999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "RAMACHANDRAN ... +91 471 7122 222 | +91 8893 099 999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Ramachandran",
+   "evidence": "RAMACHANDRAN",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "FASHION | LIFESTYLE | HOME | SUPERMARKET | FOOD COURT",
+   "evidence": "FASHION | LIFESTYLE | HOME | SUPERMARKET | FOOD COURT",
+   "english": "Fashion | Lifestyle | Home | Supermarket | Food Court",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Eid Mubarak greeting from Ramachandran",
+  "Fashion, Lifestyle, Home, Supermarket, Food Court",
+  "Locations: Pazhavangadi, Attakulangara, Enchakkal, Ulloor, Attingal, Vellayambalam, Mall of Travancore",
+  "Phone: +91 471 7122 222, +91 8893 099 999",
+  "Email: care@rct.in",
+  "Website: www.ramachandran.in",
+  "Social: RamachandraN, ramachandrantex, theramachandran"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "PR/MC1/E408/ E-Tender /2023",
+   "score": 0.9902,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "2e10",
+   "score": 0.7502,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "Menaral Mada Trest",
+   "score": 0.5752,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "2e1w",
+   "score": 0.5272,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "PRINCIPAL",
+   "score": 0.9997,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 6,
+   "text": "20103828/02",
+   "score": 0.6129,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "20103828m302",
+   "score": 0.6387,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "20036228ma2",
+   "score": 0.4754,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "Jer",
+   "score": 0.499,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "ermna",
+   "score": 0.5319,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "2003826m302",
+   "score": 0.6075,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "2EI03B28M302",
+   "score": 0.4939,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "ANYA",
+   "score": 0.8306,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "Eid",
+   "score": 0.9933,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "28maaa",
+   "score": 0.7128,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "2ea98m302",
+   "score": 0.6204,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "ANVY",
+   "score": 0.7825,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "20038",
+   "score": 0.557,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "Mubarak",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "2EIR28302",
+   "score": 0.4891,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "20038228m302",
+   "score": 0.5637,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "米",
+   "score": 0.8693,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "J",
+   "score": 0.7805,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "20038",
+   "score": 0.5716,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "28ma0g",
+   "score": 0.533,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "ne26m302",
+   "score": 0.5649,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "2003828m302",
+   "score": 0.5409,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "2P03928m302",
+   "score": 0.5226,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "2003898m32",
+   "score": 0.5417,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "28m30a",
+   "score": 0.6826,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "MOQ28M302",
+   "score": 0.6179,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "BQi",
+   "score": 0.8398,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "302",
+   "score": 0.7342,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "M3R26m302",
+   "score": 0.5708,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "20098m02",
+   "score": 0.5097,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "Q28m30a",
+   "score": 0.6805,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "a",
+   "score": 0.6255,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "magaीकmीooo",
+   "score": 0.5494,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "N!",
+   "score": 0.6326,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "mana",
+   "score": 0.8226,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 41,
+   "text": "2003898m302",
+   "score": 0.4924,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 42,
+   "text": "628m302",
+   "score": 0.5433,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 43,
+   "text": "ERN",
+   "score": 0.4949,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 44,
+   "text": "emana",
+   "score": 0.7158,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 45,
+   "text": "2003028m32",
+   "score": 0.487,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 46,
+   "text": "2003398m302",
+   "score": 0.5979,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 47,
+   "text": "BUISCHOOL",
+   "score": 0.7372,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 48,
+   "text": "SCHOOL",
+   "score": 0.9722,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "BACK",
+   "score": 0.9983,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "3828m302",
+   "score": 0.5271,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "mana",
+   "score": 0.675,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 52,
+   "text": "28m302",
+   "score": 0.7979,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 53,
+   "text": "O",
+   "score": 0.684,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "203828M309",
+   "score": 0.5252,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 55,
+   "text": "A028m02",
+   "score": 0.5977,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 56,
+   "text": "a8mar",
+   "score": 0.6329,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 57,
+   "text": "9003098m309",
+   "score": 0.477,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 58,
+   "text": "828m302",
+   "score": 0.6589,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 59,
+   "text": "2003898m02",
+   "score": 0.5343,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 60,
+   "text": "2803828M302",
+   "score": 0.5688,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 61,
+   "text": "A898m302",
+   "score": 0.6142,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 62,
+   "text": "20103628m302",
+   "score": 0.6113,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 63,
+   "text": "2003898m302",
+   "score": 0.4897,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 64,
+   "text": "22039280a",
+   "score": 0.4956,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 65,
+   "text": "2003898m02",
+   "score": 0.5413,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 66,
+   "text": "20103898m302",
+   "score": 0.5483,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 67,
+   "text": "RAMACHANDRAN",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "20038",
+   "score": 0.4944,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 69,
+   "text": "828M302",
+   "score": 0.5871,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 70,
+   "text": "2003820",
+   "score": 0.4786,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 71,
+   "text": "mana",
+   "score": 0.7693,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 72,
+   "text": "2003898m302",
+   "score": 0.5198,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 73,
+   "text": "FASHION| LIFESTYLE|HOMESUPERMARKET|FOOD COURT",
+   "score": 0.9632,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "28m30a",
+   "score": 0.5339,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 75,
+   "text": "PAZHAVANGADI | ATTAKULANGARA | ENCHAKKAL ULLOOR | ATTINGAL | VELLAYAMBALAM | MALL OF TRAVANCORE",
+   "score": 0.9588,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 76,
+   "text": "RamachandraN ramachandrantex ©theramachandran",
+   "score": 0.9897,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "2el",
+   "score": 0.5958,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 78,
+   "text": "CLhaeon",
+   "score": 0.6905,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 79,
+   "text": "28302",
+   "score": 0.7534,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 80,
+   "text": "meo26m",
+   "score": 0.4793,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 81,
+   "text": "+91 471 7122 222 | +91 8893 099 999 ©care@rct.in www.ramachandran.in",
+   "score": 0.9665,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 82,
+   "text": "e28m",
+   "score": 0.4572,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 83,
+   "text": "0m3828m302",
+   "score": 0.5868,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 84,
+   "text": "C",
+   "score": 0.5702,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 27.96,
+  "extract": 32.22
+ }
+}

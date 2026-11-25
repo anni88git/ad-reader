@@ -1,0 +1,94 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "price",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "LG Electronics",
+   "LG"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "OLED TV",
+   "LG OLED TV",
+   "LG OLED TV AI ThinQ",
+   null
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "E8/C8/B8"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "retailer",
+   "dealer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Retail & Consumer Electronics",
+   "Retail & Consumer Electronics > Home Appliances"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "LG OLED TV AI ThinQ",
+   "This festive season, bring home the best of TV technology",
+   "World's Best Selling OLED Brand"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "Life's Good",
+   "This festive season, bring home the best of TV technology",
+   "World's Best Selling OLED Brand",
+   null
+  ]
+ },
+ "websites": {
+  "required": [],
+  "optional": [
+   "www.lg.com/in/support",
+   "www.lg.com/in",
+   "www.facebook.com/lgindiapage",
+   "www.twitter.com/LGIndia"
+  ]
+ },
+ "emails": {
+  "required": [],
+  "optional": [
+   "corp.enquiries@lge.com",
+   "avhad.sukhdeo@lge.com"
+  ]
+ },
+ "qr_code_present": false,
+ "_label_corrections": [
+  "model_variant: E8/C8/B8 is printed (draft said not printed)"
+ ],
+ "_uncertain_fields": []
+}

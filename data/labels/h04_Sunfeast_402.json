@@ -1,0 +1,61 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser",
+  "product"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "English"
+   ],
+   [
+    "English",
+    "Hindi"
+   ]
+  ]
+ },
+ "brand": "Sunfeast",
+ "model_variant": null,
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Food & Beverages",
+   "FMCG",
+   "Food Delivery & Restaurants"
+  ]
+ },
+ "headline": "Celebrate this Diwali with three sweet delights",
+ "sub_headline": {
+  "any_of": [
+   "Spread the festive joy with Dark Fantasy Compliments, Mom's Magic Expressions and the Sunfeast Gift Box.",
+   null
+  ]
+ },
+ "price": {
+  "any_of": [
+   200,
+   150
+  ]
+ },
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

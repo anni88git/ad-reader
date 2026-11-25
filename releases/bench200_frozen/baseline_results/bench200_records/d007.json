@@ -1,0 +1,2235 @@
+{
+ "image": "d007_Navbharat_Times_7.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Cars",
+   "evidence": "ALTO K10 S-PRESSO SWIFT WAGONR CELERIO",
+   "english": null,
+   "confidence": 0.5,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value is not supported by its own evidence quote",
+    "second model disagrees - suggestion: ALTO K10",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: MAGIC AUTO / T.R. SAWHNEY / COMPETENT / MAGIC AUTO / AAA VEHICLEADES / AUTOMOTIVES / VIPUL MOTORS / FAIRDEAL WHEELS / FAIR DEAL WHEELS / COMPETENT / BAGGA LINK / T.R. SAWHNEY / MAGIC AUTO / ROHAN / T.R. SAWHNEY / COMPETENT / AAA VEHICLEADES / PREM MOTORS / D.D. MOTORS / BAGGA LINK / RANA MOTORS / MAGIC AUTO / COMPETENT / T.R. SAWHNEY / SAYA / DD MOTORS / T.R. SAWHNEY / D.D. MOTORS / T.R. SAWHNEY / RANA MOTORS / D.D. MOTORS / SHREYASH / RANA MOTORS / SHREYASH / FAIRDEAL WHEELS",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)",
+    "record #9 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 9,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "ऑफ़र्स जो बनाएंगे आपके मॉनसून सीज़न को यादगार.",
+   "evidence": "ऑफ़र्स जो बनाएंगे आपके मॉनसून सीज़न को यादगार.",
+   "english": "Offers that will make your monsoon season memorable.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ऑफरस जो बनाएंगे आपके मॉन्सून सीजन को यादगार."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "मारुति सुजुकी एरीना कार को घर लाए और आकर्षक ऑफ़र्स का आनंद उठाए.",
+   "evidence": "मारुति सुजुकी एरीना कार को घर लाए और आकर्षक ऑफ़र्स का आनंद उठाए.",
+   "english": "Bring home a Maruti Suzuki Arena car and enjoy attractive offers.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (98%)",
+    "wording is not an exact match to the printed text (closest OCR reading 99% similar) - check spelling - suggestion: मारुत सुजुकी एरीना कार को घर लाए और आकर्षक ऑफ़र्स का आनंद उठाए.",
+    "second model disagrees - suggestion: मरुति सुजुकी एरिना कार को घर लाएं और आकर्षक ऑफरस का आनंद उठाएं."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "महा बचत",
+   "evidence": "महा बचत",
+   "english": "Great savings",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership",
+   "evidence": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "ALTO K10 S-PRESSO SWIFT WAGONR CELERIO",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Maruti Suzuki Arena monsoon offers",
+    "ALTO K10 ₹59 000*",
+    "S-PRESSO ₹58 000*",
+    "SWIFT ₹55 000*",
+    "WAGONR ₹55 000*",
+    "CELERIO ₹54 000*",
+    "E-book at www.marutisuzuki.com or visit nearest dealership",
+    "Bulk order emails: nikhil.kumar3@maruti.co.in (NCR); abhinav.verma2@maruti.co.in (Delhi)",
+    "List of Maruti Suzuki authorised dealers in Delhi with phone numbers"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki Arena is offering monsoon deals on Alto K10, S-Presso, Swift, WagonR and Celerio with prices starting at ₹54 000. Readers can e-book at www.marutisuzuki.com or visit their nearest Maruti Suzuki dealership.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8929268146",
+     "kind": "mobile",
+     "as_printed": "8929268146"
+    },
+    "evidence": "MAGIC AUTO, (SEC-20, DWARKA) PH: 8929268146",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873781333",
+     "kind": "mobile",
+     "as_printed": "9873781333"
+    },
+    "evidence": "T.R. SAWHNEY, (RAJOURI GARDEN) PH: 9873781333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582797763",
+     "kind": "mobile",
+     "as_printed": "9582797763"
+    },
+    "evidence": "COMPETENT, (NAJAFGARH) PH: 9582797763",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8929268144",
+     "kind": "mobile",
+     "as_printed": "8929268144"
+    },
+    "evidence": "MAGIC AUTO, (DWARKA SEC-13) PH: 8929268144",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9254028648",
+     "kind": "mobile",
+     "as_printed": "9254028648"
+    },
+    "evidence": "AUTOMOTIVES, (NARAINA) PH. 9254028648",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8130093031",
+     "kind": "mobile",
+     "as_printed": "8130093031"
+    },
+    "evidence": "VIPUL MOTORS, (PASCHIM VIHAR) PH: 8130093031",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290029025",
+     "kind": "mobile",
+     "as_printed": "7290029025"
+    },
+    "evidence": "FAIRDEAL WHEELS, (BHAJANPURA) PH: 7290029025",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8448296615",
+     "kind": "mobile",
+     "as_printed": "8448296615"
+    },
+    "evidence": "FAIR DEAL WHEELS, (SHAHDARA) PH: 8448296615",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8377007977",
+     "kind": "mobile",
+     "as_printed": "8377007977"
+    },
+    "evidence": "COMPETENT, (GAZIPUR) PH: 8377007977",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818199370",
+     "kind": "mobile",
+     "as_printed": "9818199370"
+    },
+    "evidence": "BAGGA LINK, (PATPARGANJ) PH: 9818199370",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999399150",
+     "kind": "mobile",
+     "as_printed": "9999399150"
+    },
+    "evidence": "T.R. SAWHNEY, (GOKULPUR) PH: 9999399150",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8929400502",
+     "kind": "mobile",
+     "as_printed": "8929400502"
+    },
+    "evidence": "MAGIC AUTO, (PREET VIHAR) PH: 8929400502",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9560036262",
+     "kind": "mobile",
+     "as_printed": "9560036262"
+    },
+    "evidence": "ROHAN, (MATHURA ROAD) PH: 9560036262",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999563333",
+     "kind": "mobile",
+     "as_printed": "9999563333"
+    },
+    "evidence": "T.R. SAWHNEY, (NEHRU PLACE) PH: 9999563333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582797810",
+     "kind": "mobile",
+     "as_printed": "9582797810"
+    },
+    "evidence": "COMPETENT, (LAJPAT NAGAR) PH: 9582797810",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9971500011",
+     "kind": "mobile",
+     "as_printed": "9971500011"
+    },
+    "evidence": "AAA VEHICLEADES, (MALVIYA NAGAR) PH: 9971500011",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8745887458",
+     "kind": "mobile",
+     "as_printed": "8745887458"
+    },
+    "evidence": "PREM MOTORS, (MAHIPALPUR) PH: 8745887458",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999003888",
+     "kind": "mobile",
+     "as_printed": "9999003888"
+    },
+    "evidence": "D.D. MOTORS, (OKHLA PH-1) PH: 9999003888",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8826892666",
+     "kind": "mobile",
+     "as_printed": "8826892666"
+    },
+    "evidence": "BAGGA LINK, (KOTLA) PH: 8826892666",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "26712222",
+     "kind": "landline",
+     "as_printed": "26712222"
+    },
+    "evidence": "RANA MOTORS, (SAFDARJUNG) PH: 26712222",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8929268145",
+     "kind": "mobile",
+     "as_printed": "8929268145"
+    },
+    "evidence": "MAGIC AUTO, (KAROL BAGH) PH: 8929268145",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582797749",
+     "kind": "mobile",
+     "as_printed": "9582797749"
+    },
+    "evidence": "COMPETENT, (C.P) PH: 9582797749",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999399157",
+     "kind": "mobile",
+     "as_printed": "9999399157"
+    },
+    "evidence": "T.R. SAWHNEY, (DARYAGANJ) PH: 9999399157",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999369725",
+     "kind": "mobile",
+     "as_printed": "9999369725"
+    },
+    "evidence": "SAYA, (AZADPUR) PH: 9999369725",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582263509",
+     "kind": "mobile",
+     "as_printed": "9582263509"
+    },
+    "evidence": "T.R. SAWHNEY, (PITAMPURA) PH: 9582263509",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999324333",
+     "kind": "mobile",
+     "as_printed": "9999324333"
+    },
+    "evidence": "T.R. SAWHNEY, (BADLI) PH: 9999324333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9711507777",
+     "kind": "mobile",
+     "as_printed": "9711507777"
+    },
+    "evidence": "RANA MOTORS, (PRASHANT VIHAR) PH: 9711507777",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838555085",
+     "kind": "mobile",
+     "as_printed": "7838555085"
+    },
+    "evidence": "SHREYASH, (PITAMPURA) PH:7838555085",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873477733",
+     "kind": "mobile",
+     "as_printed": "9873477733"
+    },
+    "evidence": "RANA MOTORS, (GT Karnal Road) PH: 9873477733",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838555063",
+     "kind": "mobile",
+     "as_printed": "7838555063"
+    },
+    "evidence": "SHREYASH, (GT KARNAL ROAD)PH:7838555063",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.marutisuzuki.com",
+    "evidence": "www.marutisuzuki.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "nikhil.kumar3@maruti.co.in",
+    "evidence": "nikhil.kumar3@maruti.co.in (NCR)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "abhinav.verma2@maruti.co.in",
+    "evidence": "abhinav.verma2@maruti.co.in (Delhi)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "महा बचत",
+    "evidence": "महा बचत",
+    "english": "Great savings",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 59000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "महा बचत",
+     "item": "ALTO K10",
+     "as_printed": "₹59 000*"
+    },
+    "evidence": "₹59 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (59,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 58000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "महा बचत",
+     "item": "S-PRESSO",
+     "as_printed": "₹58 000*"
+    },
+    "evidence": "₹58 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (58,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 55000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "महा बचत",
+     "item": "SWIFT",
+     "as_printed": "₹55 000*"
+    },
+    "evidence": "₹55 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (55,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 55000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "महा बचत",
+     "item": "WAGONR",
+     "as_printed": "₹55 000*"
+    },
+    "evidence": "₹55 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (55,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 54000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "महा बचत",
+     "item": "CELERIO",
+     "as_printed": "₹54 000*"
+    },
+    "evidence": "₹54 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (54,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "MAGIC AUTO",
+     "area": "SEC-20, DWARKA",
+     "city": "WEST DELHI",
+     "phones": [
+      "8929268146"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MAGIC AUTO, (SEC-20, DWARKA) PH: 8929268146",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "T.R. SAWHNEY",
+     "area": "RAJOURI GARDEN",
+     "city": "WEST DELHI",
+     "phones": [
+      "9873781333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "T.R. SAWHNEY, (RAJOURI GARDEN) PH: 9873781333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "COMPETENT",
+     "area": "NAJAFGARH",
+     "city": "WEST DELHI",
+     "phones": [
+      "9582797763"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "COMPETENT, (NAJAFGARH) PH: 9582797763",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MAGIC AUTO",
+     "area": "DWARKA SEC-13",
+     "city": "WEST DELHI",
+     "phones": [
+      "8929268144"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MAGIC AUTO, (DWARKA SEC-13) PH: 8929268144",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "AAA VEHICLEADES",
+     "area": null,
+     "city": "WEST DELHI",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "AAA VEHICLEADES",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "AUTOMOTIVES",
+     "area": "NARAINA",
+     "city": "WEST DELHI",
+     "phones": [
+      "9254028648"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "AUTOMOTIVES, (NARAINA) PH. 9254028648",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VIPUL MOTORS",
+     "area": "PASCHIM VIHAR",
+     "city": "WEST DELHI",
+     "phones": [
+      "8130093031"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 69.2
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 62.7
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "VIPUL MOTORS, (PASCHIM VIHAR) PH: 8130093031",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FAIRDEAL WHEELS",
+     "area": "BHAJANPURA",
+     "city": "EAST DELHI",
+     "phones": [
+      "7290029025"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FAIRDEAL WHEELS, (BHAJANPURA) PH: 7290029025",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FAIR DEAL WHEELS",
+     "area": "SHAHDARA",
+     "city": "EAST DELHI",
+     "phones": [
+      "8448296615"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FAIR DEAL WHEELS, (SHAHDARA) PH: 8448296615",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "COMPETENT",
+     "area": "GAZIPUR",
+     "city": "EAST DELHI",
+     "phones": [
+      "8377007977"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "COMPETENT, (GAZIPUR) PH: 8377007977",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BAGGA LINK",
+     "area": "PATPARGANJ",
+     "city": "EAST DELHI",
+     "phones": [
+      "9818199370"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BAGGA LINK, (PATPARGANJ) PH: 9818199370",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "T.R. SAWHNEY",
+     "area": "GOKULPUR",
+     "city": "EAST DELHI",
+     "phones": [
+      "9999399150"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "T.R. SAWHNEY, (GOKULPUR) PH: 9999399150",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MAGIC AUTO",
+     "area": "PREET VIHAR",
+     "city": "EAST DELHI",
+     "phones": [
+      "8929400502"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MAGIC AUTO, (PREET VIHAR) PH: 8929400502",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ROHAN",
+     "area": "MATHURA ROAD",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9560036262"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ROHAN, (MATHURA ROAD) PH: 9560036262",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "T.R. SAWHNEY",
+     "area": "NEHRU PLACE",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9999563333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "T.R. SAWHNEY, (NEHRU PLACE) PH: 9999563333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "COMPETENT",
+     "area": "LAJPAT NAGAR",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9582797810"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "COMPETENT, (LAJPAT NAGAR) PH: 9582797810",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "AAA VEHICLEADES",
+     "area": "MALVIYA NAGAR",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9971500011"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "AAA VEHICLEADES, (MALVIYA NAGAR) PH: 9971500011",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PREM MOTORS",
+     "area": "MAHIPALPUR",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "8745887458"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "PREM MOTORS, (MAHIPALPUR) PH: 8745887458",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "D.D. MOTORS",
+     "area": "OKHLA PH-1",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "9999003888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "D.D. MOTORS, (OKHLA PH-1) PH: 9999003888",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "BAGGA LINK",
+     "area": "KOTLA",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "8826892666"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BAGGA LINK, (KOTLA) PH: 8826892666",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RANA MOTORS",
+     "area": "SAFDARJUNG",
+     "city": "SOUTH DELHI",
+     "phones": [
+      "26712222"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 69.6
+      },
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "RANA MOTORS, (SAFDARJUNG) PH: 26712222",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Tata Motors Ltd, Kia Jaipur Motors; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MAGIC AUTO",
+     "area": "KAROL BAGH",
+     "city": "CENTRAL DELHI",
+     "phones": [
+      "8929268145"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MAGIC AUTO, (KAROL BAGH) PH: 8929268145",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "COMPETENT",
+     "area": "C.P",
+     "city": "CENTRAL DELHI",
+     "phones": [
+      "9582797749"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "COMPETENT, (C.P) PH: 9582797749",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "T.R. SAWHNEY",
+     "area": "DARYAGANJ",
+     "city": "CENTRAL DELHI",
+     "phones": [
+      "9999399157"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "T.R. SAWHNEY, (DARYAGANJ) PH: 9999399157",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAYA",
+     "area": "AZADPUR",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9999369725"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SAYA, (AZADPUR) PH: 9999369725",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "DD MOTORS",
+     "area": "NARELA",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9999003888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 76.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 76.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "DD MOTORS, (NARELA) PH: 9999003888",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "T.R. SAWHNEY",
+     "area": "PITAMPURA",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9582263509"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "T.R. SAWHNEY, (PITAMPURA) PH: 9582263509",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "D.D. MOTORS",
+     "area": "PEERAGARHI",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9999003888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "D.D. MOTORS, (PEERAGARHI) PH: 9999003888",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "T.R. SAWHNEY",
+     "area": "BADLI",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9999324333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "T.R. SAWHNEY, (BADLI) PH: 9999324333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RANA MOTORS",
+     "area": "PRASHANT VIHAR",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9711507777"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 69.6
+      },
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "RANA MOTORS, (PRASHANT VIHAR) PH: 9711507777",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Tata Motors Ltd, Kia Jaipur Motors; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "D.D. MOTORS",
+     "area": "WAZIRPUR",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9999003888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "D.D. MOTORS, (WAZIRPUR) PH: 9999003888",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHREYASH",
+     "area": "PITAMPURA",
+     "city": "NORTH DELHI",
+     "phones": [
+      "7838555085"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHREYASH, (PITAMPURA) PH:7838555085",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RANA MOTORS",
+     "area": "GT Karnal Road",
+     "city": "NORTH DELHI",
+     "phones": [
+      "9873477733"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 69.6
+      },
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 66.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "RANA MOTORS, (GT Karnal Road) PH: 9873477733",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Tata Motors Ltd, Kia Jaipur Motors; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHREYASH",
+     "area": "GT KARNAL ROAD",
+     "city": "NORTH DELHI",
+     "phones": [
+      "7838555063"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHREYASH, (GT KARNAL ROAD)PH:7838555063",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FAIRDEAL WHEELS",
+     "area": "BUDH VIHAR",
+     "city": "NORTH DELHI",
+     "phones": [
+      "8448296615"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FAIRDEAL WHEELS, (BUDH VIHAR) PH. 8448296615",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Maruti Suzuki Arena monsoon offers",
+  "ALTO K10 ₹59 000*",
+  "S-PRESSO ₹58 000*",
+  "SWIFT ₹55 000*",
+  "WAGONR ₹55 000*",
+  "CELERIO ₹54 000*",
+  "E-book at www.marutisuzuki.com or visit nearest dealership",
+  "Bulk order emails: nikhil.kumar3@maruti.co.in (NCR); abhinav.verma2@maruti.co.in (Delhi)",
+  "List of Maruti Suzuki authorised dealers in Delhi with phone numbers"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MARUTI SUZUKI ARENA",
+   "score": 0.9759,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "ऑफ़र्स जो बनाएंगे आपके",
+   "score": 0.9465,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "मॉनसून सीज़न को यादगार.",
+   "score": 0.9673,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "मारुत सुजुकी एरीना कार को घर लाए और आकर्षक ऑफ़र्स का आनंद उठाए.",
+   "score": 0.949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "WAGONR",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "CELERIO",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "S.PRESSO",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "SWIFT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "महा बचत",
+   "score": 0.9568,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "ALTO K10",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "S-PRESSO",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "SWIFT",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "WAGONR",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "CELERIO",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "₹59 000*",
+   "score": 0.9352,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "र58 000*",
+   "score": 0.9801,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "र55 000*",
+   "score": 0.9507,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "₹55 000*",
+   "score": 0.927,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "₹54000*",
+   "score": 0.9187,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ALTO",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "S.PRESSO",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "SWIFT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "WAGONR CELERIO",
+   "score": 0.9712,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "K10",
+   "score": 0.9957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership | For bulk orders, mail at: nikhil.kumar3@maruti.co.in (NCR); abhinav.verma2@maruti.co.in (Delhi)",
+   "score": 0.9943,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 26,
+   "text": "(MUNDKA) PH: 9650445555, COMPETENT, (DWARKA) PH: 9582797879, MAGIC AUTO, (PALAM DABRI ROAD) PH: 8929400501, COMPETENT, (SHIVAJI MARG) PH: 9811477799, RANA MOTORS, (JANAKPURI) PH: 9999577776, D.D. MOTORS, (MAYAPURI) PH: 9999003888. JAGMOHAN",
+   "score": 0.994,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 27,
+   "text": "MARUTI SUZUKI AUTHORISED DEALERS: WEST DELHI: MAGIC AUTO, (SEC-20, DWARKA) PH: 8929268146. T.R. SAWHNEY, (RAJOURI GARDEN) PH: 9873781333. COMPETENT, (NAJAFGARH) PH: 9582797763. MAGIC AUTO, (DWARKA SEC-13) PH: 8929268144. AAA VEHICLEADES,",
+   "score": 0.993,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "AUTOMOTIVES, (NARAINA) PH. 9254028648. VIPUL MOTORS, (PASCHIM VIHAR) PH: 8130093031. EAST DELHI: FAIRDEAL WHEELS, (BHAJANPURA) PH: 7290029025. FAIR DEAL WHEELS, (SHAHDARA) PH: 8448296615. COMPETENT, (GAZIPUR) PH: 8377007977. BAGGA LINK,",
+   "score": 0.9859,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 29,
+   "text": "(PATPARGANJ) PH: 9818199370. T.R. SAWHNEY, (GOKULPUR) PH: 9999399150. MAGIC AUTO, (PREET VIHAR) PH: 8929400502. SOUTH DELHI: ROHAN, (MATHURA ROAD) PH: 9560036262. T.R. SAWHNEY, (NEHRU PLACE) PH: 9999563333. COMPETENT, (LAJPAT NAGAR) PH: 9582797810.",
+   "score": 0.9931,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 30,
+   "text": "AAA VEHICLEADES, (MALVIYA NAGAR) PH: 9971500011. PREM MOTORS, (MAHIPALPUR) PH: 8745887458. D.D. MOTORS, (OKHLA PH-1) PH: 9999003888. BAGGA LINK, (KOTLA) PH: 8826892666. RANA MOTORS, (SAFDARJUNG) PH: 26712222. CENTRAL DELHI: MAGIC AUTO, (KAROL",
+   "score": 0.9883,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "BAGH) PH: 8929268145. COMPETENT, (C.P) PH: 9582797749. T.R. SAWHNEY, (DARYAGANJ) PH: 9999399157. NORTH DELHI: SAYA, (AZADPUR) PH: 9999369725. DD MOTORS, (NARELA) PH: 9999003888. T.R. SAWHNEY, (PITAMPURA) PH: 9582263509. D.D. MOTORS, (PEERAGARHI) PH:",
+   "score": 0.9914,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 32,
+   "text": "9999003888. T.R. SAWHNEY, (BADLI) PH: 9999324333. RANA MOTORS, (PRASHANT VIHAR) PH: 9711507777. D.D. MOTORS, (WAZIRPUR) PH: 9999003888. SHREYASH, (PITAMPURA) PH:7838555085. RANA MOTORS, (GT Karnal Road) PH: 9873477733. SHREYASH, (GT KARNAL",
+   "score": 0.9905,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "ROAD)PH:7838555063. FAIRDEAL WHEELS, (BUDH VIHAR) PH. 8448296615.",
+   "score": 0.9784,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 24.79,
+  "extract": 58.96
+ }
+}

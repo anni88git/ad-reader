@@ -1,0 +1,831 @@
+{
+ "image": "d246_Dainik_Bhaskar_46.jpg",
+ "fields": {
+  "brand": {
+   "value": "MET CITY",
+   "evidence": "MET CITY",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Amity University"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 41,
+     "name": "Amity University",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "SCO for Lease",
+   "evidence": "SCO for Lease!",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Reliance MET City",
+   "evidence": "Reliance MET City",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no exact record; closest: Reliance Digital"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 15,
+     "name": "Reliance Digital",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "Unlock the Potential of Your Business with Our High-Value SCO for Lease!",
+   "evidence": "Unlock the Potential of Your Business with Our High-Value SCO for Lease!",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Growth is Life",
+   "evidence": "Growth is Life",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Inviting India's Leading Food & Beverage Brands"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Inviting India's Leading Food & Beverage Brands MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+   "evidence": "Inviting India's Leading Food & Beverage Brands MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "For Enquiries:",
+   "evidence": "For Enquiries:",
+   "english": "For Enquiries: Call +91 99104 88663 or 1800 891 1800, email contact.met@ril.com, or visit www.modeleconomictownship.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": "SCO for Lease!",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": "SCO for Lease!",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://goo.gl/maps/9FUkaGWRUHwmAMkZ8)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://goo.gl/maps/9FUkaGWRUHwmAMkZ8",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "MET City SCO for Lease",
+    "Inviting India's Leading Food & Beverage Brands",
+    "MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+    "2000+ Residential Customers | 450+ Companies",
+    "Competitive Advantage: Strategically located on SH15A",
+    "Multi-model connectivity through KMP, Dwarka E-way and Farukhnagar rail link",
+    "30,000+ employment generated and growing",
+    "Project Plan Area 8250 Acres"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "MET City, a Reliance Group Company, is leasing high-value SCO (Shop-cum-Office) spaces at MET Highway Mart, Sector-07, SH15A, Reliance MET City, inviting India's leading food and beverage brands. The project offers 2000+ residential customers, 450+ companies, competitive advantage, multi-model connectivity, and 30,000+ employment. Contact +91 99104 88663 or 1800 891 1800, email contact.met@ril.com, or visit www.modeleconomictownship.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9910488663",
+     "kind": "mobile",
+     "as_printed": "+91 99104 88663"
+    },
+    "evidence": "+91 99104 88663",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18008911800",
+     "kind": "toll_free",
+     "as_printed": "1800 891 1800"
+    },
+    "evidence": "1800 891 1800",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.modeleconomictownship.com",
+    "evidence": "www.modeleconomictownship.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "contact.met@ril.com",
+    "evidence": "contact.met@ril.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+    "evidence": "MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "Competitive Advantage",
+    "evidence": "COMPETITIVE ADVANTAGE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Strategically located on SH15A",
+    "evidence": "Strategically located on SH15A",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Multi-model connectivity through KMP, Dwarka E-way and Farukhnagar rail link",
+    "evidence": "Multi-model connectivity through KMP, Dwarka E-way and Farukhnagar rail link",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "30,000+ employment generated and growing",
+    "evidence": "30,000+ employment generated and growing",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Project Plan Area 8250 Acres",
+    "evidence": "Project Plan Area 8250 Acres",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "DTCP License No. 16 of 2018, 64 of 2022",
+    "evidence": "DTCP License No. 16 of 2018, 64 of 2022",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "HRERA Project Registration No. HRERA-PKL-JR-234-2021 Dated 18.03.2021",
+    "evidence": "HRERA Project Registration No. HRERA-PKL-JR-234-2021 Dated 18.03.2021",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "MET City",
+   "evidence": "MET CITY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+   "evidence": "MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "configuration": {
+   "value": "SCO for Lease",
+   "evidence": "SCO for Lease!",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "rera_number": {
+   "value": "HRERA-PKL-JR-234-2021",
+   "evidence": "HRERA Project Registration No. HRERA-PKL-JR-234-2021 Dated 18.03.2021",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "amenities": {
+   "value": [
+    {
+     "value": "Multi-model connectivity through KMP, Dwarka E-way and Farukhnagar rail link",
+     "evidence": "Multi-model connectivity through KMP, Dwarka E-way and Farukhnagar rail link",
+     "english": "Multi-model connectivity through KMP, Dwarka E-way and Farukhnagar rail link"
+    }
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.35,
+   "status": "missing",
+   "reasons": [
+    "model gave no evidence quote",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "MET City SCO for Lease",
+  "Inviting India's Leading Food & Beverage Brands",
+  "MET Highway Mart, Sector- 07, SH15A, Reliance MET City",
+  "2000+ Residential Customers | 450+ Companies",
+  "Competitive Advantage: Strategically located on SH15A",
+  "Multi-model connectivity through KMP, Dwarka E-way and Farukhnagar rail link",
+  "30,000+ employment generated and growing",
+  "Project Plan Area 8250 Acres"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "A RELIANCE GROUP COMPANY",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "MET CITY",
+   "score": 0.9757,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Growth is Life",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Unlock",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "the Potential of Your Business with",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Our High-Value",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "SCO for Lease!",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Inviting India's Leading",
+   "score": 0.9969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Food & Beverage Brands",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "MET Highway Mart, Sector- 07, SH15A,",
+   "score": 0.9857,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Reliance MET City",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "2000+ Residential Customers | 450+ Companies",
+   "score": 0.9908,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "COMPETITIVE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Strategically",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Multi-model connectivity",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "30,000+ employment generated",
+   "score": 0.986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Project Plan Area",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "located on SH15A",
+   "score": 0.9767,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "through KMP, Dwarka E-way",
+   "score": 0.9924,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "and growing",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "8250 Acres",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "ADVANTAGE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "and Farukhnagar rail link",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "For Enquiries:",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "+91 99104 88663",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "1800 891 1800",
+   "score": 0.9937,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "contact.met@ril.com",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "www.modeleconomictownship.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "Scan for",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "Location",
+   "score": 0.9722,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "About Company: Model Economic ownship Limted, Registered Oce: 3rd Floor 77-B, IFFCO Roed, Sector 18, Curugrom-1015, Haryana, Inda | CN: U70109HR200SPL03641 Tel. No. +91-124-352-7369 webslte: .modeleconomictowmshp.com",
+   "score": 0.771,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "Disclalmer Contet hero a nate for gnerlnfotion y ad do nt conctte y ofe for ale o mMtan to pucte ay plol in Mr MEt rees it gt to che a a of thee the rt of devlomnt at any pot f ti",
+   "score": 0.5941,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "Statutory Disclosure: DTCP License No. 16 of 2018, 64 of 2022. HRERA Project Registration No. HRERA-PKL-JR-234-2021 Dated 18.03.2021 granted by Haryena Real Eatate Regulotory Authority, Panchkulo, Webaite: www,haryenarere.gov.In",
+   "score": 0.8641,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 34,
+   "text": "sale deed and utliy agreamonts. drafts of which are available on our wobsita, before applying for allatment of a piot in our industrial oolony.",
+   "score": 0.9242,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.17,
+  "extract": 21.51
+ }
+}

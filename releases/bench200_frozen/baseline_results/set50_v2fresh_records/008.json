@@ -1,0 +1,1529 @@
+{
+ "image": "008_tata_402.jpg",
+ "fields": {
+  "brand": {
+   "value": "Tata Motors",
+   "evidence": "TATA MOTORS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Tata Motors' (#4)"
+   ],
+   "matched_id": 4,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 4,
+     "name": "Tata Motors",
+     "score": 100.0
+    },
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 73.7
+    },
+    {
+     "id": 22,
+     "name": "TVS Motor",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Safari",
+   "evidence": "SAFARI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Safari' (#43)"
+   ],
+   "matched_id": 43,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 43,
+     "name": "Safari",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Tata Motors",
+   "evidence": "TATA MOTORS",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: ORANGE AUTO / TEJASWI AUTOMOBILES / MALIK CARS / VENKATARAMANA MOTORS / SELECT CARS",
+    "exact match to existing record 'Tata Motors Ltd' (#7)",
+    "record #7 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 7,
+   "candidates": [
+    {
+     "id": 7,
+     "name": "Tata Motors Ltd",
+     "score": 100.0
+    },
+    {
+     "id": 4,
+     "name": "Kia Jaipur Motors",
+     "score": 66.6
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "Rule The Roads. Reclaim Your Life.",
+   "evidence": "Rule The Roads. Reclaim Your Life.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "3+2 సంవత్సరాలు",
+   "evidence": "3+2 సంవత్సరాలు",
+   "english": "3+2 year warranty",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (17%); telugu text is hard for OCR"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "book tata safari",
+   "evidence": "book tata safari",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English",
+    "Telugu"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Telugu: OCR found no telugu text",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 1499000,
+   "evidence": "₹14.99 లక్షలు*",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (1,499,000)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Tata Safari SUV",
+    "Price starts at ₹14.99 lakh",
+    "Scan QR to book",
+    "Toll-free number 1800 209 8282",
+    "Website cars.tatamotors.com/suv/safari",
+    "Dealers in Hyderabad and Secunderabad"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Tata Motors advertises the Safari SUV with a starting price of ₹14.99 lakh ex-showroom Delhi. Readers can book via QR code, call 1800 209 8282, or visit listed dealers in Hyderabad and Secunderabad.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002098282",
+     "kind": "toll_free",
+     "as_printed": "1800 209 82 82"
+    },
+    "evidence": "Safari24x7:1800 209 82 82",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762918",
+     "kind": "mobile",
+     "as_printed": "7303762918"
+    },
+    "evidence": "Erragadda: 7303762918;",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762916",
+     "kind": "mobile",
+     "as_printed": "7303762916"
+    },
+    "evidence": "Kharkana: 7303762916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762978",
+     "kind": "mobile",
+     "as_printed": "7303762978"
+    },
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762965",
+     "kind": "mobile",
+     "as_printed": "7303762965"
+    },
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762959",
+     "kind": "mobile",
+     "as_printed": "7303762959"
+    },
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762960",
+     "kind": "mobile",
+     "as_printed": "7303762960"
+    },
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762949",
+     "kind": "mobile",
+     "as_printed": "7303762949"
+    },
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7795664776",
+     "kind": "mobile",
+     "as_printed": "7795664776"
+    },
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762942",
+     "kind": "mobile",
+     "as_printed": "7303762942"
+    },
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7795664768",
+     "kind": "mobile",
+     "as_printed": "7795664768"
+    },
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762920",
+     "kind": "mobile",
+     "as_printed": "7303762920"
+    },
+    "evidence": "Nagole: 7303762920; Chandanagar: 7303762917; Begumpet: 8484929189",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762917",
+     "kind": "mobile",
+     "as_printed": "7303762917"
+    },
+    "evidence": "Nagole: 7303762920; Chandanagar: 7303762917; Begumpet: 8484929189",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8484929189",
+     "kind": "mobile",
+     "as_printed": "8484929189"
+    },
+    "evidence": "Nagole: 7303762920; Chandanagar: 7303762917; Begumpet: 8484929189",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9000617474",
+     "kind": "mobile",
+     "as_printed": "9000617474"
+    },
+    "evidence": "Financial District (Near Q City): 9000617474",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7303762971",
+     "kind": "mobile",
+     "as_printed": "7303762971"
+    },
+    "evidence": "Zaheerabad, Siddipet: 7303762971",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 1499000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "ప్రారంభ ధర:",
+     "item": "Safari",
+     "as_printed": "₹14.99 లక్షలు*"
+    },
+    "evidence": "₹14.99 లక్షలు*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (1,499,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 1499000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Starting price:",
+     "item": "Safari",
+     "as_printed": "₹14.99 lakh*"
+    },
+    "evidence": "₹14.99 lakh*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (1,499,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "cars.tatamotors.com/suv/safari",
+    "evidence": "cars.tatamotors.com/suv/safari",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Erragadda",
+    "evidence": "Erragadda: 7303762918;",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Kharkana",
+    "evidence": "Kharkana: 7303762916",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Malakpet",
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Banjara Hills",
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Himayathnagar",
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Bowenpally",
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Boduppal",
+    "evidence": "Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Gachibowli",
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Vanastalipuram",
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ECIL, Kushaiguda",
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Vikarabad",
+    "evidence": "Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Nagole",
+    "evidence": "Nagole: 7303762920; Chandanagar: 7303762917; Begumpet: 8484929189",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Chandanagar",
+    "evidence": "Nagole: 7303762920; Chandanagar: 7303762917; Begumpet: 8484929189",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Begumpet",
+    "evidence": "Nagole: 7303762920; Chandanagar: 7303762917; Begumpet: 8484929189",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Financial District (Near Q City)",
+    "evidence": "Financial District (Near Q City): 9000617474",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Zaheerabad, Siddipet",
+    "evidence": "Zaheerabad, Siddipet: 7303762971",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "iRA connected car technology",
+    "evidence": "iRA",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Kryotec 150 engine",
+    "evidence": "KRYOTEC 150",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (80%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "6-speed automatic transmission",
+    "evidence": "6 SPEED AUTOMATIC",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (47%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JBL 9 speaker audio system with 22.35 cm subwoofer",
+    "evidence": "JBL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "3+2 year warranty",
+    "evidence": "3+2 సంవత్సరాలు",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (17%); telugu text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "5 star safety rating",
+    "evidence": "5 STAR SAFETY",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (54%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "ORANGE AUTO",
+     "area": "Erragadda",
+     "city": null,
+     "phones": [
+      "7303762918",
+      "7303762916"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ORANGE AUTO Erragadda: 7303762918; Kharkana: 7303762916",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "TEJASWI AUTOMOBILES",
+     "area": "Hi Tech City, Madhapur, Sangareddy, Zaheerabad, Siddipet",
+     "city": null,
+     "phones": [
+      "7303762971"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "TEJASWI AUTOMOBILES Hi Tech City, Madhapur, Sangareddy, Zaheerabad, Siddipet: 7303762971",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MALIK CARS",
+     "area": "Malakpet, Banjara Hills, Himayathnagar, Bowenpally, Boduppal",
+     "city": null,
+     "phones": [
+      "7303762978",
+      "7303762965",
+      "7303762959",
+      "7303762960"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MALIK CARS Malakpet: 7303762978; Banjara Hills: 7303762965; Himayathnagar: 7303762959; Bowenpally: 7303762960; Boduppal: 7303762978",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VENKATARAMANA MOTORS",
+     "area": "Gachibowli, Vanastalipuram, ECIL Kushaiguda, Vikarabad",
+     "city": null,
+     "phones": [
+      "7303762949",
+      "7795664776",
+      "7303762942",
+      "7795664768"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VENKATARAMANA MOTORS Gachibowli: 7303762949; Vanastalipuram: 7795664776; ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SELECT CARS",
+     "area": "Nagole, Chandanagar, Begumpet, Financial District (Near Q City)",
+     "city": null,
+     "phones": [
+      "7303762920",
+      "7303762917",
+      "8484929189",
+      "9000617474"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SELECT CARS Nagole: 7303762920; Chandanagar: 7303762917; Begumpet: 8484929189 Financial District (Near Q City): 9000617474",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "transmission": {
+   "value": "6 SPEED AUTOMATIC",
+   "evidence": "6 SPEED AUTOMATIC",
+   "english": "6-speed automatic",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (47%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "engine": {
+   "value": "KRYOTEC 150",
+   "evidence": "KRYOTEC 150",
+   "english": "Kryotec 150",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (80%)",
+    "numbers not found in OCR text"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "safety_features": {
+   "value": "5 STAR SAFETY",
+   "evidence": "5 STAR SAFETY",
+   "english": "5 star safety",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (54%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_type": {
+   "value": "SUV",
+   "evidence": "cars.tatamotors.com/suv/safari",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Tata Safari SUV",
+  "Price starts at ₹14.99 lakh",
+  "Scan QR to book",
+  "Toll-free number 1800 209 8282",
+  "Website cars.tatamotors.com/suv/safari",
+  "Dealers in Hyderabad and Secunderabad"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "TATA MOTORS",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Cognecting Asptrations",
+   "score": 0.8946,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "SAFARI",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Rule The Roads. Reclaim Your Life.",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "SAFARI",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "GRPRGI",
+   "score": 0.6004,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "0 : 14.99 še",
+   "score": 0.7862,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "Ω",
+   "score": 0.6826,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "iRA",
+   "score": 0.8868,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "5URES",
+   "score": 0.5017,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "JBL",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "RC",
+   "score": 0.9839,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "KRYOTEC",
+   "score": 0.97,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "2005 0-6,05 (056",
+   "score": 0.5629,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "#wpg no iRA sag",
+   "score": 0.5824,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "ea55 65 0508 μ056",
+   "score": 0.5019,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "Safaridi&:dro3odaot",
+   "score": 0.8286,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "Dossoogos 5 0% eb",
+   "score": 0.5457,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "058 08o5 858",
+   "score": 0.5211,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "Kobo2ow a",
+   "score": 0.4774,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "o m 22.35cm 5",
+   "score": 0.7138,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "QR 5'8 m5 3x4.",
+   "score": 0.6574,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "4(300) 66)",
+   "score": 0.4531,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "55806",
+   "score": 0.6419,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "=53065 290 5 9 J8L0 545",
+   "score": 0.5209,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "cars.tatamotors.com/suv/safariso8",
+   "score": 0.9297,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Safar24x7:18002098282",
+   "score": 0.966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "book tata safari",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "Terms and Conditions apply. Price ex-showroom Deihi. Visit the nearest showroom for more information. Specifications & Features may vary across verients and are sebject to change without prioc information. Colours may not match the actual colours due to printing limitations. Frea first year RA ap subscriptioa. Renewal charges apply",
+   "score": 0.9424,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 30,
+   "text": "post 1 year or 4.2GB data consumption, whichever ends earlier. JBL. is a registered tredemark. All interested prospects are advised to check and understand the vehicle features befere booking or purchasing any vehicte.",
+   "score": 0.966,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "ORANGE AUTO",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "TEJASWI AUTOMOBILES",
+   "score": 0.9961,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "MALIK CARS",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "VENKATARAMANA MOTORS",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "SELECT CARS",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Erragadda: 7303762918;",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "Hi Tech City, Madhapur, Sangareddy,",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Malakpet: 7303762978; Banjara Hills: 7303762965;",
+   "score": 0.9956,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Gachibowli: 7303762949; Vanastalipuram: 7795664776;",
+   "score": 0.9923,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "Nagole: 7303762920; Chandanagar: 7303762917;",
+   "score": 0.9844,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "Himayathnagar: 7303762959; Bowenpally: 7303762960;",
+   "score": 0.9873,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "ECIL, Kushaiguda: 7303762942; Vikarabad: 7795664768",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "Begumpet: 8484929189",
+   "score": 0.9762,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "Kharkana: 7303762916",
+   "score": 0.9777,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "Zaheerabad, Siddipet: 7303762971",
+   "score": 0.9867,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "Boduppal: 7303762978; Financial District (Near Q City): 9000617474",
+   "score": 0.9955,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "Service: Kondapur, ECiL, Tolichowki, Bowenpaily, Hi-tech City, Sangareddy, Zaheerabad, Siddipet, Sanathnagar, Uppal, Kompally, Tadbund, Secunderabad, Hafeezpet",
+   "score": 0.973,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: Telugu price text '₹14.99 లక్షలు*' read from blue banner; exact Telugu script verified from image.",
+  "model note: Dealer names and phone numbers at bottom are in English script; service locations listed without phones.",
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 27.55,
+  "extract": 71.59
+ }
+}

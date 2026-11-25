@@ -1,0 +1,20 @@
+# --- OCR ---
+# RapidOCR runs the PaddleOCR (PP-OCR) detection/recognition models through Microsoft ONNX Runtime.
+# Used locally because Windows Smart App Control blocks PaddlePaddle's unsigned native DLL.
+# Full PaddleOCR is installed on Kaggle instead (see requirements-kaggle.txt).
+rapidocr>=3.0
+onnxruntime>=1.18
+opencv-python-headless>=4.9
+Pillow>=10.0
+
+# --- VLM client (OpenAI-compatible: DashScope / vLLM on Kaggle) ---
+openai>=1.40
+
+# --- Schema, validation, matching ---
+pydantic>=2.6
+rapidfuzz>=3.6
+python-dotenv>=1.0
+
+# --- App & evaluation ---
+streamlit>=1.35
+pandas>=2.1

@@ -1,0 +1,833 @@
+{
+ "image": "e027_Prajavani_437.jpg",
+ "fields": {
+  "brand": {
+   "value": "Uttarakhand Tourism",
+   "evidence": "Uttarakhand Tourism",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "not found in the ad",
+    "first model gave no brand; second model's brand is printed in the ad (OCR)",
+    "v4: switched value - kept in review",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Uttarakhand Tourism Development Board",
+   "evidence": "ಉತ್ತರಖಾಂಡ ಟೂರಿಸಂ ಡೆವಲಪಮೆಂಟ್ ಬೋರ್ಡ್",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (74%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ಸಹಜ್, ಸುಖದ, ಸುಗಮವಾದ ಚಾರ್ ಧಾಮ್ ಯಾತ್ರೆ",
+   "evidence": "ಸಹಜ್, ಸುಖದ, ಸುಗಮವಾದ ಚಾರ್ ಧಾಮ್ ಯಾತ್ರೆ",
+   "english": "Natural, comfortable, convenient Char Dham Yatra",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (63%)",
+    "second model disagrees - suggestion: ಸಹಜ್, ಸುಭಾಷ್, ಸುಗಮೊಮ್ಮೆ ಸುಮ್ಮರ್ತ್ ಜಾರ್ ದಾಸ್ ಯಾತ್ರೆ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "ಎಲ್ಲಾ ಧಾರ್ಮಿಕಗಳ ಆನ್‌ಲೈನ್ ನೋಂದಣೆಯು ಈಗ ತರಬೇತಿ green card.uk.gov.in",
+   "evidence": "ಎಲ್ಲಾ ಧಾರ್ಮಿಕಗಳ ಆನ್‌ಲೈನ್ ನೋಂದಣೆಯು ಈಗ ತರಬೇತಿ green card.uk.gov.in",
+   "english": "Register online for all religious sites at green card.uk.gov.in",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (62%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: public_notice"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Travel & Hospitality",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Government & Public Notices",
+    "category #18",
+    "record #18 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 18,
+   "candidates": [
+    {
+     "id": 18,
+     "name": "Travel & Hospitality",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Kannada",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Char Dham Yatra registration and travel information",
+    "Do's and don'ts for pilgrims",
+    "Registration and tourist care contact details",
+    "Mobile app download links",
+    "Green card online registration",
+    "Office address and official social media handles"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The Uttarakhand Tourism Development Board advertises the Char Dham Yatra, listing the four shrines (Yamunotri, Gangotri, Kedarnath, Badrinath) and Hemkund Sahib with their opening dates in 2023. It provides do's and don'ts for pilgrims, registration and tourist care phone numbers, a website, mobile app download links, green card online registration, and the board's office address in Dehradun.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8394833833",
+     "kind": "mobile",
+     "as_printed": "+91-8394833833"
+    },
+    "evidence": "+91-8394833833 (Type 'yatra' on WhatsApp)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01351364",
+     "kind": "landline",
+     "as_printed": "0135 1364"
+    },
+    "evidence": "0135 1364",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "registrationandtouristcare.uk.gov.in",
+    "evidence": "registrationandtouristcare.uk.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "greencard.uk.gov.in",
+    "evidence": "greencard.uk.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "uttarakhandtourism.gov.in",
+    "evidence": "uttarakhandtourism.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "UttarakhandTourismOfficialPage",
+    "evidence": "UttarakhandTourismOfficialPage",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "UTDBofficial",
+    "evidence": "UTDBofficial",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "uttarakhand_tourismofficial",
+    "evidence": "uttarakhand_tourismofficial",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "ದೀಪದಯಾಳ್ ಪಾದಾ ಯಾತ್ರಾ ಭವನ, ಓಎನ್ ಜೆ ಬಿಲ್ಡಿಂಗ್, ಸಬ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್, ಗವ್. ಡೂನ್, ದೇhradun",
+    "evidence": "ದೀಪದಯಾಳ್ ಪಾದಾ ಯಾತ್ರಾ ಭವನ, ಓಎನ್ ಜೆ ಬಿಲ್ಡಿಂಗ್, ಸಬ್ ಪೆಟ್ರೋಲ್ ಪಂಪ್, ಗವ್. ಡೂನ್, ದೇhradun",
+    "english": "Deep Dayal Paad Yatra Bhavan, ONJ Building, Sub Petrol Pump, Gov. Doon, Dehradun",
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence not confirmed by OCR (56%); kannada text is hard for OCR"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Char Dham Yatra registration and travel information",
+  "Do's and don'ts for pilgrims",
+  "Registration and tourist care contact details",
+  "Mobile app download links",
+  "Green card online registration",
+  "Office address and official social media handles"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ಸಹಜ್,ಸುಖದ್,ಸುಗಮೂರ್ಸುರಕತ್",
+   "score": 0.9646,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "ಚಾರ್",
+   "score": 0.8107,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "al",
+   "score": 0.76,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "Uttarakhand",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "ದಾಮ್ಯಾತೈ",
+   "score": 0.9964,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "Simpsly Heen!",
+   "score": 0.6227,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "d0222023",
+   "score": 0.727,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "ಮಾರಂಭದೆದನಾಂಕಲಲ ಬವಲ್ಂಬ",
+   "score": 0.6858,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "ಯಮುದ.",
+   "score": 0.7824,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "nortord",
+   "score": 0.6736,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "ಕೇದಾರ್ ಎದ",
+   "score": 0.6893,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "ಬದೃಗಥ",
+   "score": 0.6606,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "ಹೇಮಕುಂಡ ಸಾದ",
+   "score": 0.8776,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": ":202023",
+   "score": 0.8445,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "0:252023",
+   "score": 0.7073,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 16,
+   "text": "zdod Bmao:27 2023",
+   "score": 0.6914,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "ERME",
+   "score": 0.6586,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "ಮಾಡಬೇಕಾದವುಗಳು",
+   "score": 0.9485,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "ಮಾಡಬಾರದವುಗಳು",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "Aeozmea mo (orarouk)La",
+   "score": 0.4797,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "Deas assmdeecaabe",
+   "score": 0.485,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "ತೆಯುಗಸವೇಕು",
+   "score": 0.6411,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "ತಮ Ea ಗs. ಯnವ eಾದರುದರ. Aabe ತೊooಗ eತ ಗಳನ. ಯ. o.",
+   "score": 0.5487,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "dalbeu derbede cot dz acrie zeuar e",
+   "score": 0.5435,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "ತಯುಗವtದೆ",
+   "score": 0.5675,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "Aebadd atncttgd,oudanoddaeus zuSouRod",
+   "score": 0.4536,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "deroddcerddd adoof",
+   "score": 0.5001,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "Da್f Wil aeacdnsale Sold aet aeaealasy.",
+   "score": 0.58,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "ಕೇಳಕೊಂಡುರುಗುವಕವಂಕೃತವೆಗಳೆ",
+   "score": 0.701,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "westedtieß.",
+   "score": 0.6086,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "ನೋಂದಣೆಯಎಧಾನಗಳು",
+   "score": 0.9846,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "ಪೃಮುಖಮಾಹತಿ",
+   "score": 0.8845,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "registrationandtouristcare.uk.gov.in",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "ದಾವುಗಳಲಿದತrನಕಾಗಿಎಲಾಯಾಗಾ",
+   "score": 0.8837,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 35,
+   "text": "+91-8394833833 (Type 'yatra'on WhatsApp)",
+   "score": 0.983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "ಎಗಗಳಿಗೆನೋಂದವಯುಕಡಾಯವಾಗಿರುತದೆ",
+   "score": 0.901,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "Bd(e)ow 0135 1364",
+   "score": 0.8018,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "ದಯವಟೃನೋಂದಣೆಯ ಸಮಯದಲೃಸರಿಯಾದ",
+   "score": 0.8961,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "日",
+   "score": 0.9785,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 40,
+   "text": "touristcareuttarakhand edafcloraa",
+   "score": 0.8433,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "ವೂಬೈಲ್ ನಂಬರ್ಗಳನುನಡಿ",
+   "score": 0.8295,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "Google play",
+   "score": 0.9874,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "AppStore",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "Dounisad as the",
+   "score": 0.8966,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "ಎಲಾಯಾಾಆಗಳುಯಾತೆಯನುೃಪಾೃರಂಭಿಸುವವೂದಲು",
+   "score": 0.9002,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "ವೈದೃಕೀಯವರೀಕೆಗಒಳಗಾಗಲುಎನಂಳಿಸಲಾಗುತದ",
+   "score": 0.9265,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "ಭೂಪೃದೇಶಹಾಗೂಹವಾಮಾನಕೈಒಗಕೊಳಲು",
+   "score": 0.9797,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "ಮೃಪೈಯಾಣವನುೃಯೋಜಸ್",
+   "score": 0.8997,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 49,
+   "text": "ನಮವಾದನದನೋಂದಣಯನು",
+   "score": 0.8889,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 50,
+   "text": "greencard.uk.gov.in",
+   "score": 0.9625,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "ಎಲಾ.ಧಾವುಗಳಗಾಗ್ಆನ್ಲೈನ್.ನೋಂದಣೆಯುಈಗತರದದ",
+   "score": 0.944,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 52,
+   "text": "ಉತರಖಾಂಡಿಟೂಂಸಮ್ಡೆವಲಪಮಂಟ್ಬೋಡ್9",
+   "score": 0.9563,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "ಪo. ದೀನದಯಾಳ್ಲುಪಾದಾೃಯಪಯ್ಟನಭವನ.ಓಎನ್ಜಬ ತಲಪಾ.ಡ್ ಸಬಪ,ಗತ9 tಾಟ್,ಡಹಾ.ಡೂನ್.",
+   "score": 0.7585,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "uttarakhandtourism.gov.in UttarakhandTourismOfficlalPage",
+   "score": 0.9622,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "UTDBofficialfuttarakhand_tourismofficial",
+   "score": 0.9839,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (460x703); small print may be unreadable"
+ ],
+ "record_flags": [
+  "model note: The Kannada text in the body sections is partially blurred; only clearly legible lines were transcribed.",
+  "model note: The address line combines Kannada and English words as printed; exact Kannada spelling may be imperfect due to image resolution.",
+  "model note: The call-to-action line mixes Kannada and English; the English portion 'green card.uk.gov.in' is taken as printed.",
+  "18 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 34.09,
+  "extract": 18.64
+ }
+}

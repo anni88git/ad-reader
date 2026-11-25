@@ -1,0 +1,614 @@
+{
+ "image": "e023_Prajavani_576.jpg",
+ "fields": {
+  "brand": {
+   "value": "DS-MAX",
+   "evidence": "DS-MAX",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "not found in the ad",
+    "first model gave no brand; second model's brand is printed in the ad (OCR)",
+    "v4: switched value - kept in review",
+    "no exact record; closest: Sparx"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 114,
+     "name": "Sparx",
+     "score": 60.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "DS-MAX SHRESTA",
+   "evidence": "DS-MAX SHRESTA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "BOOK YOUR DREAM HOME IN BANGALORE'S MOST HAPPENING LOCATION",
+   "evidence": "BOOK YOUR DREAM HOME IN BANGALORE'S MOST HAPPENING LOCATION",
+   "english": "Book your dream home in Bangalore's most happening location",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "a larger printed line exists ('(Rs. 4,000 / Sq. Ft.)', 1.6x the headline size) - check which line is the main headline",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "THANISANDRA - BELLAHALLI",
+   "evidence": "THANISANDRA - BELLAHALLI",
+   "english": "Thanisandra - Bellahalli",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: JUST 10 MINS. FROM MANYATA TECH PARK"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "JUST 10 MINS. FROM MANYATA TECH PARK LUXURIOUS 2 & 3-BHK APARTMENTS Rs. 37.6 - 52.67 Lacs* (Rs. 4,000 / Sq. Ft.) BBMP APPROVED",
+   "evidence": "JUST 10 MINS. FROM MANYATA TECH PARK LUXURIOUS 2 & 3-BHK APARTMENTS Rs. 37.6 - 52.67 Lacs* (Rs. 4,000 / Sq. Ft.) BBMP APPROVED",
+   "english": "Just 10 mins. from Manyata Tech Park Luxurious 2 & 3-BHK apartments Rs. 37.6 - 52.67 Lacs* (Rs. 4,000 / Sq. Ft.) BBMP approved",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (99%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "BOOK YOUR DREAM HOME IN BANGALORE'S MOST HAPPENING LOCATION",
+   "evidence": "BOOK YOUR DREAM HOME IN BANGALORE'S MOST HAPPENING LOCATION",
+   "english": "Book your dream home in Bangalore's most happening location",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": "LUXURIOUS 2 & 3-BHK APARTMENTS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": "LUXURIOUS 2 & 3-BHK APARTMENTS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 3760000,
+   "evidence": "Rs. 37.6 - 52.67 Lacs*",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (38)",
+    "several numbers in price text",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees",
+    "amount re-read from 'Rs. 37.6 - 52.67 Lacs*' as 3,760,000 (was 38)",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Luxurious 2 & 3-BHK apartments in Thanisandra - Bellahalli",
+    "Price Rs. 37.6 - 52.67 Lacs (Rs. 4,000 / Sq. Ft.)",
+    "Just 10 mins. from Manyata Tech Park",
+    "BBMP approved",
+    "Call 8880 003 003",
+    "Visit www.dsmaxproperties.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "DS-MAX SHRESTA offers luxurious 2 & 3-BHK apartments in Thanisandra - Bellahalli, Bangalore, just 10 mins. from Manyata Tech Park, priced at Rs. 37.6 - 52.67 Lacs (Rs. 4,000 / Sq. Ft.), BBMP approved; call 8880 003 003 or visit www.dsmaxproperties.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8880003003",
+     "kind": "mobile",
+     "as_printed": "8880 003 003"
+    },
+    "evidence": "8880 003 003",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 38,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Rs.",
+     "item": "2 & 3-BHK apartments",
+     "as_printed": "Rs. 37.6 - 52.67 Lacs*"
+    },
+    "evidence": "Rs. 37.6 - 52.67 Lacs*",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (38)",
+     "several numbers in price text",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 4000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Rs.",
+     "item": "per square foot rate",
+     "as_printed": "(Rs. 4,000 / Sq. Ft.)"
+    },
+    "evidence": "(Rs. 4,000 / Sq. Ft.)",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (4,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.dsmaxproperties.com",
+    "evidence": "www.dsmaxproperties.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "LUXURIOUS 2 & 3-BHK APARTMENTS",
+    "evidence": "LUXURIOUS 2 & 3-BHK APARTMENTS",
+    "english": "Luxurious 2 & 3-BHK apartments",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "JUST 10 MINS. FROM MANYATA TECH PARK",
+    "evidence": "JUST 10 MINS. FROM MANYATA TECH PARK",
+    "english": "Just 10 mins. from Manyata Tech Park",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BBMP APPROVED",
+    "evidence": "BBMP APPROVED",
+    "english": "BBMP approved",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "PRM/KA/RERA/1251/309/PR/220223/005748",
+    "evidence": "PRM/KA/RERA/1251/309/PR/220223/005748",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "DS-MAX SHRESTA",
+   "evidence": "DS-MAX SHRESTA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "THANISANDRA - BELLAHALLI",
+   "evidence": "THANISANDRA - BELLAHALLI",
+   "english": "Thanisandra - Bellahalli",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "configuration": {
+   "value": "2 & 3-BHK",
+   "evidence": "LUXURIOUS 2 & 3-BHK APARTMENTS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "rera_number": {
+   "value": "PRM/KA/RERA/1251/309/PR/220223/005748",
+   "evidence": "PRM/KA/RERA/1251/309/PR/220223/005748",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Luxurious 2 & 3-BHK apartments in Thanisandra - Bellahalli",
+  "Price Rs. 37.6 - 52.67 Lacs (Rs. 4,000 / Sq. Ft.)",
+  "Just 10 mins. from Manyata Tech Park",
+  "BBMP approved",
+  "Call 8880 003 003",
+  "Visit www.dsmaxproperties.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "PRM/KA/RERA/1251/309/PR/220223/005748",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "DS",
+   "score": 0.9991,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "DS-MAXSHRESTA",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "MAX",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "BOOK YOUR DREAM HOME IN",
+   "score": 0.984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "BANGALORE'S MOST HAPPENING LOCATION",
+   "score": 0.9906,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "THANISANDRA - BELLAHALLI",
+   "score": 0.9797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "JUST 1O MINS. FROM MANYATA TECH PARK",
+   "score": 0.9597,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "LUXURIOUS 2 & 3-BHK APARTMENTS",
+   "score": 0.9714,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Rs. 37.6 - 52.67 Lacs*",
+   "score": 0.9817,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "(Rs. 4,000 / Sq. Ft.)",
+   "score": 0.9821,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "BBMP APPROVED",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Td",
+   "score": 0.6761,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "8880 003 003",
+   "score": 0.9841,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "www.dsmaxproperties.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (358x431); small print may be unreadable"
+ ],
+ "record_flags": [],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 6.3,
+  "extract": 30.29
+ }
+}

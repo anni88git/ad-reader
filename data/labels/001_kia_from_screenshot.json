@@ -1,0 +1,110 @@
+{
+  "_note": "Ground truth saved from the review tool for 001_kia_from_screenshot.jpg",
+  "_verified_by": "anirudh",
+  "_verified_at": "2026-11-24T10:28:11+00:00",
+  "_skip": [
+    "body_copy"
+  ],
+  "brand": "Kia",
+  "brand_id": 1,
+  "product": "Sorento",
+  "product_id": 1,
+  "model_variant": null,
+  "advertiser": "Allied Kia / West Coast Kia",
+  "ad_type": "dealer",
+  "category": "Automobile > Cars",
+  "category_id": 2,
+  "headline": "Superior tech and elegance, beyond the class.",
+  "sub_headline": "Movement that inspires",
+  "description": "Some journeys are best enjoyed together. The globally loved Kia Sorento brings together a world of space, luxury, safety, and comfort, with three thoughtfully designed rows. With sophisticated interiors, intelligent technology, and advanced safety, it is tuned to deliver superior drives on highways and in cities. Because the journey should feel as amazing as the destination.",
+  "body_copy": [
+    "product photo",
+    "feature list",
+    "price",
+    "QR code",
+    "dealer contacts",
+    "warranty",
+    "disclaimer"
+  ],
+  "price": 2799000,
+  "warranty": "3 Years Unlimited km Warranty Extendable up to 5 Years*",
+  "call_to_action": "Book now",
+  "language": [
+    "English"
+  ],
+  "qr_code_present": true,
+  "disclaimer_present": true,
+  "prices": [
+    {
+      "amount": 2799000,
+      "currency": "INR",
+      "kind": "price",
+      "label": "Introductory price starts at",
+      "as_printed": "₹ 27 99 000"
+    }
+  ],
+  "phones": [
+    "18001085005",
+    "9289305692",
+    "9351229009"
+  ],
+  "websites": [
+    "www.kia.com"
+  ],
+  "emails": [],
+  "social_handles": [
+    "Kia India"
+  ],
+  "addresses": [
+    "Bhuwana, Udaipur",
+    "Udaipur"
+  ],
+  "features": [
+    "Kia AI Assistant (Real-time Generative AI)",
+    "Advanced Digital IRVM",
+    "Remote Smart Parking Assist (RSPA)",
+    "Digital Key 2.0",
+    "Dial-type Shift-by-Wire Selector",
+    "Best-in-Segment Length (4 815 mm) & Width (1 900 mm)",
+    "Hybrid & Diesel Powertrains",
+    "All-Wheel Drive with Terrain Modes",
+    "6 & 7-Seater Options",
+    "ADAS Level 2+ with 30 Features & 10 Airbags",
+    "ARAI Certified Hybrid Mileage 19.6 km/l"
+  ],
+  "offers": [
+    "Assured Buyback – 70% Residual Value in 3 Years'"
+  ],
+  "dealers": [
+    {
+      "name": "Allied Kia",
+      "area": "Bhuwana",
+      "city": "Udaipur",
+      "phones": [
+        "9289305692"
+      ]
+    },
+    {
+      "name": "West Coast Kia",
+      "area": NaN,
+      "city": "Udaipur",
+      "phones": [
+        "9351229009"
+      ]
+    }
+  ],
+  "reference_numbers": [
+    "342"
+  ],
+  "category_attributes": {
+    "fuel_type": [
+      "Hybrid",
+      "Diesel"
+    ],
+    "mileage": "19.6 km/l",
+    "seating_capacity": "6 & 7-Seater",
+    "safety_features": "ADAS Level 2+ with 30 Features & 10 Airbags",
+    "buyback_or_finance": "Assured Buyback – 70% Residual Value in 3 Years'",
+    "ev_type": "Non-EV"
+  }
+}

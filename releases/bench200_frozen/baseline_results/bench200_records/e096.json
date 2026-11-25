@@ -1,0 +1,860 @@
+{
+ "image": "e096_Bank_of_Baroda_414.jpg",
+ "fields": {
+  "brand": {
+   "value": "Bank of Baroda",
+   "evidence": "Bank of Baroda",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Bank of Baroda' (#60)"
+   ],
+   "matched_id": 60,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 60,
+     "name": "Bank of Baroda",
+     "score": 100.0
+    },
+    {
+     "id": 56,
+     "name": "State Bank of India",
+     "score": 62.7
+    },
+    {
+     "id": 143,
+     "name": "Union Bank of India",
+     "score": 62.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Baroda Education Loans",
+   "evidence": "Presenting #AllInYourInterest Baroda Education Loans",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Education Loan",
+    "no products on record for Bank of Baroda"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Bank of Baroda",
+   "evidence": "Bank of Baroda",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "INSTEAD OF ASKING QUESTIONS, AN EDUCATION LOAN SHOULD GIVE YOU ANSWERS.",
+   "evidence": "INSTEAD OF ASKING QUESTIONS,\nAN EDUCATION LOAN SHOULD\nGIVE YOU ANSWERS.",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "a larger printed line exists ('बैक ऑफ़ बड़ौदा', 1.6x the headline size) - check which line is the main headline",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Presenting #AllInYourInterest Baroda Education Loans",
+   "evidence": "Presenting #AllInYourInterest Baroda Education Loans",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "When you are set to conquer the world, nothing should stop you. That's why Bank of Baroda has education loans that come with really great features. From attractive interest rates to a longer payment period, these loans have everything that will help you go places.",
+   "evidence": "When you are set to conquer the world, nothing should stop you. That's\nwhy Bank of Baroda has education loans that come with really great\nfeatures. From attractive interest rates to a longer payment period,\nthese loans have everything that will help you go places.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Give a missed call*: 846 700 1122",
+   "evidence": "Give a missed call*: 846 700 1122",
+   "english": "Give a missed call on 846 700 1122",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "Bank of Baroda",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: service_provider"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Banking & Finance",
+   "evidence": "Bank of Baroda",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Education",
+    "category #12",
+    "record #12 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 12,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Banking & Finance",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Baroda Education Loans",
+    "interest rate 8.40% p.a. for study in India",
+    "interest rate 9.65% p.a. for study abroad",
+    "collateral free loans up to 40 lakhs for study in India",
+    "longer repayment period",
+    "transfer existing education loans",
+    "missed call number 846 700 1122",
+    "city contact numbers listed"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Bank of Baroda offers education loans with attractive interest rates (8.40% p.a. for study in India, 9.65% p.a. for study abroad), collateral-free loans up to 40 lakhs, longer repayment periods, and transfer of existing education loans. Give a missed call on 846 700 1122 or contact city numbers for details.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8467001122",
+     "kind": "mobile",
+     "as_printed": "846 700 1122"
+    },
+    "evidence": "Give a missed call*: 846 700 1122",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9113430520",
+     "kind": "mobile",
+     "as_printed": "9113430520"
+    },
+    "evidence": "Ahmedabad: 9113430520",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9513214539",
+     "kind": "mobile",
+     "as_printed": "9513214539"
+    },
+    "evidence": "Bangalore: 9513214539",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9629838845",
+     "kind": "mobile",
+     "as_printed": "9629838845"
+    },
+    "evidence": "Chennai: 9629838845",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9789400387",
+     "kind": "mobile",
+     "as_printed": "9789400387"
+    },
+    "evidence": "Chennai: 9789400387",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8076332781",
+     "kind": "mobile",
+     "as_printed": "8076332781"
+    },
+    "evidence": "Delhi: 8076332781",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7005136838",
+     "kind": "mobile",
+     "as_printed": "7005136838"
+    },
+    "evidence": "7005136838",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9866556944",
+     "kind": "mobile",
+     "as_printed": "9866556944"
+    },
+    "evidence": "Hyderabad: 9866556944",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9674939960",
+     "kind": "mobile",
+     "as_printed": "9674939960"
+    },
+    "evidence": "Kolkata: 9674939960",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9545999668",
+     "kind": "mobile",
+     "as_printed": "9545999668"
+    },
+    "evidence": "Mumbai: 9545999668",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9827179597",
+     "kind": "mobile",
+     "as_printed": "9827179597"
+    },
+    "evidence": "9827179597",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7400361875",
+     "kind": "mobile",
+     "as_printed": "7400361875"
+    },
+    "evidence": "7400361875",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7709977826",
+     "kind": "mobile",
+     "as_printed": "7709977826"
+    },
+    "evidence": "Pune: 7709977826",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8007352007",
+     "kind": "mobile",
+     "as_printed": "8007352007"
+    },
+    "evidence": "Pune: 8007352007",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Attractive interest rates",
+    "evidence": "From attractive interest rates to a longer payment period",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Longer payment period",
+    "evidence": "From attractive interest rates to a longer payment period",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "*Conditions Apply",
+    "evidence": "*Conditions Apply",
+    "english": "Conditions Apply",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "Collateral Free Loans up to 40 Lakhs* for study in India",
+    "evidence": "• Collateral Free Loans up to 40 Lakhs* for study in India",
+    "english": "Collateral Free Loans up to 40 Lakhs for study in India",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Longer Repayment Period",
+    "evidence": "• Longer Repayment Period",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Transfer Existing Education Loans",
+    "evidence": "• Transfer Existing Education Loans",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "product_type": {
+   "value": "Education Loans",
+   "evidence": "Baroda Education Loans",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "interest_rate": {
+   "value": "8.40% p.a. For Study in India; 9.65% p.a. For Study Abroad",
+   "evidence": "8.40% p.a. For Study in India; 9.65% p.a. For Study Abroad",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "numbers not found in OCR text"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Baroda Education Loans",
+  "interest rate 8.40% p.a. for study in India",
+  "interest rate 9.65% p.a. for study abroad",
+  "collateral free loans up to 40 lakhs for study in India",
+  "longer repayment period",
+  "transfer existing education loans",
+  "missed call number 846 700 1122",
+  "city contact numbers listed"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "बैक ऑफ़ बड़ौदा",
+   "score": 0.9072,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "Bank of Baroda",
+   "score": 0.9902,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "India's International Bank",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "INSTEAD OF ASKING QUESTIONS,",
+   "score": 0.9925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "AN EDUCATION LOAN SHOULD",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "GIVE YOU ANSWERS.",
+   "score": 0.9846,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Presenting #AllInYourInterest Baroda Education Loans",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "When you are set to conquer the world, nothing should stop you. That's",
+   "score": 0.9881,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "why Bank of Baroda has education loans that come with really great",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "@8.40%*p.a.",
+   "score": 0.9476,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "features. From attractive interest rates to a longer payment period,",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "these loans have everything that will help you go places.",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "For Study in India",
+   "score": 0.9609,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "• Collateral Free Loans up to 40 Lakhs* for study in India",
+   "score": 0.9519,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "• Longer Repayment Period • Transfer Existing Education Loans",
+   "score": 0.9643,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "@9.65%*p.a.",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Give a missed call*: 846 700 1122",
+   "score": 0.9869,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "For Study Abroad",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "*Conditions Apply",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "For further details, contact (from 9.00 am to 5.00 pm): Ahmedabad: 9113430520 I",
+   "score": 0.9825,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "Bangalore:9513214539 1 Chennai: 9629838845, 9789400387 1 Delhi: 8076332781,",
+   "score": 0.9652,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "7005136838 | Hyderabad: 9866556944 | Kolkata: 9674939960 | Mumbai: 9545999668,",
+   "score": 0.9539,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "9827179597,7400361875|Pune:7709977826,8007352007",
+   "score": 0.9929,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (568x946); small print may be unreadable"
+ ],
+ "record_flags": [
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 10.94,
+  "extract": 29.93
+ }
+}

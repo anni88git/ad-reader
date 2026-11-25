@@ -1,0 +1,830 @@
+{
+ "image": "e050_Mathrubhumi_401.jpg",
+ "fields": {
+  "brand": {
+   "value": "Kalyan Jewellers",
+   "evidence": "KALYAN JEWELLERS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Kalyan Jewellers' (#45)"
+   ],
+   "matched_id": 45,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 45,
+     "name": "Kalyan Jewellers",
+     "score": 100.0
+    },
+    {
+     "id": 44,
+     "name": "Tanishq",
+     "score": 64.5
+    },
+    {
+     "id": 47,
+     "name": "PC Jeweller",
+     "score": 64.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Kalyan Jewellers",
+   "evidence": "KALYAN JEWELLERS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "സ്വർണ്ണാഭരണങ്ങൾ വാങ്ങുക, കളയൻ ജ്വെല്ലേഴ്സിൽ പൂർത്തിയാക്കുക !",
+   "evidence": "സ്വർണ്ണാഭരണങ്ങൾ വാങ്ങുക, കളയൻ ജ്വെല്ലേഴ്സിൽ പൂർത്തിയാക്കുക !",
+   "english": "Buy gold ornaments, complete at Kalyan Jewellers!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available",
+    "second model disagrees - suggestion: സുഖകരമായതും വലിയതും, കല്യാണിക്കാലും പുതിയതും!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "അത്ഭുതം വില കളയൻ ജ്വെല്ലേഴ്സ്",
+   "evidence": "അത്ഭുതം വില കളയൻ ജ്വെല്ലേഴ്സ്",
+   "english": "Amazing price at Kalyan Jewellers",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available",
+    "second model disagrees - suggestion: വൃത്തിയിലെ വലിയ കല്യാണം ആലപ്പുഴയിലെ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "അടുത്ത കളയൻ ജ്വെല്ലേഴ്സ് കടയിൽ എത്തുക\nനിങ്ങൾക്ക് ഇഷ്ടപ്പെട്ട ആഭരണങ്ങൾ കണ്ടെത്തുക\nപിന്നെ വില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nകടയിൽ എത്തുമ്പോൾ, ആഭരണങ്ങൾ കാണുക,\nവില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nകാളയൻ ജ്വെല്ലേഴ്സ് കടയിൽ എത്തുക, പിന്നെ\nഅത്ഭുതം വില കേട്ടാൽ, വില കേട്ടാൽ\nപിന്നെ ആഭരണങ്ങൾ കടയിൽ എത്തുക\nപിന്നെ വില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nകാളയൻ ജ്വെല്ലേഴ്സ് കടയിൽ എത്തുക\nപിന്നെ വില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nഅത്ഭുതം വില കളയൻ ജ്വെല്ലേഴ്സ്",
+   "evidence": "അടുത്ത കളയൻ ജ്വെല്ലേഴ്സ് കടയിൽ എത്തുക\nനിങ്ങൾക്ക് ഇഷ്ടപ്പെട്ട ആഭരണങ്ങൾ കണ്ടെത്തുക\nപിന്നെ വില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nകടയിൽ എത്തുമ്പോൾ, ആഭരണങ്ങൾ കാണുക,\nവില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nകാളയൻ ജ്വെല്ലേഴ്സ് കടയിൽ എത്തുക, പിന്നെ\nഅത്ഭുതം വില കേട്ടാൽ, വില കേട്ടാൽ\nപിന്നെ ആഭരണങ്ങൾ കടയിൽ എത്തുക\nപിന്നെ വില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nകാളയൻ ജ്വെല്ലേഴ്സ് കടയിൽ എത്തുക\nപിന്നെ വില കേട്ടാൽ നിങ്ങൾ അത്ഭുതപ്പെടും\nഅത്ഭുതം വില കളയൻ ജ്വെല്ലേഴ്സ്",
+   "english": "Come to the nearest Kalyan Jewellers store, find the jewelry you like, and be amazed by the price.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "malayalam script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "FOR MORE DETAILS CONTACT US ON TOLL FREE NUMBER: 1800 425 7333",
+   "evidence": "FOR MORE DETAILS CONTACT US ON TOLL FREE NUMBER: 1800 425 7333",
+   "english": "Contact us on toll free number 1800 425 7333 for more details",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "THIRUVANANTHAPURAM - AYURVEDA COLLEGE JUNCTION, M.G. ROAD. PH: 0471 2320733, 2320833, 9446898855",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Jewellery",
+   "evidence": "KALYAN JEWELLERS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #10"
+   ],
+   "matched_id": 10,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 10,
+     "name": "Jewellery",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Malayalam",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Malayalam: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Kalyan Jewellers store opening announcement",
+    "20-50% OFF on making charges for all products",
+    "Thiruvananthapuram - Ayurveda College Junction, M.G. Road location",
+    "Phone numbers: 0471 2320733, 2320833, 9446898855",
+    "Toll free number: 1800 425 7333",
+    "Website: www.kalyanjewellers.net",
+    "Buy online at www.candere.com",
+    "Institutional requirements email: b2bindia@kalyanjewellers.net"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Kalyan Jewellers is offering 20-50% off on making charges for all products at their Thiruvananthapuram store. Visit the store at Ayurveda College Junction, M.G. Road or call 0471 2320733, 2320833, 9446898855. Toll free: 1800 425 7333. Website: www.kalyanjewellers.net.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "04712320733",
+     "kind": "landline",
+     "as_printed": "0471 2320733"
+    },
+    "evidence": "PH: 0471 2320733",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "2320833",
+     "kind": "landline",
+     "as_printed": "2320833"
+    },
+    "evidence": "2320833",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9446898855",
+     "kind": "mobile",
+     "as_printed": "9446898855"
+    },
+    "evidence": "9446898855",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18004257333",
+     "kind": "toll_free",
+     "as_printed": "1800 425 7333"
+    },
+    "evidence": "TOLL FREE NUMBER: 1800 425 7333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.kalyanjewellers.net",
+    "evidence": "WWW.KALYANJEWELLERS.NET",
+    "english": "www.kalyanjewellers.net",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.candere.com",
+    "evidence": "BUY ONLINE @ WWW.CANDERE.COM",
+    "english": "www.candere.com",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "b2bindia@kalyanjewellers.net",
+    "evidence": "WRITE TO B2BINDIA@KALYANJEWELLERS.NET",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "FOLLOW US ON",
+    "evidence": "FOLLOW US ON",
+    "english": "Follow us on",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "THIRUVANANTHAPURAM - AYURVEDA COLLEGE JUNCTION, M.G. ROAD",
+    "evidence": "THIRUVANANTHAPURAM - AYURVEDA COLLEGE JUNCTION, M.G. ROAD",
+    "english": "Thiruvananthapuram - Ayurveda College Junction, M.G. Road",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "20-50% OFF ON MAKING CHARGES",
+    "evidence": "20-50% OFF ON MAKING CHARGES",
+    "english": "20-50% off on making charges",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (86%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FOR ALL PRODUCTS",
+    "evidence": "FOR ALL PRODUCTS",
+    "english": "For all products",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Kalyan Jewellers",
+     "area": "Ayurveda College Junction",
+     "city": "Thiruvananthapuram",
+     "phones": [
+      "04712320733",
+      "2320833",
+      "9446898855"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 37,
+     "city_id": null
+    },
+    "evidence": "THIRUVANANTHAPURAM - AYURVEDA COLLEGE JUNCTION, M.G. ROAD. PH: 0471 2320733, 2320833, 9446898855",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Thiruvananthapuram' (#37)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "making_charge_offer": {
+   "value": "20-50% OFF",
+   "evidence": "20-50% OFF ON MAKING CHARGES",
+   "english": "20-50% off on making charges",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (86%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Kalyan Jewellers store opening announcement",
+  "20-50% OFF on making charges for all products",
+  "Thiruvananthapuram - Ayurveda College Junction, M.G. Road location",
+  "Phone numbers: 0471 2320733, 2320833, 9446898855",
+  "Toll free number: 1800 425 7333",
+  "Website: www.kalyanjewellers.net",
+  "Buy online at www.candere.com",
+  "Institutional requirements email: b2bindia@kalyanjewellers.net"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MjaimBeo0go nelgo),",
+   "score": 0.5299,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "aoe",
+   "score": 0.5173,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "em !",
+   "score": 0.6258,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "KALYAN",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "3 e",
+   "score": 0.7377,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "OGA",
+   "score": 0.7246,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "Ga",
+   "score": 0.8624,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "209GA",
+   "score": 0.5663,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "JEWELLERS",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Maa",
+   "score": 0.5195,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "AOOG",
+   "score": 0.6221,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "DGa",
+   "score": 0.68,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "a0g",
+   "score": 0.5075,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "KALYAN",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "JEWELLERS",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "c",
+   "score": 0.5357,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "1 m!m",
+   "score": 0.6038,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "e e,",
+   "score": 0.697,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "a",
+   "score": 0.5112,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "9Ga",
+   "score": 0.5355,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "a , o,",
+   "score": 0.6125,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": ", ,",
+   "score": 0.8145,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "2306",
+   "score": 0.7006,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": ",",
+   "score": 0.7503,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "a90",
+   "score": 0.5899,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": ",",
+   "score": 0.5338,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "@a, ms @) a",
+   "score": 0.5778,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "os e o.",
+   "score": 0.6564,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "OGa",
+   "score": 0.5777,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "29Ga",
+   "score": 0.5576,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "mao.. se mec,",
+   "score": 0.5145,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "mloot agmo amergs eaidw et ormasnulela!",
+   "score": 0.5275,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "su00 p05 10y egeydde 20N.Adde 81",
+   "score": 0.6209,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "swan paaud jepeds g a6uxpad /euayps ppo6",
+   "score": 0.6874,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "20-50%0FF",
+   "score": 0.991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "DGa",
+   "score": 0.6094,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "ONMAKING CHARGES",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "FOR ALL PRODUCTS",
+   "score": 0.9728,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "THIRUVANANTHAPURAM - AYURVEDA COLLEGE JUNCTION, M.G. ROAD. PH: 0471 2320733, 2320833, 9446898855",
+   "score": 0.9829,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "FOR MORE DETAILS CONTACT US ON TOLL FREE NUMBER: 1800 425 7333 I WWW.KALYANJEWELLERS.NET I FOLLOW US ON©",
+   "score": 0.9875,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "BUY ONLINE @ WWW.CANDERE.COM I FOR INSTITUTIONAL REQUIREMENTS, WRITE TO B2BINDIA@KALYANJEWELLERS.NET",
+   "score": 0.9823,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 20.09,
+  "extract": 164.6
+ }
+}

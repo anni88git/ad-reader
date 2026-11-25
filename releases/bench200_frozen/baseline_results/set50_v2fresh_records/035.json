@@ -1,0 +1,856 @@
+{
+ "image": "035_Rashtriya_Sahara_128.jpg",
+ "fields": {
+  "brand": {
+   "value": "LIC",
+   "evidence": "भारतीय जीवन बीमा निगम LIFE INSURANCE CORPORATION OF INDIA",
+   "english": "Life Insurance Corporation of India",
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "value not in its evidence quote, but printed elsewhere in the ad",
+    "second model agrees",
+    "exact match to existing record 'LIC' (#62)"
+   ],
+   "matched_id": 62,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 62,
+     "name": "LIC",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Jeevan Akshay VII",
+   "evidence": "जीवन अक्षय VII",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: null",
+    "no products on record for LIC"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Life Insurance Corporation of India",
+   "evidence": "भारतीय जीवन बीमा निगम LIFE INSURANCE CORPORATION OF INDIA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "exact match to existing record 'Life Insurance Corporation of India' (#12)"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Life Insurance Corporation of India",
+     "score": 100.0
+    },
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "हँसता खेलता रिटायरमेण्ट",
+   "evidence": "हँसता खेलता रिटायरमेण्ट",
+   "english": "Laughing Playing Retirement",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (90%)",
+    "wording is not an exact match to the printed text (closest OCR reading 93% similar) - check spelling - suggestion: हँसता खेलता रिटायरमेंट",
+    "second model disagrees - suggestion: हंसा खेला रिटायरमेंट"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "हर पल आपके साथ",
+   "evidence": "हर पल आपके साथ",
+   "english": "With you every moment",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "₹10 लाख और इससे अधिक की खरीद कीमत के लिए, 25 वर्ष से 29 वर्ष की विशेष प्रवेश आयु में भी योजना उपलब्ध है.",
+   "evidence": "र10 लाख और इससे अधिक की खरीद कीमत के लिए, 25 वर्ष से 29 वर्ष की विशेष प्रवेश आयु में भी योजना उपलब्ध है.",
+   "english": "For purchase price of Rs 10 lakh and above, plan available even at special entry age of 25 to 29 years.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "अधिक जानकारी के लिए अपने एजेंट/नज़दीकी एलआईसी शाखा से संपर्क करें या अपने शहर का नाम SMS करें 567674744 पर.",
+   "evidence": "अधिक जानकारी के लिए अपने एजेंट/नज़दीकी एलआईसी शाखा से संपर्क करें या अपने शहर का नाम SMS करें 567674744 पर.",
+   "english": "For more information contact your agent/nearest LIC branch or SMS your city name to 567674744.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (95%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "भारतीय जीवन बीमा निगम LIFE INSURANCE CORPORATION OF INDIA",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Insurance",
+   "evidence": "भारतीय जीवन बीमा निगम LIFE INSURANCE CORPORATION OF INDIA",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #13"
+   ],
+   "matched_id": 13,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 13,
+     "name": "Insurance",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "LIC Jeevan Akshay VII annuity plan",
+    "increased annuity rates",
+    "purchase price Rs 10 lakh and above",
+    "special entry age 25 to 29 years",
+    "non-linked, non-participating individual immediate annuity plan",
+    "options: annuity for life, annuity with return of purchase price",
+    "call centre service (022) 6827 6827",
+    "WhatsApp number 8976862090",
+    "website licindia.in",
+    "IRDAI Regn No.: 512",
+    "UIN-512N337V04",
+    "Plan No. 857"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "LIC is advertising its Jeevan Akshay VII immediate annuity plan with increased annuity rates. It is a non-linked, non-participating plan available for purchase prices of Rs 10 lakh and above, with special entry age 25 to 29 years. Readers can contact their agent, nearest LIC branch, call centre, or WhatsApp for more information.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "02268276827",
+     "kind": "landline",
+     "as_printed": "(022) 6827 6827"
+    },
+    "evidence": "कॉल सेन्टर सर्विस (022) 6827 6827",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8976862090",
+     "kind": "mobile",
+     "as_printed": "8976862090"
+    },
+    "evidence": "हमारा वॉट्सएप नं. 8976862090",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "licindia.in",
+    "evidence": "विजिट करें: licindia.in",
+    "english": "Visit: licindia.in",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "LIC India Forever",
+    "evidence": "LIC India Forever",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [
+   {
+    "value": "निश्चित वार्षिकी दरें",
+    "evidence": "निश्चित वार्षिकी दरें",
+    "english": "Fixed annuity rates",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "अनेक वार्षिकी विकल्प",
+    "evidence": "अनेक वार्षिकी विकल्प",
+    "english": "Multiple annuity options",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "वार्षिकी भुगतान के अनेक ज़रिये",
+    "evidence": "वार्षिकी भुगतान के अनेक ज़रिये",
+    "english": "Multiple ways of annuity payment",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "UIN-512N337V04",
+    "evidence": "UIN-512N337V04",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "प्लान नं. 857",
+    "evidence": "प्लान नं. 857",
+    "english": "Plan No. 857",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "IRDAI Regn No.: 512",
+    "evidence": "LIC India Forever | IRDAI Regn No.: 512",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "हमारे बढ़े हुए वार्षिकी दरों के साथ",
+    "evidence": "हमारे बढ़े हुए वार्षिकी दरों के साथ",
+    "english": "With our increased annuity rates",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "product_type": {
+   "value": "वैयक्तिक तात्कालिक वार्षिकी योजना",
+   "evidence": "वैयक्तिक तात्कालिक वार्षिकी योजना",
+   "english": "Individual immediate annuity plan",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "eligibility": {
+   "value": "25 वर्ष से 29 वर्ष की विशेष प्रवेश आयु",
+   "evidence": "25 वर्ष से 29 वर्ष की विशेष प्रवेश आयु में भी योजना उपलब्ध है.",
+   "english": "Special entry age 25 to 29 years",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "LIC Jeevan Akshay VII annuity plan",
+  "increased annuity rates",
+  "purchase price Rs 10 lakh and above",
+  "special entry age 25 to 29 years",
+  "non-linked, non-participating individual immediate annuity plan",
+  "options: annuity for life, annuity with return of purchase price",
+  "call centre service (022) 6827 6827",
+  "WhatsApp number 8976862090",
+  "website licindia.in",
+  "IRDAI Regn No.: 512",
+  "UIN-512N337V04",
+  "Plan No. 857"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "सबसे पहुले",
+   "score": 0.9524,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "LIC",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "G2",
+   "score": 0.9997,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "लाइफ इंश्योरेंस",
+   "score": 0.9633,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "2023 INDIA",
+   "score": 0.9039,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "भारतीय जीवन बीमा निगम",
+   "score": 0.9702,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "LIFE INSURANCE CORPORATION OF INDIA",
+   "score": 0.9853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "हर पल आपके साथ",
+   "score": 0.9579,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "हँसता",
+   "score": 0.8648,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "खेलता",
+   "score": 0.9633,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "रिटायरमेंट",
+   "score": 0.9872,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "ऑनलाइन भी उपलब्ध",
+   "score": 0.9884,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "हमारे बढ़े हुए वार्षिकी दरों के साथ",
+   "score": 0.9796,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "र10 लाख और इससे अधिक की खरीद कीमत के लिए,",
+   "score": 0.9541,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "एलआईसी की",
+   "score": 0.9604,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "25 वर्ष से 29 वर्ष की विशेष प्रवेश आयु में भी योजना उपलब्ध है.",
+   "score": 0.9718,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "जीवन",
+   "score": 0.9108,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "VII",
+   "score": 0.7774,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "पH/ट8/6ट-टटट/IW/O1",
+   "score": 0.6875,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "अक्षय",
+   "score": 0.9401,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "निश्चित",
+   "score": 0.9845,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "अनेक वार्षिकी",
+   "score": 0.9318,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "वारषिकी भुगतान के",
+   "score": 0.969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "एक नॉन-लिक्ड, असहभागी,",
+   "score": 0.9883,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "वार्षिकी दरें",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "वैयक्तिक तात्कालिक वार्षिकी योजना",
+   "score": 0.9851,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "विकल्प",
+   "score": 0.912,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "अनेक ज़रिये",
+   "score": 0.9013,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "UIN-512N337V04",
+   "score": 0.9605,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "प्लान नं. 857",
+   "score": 0.9516,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "डाउनलोड कीजिए",
+   "score": 0.9211,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "CLIC",
+   "score": 0.5799,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "a：licindia.in",
+   "score": 0.9258,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "कॉल सेन्टर सर्विस (022) 6827 6827",
+   "score": 0.9604,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "एलआईसी मोबाइल ऐप cवtट",
+   "score": 0.7754,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "CLIC",
+   "score": 0.9549,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "हमारा वॉट्सएप नं.",
+   "score": 0.9525,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "कहिए",
+   "score": 0.9824,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "अधिक जानकारी के तिए अपने एजेंट/नज़दीकी एतलआईसी शाखा से संप्क के या अपने शहर का नाम SMS करें 567674744 पर.",
+   "score": 0.9071,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "'Hi'",
+   "score": 0.803,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 41,
+   "text": "LIC India Forever | IRDAI Regn No.: 512",
+   "score": 0.9616,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "8976862090",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "हमें फोलो करें:f",
+   "score": 0.8892,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 44,
+   "text": "You Tube",
+   "score": 0.9876,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "शरमक फोन कॉल्स और ठे/घोखाड़ी वाले ऑफर्स से सावधान रहें.आईआरडीएआई बीा पलिसी बेचने या बोनस की घोषणा कने या प्रीमियम के निवेश जैसी गतिविधियों में शमिल नहीं होता. जनता",
+   "score": 0.8261,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 46,
+   "text": "सेनिवदन हैक ससे फोन कॉल ्रा कने पर वे पुलिस े शिकायत दर्ज कराएं. जोखिम घटकों, नियम व शतो के बारमेंअथिक जानकारी केलिए, कृपया बिक्री से पहले सेल्स ब्रशर को धयापर्वक पढ़ लें",
+   "score": 0.7015,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "10 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 23.59,
+  "extract": 27.29
+ }
+}

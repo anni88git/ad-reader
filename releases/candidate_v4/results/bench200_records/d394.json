@@ -1,0 +1,1641 @@
+{
+ "image": "d394_Maharashtra_Times_94.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Celerio, S-Presso, Alto K10",
+   "evidence": "CELERIO S-PRESSO ALTO K10",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: CELERIO",
+    "partial match only - confirm: Alto K10"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 19,
+     "name": "Alto K10",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki Arena",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: KTS AUTOMOTORS / EXCELL AUTOVISTA / SAI SERVICE / VITESSE / SAH & SANGHI / AUTOMOTIVE / FORTPOINT CARS / SHIVAM AUTOZONE / MY CAR / SAI SERVICE / GOREGAON / RORPIVAL / KIRAN MOTORS / EXCELL AUTOVISTA / SUPREME AUTOMOBILES",
+    "no exact record; closest: Maruti Suzuki India Ltd"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 77.2
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "या उकृष्ट संधीला लाभ घ्या! त्वरा करा!",
+   "evidence": "या उकृष्ट संधीला लाभ घ्या! त्वरा करा!",
+   "english": "Take advantage of this excellent opportunity! Hurry up!",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (90%)",
+    "wording is not an exact match to the printed text (closest OCR reading 92% similar) - check spelling - suggestion: या उ्कृष्ट संधीचा लाभ ध्या! त्वरा( करा",
+    "second model disagrees - suggestion: या उत्कृश संधी चा लाभ घ्या! त्वरा करा!"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "अमृत उत्सव",
+   "evidence": "अमृत उत्सव",
+   "english": "Amrit Utsav",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (89%)",
+    "wording is not an exact match to the printed text (closest OCR reading 95% similar) - check spelling - suggestion: अमृत उत्संव",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "CELERIO S-PRESSO ALTO K10",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Marathi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: English, Marathi",
+    "Hindi replaced by Marathi: OCR text has Marathi words (करा) and no Hindi words - Hindi and Marathi share the Devanagari script - confirm"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 616000,
+   "evidence": "₹6,16 000*",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (616,000)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Maruti Suzuki Arena Amrit Utsav",
+    "Zero registration charge",
+    "Zero down payment",
+    "Celerio prices Rs 6,16 000* and Rs 6,95 000*",
+    "S-Presso prices Rs 5,48 000* and Rs 6,35 000*",
+    "Alto K10 prices Rs 5,37 000* and Rs 6,26 000*",
+    "100% on-road funding available",
+    "Authorised dealers listed for Mumbai",
+    "Bulk orders email: shuaib.Akhtar@maruti.co.in"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki Arena is running an Amrit Utsav offer with zero registration charge and zero down payment on Celerio, S-Presso and Alto K10. Prices start from Rs 5,37 000* and 100% on-road funding is available. Contact authorised dealers in Mumbai or email for bulk orders.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "22101234",
+     "kind": "landline",
+     "as_printed": "22101234"
+    },
+    "evidence": "KTS AUTOMOTORS: FORT 22101234, 9833246246",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9833246246",
+     "kind": "mobile",
+     "as_printed": "9833246246"
+    },
+    "evidence": "KTS AUTOMOTORS: FORT 22101234, 9833246246",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9209200071",
+     "kind": "mobile",
+     "as_printed": "9209200071"
+    },
+    "evidence": "EXCELL AUTOVISTA: BANDRA (W) 9209200071",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8879590112",
+     "kind": "mobile",
+     "as_printed": "8879590112"
+    },
+    "evidence": "SAI SERVICE: LOWER PAREL - 8879590112, 43030317",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "43030317",
+     "kind": "landline",
+     "as_printed": "43030317"
+    },
+    "evidence": "SAI SERVICE: LOWER PAREL - 8879590112, 43030317",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "42005464",
+     "kind": "landline",
+     "as_printed": "42005464"
+    },
+    "evidence": "VITESSE: WORLI 42005464, 67304947",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "67304947",
+     "kind": "landline",
+     "as_printed": "67304947"
+    },
+    "evidence": "VITESSE: WORLI 42005464, 67304947",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "23803423",
+     "kind": "landline",
+     "as_printed": "23803423"
+    },
+    "evidence": "SAH & SANGHI: KEMPS CORNER 23803423, 8108184122",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8108184122",
+     "kind": "mobile",
+     "as_printed": "8108184122"
+    },
+    "evidence": "SAH & SANGHI: KEMPS CORNER 23803423, 8108184122",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18002100021",
+     "kind": "toll_free",
+     "as_printed": "1800 2100 021"
+    },
+    "evidence": "AUTOMOTIVE: KURLA 1800 2100 021",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9664044437",
+     "kind": "mobile",
+     "as_printed": "9664044437"
+    },
+    "evidence": "FORTPOINT CARS: JOGESHWARI 9664044437",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8082666333",
+     "kind": "mobile",
+     "as_printed": "8082666333"
+    },
+    "evidence": "SHIVAM AUTOZONE: KANDIVALI (W) 8082666333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9028146999",
+     "kind": "mobile",
+     "as_printed": "9028146999"
+    },
+    "evidence": "MY CAR: VILE PARLE (W) 9028146999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "43030550",
+     "kind": "landline",
+     "as_printed": "43030550"
+    },
+    "evidence": "SAI SERVICE: ANDHERI 43030550 43030505",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "43030505",
+     "kind": "landline",
+     "as_printed": "43030505"
+    },
+    "evidence": "SAI SERVICE: ANDHERI 43030550 43030505",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9594952100",
+     "kind": "mobile",
+     "as_printed": "9594952100"
+    },
+    "evidence": "GOREGAON 9594952100 9594952213",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9594952213",
+     "kind": "mobile",
+     "as_printed": "9594952213"
+    },
+    "evidence": "GOREGAON 9594952100 9594952213",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "29678888",
+     "kind": "landline",
+     "as_printed": "29678888"
+    },
+    "evidence": "RORPIVAL 29678888 29678800",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "29678800",
+     "kind": "landline",
+     "as_printed": "29678800"
+    },
+    "evidence": "RORPIVAL 29678888 29678800",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7400362222",
+     "kind": "mobile",
+     "as_printed": "7400362222"
+    },
+    "evidence": "KIRAN MOTORS: GHATKOPER (W) 7400362222 7400483333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7400483333",
+     "kind": "mobile",
+     "as_printed": "7400483333"
+    },
+    "evidence": "KIRAN MOTORS: GHATKOPER (W) 7400362222 7400483333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8976877177",
+     "kind": "mobile",
+     "as_printed": "8976877177"
+    },
+    "evidence": "SUPREME AUTOMOBILES: MIRA ROAD: 8976877177",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 616000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "VXI",
+     "item": "CELERIO",
+     "as_printed": "₹6,16 000*"
+    },
+    "evidence": "₹6,16 000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (616,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 695000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "VXI (O)",
+     "item": "CELERIO",
+     "as_printed": "₹6,95 000*"
+    },
+    "evidence": "₹6,95 000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (695,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 548000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "VXI",
+     "item": "S-PRESSO",
+     "as_printed": "₹5,48 000*"
+    },
+    "evidence": "₹5,48 000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (548,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 635000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "VXI (O)",
+     "item": "S-PRESSO",
+     "as_printed": "₹6,35 000*"
+    },
+    "evidence": "₹6,35 000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (635,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 537000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "VXI",
+     "item": "ALTO K10",
+     "as_printed": "₹5,37 000*"
+    },
+    "evidence": "₹5,37 000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (537,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 626000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "VXI (O)",
+     "item": "ALTO K10",
+     "as_printed": "₹6,26 000*"
+    },
+    "evidence": "₹6,26 000*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (626,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [
+   {
+    "value": "shuaib.akhtar@maruti.co.in",
+    "evidence": "For bulk orders please mail at: shuaib.Akhtar@maruti.co.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "झीरो रजिस्ट्रेशन खर्च^",
+    "evidence": "झीरो रजिस्ट्रेशन खर्च^",
+    "english": "Zero registration charge",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "झीरो डाऊन पेमेंट^",
+    "evidence": "झीरो डाऊन पेमेंट^",
+    "english": "Zero down payment",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100%* ON-ROAD FUNDING AVAILABLE",
+    "evidence": "100%* ON-ROAD FUNDING AVAILABLE",
+    "english": "100% on-road funding available",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "KTS AUTOMOTORS",
+     "area": "FORT",
+     "city": "MUMBAI",
+     "phones": [
+      "22101234",
+      "9833246246"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 69.2
+      },
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 64.3
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "KTS AUTOMOTORS: FORT 22101234, 9833246246",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Tata Motors Ltd, Kia Jaipur Motors; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "EXCELL AUTOVISTA",
+     "area": "BANDRA (W)",
+     "city": "MUMBAI",
+     "phones": [
+      "9209200071"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "EXCELL AUTOVISTA: BANDRA (W) 9209200071",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAI SERVICE",
+     "area": "LOWER PAREL",
+     "city": "MUMBAI",
+     "phones": [
+      "8879590112",
+      "43030317"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "SAI SERVICE: LOWER PAREL - 8879590112, 43030317",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VITESSE",
+     "area": "WORLI",
+     "city": "MUMBAI",
+     "phones": [
+      "42005464",
+      "67304947"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "VITESSE: WORLI 42005464, 67304947",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAH & SANGHI",
+     "area": "KEMPS CORNER",
+     "city": "MUMBAI",
+     "phones": [
+      "23803423",
+      "8108184122"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "SAH & SANGHI: KEMPS CORNER 23803423, 8108184122",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "AUTOMOTIVE",
+     "area": "KURLA",
+     "city": "MUMBAI",
+     "phones": [
+      "18002100021"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "AUTOMOTIVE: KURLA 1800 2100 021",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "FORTPOINT CARS",
+     "area": "JOGESHWARI",
+     "city": "MUMBAI",
+     "phones": [
+      "9664044437"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "FORTPOINT CARS: JOGESHWARI 9664044437",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SHIVAM AUTOZONE",
+     "area": "KANDIVALI (W)",
+     "city": "MUMBAI",
+     "phones": [
+      "8082666333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "SHIVAM AUTOZONE: KANDIVALI (W) 8082666333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MY CAR",
+     "area": "VILE PARLE (W)",
+     "city": "MUMBAI",
+     "phones": [
+      "9028146999"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "MY CAR: VILE PARLE (W) 9028146999",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAI SERVICE",
+     "area": "ANDHERI",
+     "city": "MUMBAI",
+     "phones": [
+      "43030550",
+      "43030505"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "SAI SERVICE: ANDHERI 43030550 43030505",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (97%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "GOREGAON",
+     "area": "GOREGAON",
+     "city": "MUMBAI",
+     "phones": [
+      "9594952100",
+      "9594952213"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "GOREGAON 9594952100 9594952213",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RORPIVAL",
+     "area": "RORPIVAL",
+     "city": "MUMBAI",
+     "phones": [
+      "29678888",
+      "29678800"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "RORPIVAL 29678888 29678800",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "KIRAN MOTORS",
+     "area": "GHATKOPER (W)",
+     "city": "MUMBAI",
+     "phones": [
+      "7400362222",
+      "7400483333"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 69.2
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 62.7
+      }
+     ],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "KIRAN MOTORS: GHATKOPER (W) 7400362222 7400483333",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "EXCELL AUTOVISTA",
+     "area": "MALAD (W)",
+     "city": "MUMBAI",
+     "phones": [
+      "9209200071"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "EXCELL AUTOVISTA: MALAD (W) 9209200071",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SUPREME AUTOMOBILES",
+     "area": "MIRA ROAD",
+     "city": "MUMBAI",
+     "phones": [
+      "8976877177"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "SUPREME AUTOMOBILES: MIRA ROAD: 8976877177",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (94%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "100%* ON-ROAD FUNDING AVAILABLE",
+   "evidence": "100%* ON-ROAD FUNDING AVAILABLE",
+   "english": "100% on-road funding available",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Maruti Suzuki Arena Amrit Utsav",
+  "Zero registration charge",
+  "Zero down payment",
+  "Celerio prices Rs 6,16 000* and Rs 6,95 000*",
+  "S-Presso prices Rs 5,48 000* and Rs 6,35 000*",
+  "Alto K10 prices Rs 5,37 000* and Rs 6,26 000*",
+  "100% on-road funding available",
+  "Authorised dealers listed for Mumbai",
+  "Bulk orders email: shuaib.Akhtar@maruti.co.in"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MARUTI SUZUKI ARENA",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "या उ्कृष्ट संधीचा लाभ ध्या! त्वरा(",
+   "score": 0.9204,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "करा",
+   "score": 0.9788,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "अमृत",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "उत्संव",
+   "score": 0.986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "झीरो",
+   "score": 0.9854,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "झीरो",
+   "score": 0.9586,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "रजिस्टरेशन खर्च",
+   "score": 0.9391,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "डाऊन पेमेंट",
+   "score": 0.9087,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "CELERIO",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "ALTO",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "S.PRESSO",
+   "score": 0.9929,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "CS",
+   "score": 0.5455,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "CELERIO",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "S-PRESSO",
+   "score": 0.986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "ALTO K10",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "100%*",
+   "score": 0.9914,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "अविश्वसनीय किंमती",
+   "score": 0.9305,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "6,16 000*",
+   "score": 0.9855,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "6,95 000*",
+   "score": 0.9566,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "5,48 000*",
+   "score": 0.985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "6,35 000*",
+   "score": 0.9722,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "5,37 000*",
+   "score": 0.972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "6,26 000*",
+   "score": 0.9647,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "ON-ROAD",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "VXI",
+   "score": 0.9859,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "VX",
+   "score": 0.9473,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "VXI",
+   "score": 0.9692,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "VX",
+   "score": 0.9313,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "VXI",
+   "score": 0.9757,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "VX",
+   "score": 0.8334,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "FUNDINGAVAILABLE",
+   "score": 0.9916,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "CELERIO S.PRESSO",
+   "score": 0.9947,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "ALTO",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "K10",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "For bulk orders please mail at: shuaib.Akhtar@maruti.co.in",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "AUTHORISED DEALERS: MUMBAI: (SOUTH & CENTRAL): KTS AUTOMOTORS: FORT 22101234, 9833246246, EXCELL AUTOVISTA: BANDRA (W) 9209200071, SAI SERVICE: LOWER PAREL - 8879590112, 43030317, VITESSE: WORLI 42005464, 67304947, SAH & SANGHI:",
+   "score": 0.9774,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 38,
+   "text": "KEMPS CORNER 23803423, 8108184122, AUTOMOTIVE: KURLA 1800 2100 021. MUMBAI (EAST, WEST & NORTH): FORTPOINT CARS: JOGESHWARI 9664044437, SHIVAM AUTOZONE: KANDIVALI (W) 8082666333, MY CAR: VILE PARLE (W) 9028146999, SAI SERVICE:",
+   "score": 0.9821,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "ANDHERL43030550 43030505 GOREGAON 9594952100 9594952213 RORPIVAL29678888 29678800 KIRANM0TORS: GHATKOPER (W0:7400362222 7400483333 EYCELLAUITOVISTA:MALAD (W0 9209200071 SUPREME AUTOMORILES:MIRA POAD: 8976877177",
+   "score": 0.8894,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 19.5,
+  "extract": 23.57
+ }
+}

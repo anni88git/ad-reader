@@ -1,0 +1,519 @@
+{
+ "image": "002_002_horlicks_hi.png",
+ "fields": {
+  "brand": {
+   "value": "Horlicks",
+   "evidence": "Horlicks",
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "evidence NOT found in OCR text (62%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model agrees",
+    "exact match to existing record 'Horlicks' (#77)",
+    "brand name 'हॉर्लिक्स' found printed in the ad (OCR)"
+   ],
+   "matched_id": 77,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 77,
+     "name": "Horlicks",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Horlicks Chocolate Flavour Delight",
+   "evidence": "Horlicks CHOCOLATE FLAVOUR DELIGHT",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (74%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model agrees",
+    "no exact record; closest: Horlicks Chocolate Delight"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 210,
+     "name": "Horlicks Chocolate Delight",
+     "score": 77.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "model_variant": {
+   "value": "500 g",
+   "evidence": "500 g",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "headline": {
+   "value": "हॉर्लिक्स दूध की शक्ति बढ़ाए",
+   "evidence": "हॉर्लिक्स दूध की शक्ति बढ़ाए",
+   "english": "Horlicks increases the power of milk",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: हॉलिक्स दूध की शक्तिक बढ़ाए"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "हॉर्लिक्स में हैं ग्रोथ न्यूट्रीएंट्स** जो बनाए बच्चों को टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+   "evidence": "हॉर्लिक्स में हैं ग्रोथ न्यूट्रीएंट्स** जो बनाए बच्चों को टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+   "english": "Horlicks contains growth nutrients** that make children taller, stronger' and sharper**:",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (96%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Horlicks chocolate flavour delight 500 g",
+    "Malt based food",
+    "Growth nutrients make children taller, stronger and sharper",
+    "ISI mark present"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Horlicks chocolate flavour delight (500 g) is a malt-based food drink with growth nutrients that help children grow taller, stronger and sharper.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "ग्रोथ न्यूट्रीएंट्स**",
+    "evidence": "ग्रोथ न्यूट्रीएंट्स**",
+    "english": "Growth nutrients**",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+    "evidence": "टॉलर, स्ट्रॉन्गर' और शार्पर**:",
+    "english": "Taller, stronger' and sharper**:",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "CHOCOLATE FLAVOUR DELIGHT",
+    "evidence": "CHOCOLATE FLAVOUR DELIGHT",
+    "english": "Chocolate flavour delight",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "MALT BASED FOOD",
+    "evidence": "MALT BASED FOOD",
+    "english": "Malt based food",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Horlicks chocolate flavour delight 500 g",
+  "Malt based food",
+  "Growth nutrients make children taller, stronger and sharper",
+  "ISI mark present"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "हॉर्लिक्स",
+   "score": 0.9316,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "दूध की शक्ति",
+   "score": 0.9658,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "बढ़ाए",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Hoiiiks",
+   "score": 0.6981,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "Hoiidks",
+   "score": 0.6586,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "हॉलिक्स में हैं",
+   "score": 0.9616,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "ग्रोथ न्यूट्ीएंट्स\"",
+   "score": 0.9262,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "CHOCOLATE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "FLAVOUR",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "DELIGHT",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "जो बनाए बच्चों को",
+   "score": 0.9925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "5009",
+   "score": 0.9017,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "टॉलर, स्ट्रॉन्गर' और शार्पर*:",
+   "score": 0.9644,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "MALT",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "BASED",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "FOOD",
+   "score": 0.9892,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "दाये भारत मं एक स्वतंतर और मानयताात प्योगशाला मकिए गए अध्ययन पर आधरित है जहा हलिक्स की शक से भरपूर दू (15 मिली. दू मे 27 गराम",
+   "score": 0.6711,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "हॉलिक्स) और भारत में परात नन-फॉरटिंफाइड होल क्ीम दू की तुलना की गई. गोथ न्ूटीएटस. बचो की वदि और विकास मं मद कने वालेपोषक त्वों",
+   "score": 0.666,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "(विटामिन्स और मिनरल्स) का रचनात्मक चित्रण है. 14 महीनोके लिए दैनिक 54 गराम माइक्रन्यूटिट की शक से भरपूर पेय और नॉन फॉर्िंफाइड पेसेबो के प्ाव",
+   "score": 0.7094,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 20,
+   "text": "कीतुलना केलिए 199-2000 N 2006:2:8-14] मे6-16 वर्ष की उ के बच्यो के बीच किए एक अध्ययन पर आधारितदवे +्यादा मंसपेशियां और ज्यादा",
+   "score": 0.7381,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "हछडी का क्षत्र ++ध्यान और एकातामें वृदि हॉलिक्स एक पौहिक पेय है, जिसे ैनिक संतुलित आहार के एक भाग के रूप मे शमिल किया जाता है",
+   "score": 0.8067,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (591x993); small print may be unreadable"
+ ],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 12.13,
+  "extract": 10.1
+ }
+}

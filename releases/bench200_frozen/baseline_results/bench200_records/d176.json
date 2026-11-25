@@ -1,0 +1,946 @@
+{
+ "image": "d176_Amar_Ujala_76.jpg",
+ "fields": {
+  "brand": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Horticulture Department, Haryana",
+   "evidence": "उद्यान विभाग, हरियाणा",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (94%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "फल उत्सव एवं आम मेला",
+   "evidence": "फल उत्सव एवं आम मेला",
+   "english": "Fruit Festival and Mango Fair",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "उप-उष्ण कटिबन्धीय फल केन्द्र लाडवा, कुरुक्षेत्र 6 से 8 जुलाई, 2023 यदविन्द्रा बाग, पिंजौर 7 से 9 जुलाई, 2023",
+   "evidence": "उप-उष्ण कटिबन्धीय फल केन्द्र लाडवा, कुरुक्षेत्र 6 से 8 जुलाई, 2023 यदविन्द्रा बाग, पिंजौर 7 से 9 जुलाई, 2023",
+   "english": "Sub-tropical Fruit Centre Ladwa, Kurukshetra 6 to 8 July, 2023 Yadvindra Bagh, Pinjore 7 to 9 July, 2023",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (82%)",
+    "wording is not an exact match to the printed text (closest OCR reading 84% similar) - check spelling - suggestion: उप-उष्ण कटिबन्धीय फल केनद्र लाडवा, कुरुदेत्र यादवि्द्रा बाग, पिंजौर 6 से 8 जुलाई, 2023"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "आप सभी सादर आमंत्रित हैं",
+   "evidence": "आप सभी सादर आमंत्रित हैं",
+   "english": "All are cordially invited",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (85%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "other",
+   "evidence": "फल उत्सव एवं आम मेला",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: public_notice"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Government & Public Notices",
+   "evidence": "फल उत्सव एवं आम मेला",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #21"
+   ],
+   "matched_id": 21,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 21,
+     "name": "Government & Public Notices",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://info.hortharyana.gov.in/hortharyana/FruitFairAdvertisement%202023.pdf)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://info.hortharyana.gov.in/hortharyana/FruitFairAdvertisement%202023.pdf",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Fruit Festival and Mango Fair",
+    "Sub-tropical Fruit Centre Ladwa, Kurukshetra 6 to 8 July 2023",
+    "Yadvindra Bagh Pinjore 7 to 9 July 2023",
+    "Chief Guest Shri Jay Prakash Dalal Agriculture and Farmers Welfare Minister Haryana",
+    "All are cordially invited",
+    "Main attractions: Rangoli and Quiz Competition, Fancy Dress Competition, Mango Eating Competition, Fruit Technical Session, Exhibition and Centre Tour, Face Painting, Cultural Program",
+    "Toll free number 1800 180 2021",
+    "Website www.hortharyana.gov.in"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The Horticulture Department, Haryana is organizing a Fruit Festival and Mango Fair at Sub-tropical Fruit Centre Ladwa, Kurukshetra from 6 to 8 July 2023 and at Yadvindra Bagh, Pinjore from 7 to 9 July 2023. Shri Jay Prakash Dalal, Agriculture and Farmers Welfare Minister, Haryana is the chief guest. All are cordially invited. Attractions include rangoli, quiz, fancy dress, mango eating competition, fruit technical session, exhibition, face painting and cultural programs. For more information call toll-free 1800 180 2021 or visit www.hortharyana.gov.in.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001802021",
+     "kind": "toll_free",
+     "as_printed": "1800 180 2021"
+    },
+    "evidence": "1800 180 2021",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.hortharyana.gov.in",
+    "evidence": "website: www.hortharyana.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "@diprharyana",
+    "evidence": "@diprharyana",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "उद्यान भवन, सेक्टर-21, पंचकूला, हरियाणा",
+    "evidence": "उद्यान भवन, सेक्टर-21, पंचकूला, हरियाणा",
+    "english": "Udyan Bhawan, Sector-21, Panchkula, Haryana",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "रंगोली एवं प्रश्नोत्तरी प्रतियोगिता",
+    "evidence": "रंगोली एवं प्रश्नोत्तरी प्रतियोगिता",
+    "english": "Rangoli and Quiz Competition",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "फैंसी ड्रेस प्रतियोगिता",
+    "evidence": "फैंसी ड्रेस प्रतियोगिता",
+    "english": "Fancy Dress Competition",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (67%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "मैंगो ईटिंग प्रतियोगिता",
+    "evidence": "मैंगो ईटिंग प्रतियोगिता",
+    "english": "Mango Eating Competition",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "फलों पर तकनीकी सत्र",
+    "evidence": "फलों पर तकनीकी सत्र",
+    "english": "Technical Session on Fruits",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "प्रदर्शनी एवं केन्द्र भ्रमण",
+    "evidence": "प्रदर्शनी एवं केन्द्र भ्रमण",
+    "english": "Exhibition and Centre Tour",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "फेस पेंटिंग",
+    "evidence": "फेस पेंटिंग",
+    "english": "Face Painting",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "सांस्कृतिक कार्यक्रम",
+    "evidence": "सांस्कृतिक कार्यक्रम",
+    "english": "Cultural Program",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "issuing_authority": {
+   "value": "उद्यान विभाग, हरियाणा",
+   "evidence": "उद्यान विभाग, हरियाणा",
+   "english": "Horticulture Department, Haryana",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (94%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "notice_type": {
+   "value": "फल उत्सव एवं आम मेला",
+   "evidence": "फल उत्सव एवं आम मेला",
+   "english": "Fruit Festival and Mango Fair",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "dates": {
+   "value": "6 से 8 जुलाई, 2023 7 से 9 जुलाई, 2023",
+   "evidence": "6 से 8 जुलाई, 2023 7 से 9 जुलाई, 2023",
+   "english": "6 to 8 July, 2023 7 to 9 July, 2023",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "subject": {
+   "value": "फल उत्सव एवं आम मेला",
+   "evidence": "फल उत्सव एवं आम मेला",
+   "english": "Fruit Festival and Mango Fair",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Fruit Festival and Mango Fair",
+  "Sub-tropical Fruit Centre Ladwa, Kurukshetra 6 to 8 July 2023",
+  "Yadvindra Bagh Pinjore 7 to 9 July 2023",
+  "Chief Guest Shri Jay Prakash Dalal Agriculture and Farmers Welfare Minister Haryana",
+  "All are cordially invited",
+  "Main attractions: Rangoli and Quiz Competition, Fancy Dress Competition, Mango Eating Competition, Fruit Technical Session, Exhibition and Centre Tour, Face Painting, Cultural Program",
+  "Toll free number 1800 180 2021",
+  "Website www.hortharyana.gov.in"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "G2",
+   "score": 0.9991,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 2,
+   "text": "75",
+   "score": 0.8355,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "आज़ादीका",
+   "score": 0.9341,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "अमृत महोत्सव",
+   "score": 0.8934,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "हीय् सरका",
+   "score": 0.4908,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "फल",
+   "score": 0.9993,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "उत्सव",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "एवं",
+   "score": 0.8372,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "आम",
+   "score": 0.9991,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 10,
+   "text": "मेला",
+   "score": 0.7946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "फल",
+   "score": 0.9982,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "उत्सव",
+   "score": 0.9433,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "आमरं",
+   "score": 0.7686,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "मेला",
+   "score": 0.8222,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "उप-उष्ण कटिबन्धीय फल केनद्र लाडवा, कुरुदेत्र",
+   "score": 0.9251,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "यादवि्द्रा बाग, पिंजौर",
+   "score": 0.9115,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "6 से 8 जुलाई, 2023",
+   "score": 0.8896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "7 से 9 जुलाई, 2023",
+   "score": 0.8993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "मुख्य",
+   "score": 0.9658,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "अतिथि",
+   "score": 0.983,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "आप सभी",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "श्री जय प्रकाश दलाल",
+   "score": 0.9359,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "सादर आमंत्रित",
+   "score": 0.9263,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "कृषि एवं किसान कल्याण मंत्री, हरियाणा",
+   "score": 0.9469,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 25,
+   "text": "है।",
+   "score": 0.7866,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "मुख्य आकर्षण",
+   "score": 0.9692,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "रंगोली एवं",
+   "score": 0.9428,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "फैसी डैंस",
+   "score": 0.8599,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "मैंगो ईटिंग",
+   "score": 0.9491,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "फलों पर",
+   "score": 0.9254,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "प्रदर्शनी",
+   "score": 0.9778,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "फेस",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "प्रश्नोत्तरी",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "तकनीकी",
+   "score": 0.9825,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "एवं केन्र",
+   "score": 0.9387,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "सांस्कृतिक",
+   "score": 0.9481,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "प्रतियोगिता",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "प्रतियोगिता",
+   "score": 0.9749,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "प्रतियोगिता",
+   "score": 0.9502,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "भ्रमण",
+   "score": 0.9776,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "पेंटिंग",
+   "score": 0.9342,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "कार्यक्रम",
+   "score": 0.9932,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "सत्र",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "उदयान विभाग, हरियाणा",
+   "score": 0.931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "टोल फ्री नंबर",
+   "score": 0.9206,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "1800 180 2021",
+   "score": 0.9959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "उयान भवन, सेक्टर-21, पंचकूला, हरियाणा",
+   "score": 0.9218,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "अधिक जानकारी",
+   "score": 0.902,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "Horti ion",
+   "score": 0.6018,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 50,
+   "text": "Hoctioulture Miuion",
+   "score": 0.6944,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "बगधना मिन",
+   "score": 0.5784,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 52,
+   "text": "website: www.hortharyana.gov.in",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "केलिए वयू आर",
+   "score": 0.7728,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "कोड स्कैन करेरें",
+   "score": 0.8195,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 55,
+   "text": "सूचना, लोक सम्पर्क, भाषा तथा संस्कृति विभाग, हरियाणा",
+   "score": 0.951,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 56,
+   "text": "www.prharyana.gov.in",
+   "score": 0.9767,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 57,
+   "text": "Follow us on",
+   "score": 0.9845,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 58,
+   "text": "三@diprharyana",
+   "score": 0.966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "no brand identified - manual entry required",
+  "9 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 23.43,
+  "extract": 21.42
+ }
+}

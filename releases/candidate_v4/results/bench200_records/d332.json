@@ -1,0 +1,585 @@
+{
+ "image": "d332_Maharashtra_Times_32.jpg",
+ "fields": {
+  "brand": {
+   "value": "Bosch",
+   "evidence": "BOSCH",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Bosch' (#138)"
+   ],
+   "matched_id": 138,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 138,
+     "name": "Bosch",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "GSR 185-LI Professional",
+   "evidence": "GSR 185-LI प्रोफेशनल",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (94%)",
+    "value transliterated from another script",
+    "second model agrees",
+    "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad",
+    "no products on record for Bosch"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Bosch",
+   "evidence": "BOSCH",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "कॉर्डलेस मतलब पैसा वसूल. 500+ स्क्रूज*, 1 चार्ज. कार्डलेस मतलब Bosch.",
+   "evidence": "कॉर्डलेस मतलब पैसा वसूल.\n500+ स्क्रूज*, 1 चार्ज.\nकार्डलेस मतलब Bosch.",
+   "english": "Cordless means value for money. 500+ screws*, 1 charge. Cordless means Bosch.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (94%)",
+    "wording is not an exact match to the printed text (closest OCR reading 96% similar) - check spelling - suggestion: कॉर्डलेस मतलब पैसा वसूल. 500+ स्कलूज*, 1 चार्ज. कार्डलेस मंतलब Bosch.",
+    "second model disagrees - suggestion: कॉर्डलेस मतलब पैसा वसूल."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "GSR 185-LI प्रोफेशनल",
+   "evidence": "GSR 185-LI प्रोफेशनल",
+   "english": "GSR 185-LI Professional",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (94%)",
+    "wording is not an exact match to the printed text (closest OCR reading 94% similar) - check spelling - suggestion: GSR 185-L प्रोफ़ेशनल",
+    "second model disagrees - suggestion: 500+ स्क्रू*, 1 चार्जी."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "1 साल की वॉरंटी",
+   "evidence": "1 साल की वॉरंटी",
+   "english": "1 year warranty",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "अधिक जानकारी के लिए स्कैन करें",
+   "evidence": "अधिक जानकारी के लिए स्कैन करें",
+   "english": "Scan for more information",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "BOSCH",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Retail & Consumer Electronics",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #11"
+   ],
+   "matched_id": 11,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Retail & Consumer Electronics",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://qrco.de/be7N7w)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://qrco.de/be7N7w",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Bosch cordless drill driver",
+    "500+ screws on 1 charge",
+    "1 year warranty",
+    "1000+ recharges",
+    "18V brushless motor",
+    "scan QR for more information",
+    "email: pt-in.communications@in.bosch.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Bosch GSR 185-LI Professional cordless drill driver offers 500+ screws per charge, 1 year warranty, 1000+ recharges, and an 18V brushless motor. Scan the QR code or email pt-in.communications@in.bosch.com for more information.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [
+   {
+    "value": "pt-in.communications@in.bosch.com",
+    "evidence": "pt-in.communications@in.bosch.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "500+ स्क्रूज*, 1 चार्ज.",
+    "evidence": "500+ स्क्रूज*, 1 चार्ज.",
+    "english": "500+ screws*, 1 charge.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (88%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "1 साल की वॉरंटी",
+    "evidence": "1 साल की वॉरंटी",
+    "english": "1 year warranty",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "1000+ बार* रिचार्जेबल",
+    "evidence": "1000+ बार* रिचार्जेबल",
+    "english": "1000+ times* rechargeable",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "BRUSHLESS MOTOR",
+    "evidence": "BRUSHLESS MOTOR",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "18V",
+    "evidence": "18V",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "products_on_offer": {
+   "value": "GSR 185-LI प्रोफेशनल",
+   "evidence": "GSR 185-LI प्रोफेशनल",
+   "english": "GSR 185-LI Professional",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (94%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Bosch cordless drill driver",
+  "500+ screws on 1 charge",
+  "1 year warranty",
+  "1000+ recharges",
+  "18V brushless motor",
+  "scan QR for more information",
+  "email: pt-in.communications@in.bosch.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "BOSCH",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "कॉर्डलेस मतलब पैसा",
+   "score": 0.9612,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "वसूल.",
+   "score": 0.94,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "500+ स्कलूज*, 1 चार्ज.",
+   "score": 0.9112,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "कार्डलेस मंतलब Bosch.",
+   "score": 0.9752,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "GSR 185-L प्रोफ़ेशनल",
+   "score": 0.9383,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "BOSCH",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Professional",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "20",
+   "score": 0.843,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 10,
+   "text": "1 साल",
+   "score": 0.957,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "की वॉरंटी",
+   "score": 0.9246,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "1000+",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "बॉर*",
+   "score": 0.8733,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "रिचार्जेबल",
+   "score": 0.949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "18V",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "4.0AN",
+   "score": 0.8676,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 17,
+   "text": "BRUSHLESS",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "अधिक जानकारी के लिए स्कैन करें",
+   "score": 0.9845,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "MOTOR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": ":pt-in.communications@in.bosch.com",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "12V में भी उपलब्ध है । \"60 मिमी स्कू का इस्तेमाल करके",
+   "score": 0.9212,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 22,
+   "text": "400kg/m3 घनत्च वाली लकड़ी पर आंतरिक परीक्षण सेप्रापत परिणाम",
+   "score": 0.9566,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.81,
+  "extract": 10.89
+ }
+}

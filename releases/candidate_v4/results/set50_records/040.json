@@ -1,0 +1,638 @@
+{
+ "image": "040_Andhra_Jyothi_80.jpg",
+ "fields": {
+  "brand": {
+   "value": "Grooms Collections",
+   "evidence": "GROOMS COLLECTIONS",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (53%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: GROOM'S",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Wedding Collection",
+   "evidence": "వెడ్డింగ్ కలెక్షన్",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (94%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Grooms Collections",
+   "evidence": "GROOMS COLLECTIONS",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (53%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "వధూవరులకు అత్యద్భుతమైన శ్రేణి విలక్షణమైన వెడ్డింగ్ కలెక్షన్",
+   "evidence": "వధూవరులకు అత్యద్భుతమైన శ్రేణి విలక్షణమైన వెడ్డింగ్ కలెక్షన్",
+   "english": "An extraordinary range for brides and grooms, a unique wedding collection",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (93%)",
+    "wording is not an exact match to the printed text (closest OCR reading 95% similar) - check spelling - suggestion: వధూవరులకు అత్యద్ుతమైనే శ్రేణిలి విలక్షిణమైన వెడ్డింగ్ కలెక్షిన్",
+    "second model disagrees - suggestion: వీడింగ్ కలెక్షన్"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "పెళ్లಿಚూపుల చీరలపై ప్రత్యేక కాంబో ఆఫర్లు",
+   "evidence": "పెళ్లಿಚూపుల చీరలపై ప్రత్యేక కాంబో ఆఫర్లు",
+   "english": "Special combo offers on engagement sarees",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (81%)",
+    "second model disagrees - suggestion: కొండ - అరెసీ - ధర్వీయం - వేసిం‌డీ - బనార్‌సీ",
+    "letters of two different Indian scripts inside one word ('పెళ్లಿಚూపుల') - likely a misread character"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "సూట్స్ - బ్లేజరస్ షేర్వాణీలు - ధోతి సెట్ షాపింగ్ మాల్ సూటింగ్-ష్టింగ్ ఫ్రకస్",
+   "evidence": "సూట్స్ - బ్లేజరస్ షేర్వాణీలు - ధోతి సెట్ షాపింగ్ మాల్ సూటింగ్-ష్టింగ్ ఫ్రకస్",
+   "english": "Suits - Blazers, Sherwanis - Dhoti sets, Shopping mall, Suitings - Shirtings, Frocks",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (97%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "BRIDAL Gowns & Lehengas",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "BRIDAL Gowns & Lehengas",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Telugu",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Wedding collection for brides and grooms",
+    "Special combo offers on engagement sarees",
+    "Bridal gowns and lehengas",
+    "Suits, blazers, sherwanis, dhoti sets",
+    "Shopping mall for suitings and shirtings",
+    "Location: Tilak Garden opposite, Station Road, Nizamabad"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Grooms Collections advertises a unique wedding collection for brides and grooms, including bridal gowns and lehengas, suits, blazers, sherwanis, and dhoti sets, with special combo offers on engagement sarees, available at their shopping mall opposite Tilak Garden on Station Road, Nizamabad.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "తిలక్ గార్డెన్ ఎదురుగా, స్టేషన్ రోడ్, నిజామాబాద్",
+    "evidence": "తిలక్ గార్డెన్ ఎదురుగా, స్టేషన్ రోడ్, నిజామాబాద్",
+    "english": "Opposite Tilak Garden, Station Road, Nizamabad",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "సర్వ శ్రేఠమైన పట్టీజలితో తయారు చేయబడిన ఒరిజినల్ బ్రాండెడ్ పట్టు చీరలు",
+    "evidence": "సర్వ శ్రేఠమైన పట్టీజలితో తయారు చేయబడిన ఒరిజినల్ బ్రాండెడ్ పట్టు చీరలు",
+    "english": "Original branded silk sarees made with the finest silk",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "కంచి - ఆరణి - ధర్మవరం - పోచంపల్లి - బనారసి",
+    "evidence": "కంచి - ఆరణి - ధర్మవరం - పోచంపల్లి - బనారసి",
+    "english": "Kanchi - Arni - Dharmavaram - Pochampalli - Banarasi",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (90%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "పెళ్లಿಚూపుల చీరలపై ప్రత్యేక కాంబో ఆఫర్లు",
+    "evidence": "పెళ్లిచూపుల చీరలపై ప్రత్యేక కాంబో ఆఫర్లు",
+    "english": "Special combo offers on engagement sarees",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (83%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Grooms Collections",
+     "area": "Tilak Garden opposite",
+     "city": "Nizamabad",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "GROOMS COLLECTIONS, తిలక్ గార్డెన్ ఎదురుగా, స్టేషన్ రోడ్, నిజామాబాద్",
+    "english": null,
+    "confidence": 0.55,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (76%)",
+     "dealer name not confirmed by OCR",
+     "dealer: no existing record matches; city: no exact record; closest: Ahmedabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Wedding collection for brides and grooms",
+  "Special combo offers on engagement sarees",
+  "Bridal gowns and lehengas",
+  "Suits, blazers, sherwanis, dhoti sets",
+  "Shopping mall for suitings and shirtings",
+  "Location: Tilak Garden opposite, Station Road, Nizamabad"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "వధూవరులకు అత్యద్ుతమైనే శ్రేణిలి",
+   "score": 0.9444,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "విలక్షిణమైన వెడ్డింగ్ కలెక్షిన్",
+   "score": 0.977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "C9",
+   "score": 0.7715,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "వెడింగ",
+   "score": 0.9527,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "కలెక్షిన్",
+   "score": 0.9621,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "సర్వ శ్రేటమైన పట్టీజలీతో",
+   "score": 0.8499,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "Samudrika",
+   "score": 0.9997,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 8,
+   "text": "తయారు చేయబడిన",
+   "score": 0.9402,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Pattu",
+   "score": 1.0,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 10,
+   "text": "Parinaya",
+   "score": 0.9925,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 11,
+   "text": "ఒరిజినల్ బ్రాండెడ్",
+   "score": 0.9767,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "GRCOMS",
+   "score": 0.9461,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "పట్టు చీరలు",
+   "score": 0.9599,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Saatvika",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "vastrakala",
+   "score": 0.9574,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 16,
+   "text": "Sampradaya",
+   "score": 0.9999,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 17,
+   "text": "Pattu",
+   "score": 0.9986,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 18,
+   "text": "Pattu",
+   "score": 0.9996,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 19,
+   "text": "pattu",
+   "score": 0.9999,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 20,
+   "text": "కంచి - ఆరణి - ధర్భవరం - పోచంపల్ల - బనారస్",
+   "score": 0.9567,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "పెట్బచుబడి చీరలపై",
+   "score": 0.906,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "ప్రత్యేక",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "కాంబో ఆఫర్లు",
+   "score": 0.993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "BRIDAL",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "Gowns & Lehengas",
+   "score": 0.9979,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "ది",
+   "score": 0.7705,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "చెన్నయ్",
+   "score": 0.9839,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "సూట్స - బ్లేజరస్",
+   "score": 0.9224,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "షేర్వాణీలు - ధోతి సెట్",
+   "score": 0.9715,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "షాపింగ్ మాల్",
+   "score": 0.9427,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "సూటింగ్-ష్టింగ్",
+   "score": 0.9445,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "ఫ్ా్రకస్",
+   "score": 0.8967,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "తిలక్ గార్డైన్ ఎదురుగా, సటేషన్ రోడ్, నిజామాబాద్",
+   "score": 0.959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "G",
+   "score": 0.8479,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "Printed and Published by Koganti Venkata Seshagiri Rao, on behalf of Aamoda Publications Pvt. Ltd., Printed and Published at Aamoda press, Gollapalli road.,Dharmaram(B)Village,Dichpally Mandal, Nizamabad- 503230. Editor: K. Srinivas, Ph. Nos. 08461-245301, 245306. Fax 293307,",
+   "score": 0.9947,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 25.0,
+  "extract": 23.17
+ }
+}

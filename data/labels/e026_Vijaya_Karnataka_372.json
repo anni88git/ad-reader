@@ -1,0 +1,68 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Indian Maritime University",
+   "IMU"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Management Programmes in Maritime Sector",
+   "MBA / BBA programmes"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "other"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Education > Universities & Colleges",
+   "Education"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Admission Open AY 2023-24"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "websites": [
+  "imu.edu.in"
+ ],
+ "emails": [
+  "cet23@imu.ac.in",
+  "bba23@imu.ac.in"
+ ],
+ "_uncertain_fields": []
+}

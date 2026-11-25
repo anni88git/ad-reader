@@ -1,0 +1,1025 @@
+{
+ "image": "028_Dainik_Jagran__5.jpg",
+ "fields": {
+  "brand": {
+   "value": "Nissan",
+   "evidence": "NISSAN",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Nissan' (#12)"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Nissan",
+     "score": 100.0
+    },
+    {
+     "id": 80,
+     "name": "Kissan",
+     "score": 83.3
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Magnite",
+   "evidence": "MAGNITE",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Magnite' (#99)"
+   ],
+   "matched_id": 99,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 99,
+     "name": "Magnite",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": "Geza Special Edition",
+   "evidence": "INTRODUCING NISSAN MAGNITE GEZA SPECIAL EDITION",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Nissan",
+   "evidence": "NISSAN",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "MAGNITE IS MUSIC",
+   "evidence": "MAGNITE IS MUSIC",
+   "english": "Magnite is Music",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "INTRODUCING NISSAN MAGNITE GEZA SPECIAL EDITION",
+   "evidence": "INTRODUCING NISSAN MAGNITE GEZA SPECIAL EDITION",
+   "english": "Introducing Nissan Magnite Geza Special Edition",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "REQUEST A CALL BACK: 8879509258",
+   "evidence": "REQUEST A CALL BACK: 8879509258",
+   "english": "Request a call back on 8879509258",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 739000,
+   "evidence": "₹7 39 000",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (739,000)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Nissan Magnite Geza Special Edition",
+    "GEZA EDITION ₹7 39 000",
+    "RANGE STARTS ₹5 99 900",
+    "AVAIL BENEFITS UP TO ₹67 000 + BOOK & WIN ADDITIONAL GIFTS",
+    "Dynamic Branding",
+    "High-End Speakers from JBL",
+    "Ambient Mood Light (App Based)",
+    "Bigger 22.86 cm (9\") Infotainment Screen with wireless Connectivity",
+    "REQUEST A CALL BACK: 8879509258",
+    "Also Available In CSD"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Nissan is introducing the Magnite Geza Special Edition. The Geza Edition is priced at ₹7,39,000, with the range starting at ₹5,99,900. Customers can avail benefits up to ₹67,000 plus book and win additional gifts. Features include dynamic branding, JBL high-end speakers, app-based ambient mood light, and a bigger 22.86 cm (9\") infotainment screen with wireless connectivity. Readers can request a call back on 8879509258.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8879509258",
+     "kind": "mobile",
+     "as_printed": "8879509258"
+    },
+    "evidence": "REQUEST A CALL BACK: 8879509258",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9731169831",
+     "kind": "mobile",
+     "as_printed": "9731169831"
+    },
+    "evidence": "OKHLA: YOUWE NISSAN- 9731169831",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9731170778",
+     "kind": "mobile",
+     "as_printed": "9731170778"
+    },
+    "evidence": "SAFDARJUNG: YOUWE NISSAN- 9731170778",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9731170445",
+     "kind": "mobile",
+     "as_printed": "9731170445"
+    },
+    "evidence": "FARIDABAD: YOUWE NISSAN- 9731170445",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9731169529",
+     "kind": "mobile",
+     "as_printed": "9731169529"
+    },
+    "evidence": "GURGAON: SECTOR 14: VERTEX NISSAN- 9731169529",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9731169773",
+     "kind": "mobile",
+     "as_printed": "9731169773"
+    },
+    "evidence": "GURGAON SOHNA ROAD: VERTEX NISSAN- 9731169773",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 739000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "GEZA EDITION",
+     "item": "Nissan Magnite Geza Edition",
+     "as_printed": "₹7 39 000"
+    },
+    "evidence": "₹7 39 000",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (739,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 599900,
+     "currency": "INR",
+     "kind": "price",
+     "label": "RANGE STARTS",
+     "item": "Nissan Magnite Geza Edition range",
+     "as_printed": "₹5 99 900"
+    },
+    "evidence": "₹5 99 900",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (599,900)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.nissan.in",
+    "evidence": "www.nissan.in",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (82%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "dealer.management@email.nissan.in",
+    "evidence": "For Dealership Enquiries Contact: dealer.management@email.nissan.in",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (90%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "/Nissanindia",
+    "evidence": "/Nissanindia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (91%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Dynamic Branding",
+    "evidence": "Dynamic Branding",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (93%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "High-End Speakers from JBL",
+    "evidence": "High-End Speakers from JBL",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Ambient Mood Light (App Based)",
+    "evidence": "Ambient Mood Light (App Based)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (94%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Bigger 22.86 cm (9\") Infotainment Screen with wireless Connectivity",
+    "evidence": "Bigger 22.86 cm (9\") Infotainment Screen with wireless Connectivity",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (96%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "₹67 000 + BOOK & WIN ADDITIONAL GIFTS",
+    "evidence": "AVAIL BENEFITS UP TO ₹67 000 + BOOK & WIN ADDITIONAL GIFTS",
+    "english": "Avail benefits up to ₹67,000 plus book and win additional gifts",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 67000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "AVAIL BENEFITS UP TO",
+     "item": "benefits",
+     "as_printed": "₹67 000"
+    },
+    "evidence": "₹67 000",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (67,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "YOUWE NISSAN",
+     "area": "OKHLA",
+     "city": "DELHI/NCR",
+     "phones": [
+      "9731169831"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "AUTHORIZED NISSAN DEALERS: DELHI/NCR: OKHLA: YOUWE NISSAN- 9731169831",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "YOUWE NISSAN",
+     "area": "SAFDARJUNG",
+     "city": "DELHI/NCR",
+     "phones": [
+      "9731170778"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SAFDARJUNG: YOUWE NISSAN- 9731170778",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "YOUWE NISSAN",
+     "area": "FARIDABAD",
+     "city": "DELHI/NCR",
+     "phones": [
+      "9731170445"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "FARIDABAD: YOUWE NISSAN- 9731170445",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VERTEX NISSAN",
+     "area": "SECTOR 14",
+     "city": "GURGAON",
+     "phones": [
+      "9731169529"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "GURGAON: SECTOR 14: VERTEX NISSAN- 9731169529",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VERTEX NISSAN",
+     "area": "SOHNA ROAD",
+     "city": "GURGAON",
+     "phones": [
+      "9731169773"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "GURGAON SOHNA ROAD: VERTEX NISSAN- 9731169773",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Nissan Magnite Geza Special Edition",
+  "GEZA EDITION ₹7 39 000",
+  "RANGE STARTS ₹5 99 900",
+  "AVAIL BENEFITS UP TO ₹67 000 + BOOK & WIN ADDITIONAL GIFTS",
+  "Dynamic Branding",
+  "High-End Speakers from JBL",
+  "Ambient Mood Light (App Based)",
+  "Bigger 22.86 cm (9\") Infotainment Screen with wireless Connectivity",
+  "REQUEST A CALL BACK: 8879509258",
+  "Also Available In CSD"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MAGNITE IS MUSIC",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "NISSAN",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "INTRODUCING NISSAN MAGNITE GEZA SPECIAL EDITION",
+   "score": 0.9914,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "ayicamins",
+   "score": 0.4554,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "a",
+   "score": 0.6523,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "MAGNITE",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "#BlgBoldBeautful",
+   "score": 0.9873,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "GEZA EDITION",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "AVAIL BENEFITS UP TO",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "DOL",
+   "score": 0.9134,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "77 39 000",
+   "score": 0.9496,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "67 000",
+   "score": 0.9725,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "GEZA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "RANGE STARTS",
+   "score": 0.9749,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "+",
+   "score": 0.9685,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "CEITON",
+   "score": 0.7613,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "BOOK&WIN",
+   "score": 0.9813,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "SCAN FOR",
+   "score": 0.9493,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "5 99 900",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "SCAN FOR",
+   "score": 0.943,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "ADDITIONAL GIFTS'",
+   "score": 0.9378,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "GEZAEDTION",
+   "score": 0.9422,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "SERVKCE",
+   "score": 0.8548,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 24,
+   "text": "Dynemic Branding",
+   "score": 0.9737,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "High-End Speakers",
+   "score": 0.9892,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Amblent Mood Light",
+   "score": 0.9774,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "Bigger 22.86 cm (97 Infotalnment",
+   "score": 0.9251,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "REQUESTACALLBACK8879509258",
+   "score": 0.9946,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "from JBL",
+   "score": 0.9365,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "(App Based)",
+   "score": 0.9687,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "Screen with Wlreless Connectivity",
+   "score": 0.9434,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "Book Nissan Magnite",
+   "score": 0.9432,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "www.nlssan.ln",
+   "score": 0.9826,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "/Nissenindla",
+   "score": 0.9261,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "/Nissan_Indla",
+   "score": 0.9334,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Also Avallable In CSD.",
+   "score": 0.9906,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "For Dealershlp Enqulrles Contact: dealer.manegement@emalLnissanJn",
+   "score": 0.9705,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "AUTHORIZED NISSAN DEALERS: DELHI/NCR: OKHLA: YOUWE NISSAN- 9731169831, SAFDARJUNG: YOUWE NISSAN- 9731170778, FARIDABAD: YOUWE NISSAN- 9731170445,",
+   "score": 0.9844,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 39,
+   "text": "GURGAON:SECTOR14:VERTEXNISSAN-9731169529, GURGAON SOHNAROAD: VERTEXNISSAN-9731169773.",
+   "score": 0.98,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "10 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 12.43,
+  "extract": 17.1
+ }
+}

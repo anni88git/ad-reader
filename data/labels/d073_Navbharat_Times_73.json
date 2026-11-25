@@ -1,0 +1,68 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Tata Sampann",
+   "Tata"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Tata Sampann Turmeric Powder",
+   "Turmeric Powder"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Food & Beverages",
+   "FMCG"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "आपकी हल्दी कितनी हेल्दी है?"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "qr_code_present",
+   "why": "drafter unsure"
+  }
+ ],
+ "_drafter_note": "QR printed on the pack image"
+}

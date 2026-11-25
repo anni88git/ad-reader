@@ -1,0 +1,77 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Pet Saffa",
+   "Dr. Juneja's"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Pet Saffa",
+   "Pet Saffa Natural Laxative Granules & Tablets",
+   "Natural Laxative Granules & Tablets"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG > Personal & Home Care"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "మలబద్ధకం • గ్యాస్ట్రిక్ ఎసిడిటీ",
+   "పేట్ సఫాతో అన్ని రోగాలు మాయం"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Telugu",
+    "English"
+   ],
+   [
+    "Telugu",
+    "English",
+    "Hindi"
+   ],
+   [
+    "Telugu"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "drafter unsure"
+  }
+ ]
+}

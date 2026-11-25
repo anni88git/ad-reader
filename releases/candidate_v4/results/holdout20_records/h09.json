@@ -1,0 +1,1814 @@
+{
+ "image": "h09_renault_412.jpg",
+ "fields": {
+  "brand": {
+   "value": "Renault",
+   "evidence": "RENAULT",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Renault' (#11)"
+   ],
+   "matched_id": 11,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 11,
+     "name": "Renault",
+     "score": 100.0
+    },
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 66.7
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Duster, Triber, Kwid",
+   "evidence": "RENAULT DUSTER\\nRENAULT TRIBER\\nRENAULT KWID",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (72%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model disagrees - suggestion: Duster",
+    "partial match only - confirm: Kwid"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 95,
+     "name": "Kwid",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Renault India Pvt. Ltd.",
+   "evidence": "Renault India Pvt. Ltd.",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: RENAULT Bhikaji Cama / RENAULT Mathura Road / RENAULT Mayapuri / RENAULT Motinagar / RENAULT North Delhi (Azadpur) / RENAULT Patparganj / RENAULT Ghaziabad City (Meerut Road) / RENAULT Modinagar / RENAULT Sohna Road / RENAULT MG Road / RENAULT Faridabad City (Bata Chowk) / RENAULT Noida (Sector 2) / RENAULT Noida (Sector 63) / RENAULT Bulandshahr / RENAULT Hapur / RENAULT Rewari / RENAULT Rohtak / RENAULT Sonepat",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "REASONS TO SMILE",
+   "evidence": "REASONS TO SMILE",
+   "english": "Reasons to Smile",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 67% similar) - check spelling",
+    "second model disagrees - suggestion: make your new year bigger than ever"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "make your new year bigger than ever",
+   "evidence": "make your new year bigger than ever",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: automatic transmission available on entire range"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Call on 1800 315 4444",
+   "evidence": "for a test drive, Call on 1800 315 4444",
+   "english": "Call 1800 315 4444 for a test drive",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "RENAULT REASONS TO SMILE make your new year bigger than ever",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "RENAULT DUSTER\\nRENAULT TRIBER\\nRENAULT KWID",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 957000,
+   "evidence": "₹ 9.57 lakh#",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (957,000)",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Renault Duster benefits up to ₹ 65 000",
+    "Renault Triber benefits up to ₹ 60 000",
+    "Renault Kwid benefits up to ₹ 50 000",
+    "Automatic transmission available on entire range",
+    "Limited stock available at old prices",
+    "5.99% rate of interest",
+    "Test drive call 1800 315 4444",
+    "Dealer showrooms across NCR and other cities"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Renault is offering New Year benefits on Duster, Triber and Kwid with prices starting at ₹ 9.57 lakh, ₹ 5.20 lakh and ₹ 3.13 lakh respectively, plus automatic transmission on the entire range and 5.99% interest rate; call 1800 315 4444 for a test drive.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18003154444",
+     "kind": "toll_free",
+     "as_printed": "1800 315 4444"
+    },
+    "evidence": "Call on 1800 315 4444",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8377003363",
+     "kind": "mobile",
+     "as_printed": "+91 8377003363"
+    },
+    "evidence": "RENAULT Bhikaji Cama Mob: +91 8377003363",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428201764",
+     "kind": "mobile",
+     "as_printed": "+91 7428201764"
+    },
+    "evidence": "RENAULT Mathura Road Mob: +91 7428201764",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290039351",
+     "kind": "mobile",
+     "as_printed": "+91 7290039351"
+    },
+    "evidence": "RENAULT Mayapuri Mob: +91 7290039351",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7428390229",
+     "kind": "mobile",
+     "as_printed": "+91 7428390229"
+    },
+    "evidence": "RENAULT Motinagar Mob: +91 7428390229",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "91729003961",
+     "kind": "unknown",
+     "as_printed": "+91 729003961"
+    },
+    "evidence": "RENAULT North Delhi (Azadpur) Mob: +91 729003961",
+    "english": null,
+    "confidence": 0.3,
+    "status": "missing",
+    "reasons": [
+     "not a valid Indian phone number (11 digits)",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9311243651",
+     "kind": "mobile",
+     "as_printed": "+91 9311243651"
+    },
+    "evidence": "RENAULT Patparganj: Mob: + 91 9311243651",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838216898",
+     "kind": "mobile",
+     "as_printed": "+91 7838216898"
+    },
+    "evidence": "RENAULT Ghaziabad City(Meerut Road) Mob: +91 7838216898",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818992255",
+     "kind": "mobile",
+     "as_printed": "+91 9818992255"
+    },
+    "evidence": "RENAULT Modinagar Mob: +91 9818992255",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8860025119",
+     "kind": "mobile",
+     "as_printed": "+91 8860025119"
+    },
+    "evidence": "RENAULT Sohna Road Mob: +91 8860025119",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290057225",
+     "kind": "mobile",
+     "as_printed": "+91 7290057225"
+    },
+    "evidence": "RENAULT MG Road Mob: +91 7290057225",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8860681876",
+     "kind": "mobile",
+     "as_printed": "+91 8860681876"
+    },
+    "evidence": "RENAULT Faridabad City (Bata Chowk) Mob: +91 8860681876",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8373914175",
+     "kind": "mobile",
+     "as_printed": "+91 8373914175"
+    },
+    "evidence": "RENAULT Bulandshahr Mob: +91 8373914175",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8373914282",
+     "kind": "mobile",
+     "as_printed": "+91 8373914282"
+    },
+    "evidence": "RENAULT Hapur Mob: +91 8373914282",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9643335838",
+     "kind": "mobile",
+     "as_printed": "+91 9643335838"
+    },
+    "evidence": "RENAULT Rewari Mob: +91 9643335838",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8588879054",
+     "kind": "mobile",
+     "as_printed": "+91 8588879054"
+    },
+    "evidence": "RENAULT Rohtak Mob: +91 8588879054",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290041716",
+     "kind": "mobile",
+     "as_printed": "+91 7290041716"
+    },
+    "evidence": "RENAULT Sonepat Mob: +91 7290041716",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290041479",
+     "kind": "mobile",
+     "as_printed": "+91 7290041479"
+    },
+    "evidence": "RENAULT Noida (Sector 2) Mob: +91 7290041479",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7603976213",
+     "kind": "mobile",
+     "as_printed": "+91 7603976213"
+    },
+    "evidence": "RENAULT Noida (Sector 63) Mob: +91 7603976213",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 957000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "price starting at",
+     "item": "RENAULT DUSTER",
+     "as_printed": "₹ 9.57 lakh#"
+    },
+    "evidence": "₹ 9.57 lakh#",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (957,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 520000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "price starting at",
+     "item": "RENAULT TRIBER",
+     "as_printed": "₹ 5.20 lakh#"
+    },
+    "evidence": "₹ 5.20 lakh#",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (520,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 313000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "price starting at",
+     "item": "RENAULT KWID",
+     "as_printed": "₹ 3.13 lakh#"
+    },
+    "evidence": "₹ 3.13 lakh#",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (313,000)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "renault.co.in",
+    "evidence": "for further details visit renault.co.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "corpsales@renault.com",
+    "evidence": "contact corpsales@renault.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "automatic transmission available on entire range",
+    "evidence": "automatic transmission available on entire range",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "also available in 1.3l turbo petrol engine",
+    "evidence": "also available in 1.3l turbo petrol engine",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "benefits up to ₹ 65 000^",
+    "evidence": "benefits up to ₹ 65 000^",
+    "english": "benefits up to ₹ 65 000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "benefits up to ₹ 60 000##",
+    "evidence": "benefits up to ₹ 60 000##",
+    "english": "benefits up to ₹ 60 000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "benefits up to ₹ 50 000*",
+    "evidence": "benefits up to ₹ 50 000*",
+    "english": "benefits up to ₹ 50 000",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "5.99% rate of interest\"",
+    "evidence": "5.99% rate of interest\"",
+    "english": "5.99% rate of interest",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "easy care package for 3 years or 50 000 km^^",
+    "evidence": "easy care package for 3 years or 50 000 km^^",
+    "english": "easy care package for 3 years or 50 000 km",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "limited stock available at old prices",
+    "evidence": "limited stock available at old prices",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "RENAULT Bhikaji Cama",
+     "area": "Bhikaji Cama",
+     "city": "South Delhi",
+     "phones": [
+      "8377003363"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHOWROOMS: NCR: SOUTH DELHI:\\nRENAULT Bhikaji Cama Mob: +91 8377003363",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (95%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Mathura Road",
+     "area": "Mathura Road",
+     "city": "South Delhi",
+     "phones": [
+      "7428201764"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHOWROOMS: NCR: SOUTH DELHI:\\nRENAULT Mathura Road Mob: +91 7428201764",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (95%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Mayapuri",
+     "area": "Mayapuri",
+     "city": "West Delhi",
+     "phones": [
+      "7290039351"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHOWROOMS: NCR: WEST DELHI:\\nRENAULT Mayapuri Mob: +91 7290039351",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (95%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Motinagar",
+     "area": "Motinagar",
+     "city": "West Delhi",
+     "phones": [
+      "7428390229"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHOWROOMS: NCR: WEST DELHI:\\nRENAULT Motinagar Mob: +91 7428390229",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (95%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT North Delhi (Azadpur)",
+     "area": "Azadpur",
+     "city": "North Delhi",
+     "phones": [
+      "91729003961"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHOWROOMS: NCR: NORTH DELHI:\\nRENAULT North Delhi (Azadpur) Mob: +91 729003961",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (96%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Patparganj",
+     "area": "Patparganj",
+     "city": "East Delhi",
+     "phones": [
+      "9311243651"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SHOWROOMS: NCR: EAST DELHI:\\nRENAULT Patparganj: Mob: + 91 9311243651",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (95%)",
+     "dealer: no existing record matches; city: partial match only - confirm: Delhi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Ghaziabad City (Meerut Road)",
+     "area": "Ghaziabad City (Meerut Road)",
+     "city": "Ghaziabad",
+     "phones": [
+      "7838216898"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "GHAZIABAD:\\nRENAULT Ghaziabad City(Meerut Road) Mob: +91 7838216898",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (91%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Modinagar",
+     "area": "Modinagar",
+     "city": "Ghaziabad",
+     "phones": [
+      "9818992255"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 18,
+     "city_id": null
+    },
+    "evidence": "GHAZIABAD:\\nRENAULT Modinagar Mob: +91 9818992255",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (76%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Ghaziabad' (#18)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Sohna Road",
+     "area": "Sohna Road",
+     "city": "Gurugram",
+     "phones": [
+      "8860025119"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "GURUGRAM:\\nRENAULT Sohna Road Mob: +91 8860025119",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (78%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT MG Road",
+     "area": "MG Road",
+     "city": "Gurugram",
+     "phones": [
+      "7290057225"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 21,
+     "city_id": null
+    },
+    "evidence": "GURUGRAM:\\nRENAULT MG Road Mob: +91 7290057225",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (76%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Gurugram' (#21)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Faridabad City (Bata Chowk)",
+     "area": "Faridabad City (Bata Chowk)",
+     "city": "Faridabad",
+     "phones": [
+      "8860681876"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 22,
+     "city_id": null
+    },
+    "evidence": "FARIDABAD:\\nRENAULT Faridabad City (Bata Chowk) Mob: +91 8860681876",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (82%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Faridabad' (#22)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Noida (Sector 2)",
+     "area": "Noida (Sector 2)",
+     "city": "Noida",
+     "phones": [
+      "7290041479"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "NOIDA:\\nRENAULT Noida (Sector 2) Mob: +91 7290041479",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (93%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Noida (Sector 63)",
+     "area": "Noida (Sector 63)",
+     "city": "Noida",
+     "phones": [
+      "7603976213"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 17,
+     "city_id": null
+    },
+    "evidence": "NOIDA:\\nRENAULT Noida (Sector 63) Mob: +91 7603976213",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (94%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Noida' (#17)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Bulandshahr",
+     "area": "Bulandshahr",
+     "city": "Bulandshahr",
+     "phones": [
+      "8373914175"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "BULANDSHAHR: RENAULT Bulandshahr Mob: +91 8373914175",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Bhubaneswar"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Hapur",
+     "area": "Hapur",
+     "city": "Hapur",
+     "phones": [
+      "8373914282"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 60.9
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "HAPUR: RENAULT Hapur Mob: +91 8373914282",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: no exact record; closest: Jaipur, Kanpur, Raipur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Rewari",
+     "area": "Rewari",
+     "city": "Rewari",
+     "phones": [
+      "9643335838"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "REWARI: RENAULT Rewari Mob: +91 9643335838",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Rohtak",
+     "area": "Rohtak",
+     "city": "Rohtak",
+     "phones": [
+      "8588879054"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ROHTAK: RENAULT Rohtak Mob: +91 8588879054",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Kota"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "RENAULT Sonepat",
+     "area": "Sonepat",
+     "city": "Sonepat",
+     "phones": [
+      "7290041716"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SONEPAT: RENAULT Sonepat Mob: +91 7290041716",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "fuel_type": {
+   "value": [
+    "Petrol"
+   ],
+   "evidence": "also available in 1.3l turbo petrol engine",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "normalised from '1.3l turbo petrol engine'"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "transmission": {
+   "value": "automatic transmission available on entire range",
+   "evidence": "automatic transmission available on entire range",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "5.99% rate of interest\"",
+   "evidence": "5.99% rate of interest\"",
+   "english": "5.99% rate of interest",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ev_type": {
+   "value": "Non-EV",
+   "evidence": "also available in 1.3l turbo petrol engine",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "derived by rule from fuel types ['Petrol'] (only fully electric = EV)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Renault Duster benefits up to ₹ 65 000",
+  "Renault Triber benefits up to ₹ 60 000",
+  "Renault Kwid benefits up to ₹ 50 000",
+  "Automatic transmission available on entire range",
+  "Limited stock available at old prices",
+  "5.99% rate of interest",
+  "Test drive call 1800 315 4444",
+  "Dealer showrooms across NCR and other cities"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "RENAULT-",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "RENAULT",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "REASONS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "Passion for life",
+   "score": 0.998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "TO SMILE",
+   "score": 0.9722,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "make your new year bigger than ever",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "CUSTER",
+   "score": 0.9984,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "TRIBER",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "KWID",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "automatic transmission available on entire range",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "limited stock available at old prices",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "RENAULT DUSTER",
+   "score": 0.9931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "benefits up to 65 000^",
+   "score": 0.9556,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "RENAULT TRIBER",
+   "score": 0.9884,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "RENAULT KWID",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "price starting at 9.57 lakh#",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "benefits up to 60 000##",
+   "score": 0.967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "benefits up to 50 000*",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "5.99%",
+   "score": 0.9809,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "easy care package for 3 years or 50 000 km^^",
+   "score": 0.9706,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "price starting at 5.20 lakh#",
+   "score": 0.9818,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "price starting at 3.13 lakh#",
+   "score": 0.9868,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "also available in 1.3l turbo petrol engine",
+   "score": 0.9908,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "rate of interest\"",
+   "score": 0.9729,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "for further details visit renault.co.in",
+   "score": 0.987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "for a test drive, Call on 1800 315 4444. select variants available in CSD. special offers for defence personnel, government, psu and corporate employees. Kwid and Triber available through csd. for bulk enquiries, contact corpsales@renault.com",
+   "score": 0.9964,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 27,
+   "text": "terms and conditions apply. #prices mentioned above are for base variant for ex-showroom Delhi for each model and are exclusive of local taxes. *the benefits up to 50 000 for Kwid include cash benefit of up to 20 000, exchange benefit of up to 20 000 & loyalty benefit of up to 10 000 (which includes exchange benefit on Renault model or cash",
+   "score": 0.988,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "discount on buying additional Renault model) on select versions.##the benefits up to 60 000 for Triber includes cash benefit of up to 20 000, exchange benefit of up to 30 000, loyalty benefit of up to 10 000 (which includes exchange benefit on Renault model or cash discount on buying additional Renault model) on select versions. ^the benefits",
+   "score": 0.9599,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 29,
+   "text": "up to 65 000 for Duster applicable includes cash benefit of up to 20 000, exchange benefit of up to 30 000, loyalty benefit up to 15 000 (which includes exchange benefit on Renault model or cash discount on buying additional Renault model) on select versions. ^easy care package of 3 years or 50 000 km is eigible only for existing Duster owners",
+   "score": 0.9621,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 30,
+   "text": "(any version) buying an additional duster 1.3 turbo orexchange existing Duster (any version) with Duster 1.3l turbo. corporate/psu/defence personnel/goverment employee/professlionals benefits applicable for each model are basis eligibility of the customer and based on submission of required proof by the customer.**5.99% rate of interest is calculated",
+   "score": 0.9628,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "valid till31st january 2021 and are through Renault dealership. for detalled offers, visit www.renault.co.in/offers. Renault India Pvt. Ltd. reserves the right to change or modify the mentioned schemes and conditions without prior notice. Renault India Pvt. Ltd. shall not be liable for any loss or damage arising from your failure to comply or understand the",
+   "score": 0.9581,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 32,
+   "text": "on a loan amount of 2 lakh for Kwid for a tenure of 18 months, 3.89 lakh for Triber for a tenure of 18 months. rate of interest may vary based on loan amount and tenure. not valid for any added loan amount and tenure.finance at the sole discretion of Renault finance. offers may vary across variants and cities. the above mentioned offers & benefits are",
+   "score": 0.9655,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "offer details. in the event of any dispute, all matters shall be governed by all applicable laws of India and court at Gurugram shall have the exclusive jurisdiction. for detailed terms and conditions, please visit www.renault.co.in",
+   "score": 0.9842,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 34,
+   "text": "SHOWROOMS: NCR: SOUTH DELHI:",
+   "score": 0.9913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "WEST DELHI:",
+   "score": 0.9983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "NORTH DELHI:",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "EAST DELHI:",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "RENAULT Bhikaji Cama Mob: +91 8377003363",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "RENAULT Mayapuri Mob: +91 7290039351",
+   "score": 0.9933,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "RENAULT North Delhi (Azadpur) Mob: +91 729003961",
+   "score": 0.9917,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "RENAULT Patparganj: Mob: + 91 9311243651",
+   "score": 0.9932,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "RENAULT Mathura Road Mob: +91 7428201764",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "RENAULT Motinagar Mob: +91 7428390229",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "GHAZIABAD:",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "GURUGRAM:",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "FARIDABAD:",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "NOIDA:",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "RENAULT Ghaziabad City(Meerut Road) Mob: +91 7838216898",
+   "score": 0.9807,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "RENAULT Sohna Road Mob: +91 8860025119",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "RENAULT Faridabad City (Bata Chowk) Mob: +91 8860681876",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "RENAULT Noida (Sector 2) Mob: +91 7290041479",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "RENAULT Modinagar Mob: +91 9818992255",
+   "score": 0.9901,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "RENAULT MG Road Mob: +91 7290057225",
+   "score": 0.9741,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "RENAULT Noida (Sector 63) Mob: +91 7603976213",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "BULANDSHAHR: RENAULT Bulandshahr Mob: +91 8373914175. HAPUR: RENAULT Hapur Mob: +91 8373914282. REWARI: RENAULT Rewari Mob: +91 9643335838. ROHTAK: RENAULT Rohtak Mob: +91 8588879054. SONEPAT: RENAULT",
+   "score": 0.9865,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 56,
+   "text": "Sonepat Mob: +91 7290041716.",
+   "score": 0.9835,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "LK | SAATCHI & SAATCHI",
+   "score": 0.9298,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 17.61,
+  "extract": 41.09
+ }
+}

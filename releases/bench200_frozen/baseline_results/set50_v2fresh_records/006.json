@@ -1,0 +1,3575 @@
+{
+ "image": "006_maruti_suzuki_410.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Baleno",
+   "evidence": "BALENO",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Baleno' (#12)"
+   ],
+   "matched_id": 12,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 12,
+     "name": "Baleno",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: NEXA AKSHARDHAM / NEXA PATPARGANJ / NEXA DILSHAD GARDEN / NEXA GOKULPURI / NEXA PREET VIHAR / NEXA LAJPAT NAGAR / NEXA GREEN PARK / NEXA OKHLA PHASE 1 / NEXA EAST OF KAILASH / NEXA MOTI NAGAR / NEXA DWARKA SECTOR 14 / NEXA PUNJABI BAGH / NEXA MAYAPURI / NEXA DWARKA SECTOR 9 / NEXA RAJOURI GARDEN / NEXA ROHINI SECTOR 10 / NEXA NARELA / NEXA PITAMPURA / NEXA GT KARNAL ROAD / NEXA WAZIRPUR / NEXA SECTOR 1 / NEXA SECTOR 63 / NEXA SECTOR 10 / NEXA IND AREA GREATER NOIDA / PLATINUM MOTO CORP / NEXA IMT MANESAR / NEXA SAHIBABAD / NEXA MEERUT ROAD / PASCO AUTOMOBILES / NEXA MATHURA ROAD / NEXA NIT / NEXA BATA CHOWK / NEXA PALWAL CENTRAL / NEXA SECTOR 29 GURUGRAM / NEXA SOHNA ROAD / NEXA SECTOR 62 / NEXA IDC SEC 14 GURUGRAM / NEXA MG ROAD / NEXA RAJIV CHOWK GURUGRAM / NEXA SOHNA / NEXA DELHI ROAD",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)",
+    "record #9 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 9,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "INSPIRING DESIGN. INCREDIBLE BOLD APPEAL.",
+   "evidence": "INSPIRING DESIGN.\nINCREDIBLE BOLD APPEAL.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "MAKE BOLDER MOVES.",
+   "evidence": "MAKE BOLDER MOVES.",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Baleno is created to inspire boldness. Its unique liquid flow design and state-of-the-art technology have made it the fastest-selling premium hatchback in the industry. Join the family of over 9 Lakh happy customers.",
+   "evidence": "Baleno is created to inspire boldness. Its unique liquid flow design and state-of-the-art technology have made it the fastest-selling premium hatchback in the industry. Join the family of over 9 Lakh happy customers.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "VISIT YOUR NEAREST DEALERSHIP TO GET EXCITING CONSUMER/EXCHANGE OFFERS.*",
+   "evidence": "VISIT YOUR NEAREST DEALERSHIP TO GET EXCITING CONSUMER/EXCHANGE OFFERS.*",
+   "english": "Visit your nearest dealership to get exciting consumer/exchange offers.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "BALENO",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://bit.ly/3lfEEgZ)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://bit.ly/3lfEEgZ",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Maruti Suzuki Baleno premium hatchback",
+    "Inspiring design and incredible bold appeal",
+    "Fastest-selling premium hatchback in the industry",
+    "Over 9 Lakh happy customers",
+    "Smart Hybrid Technology, 1.2L VVT Petrol Engine, Dual Tone Interiors, Smartplay Studio, Advanced Automatic Transmission (CVT)",
+    "NEXA Safety Shield features",
+    "Also available via subscription",
+    "Visit nearest dealership for consumer/exchange offers",
+    "Smart Finance car finance solution"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki Baleno is a premium hatchback with inspiring design and bold appeal, featuring Smart Hybrid Technology, 1.2L VVT Petrol Engine, Dual Tone Interiors, Smartplay Studio, CVT transmission, and NEXA Safety Shield. It is also available via subscription. Readers are invited to visit their nearest dealership for exciting consumer/exchange offers or contact NEXA for smart finance options.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18002006392",
+     "kind": "toll_free",
+     "as_printed": "1800-200-6392"
+    },
+    "evidence": "1800-200-6392",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "1800102",
+     "kind": "landline",
+     "as_printed": "1800-102-NEXA"
+    },
+    "evidence": "1800-102-NEXA",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999525161",
+     "kind": "mobile",
+     "as_printed": "PH: 9999525161"
+    },
+    "evidence": "PH: 9999525161",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8929400503",
+     "kind": "mobile",
+     "as_printed": "PH:8929400503"
+    },
+    "evidence": "PH:8929400503",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8377007962",
+     "kind": "mobile",
+     "as_printed": "PH: 8377007962"
+    },
+    "evidence": "PH: 8377007962",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9870194313",
+     "kind": "mobile",
+     "as_printed": "PH: 9870194313"
+    },
+    "evidence": "PH: 9870194313",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290091122",
+     "kind": "mobile",
+     "as_printed": "PH:7290091122"
+    },
+    "evidence": "PH:7290091122",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818199367",
+     "kind": "mobile",
+     "as_printed": "PH: 9818199367"
+    },
+    "evidence": "PH: 9818199367",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290099520",
+     "kind": "mobile",
+     "as_printed": "PH: 7290099520"
+    },
+    "evidence": "PH: 7290099520",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01142900000",
+     "kind": "landline",
+     "as_printed": "PH:011-42900000,7065074531"
+    },
+    "evidence": "PH:011-42900000,7065074531",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999788886",
+     "kind": "mobile",
+     "as_printed": "PH: 9999788886"
+    },
+    "evidence": "PH: 9999788886",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8448993400",
+     "kind": "mobile",
+     "as_printed": "PH:8448993400"
+    },
+    "evidence": "PH:8448993400",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8860011600",
+     "kind": "mobile",
+     "as_printed": "PH: 8860011600"
+    },
+    "evidence": "PH: 8860011600",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9081900800",
+     "kind": "mobile",
+     "as_printed": "PH:9081900800"
+    },
+    "evidence": "PH:9081900800",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838555076",
+     "kind": "mobile",
+     "as_printed": "PH:7838555076"
+    },
+    "evidence": "PH:7838555076",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290075604",
+     "kind": "mobile",
+     "as_printed": "PH: 7290075604"
+    },
+    "evidence": "PH: 7290075604",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999525750",
+     "kind": "mobile",
+     "as_printed": "PH: 9999525750"
+    },
+    "evidence": "PH: 9999525750",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7290054930",
+     "kind": "mobile",
+     "as_printed": "PH: 7290054930"
+    },
+    "evidence": "PH: 7290054930",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7838555047",
+     "kind": "mobile",
+     "as_printed": "PH: 7838555047"
+    },
+    "evidence": "PH: 7838555047",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7289999111",
+     "kind": "mobile",
+     "as_printed": "PH: 7289999111"
+    },
+    "evidence": "PH: 7289999111",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9582668646",
+     "kind": "mobile",
+     "as_printed": "PH: 9582668646"
+    },
+    "evidence": "PH: 9582668646",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8376800026",
+     "kind": "mobile",
+     "as_printed": "PH: 8376800026"
+    },
+    "evidence": "PH: 8376800026",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9599814775",
+     "kind": "mobile",
+     "as_printed": "PH: 9599814775"
+    },
+    "evidence": "PH: 9599814775",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953993450",
+     "kind": "mobile",
+     "as_printed": "PH: 9953993450"
+    },
+    "evidence": "PH: 9953993450",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8744000600",
+     "kind": "mobile",
+     "as_printed": "PH: 8744000600"
+    },
+    "evidence": "PH: 8744000600",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9953345301",
+     "kind": "mobile",
+     "as_printed": "PH: 9953345301"
+    },
+    "evidence": "PH: 9953345301",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8130582222",
+     "kind": "mobile",
+     "as_printed": "PH: 8130582222"
+    },
+    "evidence": "PH: 8130582222",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9599040601",
+     "kind": "mobile",
+     "as_printed": "PH: 9599040601"
+    },
+    "evidence": "PH: 9599040601",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999120572",
+     "kind": "mobile",
+     "as_printed": "PH: 9999120572"
+    },
+    "evidence": "PH: 9999120572",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01294121212",
+     "kind": "landline",
+     "as_printed": "PH:1294121212"
+    },
+    "evidence": "PH:1294121212",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9599814771",
+     "kind": "mobile",
+     "as_printed": "PH:9599814771"
+    },
+    "evidence": "PH:9599814771",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9311864040",
+     "kind": "mobile",
+     "as_printed": "PH: 9311864040"
+    },
+    "evidence": "PH: 9311864040",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999525740",
+     "kind": "mobile",
+     "as_printed": "PH: 9999525740"
+    },
+    "evidence": "PH: 9999525740",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01242877000",
+     "kind": "landline",
+     "as_printed": "PH:0124-2877000,7290025353"
+    },
+    "evidence": "PH:0124-2877000,7290025353",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7404666666",
+     "kind": "mobile",
+     "as_printed": "PH:7404666666"
+    },
+    "evidence": "PH:7404666666",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7065074501",
+     "kind": "mobile",
+     "as_printed": "PH:0124-40000,7065074501"
+    },
+    "evidence": "PH:0124-40000,7065074501",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9711290001",
+     "kind": "mobile",
+     "as_printed": "PH: 9711290001"
+    },
+    "evidence": "PH: 9711290001",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8585991111",
+     "kind": "mobile",
+     "as_printed": "PH: 8585991111"
+    },
+    "evidence": "PH: 8585991111",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9899961000",
+     "kind": "mobile",
+     "as_printed": "PH: 9899961000"
+    },
+    "evidence": "PH: 9899961000",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7082100301",
+     "kind": "mobile",
+     "as_printed": "PH:7082100301"
+    },
+    "evidence": "PH:7082100301",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.nexaexperience.com",
+    "evidence": "www.nexaexperience.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Smart Hybrid Technology",
+    "evidence": "Smart Hybrid Technology",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "1.2L VVT Petrol Engine",
+    "evidence": "1.2L VVT Petrol Engine",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Dual Tone Interiors",
+    "evidence": "Dual Tone Interiors",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Smartplay Studio",
+    "evidence": "Smartplay Studio",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Advanced Automatic Transmission (CVT)",
+    "evidence": "Advanced Automatic Transmission (CVT)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "DUAL FRONT AIRBAGS",
+    "evidence": "DUAL FRONT AIRBAGS",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ABS WITH EBD",
+    "evidence": "ABS WITH EBD",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "PEDESTRIAN PROTECTION COMPLIANCE",
+    "evidence": "PEDESTRIAN PROTECTION COMPLIANCE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "FULL FRONTAL IMPACT COMPLIANCE, FRONTAL OFFSET IMPACT COMPLIANCE, SIDE IMPACT COMPLIANCE",
+    "evidence": "FULL FRONTAL IMPACT COMPLIANCE, FRONTAL OFFSET IMPACT COMPLIANCE, SIDE IMPACT COMPLIANCE",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "VISIT YOUR NEAREST DEALERSHIP TO GET EXCITING CONSUMER/EXCHANGE OFFERS.*",
+    "evidence": "VISIT YOUR NEAREST DEALERSHIP TO GET EXCITING CONSUMER/EXCHANGE OFFERS.*",
+    "english": "Visit your nearest dealership to get exciting consumer/exchange offers.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ALSO AVAILABLE VIA SUBSCRIPTION. SCAN TO KNOW MORE.",
+    "evidence": "ALSO AVAILABLE VIA SUBSCRIPTION. SCAN TO KNOW MORE.",
+    "english": "Also available via subscription. Scan to know more.",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "NEXA AKSHARDHAM",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9999525161"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA AKSHARDHAM\nFAIR DEAL PREMIUM WHEELS PVT. LTD.\nPH: 9999525161",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA PATPARGANJ",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8929400503"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA PATPARGANJ\nMAGIC AUTO\nPH:8929400503",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA DILSHAD GARDEN",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8377007962"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA DILSHAD GARDEN\nCOMPETENT AUTOMOBILES\nPH: 8377007962",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA GOKULPURI",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9870194313"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 66.7
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NEXA GOKULPURI\nVIPUL MOTORS PVT. LTD.\nPH: 9870194313",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA PREET VIHAR",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7290091122"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA PREET VIHAR\nTR SAWHNEY AUTOMOBILES\nPH:7290091122",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA LAJPAT NAGAR",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9818199367"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA LAJPAT NAGAR\nBAGGA LINK MOTORS\nPH: 9818199367",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA GREEN PARK",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7290099520"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA GREEN PARK\nTR SAWHNEY AUTOMOBILES\nPH: 7290099520",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA OKHLA PHASE 1",
+     "area": null,
+     "city": null,
+     "phones": [
+      "01142900000"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA OKHLA PHASE 1\nPREM MOTORS\nPH:011-42900000,7065074531",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA EAST OF KAILASH",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9999788886"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA EAST OF KAILASH\nRANA MOTORS\nPH: 9999788886",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MOTI NAGAR",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8448993400"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA MOTI NAGAR\nAAA VEHICLEADES PVT. LTD.\nPH:8448993400",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA DWARKA SECTOR 14",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8860011600"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA DWARKA SECTOR 14\nCOMPETENT AUTOMOBILES\nPH: 8860011600",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA PUNJABI BAGH",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9081900800"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA PUNJABI BAGH\nDD MOTORS\nPH:9081900800",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MAYAPURI",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7838555076"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 69.6
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NEXA MAYAPURI\nKRISH AUTOMOBILES\nPH:7838555076",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA DWARKA SECTOR 9",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7290075604"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA DWARKA SECTOR 9\nMAGIC AUTO\nPH: 7290075604",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA RAJOURI GARDEN",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9999525750"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA RAJOURI GARDEN\nTR SAWHNEY AUTOMOBILES\nPH: 9999525750",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA ROHINI SECTOR 10",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7290054930"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA ROHINI SECTOR 10\nJAGMOHAN AUTOMOTIVES PVT. LTD.\nPH: 7290054930",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA NARELA",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9081900800"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA NARELA\nDD MOTORS\nPH:9081900800",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA PITAMPURA",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7838555047"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 66.7
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NEXA PITAMPURA\nKRISH MOTORS\nPH: 7838555047",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA GT KARNAL ROAD",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7289999111"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA GT KARNAL ROAD\nRANA MOTORS\nPH: 7289999111",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA WAZIRPUR",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9582668646"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 78.3
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NEXA WAZIRPUR\nCOMPETENT AUTOMOBILES\nPH: 9582668646",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SECTOR 1",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8376800026"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SECTOR 1\nROHAN MOTORS\nPH: 8376800026",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SECTOR 63",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9599814775"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SECTOR 63\nVIPUL MOTORS\nPH: 9599814775",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SECTOR 10",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9953993450"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SECTOR 10\nFAIR DEAL PREMIUM WHEELS PVT LTD.\nPH: 9953993450",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA IND AREA GREATER NOIDA",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8744000600"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA IND AREA GREATER NOIDA\nROHAN MOTORS\nPH: 8744000600",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PLATINUM MOTO CORP",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9953345301"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PLATINUM MOTO CORP\nPH: 9953345301",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA IMT MANESAR",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8130582222"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA IMT MANESAR\nMOTORCRAFT SALES\nPH: 8130582222",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SAHIBABAD",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9599040601"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SAHIBABAD\nROHAN MOTORS LTD.\nPH: 9599040601",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MEERUT ROAD",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9999120572"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA MEERUT ROAD\nBVA AUTO\nPH: 9999120572",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PASCO AUTOMOBILES",
+     "area": null,
+     "city": null,
+     "phones": [
+      "01294121212"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PASCO AUTOMOBILES\nPH:1294121212",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MATHURA ROAD",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9599814771"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA MATHURA ROAD\nVIPUL MOTORS\nPH:9599814771",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA NIT",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9311864040"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 5,
+       "name": "Nexa Udaipur",
+       "score": 62.7
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "NEXA NIT\nAUTONATION\nPH: 9311864040",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no exact record; closest: Nexa Udaipur; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA BATA CHOWK",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9999525740"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA BATA CHOWK\nTR SAWHNEY AUTOMOBILES\nPH: 9999525740",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA PALWAL CENTRAL",
+     "area": null,
+     "city": null,
+     "phones": [
+      "01242877000"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA PALWAL CENTRAL\nCOMPETENT AUTOMOBILES\nPH:0124-2877000,7290025353",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SECTOR 29 GURUGRAM",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7404666666"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SECTOR 29 GURUGRAM\nVIPUL MOTORS\nPH:7404666666",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SOHNA ROAD",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7065074501"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SOHNA ROAD\nPREM MOTORS\nPH:0124-40000,7065074501",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SECTOR 62",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9711290001"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SECTOR 62\nPASCO AUTOMOBILES\nPH: 9711290001",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA IDC SEC 14 GURUGRAM",
+     "area": null,
+     "city": null,
+     "phones": [
+      "8585991111"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA IDC SEC 14 GURUGRAM\nRANA MOTORS\nPH: 8585991111",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA MG ROAD",
+     "area": null,
+     "city": null,
+     "phones": [
+      "9899961000"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA MG ROAD\nPASCO AUTOMOBILES\nPH: 9899961000",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA RAJIV CHOWK GURUGRAM",
+     "area": null,
+     "city": null,
+     "phones": [
+      "7082100301"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA RAJIV CHOWK GURUGRAM\nDINCO 4 WHEELS LLP\nPH:7082100301",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA SOHNA",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA SOHNA",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "NEXA DELHI ROAD",
+     "area": null,
+     "city": null,
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "NEXA DELHI ROAD",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "fuel_type": {
+   "value": [
+    "Petrol"
+   ],
+   "evidence": "1.2L VVT Petrol Engine",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "normalised from 'Petrol'"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "transmission": {
+   "value": "Advanced Automatic Transmission (CVT)",
+   "evidence": "Advanced Automatic Transmission (CVT)",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "engine": {
+   "value": "1.2L VVT Petrol Engine",
+   "evidence": "1.2L VVT Petrol Engine",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "safety_features": {
+   "value": "DUAL FRONT AIRBAGS, ABS WITH EBD, PEDESTRIAN PROTECTION COMPLIANCE, FULL FRONTAL IMPACT COMPLIANCE, FRONTAL OFFSET IMPACT COMPLIANCE, SIDE IMPACT COMPLIANCE",
+   "evidence": "DUAL FRONT AIRBAGS\nABS WITH EBD\nPEDESTRIAN PROTECTION COMPLIANCE\nFULL FRONTAL IMPACT COMPLIANCE, FRONTAL OFFSET IMPACT COMPLIANCE, SIDE IMPACT COMPLIANCE",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_type": {
+   "value": "hatchback",
+   "evidence": "fastest-selling premium hatchback in the industry",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "buyback_or_finance": {
+   "value": "SMART FINANCE AN ONLINE END-TO-END CAR FINANCE SOLUTION",
+   "evidence": "SMART FINANCE\nAN ONLINE END-TO-END\nCAR FINANCE SOLUTION",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ev_type": {
+   "value": "Non-EV",
+   "evidence": "1.2L VVT Petrol Engine",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "derived by rule from fuel types ['Petrol'] (only fully electric = EV)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Maruti Suzuki Baleno premium hatchback",
+  "Inspiring design and incredible bold appeal",
+  "Fastest-selling premium hatchback in the industry",
+  "Over 9 Lakh happy customers",
+  "Smart Hybrid Technology, 1.2L VVT Petrol Engine, Dual Tone Interiors, Smartplay Studio, Advanced Automatic Transmission (CVT)",
+  "NEXA Safety Shield features",
+  "Also available via subscription",
+  "Visit nearest dealership for consumer/exchange offers",
+  "Smart Finance car finance solution"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "NEXA",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "MARUTI SUZUKI",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "INSPIRING DESIGN.",
+   "score": 0.9755,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "INCREDIBLE BOLD APPEAL.",
+   "score": 0.9729,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "Baleno is created to inspire boldness. Its unique liquid flow design and",
+   "score": 0.9972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "state-of-the-art technology have made it the fastest-selling premium",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "hatchback in the industry. Join the family of over 9 Lakh happy customers.",
+   "score": 0.9934,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "BALENO",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "MAKE BOLDER MOVES.",
+   "score": 0.972,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "BALENO",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "NEXA",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "5",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "INSPIRING",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "ALSO AVAILABLE",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "YEARS",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "VIA SUBSCRIPTION.",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "SCAN TO KNOW MORE.",
+   "score": 0.9841,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "CREATE.INSPIRE",
+   "score": 0.9991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "DUAL FRONT AIRBAGS",
+   "score": 0.9777,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ABS WITH EBD",
+   "score": 0.9953,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "PEDESTRIAN PROTECTION",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "NEXA",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "COMPLIANCE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "913",
+   "score": 0.9528,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 25,
+   "text": "Safety Shield",
+   "score": 0.9795,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "FULL FRONTAL IMPACT",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "BAOdAE AETOE AN YON",
+   "score": 0.5978,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "COMPLIANCE, FRONTAL",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "OFFSET IMPACT",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "COMPLIANCE,",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "SIDE IMPACT COMPLIANCE",
+   "score": 0.9791,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "Smart Hybrid Technology",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "1.2L VVT Petrol Engine",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "Dual Tone Interiors",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "Smartplay Studio",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Advanced Automatic Transmission (CVT)",
+   "score": 0.9893,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "VISIT YOUR NEAREST DEALERSHIP TO GET EXCITING CONSUMER/EXCHANGE OFFERS.*",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Contact us at",
+   "score": 0.9937,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "NEXA AKSHARDHAM",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "NEXA PATPARGANJ",
+   "score": 0.9784,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "MAGIC AUTO",
+   "score": 0.981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "NEXA DILSHAD GARDEN",
+   "score": 0.956,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "NEXA GOKULPURI",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "NEXA PREET VIHAR",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "NEXA LAJPAT NAGAR",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "NEXA GREEN PARK",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "NEXA OKHLA PHASE 1",
+   "score": 0.9798,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "NEXA EAST OF KAILASH",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "NEXA MOTI NAGAR",
+   "score": 0.9833,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "FAIR DEAL PREMIUM WHEELS PVT. LTD.",
+   "score": 0.9831,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "COMPETENT AUTOMOBILES",
+   "score": 0.996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "VIPUL MOTORS PVT. LTD.",
+   "score": 0.9508,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 53,
+   "text": "TR SAWHNEY AUTOMOBILES",
+   "score": 0.9717,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "BAGGA LINK MOTORS",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "TR SAWHNEY AUTOMOBILES",
+   "score": 0.9683,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "PREM MOTORS",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "RANA MOTORS",
+   "score": 0.9971,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "AAA VEHICLEADES PVT. LTD.",
+   "score": 0.9864,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "SMART FINANCE",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "1800-200-[6392]",
+   "score": 0.9817,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "PH: 9999525161",
+   "score": 0.988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "PH:8929400503",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "PH: 8377007962",
+   "score": 0.9907,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "PH: 9870194313",
+   "score": 0.9756,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 65,
+   "text": "PH:7290091122",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "PH: 9818199367",
+   "score": 0.9851,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "PH: 7290099520",
+   "score": 0.969,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "PH:011-42900000,7065074531",
+   "score": 0.8744,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "PH: 9999788886",
+   "score": 0.9834,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "PH:8448993400",
+   "score": 0.9625,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "NEXA DWARKA SECTOR 14",
+   "score": 0.9893,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 72,
+   "text": "NEXA PUNJABI BAGH",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 73,
+   "text": "NEXA MAYAPURI",
+   "score": 0.9881,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "NEXA DWARKA SECTOR 9",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 75,
+   "text": "NEXA RAJOURI GARDEN",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 76,
+   "text": "NEXA ROHINI SECTOR 10",
+   "score": 0.9974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "NEXA NARELA",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 78,
+   "text": "NEXA PITAMPURA",
+   "score": 0.982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 79,
+   "text": "NEXA GT KARNAL ROAD",
+   "score": 0.9943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "NEXA WAZIRPUR",
+   "score": 0.9775,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 81,
+   "text": "AN ONLINE END-TO-END",
+   "score": 0.9821,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 82,
+   "text": "COMPETENT AUTOMOBILES",
+   "score": 0.985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 83,
+   "text": "DD MOTORS",
+   "score": 0.9931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "KRISH AUTOMOBILES",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "MAGIC AUTO",
+   "score": 0.9884,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 86,
+   "text": "TR SAWHNEY AUTOMOBILES",
+   "score": 0.9894,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 87,
+   "text": "JAGMOHAN AUTOMOTIVES PVT. LTD.",
+   "score": 0.9945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 88,
+   "text": "DD MOTORS",
+   "score": 0.9767,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 89,
+   "text": "KRISH MOTORS",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "RANA MOTORS",
+   "score": 0.9843,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 91,
+   "text": "COMPETENT AUTOMOBILES",
+   "score": 0.9902,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 92,
+   "text": "CAR FINANCE SOLUTION",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "1800-102-[NEXA]",
+   "score": 0.9862,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "PH: 8860011600",
+   "score": 0.9677,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 95,
+   "text": "PH:9081900800",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 96,
+   "text": "PH:7838555076",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 97,
+   "text": "PH: 7290075604",
+   "score": 0.965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "PH: 9999525750",
+   "score": 0.9797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "PH: 7290054930",
+   "score": 0.9661,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 100,
+   "text": "PH:9081900800",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 101,
+   "text": "PH: 7838555047",
+   "score": 0.9745,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 102,
+   "text": "PH: 7289999111",
+   "score": 0.9638,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 103,
+   "text": "PH: 9582668646",
+   "score": 0.9775,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 104,
+   "text": "NEXA SECTOR 1",
+   "score": 0.9609,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 105,
+   "text": "NEXA SECTOR 63",
+   "score": 0.9884,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 106,
+   "text": "NEXA SECTOR 10",
+   "score": 0.9817,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 107,
+   "text": "NEXA IND AREA GREATER NOIDA",
+   "score": 0.9888,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 108,
+   "text": "PLATINUM MOTO CORP",
+   "score": 0.9801,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 109,
+   "text": "NEXA IMT MANESAR",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 110,
+   "text": "NEXA SAHIBABAD",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 111,
+   "text": "NEXA MEERUT ROAD",
+   "score": 0.9805,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 112,
+   "text": "PASCO AUTOMOBILES",
+   "score": 0.9908,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 113,
+   "text": "NEXA MATHURA ROAD",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 114,
+   "text": "NEXA NIT",
+   "score": 0.9425,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 115,
+   "text": "Scanw more.",
+   "score": 0.709,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 116,
+   "text": "Pre-approved loans",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 117,
+   "text": "ROHAN MOTORS",
+   "score": 0.9952,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 118,
+   "text": "VIPUL MOTORS",
+   "score": 0.9662,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 119,
+   "text": "FAIR DEAL PREMIUM WHEELS PVT LTD.",
+   "score": 0.9784,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 120,
+   "text": "ROHAN MOTORS",
+   "score": 0.9846,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 121,
+   "text": "MOTORCRAFT SALES",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 122,
+   "text": "ROHAN MOTORS LTD.",
+   "score": 0.9942,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 123,
+   "text": "BVA AUTO",
+   "score": 0.9883,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 124,
+   "text": "PH: 8376800026",
+   "score": 0.9652,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 125,
+   "text": "PH: 9599814775",
+   "score": 0.9683,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 126,
+   "text": "PH: 9953993450",
+   "score": 0.9931,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 127,
+   "text": "PH: 8744000600",
+   "score": 0.964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 128,
+   "text": "PH: 9953345301",
+   "score": 0.9502,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 129,
+   "text": "PH: 8130582222",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 130,
+   "text": "PH: 9599040601",
+   "score": 0.9268,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 131,
+   "text": "PH: 9999120572",
+   "score": 0.9757,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 132,
+   "text": "PH:1294121212",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 133,
+   "text": "Custom generated loans",
+   "score": 0.9979,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 134,
+   "text": "www.nexaexperience.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 135,
+   "text": "NEXA BATA CHOWK",
+   "score": 0.9896,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 136,
+   "text": "NEXA PALWAL CENTRAL",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 137,
+   "text": "NEXA SECTOR 29 GURUGRAM",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 138,
+   "text": "NEXA SOHNA ROAD",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 139,
+   "text": "NEXA SECTOR 62",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 140,
+   "text": "NEXA IDC SEC 14 GURUGRAM",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 141,
+   "text": "NEXA MG ROAD",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 142,
+   "text": "NEXA RAJIV CHOWK GURUGRAM",
+   "score": 0.9945,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 143,
+   "text": "NEXA SOHNA",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 144,
+   "text": "NEXA DELHI ROAD",
+   "score": 0.9978,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 145,
+   "text": "NOW YOU CAN ALSO BOOK ONLINE",
+   "score": 0.9936,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 146,
+   "text": "VIPUL MOTORS",
+   "score": 0.9921,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 147,
+   "text": "AUTONATION",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 148,
+   "text": "TR SAWHNEY AUTOMOBILES",
+   "score": 0.9631,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 149,
+   "text": "COMPETENT AUTOMOBILES",
+   "score": 0.9925,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 150,
+   "text": "VIPUL MOTORS",
+   "score": 0.99,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 151,
+   "text": "PREM MOTORS",
+   "score": 0.9862,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 152,
+   "text": "PASCO AUTOMOBILES",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 153,
+   "text": "RANA MOTORS",
+   "score": 0.983,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 154,
+   "text": "PASCO AUTOMOBILES",
+   "score": 0.977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 155,
+   "text": "DINCO 4 WHEELS LLP",
+   "score": 0.959,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 156,
+   "text": "Multiple financiers",
+   "score": 0.9986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 157,
+   "text": "PH:9599814771",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 158,
+   "text": "PH: 9311864040",
+   "score": 0.9828,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 159,
+   "text": "PH: 9999525740",
+   "score": 0.9844,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 160,
+   "text": "PH:0124-2877000,7290025353",
+   "score": 0.964,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 161,
+   "text": "PH:7404666666",
+   "score": 0.995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 162,
+   "text": "PH:0124-40000,7065074501",
+   "score": 0.8451,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 163,
+   "text": "PH: 9711290001",
+   "score": 0.9652,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 164,
+   "text": "PH: 8585991111",
+   "score": 0.9762,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 165,
+   "text": "PH: 9899961000",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 166,
+   "text": "PH:7082100301",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 167,
+   "text": "*Terms and Condition apply. Feature and accessories shown may not be a part of standard fitment. Black glasses on the wheel is due to lighting effect. Images used are for illustration purposes only. Offer may vary across variants. Maruti Suzuki reserves the right to",
+   "score": 0.9858,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 168,
+   "text": "Loan status tracking",
+   "score": 0.9711,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 169,
+   "text": "withdraw offers at any point in time.",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "9 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 20.45,
+  "extract": 188.68
+ }
+}

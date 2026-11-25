@@ -1,0 +1,894 @@
+{
+ "image": "029_Amar_Ujala__366.jpg",
+ "fields": {
+  "brand": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "दिल्ली यातायात पुलिस",
+   "evidence": "दिल्ली यातायात पुलिस",
+   "english": "Delhi Traffic Police",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "नेशनल लोक अदालत",
+   "evidence": "नेशनल लोक अदालत",
+   "english": "National Lok Adalat",
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "may be incomplete - the printed line reads: 'नोट: 1. इस नेशनल लोक अदालत में समी वाहनों (व्यवसायिक वाहनों सहित) के. केवल भुगतान योग्य (Compoundable)'",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "का आयोजन",
+   "evidence": "का आयोजन",
+   "english": "Organisation of",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "सभी प्रकार के वाहनों (व्यवसायिक वाहनों सहित) के भुगतान योग्य (Compoundable) यातायात चालानों (मौके पर, नोटिस ब्रांच द्वारा जारी किये गये चालानों सहित) के निपटारे के लिए द्वारका, कड़कडडूमा, पटियाला हाउस, रोहिणी, राउस एवेन्यू, साकेत, तीस हजारी कोर्ट परिसरों में किया जाएगा।",
+   "evidence": "सभी प्रकार के वाहनों (व्यवसायिक वाहनों सहित) के भुगतान योग्य (Compoundable) यातायात चालानों (मौके पर, नोटिस ब्रांच द्वारा जारी किये गये चालानों सहित) के निपटारे के लिए द्वारका, कड़कडडूमा, पटियाला हाउस, रोहिणी, राउस एवेन्यू, साकेत, तीस हजारी कोर्ट परिसरों में किया जाएगा।",
+   "english": "All types of vehicles (including commercial vehicles) compoundable traffic challans (including challans issued by notice branch on the spot) will be disposed of at Dwarka, Karkardooma, Patiala House, Rohini, Rouse Avenue, Saket, Tis Hazari court premises.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (99%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "चालान कैसे डाउनलोड करें देखने के लिए स्कैन करें",
+   "evidence": "चालान कैसे डाउनलोड करें देखने के लिए स्कैन करें",
+   "english": "Scan to see how to download challan",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "public_notice",
+   "evidence": "नेशनल लोक अदालत का आयोजन",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Government & Public Notices",
+   "evidence": "नेशनल लोक अदालत का आयोजन",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #21"
+   ],
+   "matched_id": 21,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 21,
+     "name": "Government & Public Notices",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Hindi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://me-qr.com/j4Q8Yh3o)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://me-qr.com/j4Q8Yh3o",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "National Lok Adalat for compoundable traffic challans",
+    "Date: 13 May 2023, Time: 10:00 AM to 3:30 PM",
+    "Venues: Dwarka, Karkardooma, Patiala House, Rohini, Rouse Avenue, Saket, Tis Hazari court premises",
+    "Only challans pending on Delhi Traffic Police website till 31.01.2023",
+    "Total 1,55,000 challans to be disposed across 155 benches",
+    "Printout of challan/notice required, no printing facility at court premises",
+    "Website: https://traffic.delhipolice.gov.in/notice/lokadalat",
+    "Link open from 09 May 2023 10:00 AM till deadline",
+    "24 hour traffic helpline: 011-25844444 / 1095"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The Delhi Traffic Police, in collaboration with Delhi State Legal Services Authority, is organising a National Lok Adalat on 13 May 2023 from 10:00 AM to 3:30 PM to settle compoundable traffic challans at seven court premises. Vehicle owners should download challan/notice printouts from the specified website and visit the mentioned court at the given time.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "01125844444",
+     "kind": "landline",
+     "as_printed": "011-25844444 / 1095"
+    },
+    "evidence": "24 घण्टे यातायात हेल्पलाइन 011-25844444 / 1095",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "traffic.delhipolice.gov.in/notice/lokadalat",
+    "evidence": "https://traffic.delhipolice.gov.in/notice/lokadalat",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "https://www.facebook.com/dttraffic",
+    "evidence": "https://www.facebook.com/dttraffic",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (86%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "https://twitter.com/dttraffic",
+    "evidence": "https://twitter.com/dttraffic",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (92%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "राउज एवेन्यू डिस्ट्रिक्ट कोर्ट, तीसरी मंजिल, पंडित दीन दयाल उपाध्याय मार्ग, दिल्ली-2",
+    "evidence": "राउज एवेन्यू डिस्ट्रिक्ट कोर्ट, तीसरी मंजिल, पंडित दीन दयाल उपाध्याय मार्ग, दिल्ली-2",
+    "english": "Rouse Avenue District Court, Third Floor, Pandit Deen Dayal Upadhyay Marg, Delhi-2",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (71%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [
+   {
+    "value": "1516",
+    "evidence": "1516",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "issuing_authority": {
+   "value": "दिल्ली यातायात पुलिस",
+   "evidence": "दिल्ली यातायात पुलिस",
+   "english": "Delhi Traffic Police",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "notice_type": {
+   "value": "नेशनल लोक अदालत",
+   "evidence": "नेशनल लोक अदालत",
+   "english": "National Lok Adalat",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "reference_number": {
+   "value": "DP/5333/2023",
+   "evidence": "DP/5333/2023",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (80%)",
+    "numbers not found in OCR text"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "dates": {
+   "value": "13 मई, 2023 प्रातः 10:00 से शाम 3:30 बजे तक",
+   "evidence": "13 मई, 2023 प्रातः 10:00 से शाम 3:30 बजे तक",
+   "english": "13 May 2023, 10:00 AM to 3:30 PM",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "subject": {
+   "value": "सभी प्रकार के वाहनों (व्यवसायिक वाहनों सहित) के भुगतान योग्य (Compoundable) यातायात चालानों का निपटारा",
+   "evidence": "सभी प्रकार के वाहनों (व्यवसायिक वाहनों सहित) के भुगतान योग्य (Compoundable) यातायात चालानों (मौके पर, नोटिस ब्रांच द्वारा जारी किये गये चालानों सहित) के निपटारे के लिए द्वारका, कड़कडडूमा, पटियाला हाउस, रोहिणी, राउस एवेन्यू, साकेत, तीस हजारी कोर्ट परिसरों में किया जाएगा।",
+   "english": "Disposal of all types of vehicles (including commercial vehicles) compoundable traffic challans",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (99%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "National Lok Adalat for compoundable traffic challans",
+  "Date: 13 May 2023, Time: 10:00 AM to 3:30 PM",
+  "Venues: Dwarka, Karkardooma, Patiala House, Rohini, Rouse Avenue, Saket, Tis Hazari court premises",
+  "Only challans pending on Delhi Traffic Police website till 31.01.2023",
+  "Total 1,55,000 challans to be disposed across 155 benches",
+  "Printout of challan/notice required, no printing facility at court premises",
+  "Website: https://traffic.delhipolice.gov.in/notice/lokadalat",
+  "Link open from 09 May 2023 10:00 AM till deadline",
+  "24 hour traffic helpline: 011-25844444 / 1095"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "POLICE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "दिल्ली पुलि्स",
+   "score": 0.9382,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "शांति सेवा नच्याय",
+   "score": 0.8671,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "DELHI",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "दिल्ली राज्य विधिक सेवाएंप्राधिकरण",
+   "score": 0.9913,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "G20",
+   "score": 0.9553,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "आज़ादीका",
+   "score": 0.9921,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "दिल्ली यातायात पुलिस",
+   "score": 0.9954,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "द्वारा",
+   "score": 0.9864,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "BOT Suy INAA",
+   "score": 0.5675,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "अमृत महोत्सव",
+   "score": 0.9303,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "व्यु् कृटुबम्",
+   "score": 0.4761,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "ONE BANTH - ONE PAMILY - ONE FUTURE",
+   "score": 0.9183,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 14,
+   "text": "के सहयोग से",
+   "score": 0.9107,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "नेशनल",
+   "score": 0.8691,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "लोक",
+   "score": 0.9936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "अदालत",
+   "score": 0.8158,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "का आयोजन",
+   "score": 0.9387,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "13 मई, 2023",
+   "score": 0.9144,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "प्रातः 10:00 से शाम 3:30 बजे तक",
+   "score": 0.9354,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "DP/332023",
+   "score": 0.785,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "सभी प्रकार के वाहनों (व्यवसायिक वाहनों सहित) के भुगतान योग्य (Compoundable) यातायात चालानों",
+   "score": 0.9613,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "(मौके पर, नोटिस बरॉँच द्वारा जारी किये गये चालानों सहित) के निपटारे के लिए द्वारका, कड़कडडूमा,",
+   "score": 0.9485,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "पटियाला हाउस, रोहिणी, राउस एवेन्यू, साकेत, तीस हजारी कोर्ट परिसरों में किया जाएगा।",
+   "score": 0.9788,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "नोट: 1. इस नेशनल लोक अदालत में समी वाहनों (व्यवसायिक वाहनों सहित) के. केवल भुगतान योग्य (Compoundable)",
+   "score": 0.9334,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "चालान लिये जायेंगे, जो दिल्ली यातायात पुलिस वेबसाइट पर दिनांक 31.01.2023 तक लंबित है।",
+   "score": 0.9663,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "2. प्रत्येक लोक अदालत बैंच में 1000 चालान /नोटिस लिये जायेंगे तथा सभी कोर्ट परिसरों की 155 लोक अदालत बैंचो",
+   "score": 0.9382,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "में कुल 1,55,000 चालानों का निपटारा किया जायेगा।",
+   "score": 0.9159,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "3. सभी चालान / नोटिस पर्ची दिल्ली यातायात पुलिस की वेबसाइट से डाउनलोड किये जायेंगे। चालान / नोटिस का",
+   "score": 0.9299,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "निपटारा करने हेतू चालान / नोटिस की परची का प्रंट आउट लाना अनिवार्य है। और प्रंट आउट निकालने की कोई भी",
+   "score": 0.9482,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 31,
+   "text": "सुविधा कोर्ट परिसरों में नही होगी। चालान / नोटिस का प्रिंट आउट निकालने के लिए",
+   "score": 0.9643,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "https://traffic.delhipolice.gov.in/notice/lokadalat",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "पर लॉगिन करना होगा।",
+   "score": 0.9586,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "यहू लिंक 09 मई 2023 को प्रातः 10 बजे से चालानों की तय सीमा पूरी होने तक खुला रहेगा।",
+   "score": 0.9271,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 35,
+   "text": "यदि आप अपने चालान / नोटिस का निपटारा चाहते हैं तो चालान में उल्लेखित को्ट परिसर एवं कोर्ट संख्या में दिये गये समय पर",
+   "score": 0.8524,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 36,
+   "text": "ही जायें।",
+   "score": 0.8954,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 37,
+   "text": "कृपया लोक अदालत में अपने चालान/नोटिस की पर्ची का प्रंट आउट साथ लेकर जायें।",
+   "score": 0.9472,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "नोट: चालान डाउनलोड करने के तरीके को जानने के लिए क्यू आर कोड नंबर-1 को स्कैन करें।",
+   "score": 0.8998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 39,
+   "text": "वादियो द्वारा चालान पर्चियां सीधे ऊपर दिए गए लिंक से या नीचे दिए गए क्यू आर कोड नंबर-2 को स्कैन करके डाउनलोड की जा सकती हैं।",
+   "score": 0.8967,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 40,
+   "text": "24 घण्टे यातायात हेल्पलाइन 011-25844444 / 1095",
+   "score": 0.9567,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "दिल्ली राज्य विधिक सेवाएं प्राधिकरण",
+   "score": 0.9052,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "ट्रैफिक प्रहरी बनें",
+   "score": 0.941,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "राउज एवेन्यू डिस्रि्ट कोर्ं, तीसरी मंजिल,",
+   "score": 0.9142,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "एप डाउनलोड करें",
+   "score": 0.9753,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "क्यूआर कोड 1",
+   "score": 0.9694,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "पडित दीन देयाल उपाध्याय मार्ग, दिल्ली-2",
+   "score": 0.8998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "क्यूआर कोड 2",
+   "score": 0.9389,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "चालान कैसे डाउनलोड करें",
+   "score": 0.9334,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "1516",
+   "score": 0.9639,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "Googleckny",
+   "score": 0.8582,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 51,
+   "text": "या",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 52,
+   "text": "App Store",
+   "score": 0.9,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "चालान डाउनलोड",
+   "score": 0.9799,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 54,
+   "text": "देखने के लिए स्कैन करें",
+   "score": 0.9447,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "केलिए स्कैन करें",
+   "score": 0.8873,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 56,
+   "text": "आप हमसे जडे:",
+   "score": 0.8898,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 57,
+   "text": "httns://wwpw facehook.com/dtntraffic",
+   "score": 0.9537,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 58,
+   "text": "3httns://twitter com/dtntraffic",
+   "score": 0.9554,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "no brand identified - manual entry required",
+  "15 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 24.35,
+  "extract": 14.14
+ }
+}

@@ -1,0 +1,1495 @@
+{
+ "image": "046_Namasthe_Telangana_8.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Arena Car",
+   "evidence": "BUY A MARUTI SUZUKI ARENA CAR NOW.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "dealers are listed - if this is a dealer ad the advertiser is the dealer(s) - suggestion: PAVAN / SRI JAYARAMA / WIN MOTORS / ADARSHA / ADARSHA / VARUN / VARUN / ADARSHA / VARUN / PAVAN / PAVAN / SRI JAYARAMA / MITHRA AUTO / SAI SERVICE",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)",
+    "record #9 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 9,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "BEAT THE PRICE HIKE.",
+   "evidence": "BEAT THE PRICE HIKE.",
+   "english": "Beat the price hike.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "BUY A MARUTI SUZUKI ARENA CAR NOW.",
+   "evidence": "BUY A MARUTI SUZUKI ARENA CAR NOW.",
+   "english": "Buy a Maruti Suzuki Arena car now.",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership.",
+   "evidence": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "MARUTI SUZUKI ARENA",
+   "english": null,
+   "confidence": 0.65,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "dealers are listed - this may be a dealer ad",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "ALTO S-PRESSO WAGONR CELERIO ALTO (K10)",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model saw a QR code; detector could not confirm (small print?)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Beat the price hike on Maruti Suzuki Arena cars",
+    "Big savings on Alto, Celerio, S-Presso, WagonR, Alto K10",
+    "Smart Finance available",
+    "E-book at www.marutisuzuki.com or visit nearest dealership",
+    "Vehicles available under CSD & CPC",
+    "Bulk order mail: nishant.vijayvergia@maruti.co.in",
+    "Authorised dealers listed for Telangana State"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki Arena is running a 'Beat the Price Hike' promotion with big savings on Alto, Celerio, S-Presso, WagonR and Alto K10. Smart Finance is offered. Readers can e-book at www.marutisuzuki.com, visit their nearest Maruti Suzuki dealership, or email nishant.vijayvergia@maruti.co.in for bulk orders. Vehicles are available under CSD & CPC.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8790902131",
+     "kind": "mobile",
+     "as_printed": "8790902131"
+    },
+    "evidence": "PAVAN: (NALGONDA) CALL: 8790902131",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8096998841",
+     "kind": "mobile",
+     "as_printed": "8096998841"
+    },
+    "evidence": "SRI JAYARAMA: (MEHABUBNAGAR) CALL: 8096998841",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8688828002",
+     "kind": "mobile",
+     "as_printed": "8688828002"
+    },
+    "evidence": "WIN MOTORS: (WARANGAL) CALL: 8688828002",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9133308022",
+     "kind": "mobile",
+     "as_printed": "9133308022"
+    },
+    "evidence": "ADARSHA: (KARIMNAGAR) CALL: 9133308022",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7799790501",
+     "kind": "mobile",
+     "as_printed": "7799790501"
+    },
+    "evidence": "(WARANGAL) CALL: 7799790501",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8462236236",
+     "kind": "mobile",
+     "as_printed": "8462236236"
+    },
+    "evidence": "VARUN: (NIZAMBAD) CALL: 8462236236",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8782950555",
+     "kind": "mobile",
+     "as_printed": "0878-2950555"
+    },
+    "evidence": "(KARIMNAGAR) CALL: 0878-2950555",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8886006633",
+     "kind": "mobile",
+     "as_printed": "8886006633"
+    },
+    "evidence": "E-OUTLETS: ADARSHA: (MANCHERIAL) CALL: 8886006633",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9133307720",
+     "kind": "mobile",
+     "as_printed": "9133307720"
+    },
+    "evidence": "(NIRMAL) CALL: 9133307720",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8886776633",
+     "kind": "mobile",
+     "as_printed": "8886776633"
+    },
+    "evidence": "(JAGITYAL) CALL: 8886776633",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8886556633",
+     "kind": "mobile",
+     "as_printed": "8886556633"
+    },
+    "evidence": "(GODAVARIKHANI) CALL: 8886556633",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "DIGIT CONFLICT: model read 8886556633, OCR reads 3886556633",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7799784536",
+     "kind": "mobile",
+     "as_printed": "7799784536"
+    },
+    "evidence": "(ADILABAD) CALL: 7799784536",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8886256633",
+     "kind": "mobile",
+     "as_printed": "8886256633"
+    },
+    "evidence": "(JANGAON) CALL: 8886256633",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9581656633",
+     "kind": "mobile",
+     "as_printed": "9581656633"
+    },
+    "evidence": "(SIDDIPET) CALL: 9581656633",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9966111132",
+     "kind": "mobile",
+     "as_printed": "9966111132"
+    },
+    "evidence": "VARUN: (KAMAREDDY) CALL: 9966111132",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9052022990",
+     "kind": "mobile",
+     "as_printed": "9052022990"
+    },
+    "evidence": "(ARMUR) CALL: 9052022990",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9885260333",
+     "kind": "mobile",
+     "as_printed": "9885260333"
+    },
+    "evidence": "(KOTTAGUDEM) CALL: 9885260333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8790902154",
+     "kind": "mobile",
+     "as_printed": "8790902154"
+    },
+    "evidence": "PAVAN: (MIRYALAGUDA) CALL: 8790902154",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8790902135",
+     "kind": "mobile",
+     "as_printed": "8790902135"
+    },
+    "evidence": "(KODADA) CALL: 8790902135",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8886063524",
+     "kind": "mobile",
+     "as_printed": "8886063524"
+    },
+    "evidence": "MITHRA AUTO: (KHAMMAM) CALL: 8886063524",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "DIGIT CONFLICT: model read 8886063524, OCR reads 1886063524",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7331168888",
+     "kind": "mobile",
+     "as_printed": "7331168888"
+    },
+    "evidence": "SAI SERVICE: (ZAHEERABAD) CALL: 7331168888",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.marutisuzuki.com",
+    "evidence": "E-book today at www.marutisuzuki.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "nishant.vijayvergia@maruti.co.in",
+    "evidence": "For bulk order, mail at: nishant.vijayvergia@maruti.co.in.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "BIG SAVINGS",
+    "evidence": "BIG SAVINGS",
+    "english": "Big savings",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "SMART FINANCE",
+    "evidence": "SMART FINANCE",
+    "english": "Smart Finance",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 38100,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BIG SAVINGS",
+     "item": "ALTO",
+     "as_printed": "₹38 100*"
+    },
+    "evidence": "₹38 100*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (38,100)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 49000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BIG SAVINGS",
+     "item": "CELERIO",
+     "as_printed": "₹49 000*"
+    },
+    "evidence": "₹49 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (49,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 54000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BIG SAVINGS",
+     "item": "S-PRESSO",
+     "as_printed": "₹54 000*"
+    },
+    "evidence": "₹54 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (54,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 54000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BIG SAVINGS",
+     "item": "ALTO K10",
+     "as_printed": "₹54 000*"
+    },
+    "evidence": "₹54 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (54,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 59000,
+     "currency": "INR",
+     "kind": "discount",
+     "label": "BIG SAVINGS",
+     "item": "WAGONR",
+     "as_printed": "₹59 000*"
+    },
+    "evidence": "₹59 000*",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (59,000)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "PAVAN",
+     "area": "NALGONDA",
+     "city": null,
+     "phones": [
+      "8790902131"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PAVAN: (NALGONDA) CALL: 8790902131",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SRI JAYARAMA",
+     "area": "MEHABUBNAGAR",
+     "city": null,
+     "phones": [
+      "8096998841"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SRI JAYARAMA: (MEHABUBNAGAR) CALL: 8096998841",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "WIN MOTORS",
+     "area": "WARANGAL",
+     "city": null,
+     "phones": [
+      "8688828002"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [
+      {
+       "id": 4,
+       "name": "Kia Jaipur Motors",
+       "score": 71.0
+      },
+      {
+       "id": 7,
+       "name": "Tata Motors Ltd",
+       "score": 71.0
+      }
+     ],
+     "city_id": null
+    },
+    "evidence": "WIN MOTORS: (WARANGAL) CALL: 8688828002",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (97%)",
+     "dealer: no exact record; closest: Kia Jaipur Motors, Tata Motors Ltd; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ADARSHA",
+     "area": "KARIMNAGAR",
+     "city": null,
+     "phones": [
+      "9133308022"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "ADARSHA: (KARIMNAGAR) CALL: 9133308022",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ADARSHA",
+     "area": "WARANGAL",
+     "city": null,
+     "phones": [
+      "7799790501"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(WARANGAL) CALL: 7799790501",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "NIZAMBAD",
+     "city": null,
+     "phones": [
+      "8462236236"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VARUN: (NIZAMBAD) CALL: 8462236236",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "KARIMNAGAR",
+     "city": null,
+     "phones": [
+      "8782950555"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(KARIMNAGAR) CALL: 0878-2950555",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "ADARSHA",
+     "area": "MANCHERIAL",
+     "city": null,
+     "phones": [
+      "8886006633"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "E-OUTLETS: ADARSHA: (MANCHERIAL) CALL: 8886006633",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (97%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "VARUN",
+     "area": "KAMAREDDY",
+     "city": null,
+     "phones": [
+      "9966111132"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "VARUN: (KAMAREDDY) CALL: 9966111132",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PAVAN",
+     "area": "MIRYALAGUDA",
+     "city": null,
+     "phones": [
+      "8790902154"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "PAVAN: (MIRYALAGUDA) CALL: 8790902154",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "PAVAN",
+     "area": "KODADA",
+     "city": null,
+     "phones": [
+      "8790902135"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "(KODADA) CALL: 8790902135",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SRI JAYARAMA",
+     "area": "SHADNAGAR",
+     "city": null,
+     "phones": [
+      "8096998841"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SRI JAYARAMA: (SHADNAGAR) CALL: 8096998841",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "MITHRA AUTO",
+     "area": "KHAMMAM",
+     "city": null,
+     "phones": [
+      "8886063524"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "MITHRA AUTO: (KHAMMAM) CALL: 8886063524",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (97%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "SAI SERVICE",
+     "area": "ZAHEERABAD",
+     "city": null,
+     "phones": [
+      "7331168888"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "SAI SERVICE: (ZAHEERABAD) CALL: 7331168888",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no city"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "SMART FINANCE",
+   "evidence": "SMART FINANCE",
+   "english": "Smart Finance",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Beat the price hike on Maruti Suzuki Arena cars",
+  "Big savings on Alto, Celerio, S-Presso, WagonR, Alto K10",
+  "Smart Finance available",
+  "E-book at www.marutisuzuki.com or visit nearest dealership",
+  "Vehicles available under CSD & CPC",
+  "Bulk order mail: nishant.vijayvergia@maruti.co.in",
+  "Authorised dealers listed for Telangana State"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MARUTI SUZUKIARENA",
+   "score": 0.9911,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "BEAT THE",
+   "score": 0.9529,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "PRICE HIKE.",
+   "score": 0.9471,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "BUYAMARUTISUZUKIARENACARNOW.",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "DUVD",
+   "score": 0.4725,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "ATa",
+   "score": 0.5311,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "LT",
+   "score": 0.5278,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "LOE",
+   "score": 0.4749,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "SAUE",
+   "score": 0.6969,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "WAGONR",
+   "score": 0.8335,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "CELERO",
+   "score": 0.9538,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 12,
+   "text": "BIG",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "ALTO 38 100",
+   "score": 0.9434,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "S-PRESSO54 000*",
+   "score": 0.9378,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "WAGONR 59 000",
+   "score": 0.949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "now Nr tE LCG",
+   "score": 0.5111,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "SMARTFINANCE",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "AN DNL HEEND TO-IND",
+   "score": 0.693,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "SAVINGS",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "CAN FINANEL DOLUTION",
+   "score": 0.8257,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "CELERIO 49 000",
+   "score": 0.9492,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "ALTO K10 54 000",
+   "score": 0.9502,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "Pe-nanned hnee",
+   "score": 0.6201,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "hoee",
+   "score": 0.5827,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "• M,ophe Trascee",
+   "score": 0.5469,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "ALTO S.PRESSO",
+   "score": 0.9489,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "ALTO S.PRESSO WAGONR CELERIO ALTO",
+   "score": 0.9471,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "(K10)",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "E-book today at www.marutisuzuki.com or visit your nearest Maruti Suzuki dealership. | Maruti Suzuki vehicles are now available under CSD & CPC* | For bulk order, mail at: nishant.vijayvergia@maruti.co.in.",
+   "score": 0.9791,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 30,
+   "text": "AUTHORISED DEALERS: TELANGANA STATE: PAVAN: (NALGONDA) CALL: 8790902131. SRI JAYARAMA: (MEHABUBNAGAR) CALL: 8096998B41. WIN MOTORS: (WARANGAL) CALL: 8688828O02. ADARSHA:",
+   "score": 0.9801,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 31,
+   "text": "(KARIMNAGAR) CALL: 9133308022, (WARANGAL) CALL:7799790501. VARUN: (NIZAMBAD) CALL: 8462236236, (KARIMNAGAR) CALL: 0878- 2950555. E-0UTLETS: ADARSHA: (MANCHERIAL) CALL: 8886006633,",
+   "score": 0.9823,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 32,
+   "text": "(NIRMAL) CALL: 9133307720, (JAGITYAL) CALL: 8886776633, (GODAVARIKHANI) CALL: B886556633, (ADILABAD) CALL: 7799784536, (JANGAON) CALL: 8886256633, (SIDDIPET) CALL: 9581656633. VARUN:",
+   "score": 0.9816,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "(KAMAREDDY) CALL: 9966111132, (ARMUR) CALL: 9052022990, (KOTTAGUDEM) CALL: 9885260333. PAVAN: (MIRYALAGUDA) CALL: 8790902154, (KODADA) CALL: 8790902135. SRI JAYARAMA: (SHADNAGAR)",
+   "score": 0.986,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 34,
+   "text": "CALL: 809699B841, (WANAPARTHY) CALL: 8096998841. MITHRA AUTO: (KHAMMAM) CALL: B886063524. SAI SERVICE: (ZAHEERABAD) CALL: 7331168888.",
+   "score": 0.9806,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "e eduds coraller, nal ehne ad touer a necabe mods' ae fnance dum d mert eiir Pe ade athe ae ion ad ancatn ey e fcr sala Teme Crn py Creaira",
+   "score": 0.5116,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "csnlaaioo. Tba bot and cmdtiare are utet tp ctanoe etbat ary oner aocire All ctecs re bcucbto va as Mat Séno drcleca on'y. Ottea ma asts rom sadart io ra at. àr attro rbain aoa snid tarlmited psod & los lmted atp pciy Fo mcre ocals olauvecotict mur ceaard Aré deatentén Acceot moótstures",
+   "score": 0.6288,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 56.44,
+  "extract": 52.84
+ }
+}

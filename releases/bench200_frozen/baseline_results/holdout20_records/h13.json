@@ -1,0 +1,754 @@
+{
+ "image": "h13_Andhra_Jyothi_150.jpg",
+ "fields": {
+  "brand": {
+   "value": "Malabar Gold & Diamonds",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Malabar Gold & Diamonds' (#46)"
+   ],
+   "matched_id": 46,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 46,
+     "name": "Malabar Gold & Diamonds",
+     "score": 100.0
+    },
+    {
+     "id": 48,
+     "name": "Senco Gold & Diamonds",
+     "score": 79.3
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Malabar Gold & Diamonds",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ఈ ఆషాడంలో, బంగారంలా మెరవండి",
+   "evidence": "ఈ ఆషాడంలో,\nబంగారంలా మెరవండి",
+   "english": "Shine like gold this Aashadam",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 79% similar) - check spelling - suggestion: ఈ ఆషాడంలో, GOLD & DIAMONDS బంగారంలా మెరవండి",
+    "second model disagrees - suggestion: ಕು ಆನಂದಂಲಲ್ಲಿ, ಬಂಗಾರಂಲಾ ಮೆರವಂಡಿ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "CELEBRATE THE BEAUTY OF LIFE",
+   "evidence": "CELEBRATE THE BEAUTY OF LIFE",
+   "english": "Celebrate the beauty of life",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: MALABAR FAIR PRICE PROMISE ತೆರಿಗೆ ಪಾರಿಲು 4.9%"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ఈ ఆషాడ మాసంలో, మీ తేజస్సుకు సరితూగే అందమైన ఆభరణాలను అందిస్తుంది మలబార్ గోల్డ్ & డైమండ్స్. మీరు, మీ మధుర క్షణాలు మునుపటికంటే మరింత ప్రకాశవంతంగా మెరిసిపోయేలా చేయడానికి, స్వచ్ఛమైన మరియు అత్యంతమైన బంగారంతో చేసిన అద్భుతమైన ఆభరణాలను మీకు అందిస్తుంది మలబార్ గోల్డ్ & డైమండ్స్",
+   "evidence": "ఈ ఆషాడ మాసంలో, మీ తేజస్సుకు సరితూగే అందమైన ఆభరణాలను అందిస్తుంది మలబార్ గోల్డ్ & డైమండ్స్. మీరు, మీ మధుర క్షణాలు మునుపటికంటే మరింత ప్రకాశవంతంగా మెరిసిపోయేలా చేయడానికి, స్వచ్ఛమైన మరియు అత్యంతమైన బంగారంతో చేసిన అద్భుతమైన ఆభరణాలను మీకు అందిస్తుంది మలబార్ గోల్డ్ & డైమండ్స్",
+   "english": "This Aashadam month, Malabar Gold & Diamonds offers beautiful ornaments matching your radiance. To make you and your sweet moments shine brighter than before, Malabar Gold & Diamonds offers you exquisite ornaments made of pure and finest gold.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (95%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "BUY ONLINE AT: malabargoldanddiamonds.com",
+   "evidence": "BUY ONLINE AT: malabargoldanddiamonds.com",
+   "english": "Buy online at malabargoldanddiamonds.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Jewellery",
+   "evidence": "MALABAR GOLD & DIAMONDS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #10"
+   ],
+   "matched_id": 10,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 10,
+     "name": "Jewellery",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Telugu",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Kannada, English"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Malabar Gold & Diamonds Fair Price Promise 4.9% value addition",
+    "100% value on 22 carat old gold exchange",
+    "Free silver coin with every purchase",
+    "Offer valid till 23 July 2023 only",
+    "Call: 1800 572 0916, 040 68138916",
+    "Buy online at malabargoldanddiamonds.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Malabar Gold & Diamonds celebrates Aashadam with a Fair Price Promise of 4.9% value addition, 100% value on 22 carat old gold exchange, and a free silver coin with every purchase. Offer valid until 23 July 2023; call 1800 572 0916 or 040 68138916, or buy online at malabargoldanddiamonds.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18005720916",
+     "kind": "toll_free",
+     "as_printed": "1800 572 0916"
+    },
+    "evidence": "Call: 1800 572 0916, 040 68138916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "04068138916",
+     "kind": "landline",
+     "as_printed": "040 68138916"
+    },
+    "evidence": "Call: 1800 572 0916, 040 68138916",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "malabargoldanddiamonds.com",
+    "evidence": "BUY ONLINE AT: malabargoldanddiamonds.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "FAIR PRICE PROMISE",
+    "evidence": "FAIR PRICE PROMISE",
+    "english": "Fair Price Promise",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "4.9%",
+    "evidence": "4.9%",
+    "english": "4.9% value addition",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "100% విలువను",
+    "evidence": "100% విలువను",
+    "english": "100% value",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ఉచితంగా పొందండి",
+    "evidence": "ఉచితంగా పొందండి",
+    "english": "Get free",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "metal": {
+   "value": "బంగారం",
+   "evidence": "బంగారం",
+   "english": "Gold",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "making_charge_offer": {
+   "value": "4.9%",
+   "evidence": "4.9%",
+   "english": "4.9% value addition",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "festival": {
+   "value": "ఆషాడం",
+   "evidence": "ఈ ఆషాడంలో",
+   "english": "Aashadam",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Malabar Gold & Diamonds Fair Price Promise 4.9% value addition",
+  "100% value on 22 carat old gold exchange",
+  "Free silver coin with every purchase",
+  "Offer valid till 23 July 2023 only",
+  "Call: 1800 572 0916, 040 68138916",
+  "Buy online at malabargoldanddiamonds.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "MALABAR",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "ఈ ఆషాడంలో,",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "GOLD & DIAMONDS",
+   "score": 0.9891,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "బంగారంలా మెరవండి",
+   "score": 0.9932,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "CELEBRATE THE BEAUTY OF LIFE",
+   "score": 0.9682,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "ఈ ఆషాడ మాసంలో, మీ తేజస్సుకు సరితూగే అందమైన",
+   "score": 0.9665,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "ఆషాడంలో శుభం లాభం",
+   "score": 0.9992,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 8,
+   "text": "ఆభరణాలను అందిస్తుంది మలబార్ గోల్డ్ & డైమండ్స్.",
+   "score": 0.9541,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "మీరు, మీ మధుర క్షణాలు మునుపటికంటే మరింత",
+   "score": 0.9763,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "ప్రకాశవంతంగా మెరిసిపోయేలా చేయడానికి, స్వచ్ఛమైన",
+   "score": 0.9672,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "మరియు అత్యత్రమమైన బంగారంతో చేసిన అద్భృతమైన",
+   "score": 0.9746,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "ఆభరణాలను మీకు అందిస్తుంది మలబార్ గో్డ్ & డైమండ్స్",
+   "score": 0.9732,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "FAIR PRICE",
+   "score": 0.9698,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "MALABAR",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "PROMISE",
+   "score": 0.9984,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "4.9%",
+   "score": 0.7228,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 17,
+   "text": "44.9%",
+   "score": 0.728,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 18,
+   "text": "ప్రి ఒక్కరికీ. ప్రిరోజూ. ప్రతిచోటా.",
+   "score": 0.9142,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "తరుగు చార్టీలు",
+   "score": 0.9369,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "4.9%",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 21,
+   "text": "doos gdodo",
+   "score": 0.7599,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "5.9%13.9%",
+   "score": 0.8619,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 23,
+   "text": "वo ca",
+   "score": 0.4768,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "12.9%",
+   "score": 0.8231,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 25,
+   "text": "9%0",
+   "score": 0.6457,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "100% విలువను",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "ఆంధ్రపరదేశ్ : విశాఖపట్నం | తిరుపతి | కర్నాలు | విజయవాడ | కాకినాడ | రాజమండ్రి | గుంటూరు |",
+   "score": 0.9787,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 28,
+   "text": "22 క్యారెట్ల మీ పాత బంగారం",
+   "score": 0.986,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "భీమవరం | కడప | నెల్లూరు | అనంతపురం | శ్రీకాకుళం | ఏలూరు | ఒంగోలు | అనకాపల్లి |",
+   "score": 0.9758,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 30,
+   "text": "మార్పిడి పై పొందండి.",
+   "score": 0.9753,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 31,
+   "text": "వెండి నాణెం",
+   "score": 0.9308,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 32,
+   "text": "విజయనగరం. Call: 1800 572 0916, 040 68138916",
+   "score": 0.9894,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "ఏ విక్రయదారుడి నుండి కొనుగోలు",
+   "score": 0.9912,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 34,
+   "text": "ఉచితంగా పొందండి",
+   "score": 0.9697,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "చేసినదైనా (హాల్మార్ చేసినదైనా లేదా హాల్మార్క్ చేయనిదైనా]",
+   "score": 0.9717,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 36,
+   "text": "ప్రతి కొనుగోలుపై",
+   "score": 0.9819,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "BUY ONLINE AT: malabargoldanddiamonds.com",
+   "score": 0.9941,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "మీ పాత బంగారాన్ని మలబార్ HUID హాల్మార్క ఆభరణాలతో",
+   "score": 0.9607,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "ఇండియా | యు. కె | యు.ఎస్.ఎ | సింగపూర్ | మలేషియా | యు.ఎ.ఇ | ఖతర్ | కె.ఎస్.ఎ | ఒమన్ | కువైట్ | బహ్రెయిన్",
+   "score": 0.9534,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 40,
+   "text": "మార్చుకోండి.",
+   "score": 0.9951,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 41,
+   "text": "ఈ ఆఫర్ 23 జూలై 2023 వరకు మాత్రమే",
+   "score": 0.9606,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "6 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 19.4,
+  "extract": 22.44
+ }
+}

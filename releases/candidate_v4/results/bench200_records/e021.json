@@ -1,0 +1,1177 @@
+{
+ "image": "e021_Vijayavani__157.jpg",
+ "fields": {
+  "brand": {
+   "value": "Roop Mantra",
+   "evidence": "Roop Mantra",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Tropicana"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 88,
+     "name": "Tropicana",
+     "score": 63.2
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Ayurvedic Medicinal Cream",
+   "evidence": "An Ayurvedic Medicinal Cream",
+   "english": null,
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (64%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Dr. Juneja's",
+   "evidence": "Dr. Juneja's",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ನಿಮ್ಮ Skin ಗೆ ಆಯುರ್ವೇದದ ರಕ್ಷಣೆ ನೀಡಿ",
+   "evidence": "ನಿಮ್ಮ Skin ಗೆ ಆಯುರ್ವೇದದ ರಕ್ಷಣೆ ನೀಡಿ",
+   "english": "Give your skin Ayurvedic protection",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (50%); kannada text is hard for OCR",
+    "second model disagrees - suggestion: ನಿಮ್ಮ Skin ಗೆ ಅಯುರ್ವೇದದ ರಕ್ಷಣೆ ನೀಡಿ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Ayurvedic Face Cream & Face Washes",
+   "evidence": "Ayurvedic Face Cream & Face Washes",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Dr. Juneja's ರೂಪ ಮಂತ್ರ"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Personal & Home Care",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #25"
+   ],
+   "matched_id": 25,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 25,
+     "name": "FMCG > Personal & Home Care",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Kannada",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Roop Mantra Ayurvedic Medicinal Cream",
+    "Helps in protection from Scars, Dull Skin, Pimples, Wrinkles",
+    "24x7 Helpline: 87250 60066",
+    "Available at all medical & general stores",
+    "www.roopmantra.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Roop Mantra Ayurvedic Medicinal Cream protects skin from scars, dull skin, pimples and wrinkles. It is available at all medical and general stores; call the 24x7 helpline 87250 60066 or visit www.roopmantra.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8725060066",
+     "kind": "mobile",
+     "as_printed": "87250 60066"
+    },
+    "evidence": "24x7 Helpline: 87250 60066",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.roopmantra.com",
+    "evidence": "www.roopmantra.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "Helpfal in pretection from Scars",
+    "evidence": "Helpfal in pretection from Scars",
+    "english": "Helps in protection from Scars",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Dull Skin",
+    "evidence": "Dull Skin",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Pimples",
+    "evidence": "Pimples",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Wrinkles",
+    "evidence": "Wrinkles",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Roop Mantra Ayurvedic Medicinal Cream",
+  "Helps in protection from Scars, Dull Skin, Pimples, Wrinkles",
+  "24x7 Helpline: 87250 60066",
+  "Available at all medical & general stores",
+  "www.roopmantra.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Skin",
+   "score": 0.9782,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Helpfal in pretection from",
+   "score": 0.9407,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Scars",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "ಆಯುವೇ9ದದರಕಹೆನೀಡ",
+   "score": 0.9366,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "Roop",
+   "score": 0.9974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Mantra",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "udaedo, aa, mp, atom, uode, unm muomd nhamtade",
+   "score": 0.5806,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "Cogneg daar sbog ustoderd er ngdd uord vredrmosdg",
+   "score": 0.5084,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "Dull Skin",
+   "score": 0.9767,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "emodave sueus euga utrd uégaian motrtdrlogd. enb",
+   "score": 0.4611,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "Sodoordgnedy udd watodirdOxgimnd.",
+   "score": 0.5846,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "New",
+   "score": 0.9992,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "Dr. Juneja's",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "ರೂಪ",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 15,
+   "text": "Pimples",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "ಮಂತ",
+   "score": 0.999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "Wrinkles",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "BwmR",
+   "score": 0.4587,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 19,
+   "text": "Ayurvedic Face Cream & Face Washes",
+   "score": 0.9912,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Auce Skn o cobd aa udd d a",
+   "score": 0.5092,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "24x7 Hepline: 87250 60066| www.roopmantra.com",
+   "score": 0.8638,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "Aualatie at al medical & gereral stores",
+   "score": 0.838,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "da unge: mea",
+   "score": 0.5191,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 24,
+   "text": "C uraga: mna",
+   "score": 0.4748,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 25,
+   "text": "qo ueoptt: eg atrda",
+   "score": 0.5734,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 26,
+   "text": "a,u woa.mes",
+   "score": 0.4875,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "maud dsre md.",
+   "score": 0.6101,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "V m",
+   "score": 0.4512,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 29,
+   "text": "ಮಕBು",
+   "score": 0.4561,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 30,
+   "text": "ma mes",
+   "score": 0.4955,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 31,
+   "text": "o, deeo",
+   "score": 0.5205,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 32,
+   "text": "xttboet Led. ng ctosén",
+   "score": 0.5917,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 33,
+   "text": "mo agtladrdeg",
+   "score": 0.5012,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "Drerwcnodt.egauce",
+   "score": 0.4756,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 35,
+   "text": "moae eag preud eeert",
+   "score": 0.5024,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 36,
+   "text": "sgmee uttor ma g",
+   "score": 0.481,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 37,
+   "text": "trd ung ato, r",
+   "score": 0.5243,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 38,
+   "text": "ggo, edo a daadne",
+   "score": 0.5049,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 39,
+   "text": "ew e e üpoomé so",
+   "score": 0.4576,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 40,
+   "text": "uttor son Ralretmdtoto. ud",
+   "score": 0.524,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 41,
+   "text": "o",
+   "score": 0.4715,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 42,
+   "text": "w rud uotudhrte da tog",
+   "score": 0.5703,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 43,
+   "text": "wtudrber daer mog grr ur",
+   "score": 0.4791,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 44,
+   "text": "rusd ustudrrCaf danf mbong fr",
+   "score": 0.5412,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 45,
+   "text": "udubhr dnetog r m",
+   "score": 0.4882,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 46,
+   "text": "g q Letu tut troc daer",
+   "score": 0.5495,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 47,
+   "text": "m ormuns eug mon",
+   "score": 0.5916,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 48,
+   "text": "me Mopmr dacer sudaodt",
+   "score": 0.5308,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 49,
+   "text": "ecid cog.maie sgmos",
+   "score": 0.5146,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 50,
+   "text": "uegoo uig radg Ln. umo",
+   "score": 0.4625,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 51,
+   "text": "W",
+   "score": 0.5365,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 52,
+   "text": "deastno mos deatno sye myt",
+   "score": 0.4705,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 53,
+   "text": "tlosid eng uttor dnechosl stug",
+   "score": 0.5812,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 54,
+   "text": "dad d",
+   "score": 0.5071,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 55,
+   "text": "ಕಕಕBB",
+   "score": 0.4735,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 56,
+   "text": "oe dond o mrie agetu",
+   "score": 0.502,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 57,
+   "text": "g q",
+   "score": 0.5108,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 58,
+   "text": "to h sd a",
+   "score": 0.5271,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 59,
+   "text": "dag sa u",
+   "score": 0.4878,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 60,
+   "text": "d",
+   "score": 0.6577,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 61,
+   "text": "stedon. um ieot anunamo",
+   "score": 0.4746,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 62,
+   "text": "So dr",
+   "score": 0.5869,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 63,
+   "text": "smr rar anog",
+   "score": 0.4576,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 64,
+   "text": "wstuedrmvet",
+   "score": 0.5705,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 65,
+   "text": "soh somcnottaret.",
+   "score": 0.4961,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 66,
+   "text": "temget",
+   "score": 0.7655,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 67,
+   "text": "da unge: mea",
+   "score": 0.5095,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 68,
+   "text": "üu ucogpet: rng abeco",
+   "score": 0.4639,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 69,
+   "text": "An unagn: n",
+   "score": 0.4531,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 70,
+   "text": "Ca woit: mo moor",
+   "score": 0.5117,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 71,
+   "text": "u wrbytt mh wager",
+   "score": 0.5739,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 72,
+   "text": "egner, Laad",
+   "score": 0.4584,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 73,
+   "text": "क क",
+   "score": 0.4609,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 74,
+   "text": "RSAr t",
+   "score": 0.5294,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 75,
+   "text": "mo cadd l fug",
+   "score": 0.4804,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 76,
+   "text": "mgdeet ama型",
+   "score": 0.4766,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 77,
+   "text": "woncewea.fom",
+   "score": 0.5022,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 78,
+   "text": "ue et dc edo",
+   "score": 0.4629,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 79,
+   "text": "succedna, duadne",
+   "score": 0.5476,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 80,
+   "text": "des Lod, ec",
+   "score": 0.4989,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 81,
+   "text": "r o",
+   "score": 0.546,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 82,
+   "text": "क",
+   "score": 0.5301,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 83,
+   "text": "usce dond daadè",
+   "score": 0.4889,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 84,
+   "text": "g nrom/Nou",
+   "score": 0.4975,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 85,
+   "text": "dand éovtrit, eg edrio",
+   "score": 0.5254,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 86,
+   "text": "wa ma u wgo und",
+   "score": 0.4774,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 87,
+   "text": "Lot e d",
+   "score": 0.5908,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 88,
+   "text": "oot tudrd dne og r.",
+   "score": 0.4715,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 89,
+   "text": "ae met uatutre daw mo",
+   "score": 0.4889,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 90,
+   "text": "wtder dar o y y",
+   "score": 0.5371,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 91,
+   "text": "Lotu de eg edard wotudroe",
+   "score": 0.5388,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 92,
+   "text": "ut",
+   "score": 0.5657,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 93,
+   "text": "Noamr u utavo woa.",
+   "score": 0.4595,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 94,
+   "text": "me u aetoa. du Deow",
+   "score": 0.5059,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 95,
+   "text": "dner moeg",
+   "score": 0.5179,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 96,
+   "text": "w",
+   "score": 0.4903,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 97,
+   "text": "ಕB",
+   "score": 0.5053,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 98,
+   "text": "Monr earer sstago",
+   "score": 0.479,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 99,
+   "text": "uvogt. utdmt uco atrog",
+   "score": 0.4552,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 100,
+   "text": "dammoo wotooderd",
+   "score": 0.4796,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 101,
+   "text": "str ed m rad.",
+   "score": 0.5018,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 102,
+   "text": "daccnes sha vusmid. dear",
+   "score": 0.5473,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 103,
+   "text": "ap g mg",
+   "score": 0.5085,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 104,
+   "text": "wmnd,m ad e",
+   "score": 0.4521,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 105,
+   "text": "oworese e Dro ei vgd seer",
+   "score": 0.507,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 106,
+   "text": "g s w wgd.",
+   "score": 0.5433,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 107,
+   "text": "Sr eg erne",
+   "score": 0.471,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 108,
+   "text": "s do",
+   "score": 0.4508,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 109,
+   "text": "In u uet",
+   "score": 0.4956,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 110,
+   "text": "cot ucdo atrebayd.",
+   "score": 0.4856,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 111,
+   "text": "Ona furt cgd",
+   "score": 0.4772,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 76.66,
+  "extract": 31.42
+ }
+}

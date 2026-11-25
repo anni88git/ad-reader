@@ -1,0 +1,62 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser",
+  "product"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Titan",
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "retailer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Fashion & Apparel > Watches & Accessories",
+   "Fashion & Apparel"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Up to 40% Off*",
+   "Up to 40% Off"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "15th Dec Onwards",
+   "Additional 5% off for Encircle members till 17th Dec",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "18002660123"
+ ],
+ "websites": [
+  "titan.co.in"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

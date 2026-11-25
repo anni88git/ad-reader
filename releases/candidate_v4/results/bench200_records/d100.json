@@ -1,0 +1,683 @@
+{
+ "image": "d100_Navbharat_Times_100.jpg",
+ "fields": {
+  "brand": {
+   "value": "YouTube",
+   "evidence": "YouTube",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "not found in the ad",
+    "first model gave no brand; second model's brand is printed in the ad (OCR)",
+    "v4: switched value - kept in review",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Ministry of Electronics and Information Technology",
+   "evidence": "इलेक्ट्रॉनिकी एवं सूचना प्रौद्योगिकी मंत्रालय MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (88%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ऑनलाइन सुरक्षित रहने के लिए, पॉज करें.",
+   "evidence": "ऑनलाइन सुरक्षित रहने के लिए, पॉज करें.",
+   "english": "To stay safe online, pause.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (88%)",
+    "wording is not an exact match to the printed text (closest OCR reading 89% similar) - check spelling - suggestion: ऑनलाइन सुरक्षित रहने के लिएँ पाॉँज़ करो.",
+    "second model disagrees - suggestion: ऑनलाइन सुरक्षित रहने के लिए, पॉज करो."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "सिर्फ असली एक्सपर्ट पर भरोसा करें. ऑनलाइन किसी भी एक्सपर्ट की सलाह मानने से पहले उनके बारे में थोड़ी जांच करो. उनकी योग्यता का प्रमाण जान कर ही उन पर भरोसा करें.",
+   "evidence": "सिर्फ असली एक्सपर्ट पर भरोसा करें. ऑनलाइन किसी भी एक्सपर्ट की सलाह मानने से पहले उनके बारे में थोड़ी जांच करो. उनकी योग्यता का प्रमाण जान कर ही उन पर भरोसा करें.",
+   "english": "Trust only real experts. Before accepting any expert's advice online, check them a little. Trust them only after verifying their credentials.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (94%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "और जानने के लिए, QR स्कैन करो",
+   "evidence": "और जानने के लिए, QR स्कैन करो",
+   "english": "To know more, scan QR",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "public_notice",
+   "evidence": "जनहित में जारी",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Government & Public Notices",
+   "evidence": "जनहित में जारी",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #21"
+   ],
+   "matched_id": 21,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 21,
+     "name": "Government & Public Notices",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Hindi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://www.qrfy.com/p0bjUiLBx-)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://www.qrfy.com/p0bjUiLBx-",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Online safety campaign with three tips",
+    "Trust only real experts after checking credentials",
+    "Do not rely only on headlines, get full information",
+    "Share carefully after understanding emotions and intent",
+    "Scan QR code to know more",
+    "Issued by Ministry of Electronics and Information Technology"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "This public interest advertisement from the Ministry of Electronics and Information Technology advises people to stay safe online by pausing, trusting only verified experts, reading beyond headlines, and sharing information carefully. Readers are asked to scan the QR code to learn more.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "@SaranshGoila",
+    "evidence": "@SaranshGoila",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "@AnkushBahuguna",
+    "evidence": "@AnkushBahuguna",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "@CurlyTalesDigital",
+    "evidence": "@CurlyTalesDigital",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "issuing_authority": {
+   "value": "इलेक्ट्रॉनिकी एवं सूचना प्रौद्योगिकी मंत्रालय MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+   "evidence": "इलेक्ट्रॉनिकी एवं सूचना प्रौद्योगिकी मंत्रालय MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+   "english": "Ministry of Electronics and Information Technology",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (88%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "notice_type": {
+   "value": "जनहित में जारी",
+   "evidence": "जनहित में जारी",
+   "english": "Issued in public interest",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "subject": {
+   "value": "ऑनलाइन सुरक्षा कवच STAY SAFE ONLINE",
+   "evidence": "ऑनलाइन सुरक्षा कवच STAY SAFE ONLINE",
+   "english": "Online safety shield",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Online safety campaign with three tips",
+  "Trust only real experts after checking credentials",
+  "Do not rely only on headlines, get full information",
+  "Share carefully after understanding emotions and intent",
+  "Scan QR code to know more",
+  "Issued by Ministry of Electronics and Information Technology"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ऑनलाइन सुरक्षित",
+   "score": 0.9956,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "रहने के लिएँ पाॉँज़ करो.",
+   "score": 0.8846,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 3,
+   "text": "सिर्फ असली एक्सपर्ट",
+   "score": 0.9853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "पर भरोसा करो.",
+   "score": 0.9471,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "ऑनलाइन किसी भी एक्सपर्ट की सलाह",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "SARANSH",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "मानने से पहले उनके बारे में थोड़ी जांच करो.",
+   "score": 0.9846,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "उनकी योग्यता का प्रमाण जान कर ही",
+   "score": 0.9654,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "उन पर भरोसा करो.",
+   "score": 0.9657,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "1",
+   "score": 0.8201,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "@SaranshGoila",
+   "score": 0.9804,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "केवल हेडलाइन काफी नहीं.",
+   "score": 0.9634,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "पूरी बात जानो.",
+   "score": 0.9975,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "हेडलाइंस ध्यान तो आकर्षित करती हैं,",
+   "score": 0.9653,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "पर कई बार पूरी जानकारी नहीं देतीं.",
+   "score": 0.9818,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "इसलिए राय बनाने से पहले बात की",
+   "score": 0.9906,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "तह तक पहुंचो.",
+   "score": 0.9595,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "2",
+   "score": 0.9991,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "@AnkushBahuguna",
+   "score": 0.9708,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "शेयर करो,",
+   "score": 0.9872,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "मगर ध्यान से.",
+   "score": 0.9976,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "जोश में आ कर कुछ भी शेयर करना",
+   "score": 0.9851,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "हानिकारक हो सकता है. तो अपनी भावनाओं",
+   "score": 0.9755,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "और नीयत को समझ कर ही किसी जानकारी",
+   "score": 0.9614,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "को लोगों के साथ बॉटो.",
+   "score": 0.947,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 26,
+   "text": "3",
+   "score": 0.9979,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 27,
+   "text": "और जानने के लिए,",
+   "score": 0.9658,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "QR स्कैन करो",
+   "score": 0.9559,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "@CurlyTalesDigital",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "YouTube",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "इलेक्टरॉनिकी एवं",
+   "score": 0.966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "G2",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "सूचन प्रद्योगिकी मंत्रालय",
+   "score": 0.8869,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "MINISTRY OF",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "जनहित में जारी",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "INFORMATION TECHNOLOGY",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "ELECTRONICS AND",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "STAY SAFE ONLINE",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "2023 INDIA",
+   "score": 0.9399,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "ऑनलाइन सुरक्षा कवच",
+   "score": 0.9563,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "10 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 14.87,
+  "extract": 8.72
+ }
+}

@@ -1,0 +1,1377 @@
+{
+ "image": "016_Biba_411.jpg",
+ "fields": {
+  "brand": {
+   "value": "BIBA",
+   "evidence": "BIBA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Biba' (#106)"
+   ],
+   "matched_id": 106,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 106,
+     "name": "Biba",
+     "score": 100.0
+    },
+    {
+     "id": 55,
+     "name": "Big Bazaar",
+     "score": 61.5
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Anarkalis",
+   "evidence": "Anarkalis",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no products on record for Biba"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "BIBA",
+   "evidence": "BIBA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "KARVA CHAUTH SPECIAL - SHOP AT BIBA THIS WEEKEND AND AVAIL FREE MEHANDI AT SELECT STORES",
+   "evidence": "KARVA CHAUTH SPECIAL - SHOP AT BIBA THIS WEEKEND AND AVAIL FREE MEHANDI AT SELECT STORES",
+   "english": "Karva Chauth Special - Shop at BIBA this weekend and avail free mehendi at select stores",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Diwali Showstoppers",
+   "evidence": "Diwali Showstoppers",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "SHOP AT BIBA THIS WEEKEND AND AVAIL FREE MEHENDI AT SELECT STORES",
+   "evidence": "KARVA CHAUTH SPECIAL - SHOP AT BIBA THIS WEEKEND AND AVAIL FREE MEHENDI AT SELECT STORES",
+   "english": "Shop at BIBA this weekend and avail free mehendi at select stores",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (99%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "Available Across 24 Stores",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "Anarkalis",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "BIBA Anarkalis Diwali Showstoppers",
+    "Karva Chauth Special - free mehendi at select stores",
+    "Available across 24 stores in Mumbai",
+    "Also available at Pantaloons, Shoppers Stop, Central, Lifestyle, Myntra, Jabong, Amazon.in, Flipkart, AJIO.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "BIBA is advertising Anarkalis for Diwali with a Karva Chauth special: shop this weekend and get free mehendi at select stores. The ad lists 24 store locations across Mumbai with phone numbers and says the collection is also available on several online platforms.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "39658357",
+     "kind": "landline",
+     "as_printed": "39658357"
+    },
+    "evidence": "Orion Mall, Panvel Ph: 39658357",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "26000722",
+     "kind": "landline",
+     "as_printed": "26000722"
+    },
+    "evidence": "Linking Road, Khar (W). Ph: 26000722",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "66859906",
+     "kind": "landline",
+     "as_printed": "66859906"
+    },
+    "evidence": "T1 Terminal, Chhatrapati Shivaji Domestic Airport, Santacruz (E). Ph: 66859906",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9152035864",
+     "kind": "mobile",
+     "as_printed": "9152035864"
+    },
+    "evidence": "Ph: 9152035864 - T2 Terminal, Level 4, Chhatrapati Shivaji International Airport",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9152035863",
+     "kind": "mobile",
+     "as_printed": "9152035863"
+    },
+    "evidence": "Ph: 9152035863 · Xperia Mall, Palava City",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "6696556",
+     "kind": "landline",
+     "as_printed": "6696556"
+    },
+    "evidence": "Xperia Mall, Palava City. Ph: 6696556",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "61701475",
+     "kind": "landline",
+     "as_printed": "61701475"
+    },
+    "evidence": "Viviana Mall, Thane (West). Ph: 61701475",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "23894184",
+     "kind": "landline",
+     "as_printed": "23894184"
+    },
+    "evidence": "Kemps Corner. Ph: 23894184",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "66103530",
+     "kind": "landline",
+     "as_printed": "66103530"
+    },
+    "evidence": "Ph: 66103530 - Inorbit Mall, Malad (W)",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "62361551",
+     "kind": "landline",
+     "as_printed": "62361551"
+    },
+    "evidence": "Inorbit Mall, Malad (W). Ph: 62361551",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "27813347",
+     "kind": "landline",
+     "as_printed": "27813347"
+    },
+    "evidence": "Inarbit, Vashi, Ph: 27813347",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "26324416",
+     "kind": "landline",
+     "as_printed": "26324416"
+    },
+    "evidence": "Infiniti Mall, Andheri (W). Ph: 26324416",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "42950768",
+     "kind": "landline",
+     "as_printed": "42950768"
+    },
+    "evidence": "Oberoi Mall, Goregaon (E). Ph: 42950768",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "67702137",
+     "kind": "landline",
+     "as_printed": "67702137"
+    },
+    "evidence": "R City Mall, Ghatkopar (W). Ph: 67702137",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "61801219",
+     "kind": "landline",
+     "as_printed": "61801219"
+    },
+    "evidence": "Phoenix Market City, Kamani Kurla. Ph: 61801219",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "62371333",
+     "kind": "landline",
+     "as_printed": "62371333"
+    },
+    "evidence": "Phoenix Galleria, Lower Parel. Ph: 62371333",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "28893619",
+     "kind": "landline",
+     "as_printed": "28893619"
+    },
+    "evidence": "Infiniti, Malad. Ph: 28893619",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "28046087",
+     "kind": "landline",
+     "as_printed": "28046087"
+    },
+    "evidence": "Factory Outlets: Maxus Mall, Bhayandar (W). Ph: 28046087",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "28051688",
+     "kind": "landline",
+     "as_printed": "28051688"
+    },
+    "evidence": "Raghuleela Mall, Kandivali (W). Ph: 28051688",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "25750970",
+     "kind": "landline",
+     "as_printed": "25750970"
+    },
+    "evidence": "Huma Mall-Kanjurmarg (W). Ph: 25750970",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "28984260",
+     "kind": "landline",
+     "as_printed": "28984260"
+    },
+    "evidence": "Shimpoli Road Borivali (W). Ph: 28984260",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "25890562",
+     "kind": "landline",
+     "as_printed": "25890562"
+    },
+    "evidence": "R Mall, Thane (W). Ph: 25890562",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "62362571",
+     "kind": "landline",
+     "as_printed": "62362571"
+    },
+    "evidence": "Exclusive Biba Girls Outlets at Phoenix Market City, Kurla. Ph: 62362571",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "62378404",
+     "kind": "landline",
+     "as_printed": "62378404"
+    },
+    "evidence": "High Street Phoenix, Lower Parel. Ph:62378404",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)",
+     "local number without STD code"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.biba.in",
+    "evidence": "www.biba.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "amazon.in",
+    "evidence": "amazon.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Flipkart",
+    "evidence": "Flipkart",
+    "english": null,
+    "confidence": 0.3,
+    "status": "missing",
+    "reasons": [
+     "evidence partly matches OCR (88%)",
+     "not a valid web address",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ajio.com",
+    "evidence": "AJIO.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "facebook.com/bibaindia",
+    "evidence": "facebook.com/BibaIndia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (95%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "facebook.com/BibaIndia",
+    "evidence": "Connect with us on facebook.com/BibaIndia",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "Orion Mall, Panvel",
+    "evidence": "Orion Mall, Panvel",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Linking Road, Khar (W)",
+    "evidence": "Linking Road, Khar (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "T1 Terminal, Chhatrapati Shivaji Domestic Airport, Santacruz (E)",
+    "evidence": "T1 Terminal, Chhatrapati Shivaji Domestic Airport, Santacruz (E)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Seawood Grand Central Mall, Navi Mumbai",
+    "evidence": "Seawood Grand Central Mall, Navi Mumbai",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "T2 Terminal, Level 4, Chhatrapati Shivaji International Airport",
+    "evidence": "T2 Terminal, Level 4, Chhatrapati Shivaji International Airport",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Xperia Mall, Palava City",
+    "evidence": "Xperia Mall, Palava City",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Viviana Mall, Thane (West)",
+    "evidence": "Viviana Mall, Thane (West)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Kemps Corner",
+    "evidence": "Kemps Corner",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Wodehouse Road, Colaba",
+    "evidence": "Wodehouse Road, Colaba",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Inorbit Mall, Malad (W)",
+    "evidence": "Inorbit Mall, Malad (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Inarbit, Vashi",
+    "evidence": "Inarbit, Vashi",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Infiniti Mall, Andheri (W)",
+    "evidence": "Infiniti Mall, Andheri (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Oberoi Mall, Goregaon (E)",
+    "evidence": "Oberoi Mall, Goregaon (E)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (91%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "R City Mall, Ghatkopar (W)",
+    "evidence": "R City Mall, Ghatkopar (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Phoenix Market City, Kamani Kurla",
+    "evidence": "Phoenix Market City, Kamani Kurla",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Phoenix Galleria, Lower Parel",
+    "evidence": "Phoenix Galleria, Lower Parel",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Infiniti, Malad",
+    "evidence": "Infiniti, Malad",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Maxus Mall, Bhayandar (W)",
+    "evidence": "Maxus Mall, Bhayandar (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Raghuleela Mall, Kandivali (W)",
+    "evidence": "Raghuleela Mall, Kandivali (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Huma Mall-Kanjurmarg (W)",
+    "evidence": "Huma Mall-Kanjurmarg (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Shimpoli Road Borivali (W)",
+    "evidence": "Shimpoli Road Borivali (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "R Mall, Thane (W)",
+    "evidence": "R Mall, Thane (W)",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Phoenix Market City, Kurla",
+    "evidence": "Phoenix Market City, Kurla",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "High Street Phoenix, Lower Parel",
+    "evidence": "High Street Phoenix, Lower Parel",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "FREE MEHENDI",
+    "evidence": "AVAIL FREE MEHENDI AT SELECT STORES",
+    "english": "Free mehendi at select stores",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (97%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "BIBA",
+     "area": "Multiple locations across Mumbai",
+     "city": "Mumbai",
+     "phones": [],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 1,
+     "city_id": null
+    },
+    "evidence": "Available Across 24 Stores",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (96%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Mumbai' (#1)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "BIBA Anarkalis Diwali Showstoppers",
+  "Karva Chauth Special - free mehendi at select stores",
+  "Available across 24 stores in Mumbai",
+  "Also available at Pantaloons, Shoppers Stop, Central, Lifestyle, Myntra, Jabong, Amazon.in, Flipkart, AJIO.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "BIBA",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Anarkalis",
+   "score": 0.9669,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "Diwali Showstoppers",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "www.biba.in",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "KARVA CHAUTH SPECIAL-SHOP AT BIBATHIS WEEKEND AND AVAIL FREE MEHANDI AT SELECT STORES",
+   "score": 0.9684,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "Adde NI.",
+   "score": 0.4903,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "Available Acrass 24 Stores: Orion Mall, PanveL Ph: 39658357· Linking Road, Khar (W). Ph: 260oa722· T1 Terminal, Chhatrapati Shivaji Domestic Airport, Santacruz IE). Ph: 66859906· Seawood Grand Central Mall. Navi Mumbai.",
+   "score": 0.9632,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 8,
+   "text": "Ph: 9152035864 - T2 Terminal, Level 4, Chhatrapati Shivaji International Airport. Ph: 9152035863 · Xperia Mall, Palava City. Ph: 6696556 - Viviana Mall, Thane (West). Ph: 61701475 · Kemps Corner. Ph: 23894184 - Wodehouse Road, Colaba.",
+   "score": 0.9649,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 9,
+   "text": "Ph: 66103530 - Inorbit Mall, Malad (W). Ph: 62361551 - Inarbit, Vashi, Ph: 27813347· Infiniti Mall, Andheri (W). Ph: 26324416- Oberoi Mall, Garegaon (F). Ph: 42950768· R City Mall, Ghatkopar (W). Ph: 67702137- Phoenix Market City, Kamani Kurla.",
+   "score": 0.9599,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 10,
+   "text": "Ph: 61801219 - Phoenix Galleria, Lower Parel. Ph: 62371333- Infiniti, Mallad. Ph: 28893619 |Factory Outlets: Maxus Mall, Bhayandar (W). Ph: 28046087 · Raghuleela Mall, Kandivali (W). Ph: 28051688 · Huma Mall-Kanjurmarg [W). Ph: 25750970",
+   "score": 0.9615,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 11,
+   "text": "Shimpoli Road Borivali (W). Ph: 28984260 - R Mall, Thane (W). Ph: 25890562 |Exclusive Biba Girls Outlets at Phoenix Market City, Kurla. Ph: 62362571 & High Street Phoenix, Lower Parel. Ph:62378404",
+   "score": 0.9738,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 12,
+   "text": "Also Available at:",
+   "score": 0.9688,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "pantakons",
+   "score": 0.8568,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 14,
+   "text": "SHOPPERs STOP",
+   "score": 0.917,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "CENTRAL",
+   "score": 0.9414,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "lifestyle",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "Myntra JABONG",
+   "score": 0.9419,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "COM",
+   "score": 0.8436,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "amazon.in Flipkort",
+   "score": 0.9905,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "AJIO.COm",
+   "score": 0.8393,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "Connect with us on facebook.com/Bibalndia",
+   "score": 0.9954,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "5 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 14.47,
+  "extract": 36.3
+ }
+}

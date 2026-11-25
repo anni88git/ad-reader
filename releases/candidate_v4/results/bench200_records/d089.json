@@ -1,0 +1,678 @@
+{
+ "image": "d089_Navbharat_Times_89.jpg",
+ "fields": {
+  "brand": {
+   "value": "Amul",
+   "evidence": "Amul",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Amul' (#70)"
+   ],
+   "matched_id": 70,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 70,
+     "name": "Amul",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Cow Milk",
+   "evidence": "गाय का दूध",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: दूध",
+    "no products on record for Amul"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": "500ml",
+   "evidence": "500mL: ₹ 28* | 15g प्रोटीन",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Amul",
+   "evidence": "Amul",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "अमूल दूध पीता है इंडिया",
+   "evidence": "अमूल दूध पीता है इंडिया",
+   "english": "Amul milk drinks India",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 77% similar) - check spelling - suggestion: पीता है इंडिया",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "30g प्रोटीन",
+   "evidence": "30g प्रोटीन",
+   "english": "30g protein",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: ₹56*/1 L"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "एमआरपी (सभी टैक्स शामिल), ट्रांसपोर्टेशन और कूलिंग चार्जेस शामिल. शर्तें लागू. पूछताछ /उपलब्धता के लिए कृपया संपर्क करें:",
+   "evidence": "एमआरपी (सभी टैक्स शामिल), ट्रांसपोर्टेशन और कूलिंग चार्जेस शामिल. शर्तें लागू. पूछताछ /उपलब्धता के लिए कृपया संपर्क करें:",
+   "english": "MRP (all taxes included), transportation and cooling charges included. Terms apply. For inquiries / availability please contact:",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (93%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "पूछताछ /उपलब्धता के लिए कृपया संपर्क करें:",
+   "evidence": "पूछताछ /उपलब्धता के लिए कृपया संपर्क करें:",
+   "english": "For inquiries / availability please contact:",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 56,
+   "evidence": "₹56*/ 1 L",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "amount digits match OCR (56)",
+    "several numbers in price text",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Amul cow milk advertised",
+    "30g protein per 1 L",
+    "Price ₹56* per 1 L",
+    "500ml price ₹28* with 15g protein",
+    "MRP includes all taxes, transportation and cooling charges",
+    "Contact numbers for Delhi, Ghaziabad, Gurugram, Faridabad and rest of Haryana"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Amul cow milk is advertised with 30g protein per litre. Price is ₹56* per 1 L and ₹28* for 500ml (15g protein). MRP includes all taxes, transportation and cooling charges. Contact numbers are provided for Delhi, Ghaziabad, Gurugram, Faridabad and rest of Haryana.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "01128524336",
+     "kind": "landline",
+     "as_printed": "011 - 28524336/37"
+    },
+    "evidence": "दिल्ली: 011 - 28524336/37",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "01202673093",
+     "kind": "landline",
+     "as_printed": "0120-2673093"
+    },
+    "evidence": "गाज़ियाबाद: 0120-2673093",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7827255377",
+     "kind": "mobile",
+     "as_printed": "7827255377"
+    },
+    "evidence": "गाज़ियाबाद: ... 7827255377",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9313125999",
+     "kind": "mobile",
+     "as_printed": "9313125999"
+    },
+    "evidence": "गुरुग्राम: 9313125999",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8777286447",
+     "kind": "mobile",
+     "as_printed": "8777286447"
+    },
+    "evidence": "फ़रीदाबाद: 8777286447",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9718222906",
+     "kind": "mobile",
+     "as_printed": "9718222906"
+    },
+    "evidence": "हरियाणा के बाकी क्षेत्र: 9718222906",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 56,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "1 L Amul cow milk",
+     "as_printed": "₹56*/ 1 L"
+    },
+    "evidence": "₹56*/ 1 L",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (56)",
+     "several numbers in price text",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 28,
+     "currency": "INR",
+     "kind": "price",
+     "label": "Price",
+     "item": "500ml Amul cow milk",
+     "as_printed": "₹ 28*"
+    },
+    "evidence": "₹ 28*",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (28)",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "30g प्रोटीन",
+    "evidence": "30g प्रोटीन",
+    "english": "30g protein",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "15g प्रोटीन",
+    "evidence": "500mL: ₹ 28* | 15g प्रोटीन",
+    "english": "15g protein",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Amul cow milk advertised",
+  "30g protein per 1 L",
+  "Price ₹56* per 1 L",
+  "500ml price ₹28* with 15g protein",
+  "MRP includes all taxes, transportation and cooling charges",
+  "Contact numbers for Delhi, Ghaziabad, Gurugram, Faridabad and rest of Haryana"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "अमूल",
+   "score": 0.9405,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "दूध",
+   "score": 0.9871,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "30g",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "प्रोटीन",
+   "score": 0.9899,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "पीता",
+   "score": 0.9948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "है",
+   "score": 0.987,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "इंडिया",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Amul",
+   "score": 0.9926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Milk",
+   "score": 0.9607,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "Cow",
+   "score": 0.8197,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "अमल",
+   "score": 0.9935,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "गपय",
+   "score": 0.5293,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "दूध",
+   "score": 0.7797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "₹56*/1L",
+   "score": 0.9278,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "अमल",
+   "score": 0.9945,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "गाय का",
+   "score": 0.892,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "दूध",
+   "score": 0.8655,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "500mL:28*|15g",
+   "score": 0.9773,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "एमआरपी (सभी टैक्स शामिल), ट्रंसपोरटेंशन और कूलिंग चाजेस शामिल.",
+   "score": 0.8922,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "Amul",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "शते लागू. पूछताछ /उपलब्धता के लिए कृपया संपर्क करें:",
+   "score": 0.8831,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "दिल्ली: 011 - 28524336/37; गाज़ियाबाद: 0120-2673093, 7827255377;",
+   "score": 0.9864,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "The Taste of India",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "गुरुग्राम: 9313125999; फ़रीदाबाद: 8777286447;",
+   "score": 0.9718,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "हरियाणा के बाकी कषेत्र: 9718222906",
+   "score": 0.9521,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (477x589); small print may be unreadable"
+ ],
+ "record_flags": [
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 20.15,
+  "extract": 9.48
+ }
+}

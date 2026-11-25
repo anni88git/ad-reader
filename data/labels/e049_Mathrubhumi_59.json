@@ -1,0 +1,68 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Yamaha"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Fascino 125 Hybrid",
+   "RayZR 125 Fi Hybrid",
+   "Fascino 125 Fi Hybrid & RayZR 125 Fi Hybrid",
+   null
+  ]
+ },
+ "ad_type": "dealer",
+ "category": {
+  "any_of": [
+   "Automobile > Two Wheelers",
+   "Automobile"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "മൺസൂൺ മെഗാ ഓഫർ"
+  ]
+ },
+ "price": {
+  "any_of": [
+   null,
+   4999
+  ]
+ },
+ "qr_code_present": false,
+ "language": {
+  "any_of": [
+   [
+    "Malayalam",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}

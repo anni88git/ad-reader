@@ -1,0 +1,100 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ],
+   [
+    "Hindi"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Eye Mantra",
+   "Divisa Herbal Care",
+   "Dr. Juneja's"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Eye Mantra",
+   "Eye Mantra Ayurvedic Eye Relief Drops",
+   "आई मंत्रा",
+   "Ayurvedic Eye Relief Drops",
+   "Eye Mantra Eye Drops"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "10ml",
+   "10 ml"
+  ]
+ },
+ "advertiser": {
+  "any_of": [
+   "Divisa Herbal Care",
+   "Eye Mantra",
+   null
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Healthcare",
+   "FMCG > Personal & Home Care",
+   "FMCG"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "आए दूर तक नज़र!",
+   "क्या आप सही 'आई' ड्रॉप की तलाश में है?"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "क्या आप सही 'आई' ड्रॉप की तलाश में है?",
+   "आँख की 5 समस्याओं से राहत!",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [
+  "8196822222"
+ ],
+ "websites": [
+  "www.eyemantra.com"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "suspicious"
+  },
+  {
+   "field": "headline",
+   "why": "ambiguous"
+  }
+ ]
+}

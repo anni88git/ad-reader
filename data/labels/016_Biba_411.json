@@ -1,0 +1,70 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Biba",
+ "product": {
+  "any_of": [
+   "Anarkalis",
+   null
+  ]
+ },
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "manufacturer",
+   "retailer"
+  ]
+ },
+ "category": "Fashion & Apparel",
+ "headline": {
+  "any_of": [
+   "Diwali Showstoppers",
+   "Karva Chauth Special - Shop at Biba this weekend and avail free mehandi at select stores"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "Karva Chauth Special - Shop at Biba this weekend and avail free mehandi at select stores",
+   "Diwali Showstoppers",
+   "Anarkalis",
+   null
+  ]
+ },
+ "price": null,
+ "websites": {
+  "required": [
+   "www.biba.in"
+  ],
+  "optional": [
+   "facebook.com/BibaIndia"
+  ]
+ },
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "language",
+   "why": "ambiguous"
+  }
+ ]
+}

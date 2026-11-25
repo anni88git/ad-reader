@@ -1,0 +1,1067 @@
+{
+ "image": "e072_Sparx_408.jpg",
+ "fields": {
+  "brand": {
+   "value": "Sparx",
+   "evidence": "sparx",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Sparx' (#114)"
+   ],
+   "matched_id": 114,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 114,
+     "name": "Sparx",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Relaxo Footwears",
+   "evidence": "RELAXO EXCLUSIVE STORES",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "value not in its evidence quote, but printed elsewhere in the ad",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ADD SPARX TO YOUR LIFE",
+   "evidence": "ADD SPARX TO YOUR LIFE",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 84% similar) - check spelling - suggestion: ADD SPARX GOFORIT TO YOURLIFE",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "GO FOR IT",
+   "evidence": "GO FOR IT",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Download ShopatRelaxo app on",
+   "evidence": "Download ShopatRelaxo app on",
+   "english": "Download ShopatRelaxo app",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "RELAXO EXCLUSIVE STORES: Ahmednagar: Monlis Tower, Sarjepura, Ph: 0241-2777129; Airoli: Shiv Shankar Plaza, Sector 8, Ph: 022-67930399; Kolhapur: Datta Guru Apartment, Rajarampuri, Ph: 0231-6680542; Nagpur: Shukla Bhawan, Opposite Andhra Bank Whc Road, Dharampeth, Ph: 9970058662; Nasik: Opposite ICICI Bank, College Road, Ph: 8983660551; RELAXO AUTHORISED DISTRIBUTORS: Mumbal: AK Shoe Trading, Ph: 022-24179976; Fortune Agencies, Ph: 9850331177; ICT Industries, Ph: 022-28882907; Karim Bhoy Enterprises, Ph: 022-23750050; Mulivision Footwear, Ph: 9967167866; Rohan Traders, Ph: 0252-2662023; Sevak Footwear, Ph: 022-28781383; Navi Mumbal: Krishna Enterprises, Ph: 9892445881;Raigarh: AksarAgencies, Ph: 9892306030; Karjat: Shreyash Communication, Ph: 7020501199; Ulhasnagar: Shoe Sagar, Ph: 9850083180.",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: manufacturer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel > Watches & Accessories",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Fashion & Apparel",
+    "category #29",
+    "record #29 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 29,
+   "candidates": [
+    {
+     "id": 29,
+     "name": "Fashion & Apparel > Watches & Accessories",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Sparx sandals advertised with celebrity endorsement",
+    "Relaxo Exclusive Stores and authorised distributors listed with phone numbers",
+    "Franchisee enquiries solicited for Relaxo Exclusive Stores",
+    "Online shopping available at www.relaxofootwear.com and www.shopatrelaxo.com",
+    "ShopatRelaxo app available for download"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Sparx sandals are promoted with the tagline 'Add Sparx to your life'. Relaxo Footwear operates exclusive stores and authorised distributors across multiple cities, with contact details provided. Franchise enquiries are invited. Products can also be bought online via relaxofootwear.com or shopatrelaxo.com, or through the ShopatRelaxo app.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "02412777129",
+     "kind": "landline",
+     "as_printed": "0241-2777129"
+    },
+    "evidence": "Ahmednagar: Monlis Tower, Sarjepura, Ph: 0241-2777129",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02267930399",
+     "kind": "landline",
+     "as_printed": "022-67930399"
+    },
+    "evidence": "Airoli: Shiv Shankar Plaza, Sector 8, Ph: 022-67930399",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02316680542",
+     "kind": "landline",
+     "as_printed": "0231-6680542"
+    },
+    "evidence": "Kolhapur: Datta Guru Apartment, Rajarampuri, Ph: 0231-6680542",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9970058662",
+     "kind": "mobile",
+     "as_printed": "9970058662"
+    },
+    "evidence": "Nagpur: Shukla Bhawan, Opposite Andhra Bank Whc Road, Dharampeth, Ph: 9970058662",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8983660551",
+     "kind": "mobile",
+     "as_printed": "8983660551"
+    },
+    "evidence": "Nasik: Opposite ICICI Bank, College Road, Ph: 8983660551",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02224179976",
+     "kind": "landline",
+     "as_printed": "022-24179976"
+    },
+    "evidence": "Mumbal: AK Shoe Trading, Ph: 022-24179976",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9850331177",
+     "kind": "mobile",
+     "as_printed": "9850331177"
+    },
+    "evidence": "Fortune Agencies, Ph: 9850331177",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02228882907",
+     "kind": "landline",
+     "as_printed": "022-28882907"
+    },
+    "evidence": "ICT Industries, Ph: 022-28882907",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02223750050",
+     "kind": "landline",
+     "as_printed": "022-23750050"
+    },
+    "evidence": "Karim Bhoy Enterprises, Ph: 022-23750050",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9967167866",
+     "kind": "mobile",
+     "as_printed": "9967167866"
+    },
+    "evidence": "Mulivision Footwear, Ph: 9967167866",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02522662023",
+     "kind": "landline",
+     "as_printed": "0252-2662023"
+    },
+    "evidence": "Rohan Traders, Ph: 0252-2662023",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "02228781383",
+     "kind": "landline",
+     "as_printed": "022-28781383"
+    },
+    "evidence": "Sevak Footwear, Ph: 022-28781383",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9892445881",
+     "kind": "mobile",
+     "as_printed": "9892445881"
+    },
+    "evidence": "Navi Mumbal: Krishna Enterprises, Ph: 9892445881",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9892306030",
+     "kind": "mobile",
+     "as_printed": "9892306030"
+    },
+    "evidence": "Raigarh: AksarAgencies, Ph: 9892306030",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7020501199",
+     "kind": "mobile",
+     "as_printed": "7020501199"
+    },
+    "evidence": "Karjat: Shreyash Communication, Ph: 7020501199",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9850083180",
+     "kind": "mobile",
+     "as_printed": "9850083180"
+    },
+    "evidence": "Ulhasnagar: Shoe Sagar, Ph: 9850083180",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9891279070",
+     "kind": "mobile",
+     "as_printed": "+919891279070"
+    },
+    "evidence": "contact:Ashish Tyagi+919891279070",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.relaxofootwear.com",
+    "evidence": "www.relaxofootwear.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.shopatrelaxo.com",
+    "evidence": "Shop online at www.shopatrelaxo.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [
+   {
+    "value": "ashishtyagi@relaxofootwear.com",
+    "evidence": "Email: ashishtyagi@relaxofootwear.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "social_handles": [
+   {
+    "value": "f/SparxGoForlt",
+    "evidence": "f/SparxGoForlt",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "Monlis Tower, Sarjepura",
+    "evidence": "Ahmednagar: Monlis Tower, Sarjepura",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Shiv Shankar Plaza, Sector 8",
+    "evidence": "Airoli: Shiv Shankar Plaza, Sector 8",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Datta Guru Apartment, Rajarampuri",
+    "evidence": "Kolhapur: Datta Guru Apartment, Rajarampuri",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Shukla Bhawan, Opposite Andhra Bank Whc Road, Dharampeth",
+    "evidence": "Nagpur: Shukla Bhawan, Opposite Andhra Bank Whc Road, Dharampeth",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Opposite ICICI Bank, College Road",
+    "evidence": "Nasik: Opposite ICICI Bank, College Road",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Monlis Tower",
+     "area": "Sarjepura",
+     "city": "Ahmednagar",
+     "phones": [
+      "02412777129"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Ahmednagar: Monlis Tower, Sarjepura, Ph: 0241-2777129",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Ahmedabad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Shiv Shankar Plaza",
+     "area": "Sector 8",
+     "city": "Airoli",
+     "phones": [
+      "02267930399"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Airoli: Shiv Shankar Plaza, Sector 8, Ph: 022-67930399",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no existing record matches"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Datta Guru Apartment",
+     "area": "Rajarampuri",
+     "city": "Kolhapur",
+     "phones": [
+      "02316680542"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Kolhapur: Datta Guru Apartment, Rajarampuri, Ph: 0231-6680542",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Kanpur, Jodhpur"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Shukla Bhawan",
+     "area": "Opposite Andhra Bank Whc Road, Dharampeth",
+     "city": "Nagpur",
+     "phones": [
+      "9970058662"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 32,
+     "city_id": null
+    },
+    "evidence": "Nagpur: Shukla Bhawan, Opposite Andhra Bank Whc Road, Dharampeth, Ph: 9970058662",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Nagpur' (#32)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "name": "Opposite ICICI Bank",
+     "area": "College Road",
+     "city": "Nasik",
+     "phones": [
+      "8983660551"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "city_id": null
+    },
+    "evidence": "Nasik: Opposite ICICI Bank, College Road, Ph: 8983660551",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: no exact record; closest: Nashik, Varanasi"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Sparx sandals advertised with celebrity endorsement",
+  "Relaxo Exclusive Stores and authorised distributors listed with phone numbers",
+  "Franchisee enquiries solicited for Relaxo Exclusive Stores",
+  "Online shopping available at www.relaxofootwear.com and www.shopatrelaxo.com",
+  "ShopatRelaxo app available for download"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "sparx",
+   "score": 0.9962,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "ADD SPARX",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "GOFORIT",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "TO YOURLIFE",
+   "score": 0.9752,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "(sxe e jo pu) Jed od daw.0o'sLL ≥:daW 89t-SS",
+   "score": 0.6836,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "www.relaxofootwear.comDownload ShopatRelaxo app on",
+   "score": 0.999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "Shop online at www.shopatrelaxo.com",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "•All names, logos & brands used here are property of their respective owners and are being used for identification purpose only, which does not imply",
+   "score": 0.9902,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 9,
+   "text": "any endorsement • Product images shown are for representation purpose only, actual may vary. Colour may vary due to printing limitations.",
+   "score": 0.9833,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 10,
+   "text": "RELAXO EXCLUSIVE STORES: Ahmednagar: Monlis Tower, Sarjepura, Ph: 0241-2777129; Airoli: Shiv Shankar Plaza, Sector 8, Ph: 022-67930399; Kolhapur: Datta Guru Apartment, Rajarampuri, Ph: 0231-6680542; Nagpur: Shukla Bhawan, Opposite Andhra Bank Whc Road, Dharampeth, Ph: 9970058662;",
+   "score": 0.9819,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Nasik: Opposite ICICI Bank, College Road, Ph: 8983660551; RELAXO AUTHORISED DISTRIBUTORS: Mumbal: AK Shoe Trading, Ph: 022-24179976; Fortune Agencies, Ph: 9850331177; ICT Industries, Ph: 022-28882907; Karim Bhoy Enterprises, Ph: 022-23750050; Mulivision Footwear, Ph: 9967167866;",
+   "score": 0.9833,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Rohan Traders, Ph: 0252-2662023; Sevak Footwear, Ph: 022-28781383; Navi Mumbal: Krishna Enterprises, Ph: 9892445881;Raigarh: AksarAgencies, Ph: 9892306030; Karjat: Shreyash Communication, Ph: 7020501199; Ulhasnagar: Shoe Sagar, Ph: 9850083180.",
+   "score": 0.9723,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Franchisee enquiries solicited for Relaxo Exclusive Stores, contact:Ashish Tyagi+919891279070, Email: ashishtyagi@relaxofootwear.com",
+   "score": 0.978,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 14,
+   "text": "f/SparxGoForlt",
+   "score": 0.9725,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Flipkart",
+   "score": 0.9995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "amazon.in",
+   "score": 0.9796,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "paytm",
+   "score": 0.9623,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "snapdeal",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "AJIO.com",
+   "score": 0.9887,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "M",
+   "score": 0.9989,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 21,
+   "text": "Myntra",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "W",
+   "score": 0.7255,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 23,
+   "text": "MEGASTORE",
+   "score": 0.9978,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "more",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "DMart",
+   "score": 0.995,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "METRO",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "WALKWAY",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "Cash & Ganry",
+   "score": 0.8553,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "13 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 14.17,
+  "extract": 49.97
+ }
+}

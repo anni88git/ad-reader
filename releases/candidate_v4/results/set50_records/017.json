@@ -1,0 +1,606 @@
+{
+ "image": "017_Malabar_gold_and_diamond_424.jpg",
+ "fields": {
+  "brand": {
+   "value": "Forevermark",
+   "evidence": "FOREVERMARK",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: mine",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Solitaire Diamond Show",
+   "evidence": "Solitaire Diamond Show",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Malabar Gold & Diamonds",
+   "evidence": "MALABAR GOLD&DIAMONDS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "Solitaire Diamond Show",
+   "evidence": "Solitaire Diamond Show",
+   "english": null,
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "a larger printed line exists ('mine', 2.2x the headline size) - check which line is the main headline",
+    "headline is only the brand/product name",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "A DIAMOND IS FOREVER",
+   "evidence": "A DIAMOND IS FOREVER",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 94% similar) - check spelling - suggestion: A DIAMOMD IS FOREVER",
+    "second model disagrees - suggestion: A unique showcase of largest collection of Forevermark diamond solitaires of varied shapes, sizes and colour on display. Add magic to your story, from this treasure of beautiful, rare and responsibly sourced Forevermark diamonds."
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "A unique showcase of largest collection of Forevermark diamond solitaires of varied shapes, sizes and colour on display. Add magic to your story from this treasure of beautiful, rare and responsibly sourced Forevermark diamonds.",
+   "evidence": "A unique showcase of largest collection of Forevermark diamond solitaires of varied shapes, sizes and colour on display. Add magic to your story from this treasure of beautiful, rare and responsibly sourced Forevermark diamonds.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (91%)",
+    "wording is not an exact match to the printed text (closest OCR reading 91% similar) - check spelling - suggestion: A unicue shawrase oflargest rollection nf Forevermak d amond solita res cf va ied shapes, s zes ard colour on display. Add magic to your story. from t-is treasure of beauciful, rare and resporsibly scurced Foreverm-ark"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Walk into Malabar Gold and Diamonds North Usman Road, T Nagar, Chennai between 19th January to 27th January 2019 and walk out with a sparkling forever after.",
+   "evidence": "Walk into Malabar Gold and Diamonds North Usman Road, T Nagar, Chennai between 19th January to 27th January 2019 and walk out with a sparkling forever after.",
+   "english": "Visit Malabar Gold and Diamonds North Usman Road, T Nagar, Chennai between 19th January to 27th January 2019.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (91%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "MALABAR GOLD&DIAMONDS North Usman Road,T Nagar, Chennai +91-44-28140910",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Jewellery",
+   "evidence": "MALABAR GOLD&DIAMONDS FOREVERMARK A DIAMOND IS FOREVER",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #10"
+   ],
+   "matched_id": 10,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 10,
+     "name": "Jewellery",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Forevermark diamond solitaires in varied shapes, sizes and colours",
+    "Malabar Gold & Diamonds North Usman Road, T Nagar, Chennai",
+    "Event from 19th January to 27th January 2019",
+    "Phone +91-44-28140910",
+    "Website FOREVERMARK.COM",
+    "Toll-free 1800 210 2121"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Malabar Gold & Diamonds is hosting a Solitaire Diamond Show featuring Forevermark diamond solitaires of varied shapes, sizes and colours at its North Usman Road, T Nagar, Chennai store from 19th January to 27th January 2019. Visitors can walk in and walk out with a sparkling forever after.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "04428140910",
+     "kind": "landline",
+     "as_printed": "+91-44-28140910"
+    },
+    "evidence": "+91-44-28140910",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (landline)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "18002102121",
+     "kind": "toll_free",
+     "as_printed": "1800 210 2121"
+    },
+    "evidence": "1800 210 2121",
+    "english": null,
+    "confidence": 0.5,
+    "status": "review",
+    "reasons": [
+     "digits not found in OCR text"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "forevermark.com",
+    "evidence": "FOREVERMARK.COM",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (86%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "North Usman Road,T Nagar, Chennai",
+    "evidence": "North Usman Road,T Nagar, Chennai",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "largest collection of Forevermark diamond solitaires of varied shapes, sizes and colour",
+    "evidence": "A unique showcase of largest collection of Forevermark diamond solitaires of varied shapes, sizes and colour on display.",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (88%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "beautiful, rare and responsibly sourced Forevermark diamonds",
+    "evidence": "beautiful, rare and responsibly sourced Forevermark diamonds.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (92%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "6520025",
+    "evidence": "6520025",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [],
+  "dealers": [
+   {
+    "value": {
+     "name": "Malabar Gold & Diamonds",
+     "area": "North Usman Road, T Nagar",
+     "city": "Chennai",
+     "phones": [
+      "04428140910"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 4,
+     "city_id": null
+    },
+    "evidence": "MALABAR GOLD&DIAMONDS North Usman Road,T Nagar, Chennai +91-44-28140910",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Chennai' (#4)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Forevermark diamond solitaires in varied shapes, sizes and colours",
+  "Malabar Gold & Diamonds North Usman Road, T Nagar, Chennai",
+  "Event from 19th January to 27th January 2019",
+  "Phone +91-44-28140910",
+  "Website FOREVERMARK.COM",
+  "Toll-free 1800 210 2121"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "mine",
+   "score": 0.9908,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "ciamords unlinited",
+   "score": 0.9453,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "MALABAR",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "GOLD&DIAMONDS",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "North Usman Road,T Nagar, Chennai",
+   "score": 0.9806,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "+91-44-28140910",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "6520025",
+   "score": 0.9025,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Solitaire Diamond Show",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "A unicue shawrase oflargest rollection nf Forevermak",
+   "score": 0.8879,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "d amond solita res cf va ied shapes, s zes ard colour on",
+   "score": 0.9469,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "display. Add magic to your story. from t-is treasure of",
+   "score": 0.9745,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "beauciful, rare and resporsibly scurced Foreverm-ark",
+   "score": 0.9466,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "diamoncs.",
+   "score": 0.9226,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "Walk nto Malazer Gold anc Diamonds North Us man Road,",
+   "score": 0.9287,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "T Nagar, Chcnnai betwocn 19th January te 27th Jan.ary",
+   "score": 0.9516,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 16,
+   "text": "20 9 and walk cut wit n a sparkling forever after.",
+   "score": 0.9497,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "口",
+   "score": 0.9431,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 18,
+   "text": "FOREVERMARK",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "A DIAMOMD IS FOREVER",
+   "score": 0.9434,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "yt",
+   "score": 0.5209,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 21,
+   "text": "DEBEERS GROUP",
+   "score": 0.988,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "=OREYERMARK.COM",
+   "score": 0.9728,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "800210 2121",
+   "score": 0.8275,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "7 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 14.53,
+  "extract": 29.48
+ }
+}

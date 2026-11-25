@@ -1,0 +1,937 @@
+{
+ "image": "d096_Navbharat_Times_96.jpg",
+ "fields": {
+  "brand": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Maruti Suzuki' (#2)"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Maruti Suzuki",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "True Value",
+   "evidence": "TRUE VALUE",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Maruti Suzuki",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "exact match to existing record 'Maruti Suzuki India Ltd' (#9)"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Maruti Suzuki India Ltd",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "headline": {
+   "value": "तेज़ भी है, परेशानी-रहित भी!",
+   "evidence": "तेज़ भी है,\nपरेशानी-रहित भी!",
+   "english": "Fast too, hassle-free too!",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "अपनी कार को सही कीमत पर बेचने के लिए चुनिए TRUEVALUE",
+   "evidence": "अपनी कार को सही कीमत पर बेचने\nके लिए चुनिए TRUEVALUE",
+   "english": "Choose TRUE VALUE to sell your car at the right price",
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "पूछताछ के लिए कॉल करें 1800 102 1800 | या जायें www.marutisuzukitruevalue.com",
+   "evidence": "पूछताछ के लिए कॉल करें 1800 102 1800 | या जायें www.marutisuzukitruevalue.com",
+   "english": "Call 1800 102 1800 for inquiries or visit www.marutisuzukitruevalue.com",
+   "confidence": 0.4,
+   "status": "missing",
+   "reasons": [
+    "evidence NOT found in OCR text (75%) - possible misreading or invention",
+    "too uncertain to fill - shown as a suggestion only"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "MARUTI SUZUKI",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: dealer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": "अपनी कार को सही कीमत पर बेचने के लिए चुनिए TRUEVALUE",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://www.marutisuzukitruevalue.com/)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://www.marutisuzukitruevalue.com/",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Maruti Suzuki True Value used car service",
+    "Sell your car at the right price",
+    "Instant payment at your doorstep",
+    "Hassle-free documentation",
+    "Doorstep evaluation",
+    "Call 1800 102 1800 or visit www.marutisuzukitruevalue.com",
+    "Scan QR code for more information"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Maruti Suzuki True Value lets you sell your car at the right price with instant payment, doorstep evaluation, and hassle-free documentation. Call 1800 102 1800 or visit www.marutisuzukitruevalue.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18001021800",
+     "kind": "toll_free",
+     "as_printed": "1800 102 1800"
+    },
+    "evidence": "पूछताछ के लिए कॉल करें 1800 102 1800",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8448591644",
+     "kind": "mobile",
+     "as_printed": "8448591644"
+    },
+    "evidence": "SOUTH DELHI: CHHATARPUR, AAA VEHICLEADES: 9205584642, 8448591644 | SARITA VIHAR, ROHAN MOTORS: 9205719372, 9818898285 | WEST DELHI: DWARKA, SEC 14, DD PREM: 9999003888 | MOTI NAGAR,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9818898285",
+     "kind": "mobile",
+     "as_printed": "9818898285"
+    },
+    "evidence": "SOUTH DELHI: CHHATARPUR, AAA VEHICLEADES: 9205584642, 8448591644 | SARITA VIHAR, ROHAN MOTORS: 9205719372, 9818898285 | WEST DELHI: DWARKA, SEC 14, DD PREM: 9999003888 | MOTI NAGAR,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999003888",
+     "kind": "mobile",
+     "as_printed": "9999003888"
+    },
+    "evidence": "SOUTH DELHI: CHHATARPUR, AAA VEHICLEADES: 9205584642, 8448591644 | SARITA VIHAR, ROHAN MOTORS: 9205719372, 9818898285 | WEST DELHI: DWARKA, SEC 14, DD PREM: 9999003888 | MOTI NAGAR,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9910690463",
+     "kind": "mobile",
+     "as_printed": "9910690463"
+    },
+    "evidence": "MAGIC AUTO: 9971391122, 9717690037, 9910690463 | NORTH DELHI: BADLI, COMPETENT AUTOMOBILES: 8860121213, TR SAWHNEY: 9999399124 | PRASHANT VIHAR, RANA MOTORS: 9873066690, 8860425809 | GTK,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999399124",
+     "kind": "mobile",
+     "as_printed": "9999399124"
+    },
+    "evidence": "MAGIC AUTO: 9971391122, 9717690037, 9910690463 | NORTH DELHI: BADLI, COMPETENT AUTOMOBILES: 8860121213, TR SAWHNEY: 9999399124 | PRASHANT VIHAR, RANA MOTORS: 9873066690, 8860425809 | GTK,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8860425809",
+     "kind": "mobile",
+     "as_printed": "8860425809"
+    },
+    "evidence": "MAGIC AUTO: 9971391122, 9717690037, 9910690463 | NORTH DELHI: BADLI, COMPETENT AUTOMOBILES: 8860121213, TR SAWHNEY: 9999399124 | PRASHANT VIHAR, RANA MOTORS: 9873066690, 8860425809 | GTK,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9873073733",
+     "kind": "mobile",
+     "as_printed": "9873073733"
+    },
+    "evidence": "RANA MOTORS: 9873066699, 9873073733 | SAYA AUTO: 9560568162, 8368178332 |EAST DELHI: MAYUR VIHAR, FAIR DEAL WHEELS: 8826144866 |PATPARGANJ, BAGGA LINK: 9354679909, 9810345823 | GURUGRAM:",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8368178332",
+     "kind": "mobile",
+     "as_printed": "8368178332"
+    },
+    "evidence": "RANA MOTORS: 9873066699, 9873073733 | SAYA AUTO: 9560568162, 8368178332 |EAST DELHI: MAYUR VIHAR, FAIR DEAL WHEELS: 8826144866 |PATPARGANJ, BAGGA LINK: 9354679909, 9810345823 | GURUGRAM:",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8826144866",
+     "kind": "mobile",
+     "as_printed": "8826144866"
+    },
+    "evidence": "RANA MOTORS: 9873066699, 9873073733 | SAYA AUTO: 9560568162, 8368178332 |EAST DELHI: MAYUR VIHAR, FAIR DEAL WHEELS: 8826144866 |PATPARGANJ, BAGGA LINK: 9354679909, 9810345823 | GURUGRAM:",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9810345823",
+     "kind": "mobile",
+     "as_printed": "9810345823"
+    },
+    "evidence": "RANA MOTORS: 9873066699, 9873073733 | SAYA AUTO: 9560568162, 8368178332 |EAST DELHI: MAYUR VIHAR, FAIR DEAL WHEELS: 8826144866 |PATPARGANJ, BAGGA LINK: 9354679909, 9810345823 | GURUGRAM:",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9999525774",
+     "kind": "mobile",
+     "as_printed": "9999525774"
+    },
+    "evidence": "MOTORS PVT. LTD. 9999525774 | FARIDABAD: FAIRDEALCARS: 9667422112,9911523143, VIPUL MOTORS:9910491844,8750752827, TCSAND ASSOCIATES: 8447748103, AUTONATION:7290032434,7290032430 |",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9899118798",
+     "kind": "mobile",
+     "as_printed": "9899118798"
+    },
+    "evidence": "MANESAR: PLATINUM: 9899118798|REWARI: DINCO: 7082100275,7082100119 |PALWAL: ROHAN MOTORS: 9813847382, 9728985396 |SOHNA: PASCO: 8572091010 |GREATER NOIDA: ROHAN MOTORS: 7065331010,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9728985396",
+     "kind": "mobile",
+     "as_printed": "9728985396"
+    },
+    "evidence": "MANESAR: PLATINUM: 9899118798|REWARI: DINCO: 7082100275,7082100119 |PALWAL: ROHAN MOTORS: 9813847382, 9728985396 |SOHNA: PASCO: 8572091010 |GREATER NOIDA: ROHAN MOTORS: 7065331010,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8572091010",
+     "kind": "mobile",
+     "as_printed": "8572091010"
+    },
+    "evidence": "MANESAR: PLATINUM: 9899118798|REWARI: DINCO: 7082100275,7082100119 |PALWAL: ROHAN MOTORS: 9813847382, 9728985396 |SOHNA: PASCO: 8572091010 |GREATER NOIDA: ROHAN MOTORS: 7065331010,",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9650699559",
+     "kind": "mobile",
+     "as_printed": "9650699559"
+    },
+    "evidence": "D873709280 LNOIDA: MAGIC AUTO.: 9650699559 VIRUIL MOT0RS: 8510009814 POHAN MOTORS: 7065862020. 7827539660 FAIPDEAL CARS: 9667422441 9667422552 LGHAZIARAD: TR SAWHNEY MOTORS PVT LTD",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8510009814",
+     "kind": "mobile",
+     "as_printed": "8510009814"
+    },
+    "evidence": "D873709280 LNOIDA: MAGIC AUTO.: 9650699559 VIRUIL MOT0RS: 8510009814 POHAN MOTORS: 7065862020. 7827539660 FAIPDEAL CARS: 9667422441 9667422552 LGHAZIARAD: TR SAWHNEY MOTORS PVT LTD",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7827539660",
+     "kind": "mobile",
+     "as_printed": "7827539660"
+    },
+    "evidence": "D873709280 LNOIDA: MAGIC AUTO.: 9650699559 VIRUIL MOT0RS: 8510009814 POHAN MOTORS: 7065862020. 7827539660 FAIPDEAL CARS: 9667422441 9667422552 LGHAZIARAD: TR SAWHNEY MOTORS PVT LTD",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9667422441",
+     "kind": "mobile",
+     "as_printed": "9667422441"
+    },
+    "evidence": "D873709280 LNOIDA: MAGIC AUTO.: 9650699559 VIRUIL MOT0RS: 8510009814 POHAN MOTORS: 7065862020. 7827539660 FAIPDEAL CARS: 9667422441 9667422552 LGHAZIARAD: TR SAWHNEY MOTORS PVT LTD",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "9667422552",
+     "kind": "mobile",
+     "as_printed": "9667422552"
+    },
+    "evidence": "D873709280 LNOIDA: MAGIC AUTO.: 9650699559 VIRUIL MOT0RS: 8510009814 POHAN MOTORS: 7065862020. 7827539660 FAIPDEAL CARS: 9667422441 9667422552 LGHAZIARAD: TR SAWHNEY MOTORS PVT LTD",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.marutisuzukitruevalue.com",
+    "evidence": "www.marutisuzukitruevalue.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "समय पर पेमेंट",
+    "evidence": "समय पर पेमेंट",
+    "english": "Payment on time",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "घर-पर इवैल्यूएशन",
+    "evidence": "घर-पर\nइवैल्यूएशन",
+    "english": "Evaluation at home",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "चिंता-मुक्त डॉक्यूमेंटेशन",
+    "evidence": "चिंता-मुक्त\nडॉक्यूमेंटेशन",
+    "english": "Worry-free documentation",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "buyback_or_finance": {
+   "value": "अपनी कार को सही कीमत पर बेचने के लिए चुनिए TRUEVALUE",
+   "evidence": "अपनी कार को सही कीमत पर बेचने\nके लिए चुनिए TRUEVALUE",
+   "english": "Sell your car at the right price",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Maruti Suzuki True Value used car service",
+  "Sell your car at the right price",
+  "Instant payment at your doorstep",
+  "Hassle-free documentation",
+  "Doorstep evaluation",
+  "Call 1800 102 1800 or visit www.marutisuzukitruevalue.com",
+  "Scan QR code for more information"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "TRUEVALUE",
+   "score": 0.9787,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "MARUTISUZUKI",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "तेज़ भी है,",
+   "score": 0.9665,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "परेशानी-रहित भी!",
+   "score": 0.9928,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "अपनी कार को सही कीमत पर बेचने",
+   "score": 0.9683,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "के लिए चुनिए TRUEVALUE",
+   "score": 0.9649,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "TRUEVALUE",
+   "score": 0.9907,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "TRUE VALUE",
+   "score": 0.9764,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "घर-पर",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "चिंता-मुक्त",
+   "score": 0.943,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "समय पर पेमेंट",
+   "score": 0.9365,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "इवैल्यूएशन",
+   "score": 0.9967,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "डॉक्यूमेंटेशन",
+   "score": 0.9525,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "अधिक जानकारी",
+   "score": 0.9929,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "市",
+   "score": 0.9985,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "1800102 1800www.marutisuzukitruevalue.com",
+   "score": 0.9901,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 17,
+   "text": "*Terms and Conditions apply. Black glass shade on the vehicle is due to lighting effect. Creative visualization. Images used are for illustration purposes only. Car colour may vary due to printing on paper.",
+   "score": 0.989,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 18,
+   "text": "SOUTH DELHI: CHHATARPUR, AAA VEHICLEADES: 9205584642, 8448591644 | SARITA VIHAR, ROHAN MOTORS: 9205719372, 9818898285 | WEST DELHI: DWARKA, SEC 14, DD PREM: 9999003888 | MOTI NAGAR,",
+   "score": 0.9817,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "MAGIC AUTO: 9971391122, 9717690037, 9910690463 | NORTH DELHI: BADLI, COMPETENT AUTOMOBILES: 8860121213, TR SAWHNEY: 9999399124 | PRASHANT VIHAR, RANA MOTORS: 9873066690, 8860425809 | GTK,",
+   "score": 0.9691,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "RANA MOTORS: 9873066699, 9873073733 | SAYA AUTO: 9560568162, 8368178332 |EAST DELHI: MAYUR VIHAR, FAIR DEAL WHEELS: 8826144866 |PATPARGANJ, BAGGA LINK: 9354679909, 9810345823 | GURUGRAM:",
+   "score": 0.9768,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "RANA MOTORS: 9582896172, 9899965993, VIPUL MOTORS: 9910491844, 8750752827, COMPETENT AUTOMOBILES: 9582797828, PASCO AUTOMOBILES: 9650790278, PREM MOTORS: 7065052378, 7065003664, TR SAWHNEY",
+   "score": 0.9813,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 22,
+   "text": "MOTORS PVT. LTD. 9999525774 | FARIDABAD: FAIRDEALCARS: 9667422112,9911523143, VIPUL MOTORS:9910491844,8750752827, TCSAND ASSOCIATES: 8447748103, AUTONATION:7290032434,7290032430 |",
+   "score": 0.9736,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "MANESAR: PLATINUM: 9899118798|REWARI: DINCO: 7082100275,7082100119 |PALWAL: ROHAN MOTORS: 9813847382, 9728985396 |SOHNA: PASCO: 8572091010 |GREATER NOIDA: ROHAN MOTORS: 7065331010,",
+   "score": 0.982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "D873709280 LNOIDA: MAGIC AUTO.: 9650699559 VIRUIL MOT0RS: 8510009814 POHAN MOTORS: 7065862020. 7827539660 FAIPDEAL CARS: 9667422441 9667422552 LGHAZIARAD: TR SAWHNEY MOTORS PVT LTD",
+   "score": 0.8886,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "19 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 52.32,
+  "extract": 9.07
+ }
+}

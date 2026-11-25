@@ -1,0 +1,786 @@
+{
+ "image": "030_Hindustan_29.jpg",
+ "fields": {
+  "brand": {
+   "value": "Delhi Development Authority",
+   "evidence": "दिल्ली विकास प्राधिकरण",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: dillli",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "DDA Housing Scheme",
+   "evidence": "डीडीए की आवासीय योजना",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Delhi Development Authority",
+   "evidence": "दिल्ली विकास प्राधिकरण",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "value transliterated from another script",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "घर खरीदने वाले हो जाएं तैयार !!!",
+   "evidence": "घर खरीदने वाले हो जाएं तैयार !!!",
+   "english": "Those who want to buy a house, get ready!!!",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "डीडीए की आवासीय योजना के लिए नरेला में मेगा कैंप का आयोजन",
+   "evidence": "डीडीए की आवासीय योजना के लिए नरेला में मेगा कैंप का आयोजन",
+   "english": "Mega camp organized for DDA Housing Scheme in Narela",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: दिल्ली की आवासीय योजना के लिए नरेला में मेगा कैंप का आयोजन"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "दिनांक: 8 जुलाई और 9 जुलाई, 2023 समयः सुबह 10 बजे से शाम 6 बजे तक स्थलः सामुदायिक हॉल, पॉकेट 1 सी सेक्टर ए1-ए4 नरेला",
+   "evidence": "दिनांक: 8 जुलाई और 9 जुलाई, 2023 समयः सुबह 10 बजे से शाम 6 बजे तक स्थलः सामुदायिक हॉल, पॉकेट 1 सी सेक्टर ए1-ए4 नरेला",
+   "english": "Date: 8 July and 9 July, 2023 Time: 10 AM to 6 PM Venue: Community Hall, Pocket 1 C Sector E1-E4 Narela",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "घर खरीदने वाले हो जाएं तैयार !!!",
+   "evidence": "घर खरीदने वाले हो जाएं तैयार !!!",
+   "english": "Those who want to buy a house, get ready!!!",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "public_notice",
+   "evidence": "सार्वजनिक सूचना",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": "डीडीए की आवासीय योजना के लिए नरेला में मेगा कैंप का आयोजन",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: Government & Public Notices",
+    "category #5",
+    "record #5 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 5,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Hindi"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://maps.google.com/?q=28.849403,77.112968)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://maps.google.com/?q=28.849403,77.112968",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "DDA Housing Scheme mega camp in Narela",
+    "FCFS scheme phase 4",
+    "Dates: 8 and 9 July 2023, 10 AM to 6 PM",
+    "Venue: Community Hall, Pocket 1 C Sector E1-E4 Narela",
+    "On-the-spot registration and query resolution by DDA officials",
+    "Bank/NBFC representatives for loan assistance",
+    "Transport from Jahangirpuri Metro Station to mega camp site",
+    "Registration assistance available at Narela from 5 July 2023",
+    "Toll-free number 1800110332 and website www.dda.gov.in"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The Delhi Development Authority is holding a mega camp for its housing scheme in Narela on 8 and 9 July 2023 from 10 AM to 6 PM at Community Hall, Pocket 1 C Sector E1-E4. Visitors can get on-the-spot registration, query resolution, and loan assistance, with transport provided from Jahangirpuri Metro Station.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "1800110332",
+     "kind": "toll_free",
+     "as_printed": "1800110332"
+    },
+    "evidence": "टोल-फ्री नंबर 1800110332",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (toll_free)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.dda.gov.in",
+    "evidence": "www.dda.gov.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "eservices.dda.org.in/public/uploads/contact_us_list.pdf",
+    "evidence": "http://eservices.dda.org.in/public/uploads/Contact_Us_List.pdf",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "ddaofficial",
+    "evidence": "ddaofficial",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "official_dda",
+    "evidence": "official_dda",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "सामुदायिक हॉल, पॉकेट 1 सी सेक्टर ए1-ए4 नरेला",
+    "evidence": "सामुदायिक हॉल, पॉकेट 1 सी सेक्टर ए1-ए4 नरेला",
+    "english": "Community Hall, Pocket 1 C Sector E1-E4 Narela",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "ऑन-द-स्पॉट पंजीकरण की सुविधा प्रदान करेंगे",
+    "evidence": "ऑन-द-स्पॉट पंजीकरण की सुविधा प्रदान करेंगे",
+    "english": "On-the-spot registration facility will be provided",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "मौके पर ही प्रश्नों का समाधान",
+    "evidence": "मौके पर ही प्रश्नों का समाधान",
+    "english": "On-the-spot resolution of queries",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ऋण व्यवस्थया से संबंधित प्रश्नों और जनता की सहायता के लिए बैक / एनबीएफसी प्रतिनिधि उपस्थित रहंगे",
+    "evidence": "ऋण व्यवस्थया से संबंधित प्रश्नों और जनता की सहायता के लिए बैक / एनबीएफसी प्रतिनिधि उपस्थित रहंगे",
+    "english": "Bank/NBFC representatives will be present to assist with loan-related queries and public assistance",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "जहांगीरपुरी मेट्रो स्टेशन से मेगा कैप साइट तक परिवहन डीडीए द्वारा उपलब्ध कराया गया है",
+    "evidence": "जहांगीरपुरी मेट्रो स्टेशन से मेगा कैप साइट तक परिवहन डीडीए द्वारा उपलब्ध कराया गया है",
+    "english": "Transport from Jahangirpuri Metro Station to mega camp site provided by DDA",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "एफसीएफएस योजना चरण 4",
+   "evidence": "एफसीएफएस योजना चरण 4",
+   "english": "FCFS Scheme Phase 4",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "नरेला",
+   "evidence": "नरेला",
+   "english": "Narela",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "DDA Housing Scheme mega camp in Narela",
+  "FCFS scheme phase 4",
+  "Dates: 8 and 9 July 2023, 10 AM to 6 PM",
+  "Venue: Community Hall, Pocket 1 C Sector E1-E4 Narela",
+  "On-the-spot registration and query resolution by DDA officials",
+  "Bank/NBFC representatives for loan assistance",
+  "Transport from Jahangirpuri Metro Station to mega camp site",
+  "Registration assistance available at Narela from 5 July 2023",
+  "Toll-free number 1800110332 and website www.dda.gov.in"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "दिल्ली विकास प्राधिकरण",
+   "score": 0.9353,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Ministry of Housing",
+   "score": 0.9965,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "Government of India",
+   "score": 0.9691,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 4,
+   "text": "and Urban Affairs",
+   "score": 0.992,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 5,
+   "text": "आवासन और शहरी कार्य मंत्रालय. भारत सरकार",
+   "score": 0.9644,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "सार्वजनिक सूचना",
+   "score": 0.9487,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "घर खरीदने वाले हो जाएं तैयार !!",
+   "score": 0.9776,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "डीडीए की आवासीय योजना के लिए",
+   "score": 0.9629,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "नरेला में मेगा कैंप का आयोजन",
+   "score": 0.9579,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "एफसीएफएस",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "योजना चरण 4",
+   "score": 0.936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "शिविर स्थान के लिए",
+   "score": 0.9562,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "OR कोड स्कैन करें",
+   "score": 0.8512,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 14,
+   "text": "दिनांक: 8 जुलाई और 9 जुलाई, 2023",
+   "score": 0.9203,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "समयः सुबह 10 बजे से शाम 6 बजे तक",
+   "score": 0.9388,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "स्थलः सामुदायिक हॉल, पॉकेट 1 सी सेक्टर ए1-ए4 नरेला",
+   "score": 0.9688,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "डीडीए अधिकारी एफसीएफएस योजना में",
+   "score": 0.9741,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 18,
+   "text": "मौके पर ही प्रश्नों का समाधान",
+   "score": 0.9332,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "ऑन-द-स्पॉट पंजीकरण की सुविधा प्रदान",
+   "score": 0.9582,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "करेंगे",
+   "score": 0.9556,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "ऋण व्यवस्थया से संबंधित प्रश्नों और जनता",
+   "score": 0.9038,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "जहांगीरपुरी मेट्रो स्टेशन से मेगा कैप साइट तक",
+   "score": 0.975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "की सहायता के लिए बैक / एनबीएफसी",
+   "score": 0.9292,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "परिवहन डीडीए द्वारा उपलब्ध कराया गया है",
+   "score": 0.9414,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "प्रतिनिधि उपस्थित रहंगे",
+   "score": 0.9682,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "जनता साइट और फ्लैट देख सकती है। नोडल अधिकारियों का स्थानवार विवरण डीडीए की वेबसाइट पर",
+   "score": 0.9596,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "3qer http://eservices.dda.org.in/public/uploads/Contact_Us_List.pdf",
+   "score": 0.9767,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "डीडीए ्ारा प्रदान की गई अन्य सुविाएं",
+   "score": 0.9513,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 29,
+   "text": "पंजीकरण सहायता के लिए अधिकारी और",
+   "score": 0.9369,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "डीडीए आवास विभाग के अधिकारी नागरिक",
+   "score": 0.9881,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "कंप्यूटर सिस्टम 5 जुलाई, 2023 से नरेला में",
+   "score": 0.9547,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "सुविधा कैंद्र, विकास सदन,आईएनए में",
+   "score": 0.9088,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "उपलब्ध",
+   "score": 0.9806,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "पॅंजीकरण प्रक्रया में जनता की सहायता",
+   "score": 0.9658,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "करेंगे",
+   "score": 0.9663,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "ddaofficial",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "official_dda",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "official_dda_",
+   "score": 0.949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Official_dda",
+   "score": 0.9693,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "कृपया हमारी वेबसाइट Www.dd.g0v.iं पर जाऐँ या टोल-्ी नंबर 1800110332 डायल करे।",
+   "score": 0.8745,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "13 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 17.13,
+  "extract": 24.76
+ }
+}

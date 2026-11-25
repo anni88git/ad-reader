@@ -1,0 +1,80 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Malabar Gold & Diamonds",
+   "Forevermark"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Forevermark",
+   "Forevermark diamonds",
+   "Solitaire Diamond Show",
+   "Forevermark diamond solitaires",
+   null
+  ]
+ },
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "Malabar Gold & Diamonds",
+   "Malabar Gold and Diamonds",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "retailer",
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Jewellery",
+ "headline": "Solitaire Diamond Show",
+ "sub_headline": {
+  "any_of": [
+   "A Diamond Is Forever",
+   null
+  ]
+ },
+ "price": null,
+ "phones": {
+  "required": [
+   "04428140910"
+  ],
+  "optional": [
+   "18002102121"
+  ]
+ },
+ "websites": [
+  "forevermark.com"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "ambiguous"
+  }
+ ]
+}

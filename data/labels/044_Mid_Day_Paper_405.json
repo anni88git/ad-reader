@@ -1,0 +1,80 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Shraddha",
+   "Shraddha Prime Projects",
+   "Shraddha Landmark"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Gold Crest",
+   "Gold Crest by Shraddha"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   "1 BHK | 2 BHK",
+   "1 BHK / 2 BHK",
+   "1 & 2 BHK",
+   "1 BHK, 2 BHK",
+   null
+  ]
+ },
+ "ad_type": "real_estate_developer",
+ "category": "Real Estate",
+ "headline": {
+  "any_of": [
+   "Gold Crest",
+   "Gold Crest by Shraddha",
+   "1 BHK | 2 BHK"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   "Kandivali West Near Station",
+   "₹ 97 Lacs Onwards",
+   "by Shraddha",
+   "1 BHK | 2 BHK",
+   null
+  ]
+ },
+ "price": 9700000,
+ "phones": [
+  "8750039171",
+  "8750042620"
+ ],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "reference_numbers": [
+  "P51800050191"
+ ],
+ "_uncertain_fields": [
+  {
+   "field": "brand",
+   "why": "suspicious"
+  }
+ ]
+}

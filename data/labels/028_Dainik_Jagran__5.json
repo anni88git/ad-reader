@@ -1,0 +1,74 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Nissan",
+ "product": "Magnite",
+ "model_variant": {
+  "any_of": [
+   "Geza Special Edition",
+   "Geza Edition",
+   "Geza",
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": "Magnite is Music",
+ "sub_headline": {
+  "any_of": [
+   "Introducing Nissan Magnite Geza Special Edition",
+   "#BigBoldBeautiful",
+   null
+  ]
+ },
+ "price": {
+  "any_of": [
+   739000,
+   599900
+  ]
+ },
+ "phones": {
+  "required": [
+   "8879509258"
+  ],
+  "optional": [
+   "9731169831",
+   "9731170778",
+   "9731170445",
+   "9731169529",
+   "9731169773"
+  ]
+ },
+ "websites": [
+  "www.nissan.in"
+ ],
+ "emails": [
+  "dealer.management@email.nissan.in"
+ ],
+ "qr_code_present": true,
+ "_uncertain_fields": []
+}

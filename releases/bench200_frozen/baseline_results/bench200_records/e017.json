@@ -1,0 +1,613 @@
+{
+ "image": "e017_Sakshi__284.jpg",
+ "fields": {
+  "brand": {
+   "value": "RMD",
+   "evidence": "RMD",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Raymond"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 73,
+     "name": "Raymond",
+     "score": 60.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Pan Masala",
+   "evidence": "PAN MASALA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Raviklal Manikchand Dhariwal",
+   "evidence": "Raviklal Manikchand Dhariwal",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ఉన్నత రుజులు, ఉన్నత ఇష్టం",
+   "evidence": "ఉన్నత రుజులు, ఉన్నత ఇష్టం",
+   "english": "Superior tastes, superior choice",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (86%)",
+    "wording is not an exact match to the printed text (closest OCR reading 90% similar) - check spelling - suggestion: ఉన్నత (పజలు,ఉన్నత ఇష్టం",
+    "second model disagrees - suggestion: ఇస్సో పాసెస్, ఇస్సో పాసెస్"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "రసిక్లాల్ మానిక్చంద్ ధరీవాల్",
+   "evidence": "రసిక్లాల్ మానిక్చంద్ ధరీవాల్",
+   "english": "Raviklal Manikchand Dhariwal",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: సుమారు 1000 కోట్లు మంది పసుపు దరుణాలు"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "క్రీడాలు నిజం అయినప్కడు ఐజయం ఆసన్నమెంది",
+   "evidence": "క్రీడాలు నిజం అయినప్కడు ఐజయం ఆసన్నమెంది",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (86%)",
+    "wording is not an exact match to the printed text (closest OCR reading 86% similar) - check spelling - suggestion: నిజం అయినప్కడు ఐిజయం ఆసన్నమెంది"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "రాష్టరంలో ఆర్వండి పాన్ మసాలాను స్టాక్ (నిల్వ) చేయవచ్చు మరియు స్వేగా వి(కయించవచ్చు",
+   "evidence": "రాష్టరంలో ఆర్వండి పాన్ మసాలాను స్టాక్ (నిల్వ) చేయవచ్చు మరియు స్వేగా వి(కయించవచ్చు",
+   "english": "Stock pan masala across the state and sell quickly",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (99%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "category chosen from master list",
+    "second model disagrees - suggestion: FMCG > Personal & Home Care",
+    "category #24",
+    "record #24 held as a suggestion until this field is confirmed"
+   ],
+   "matched_id": null,
+   "suggested_id": 24,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Telugu",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "RMD Pan Masala 2g at MRP ₹10",
+    "RMD Pan Masala 3.5g at MRP ₹15",
+    "No tobacco, no nicotine",
+    "Stock and sell pan masala across the state",
+    "Available at prominent shops",
+    "Statutory warning: chewing pan masala is harmful to health; not for sale to minors"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "RMD Pan Masala is a no-tobacco, no-nicotine product available in 2g (MRP ₹10) and 3.5g (MRP ₹15) packs. Dealers across the state can stock and sell it, and it is available at prominent shops. Chewing pan masala is harmful to health and not for sale to minors.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [
+   {
+    "value": {
+     "amount": 10,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "RMD Pan Masala 2g",
+     "as_printed": "₹10"
+    },
+    "evidence": "₹10",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '10' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 15,
+     "currency": "INR",
+     "kind": "old_price",
+     "label": "MRP",
+     "item": "RMD Pan Masala 3.5g",
+     "as_printed": "₹15"
+    },
+    "evidence": "₹15",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "short number '15' found in OCR but without a ₹/price marker"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "NO TOBACCO, NO NICOTINE",
+    "evidence": "NO TOBACCO, NO NICOTINE",
+    "english": "No tobacco, no nicotine",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "RMD Pan Masala 2g at MRP ₹10",
+  "RMD Pan Masala 3.5g at MRP ₹15",
+  "No tobacco, no nicotine",
+  "Stock and sell pan masala across the state",
+  "Available at prominent shops",
+  "Statutory warning: chewing pan masala is harmful to health; not for sale to minors"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ऊँचे लोग,",
+   "score": 0.7677,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "ऊंँची पसंद",
+   "score": 0.7894,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "जीपशब",
+   "score": 0.464,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "RMD",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "RMD",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "MRP",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "MRP",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "710",
+   "score": 0.8846,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 9,
+   "text": "PAN MASALA",
+   "score": 0.9828,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "15",
+   "score": 0.9995,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "2g",
+   "score": 0.999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "PAN MASALA",
+   "score": 0.9656,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "3.5g",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "NO TOBACCO, NO NICOTINE",
+   "score": 0.9437,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "NO TOBACCO,NO NICOTINE",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Raviklal Manikchand Dhariwal,",
+   "score": 0.9334,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "Rasikial Manikchand Dhariwal",
+   "score": 0.905,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "ఉన్నత (పజలు,ఉన్నత ఇష్టం",
+   "score": 0.9655,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "e",
+   "score": 0.9824,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 20,
+   "text": "సూ్యాతీకరించినవారు",
+   "score": 0.8912,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 21,
+   "text": "రసిక్లాల్ మానిక్చంద్ ధరీవాల్",
+   "score": 0.9817,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "ఉద్దేశాలు",
+   "score": 0.9775,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "Q",
+   "score": 0.9055,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 24,
+   "text": "నిజం అయినప్కడు",
+   "score": 0.8922,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "ఐిజయం ఆసన్నమెంది",
+   "score": 0.935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "P",
+   "score": 0.8062,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 27,
+   "text": "TIBeTEL",
+   "score": 0.7502,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "రాష్టరంలో ఆర్వండి పాన్ మసాలాను స్టాక్ (నిల్వ) చేయవచ్చు మరియు స్వే్గా వి(కయించవచ్చు,",
+   "score": 0.9371,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "ప్రముఖ దుకాణాలలో లభిస్తుంది",
+   "score": 0.9771,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "చట్టబద్ధ హెచ్చరిక: పాన్ మసాలాలు నమలడం ఆరోగ్యానికి",
+   "score": 0.9752,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "NO TOBACCO,",
+   "score": 0.9975,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "హానికరం. చిన్న ిల్లు నమిలేందుకు నిషేధించడమైనది.",
+   "score": 0.9641,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "a",
+   "score": 0.8459,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 34,
+   "text": "NO NICOTINE",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: Telugu text in the ad is stylized and may contain OCR transcription errors; values are transcribed as printed where legible.",
+  "model note: The Telugu warning text at the bottom is partially obscured and difficult to read precisely; only the English warning is fully legible.",
+  "3 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 16.51,
+  "extract": 36.13
+ }
+}

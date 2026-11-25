@@ -1,0 +1,84 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "Nokia",
+ "product": {
+  "any_of": [
+   "Nokia 6.1",
+   "New Nokia 6.1"
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "3GB RAM | 32GB ROM",
+   "4GB RAM | 64GB ROM"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Retail & Consumer Electronics",
+   "Retail & Consumer Electronics > Mobiles & Computers",
+   "Retail & Consumer Electronics > Home Appliances"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "A phone you can rely on.",
+   "New Nokia 6.1 A phone you can rely on."
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   null,
+   "New Nokia 6.1"
+  ]
+ },
+ "price": {
+  "any_of": [
+   16999,
+   18999
+  ]
+ },
+ "phones": [],
+ "websites": {
+  "required": [],
+  "optional": [
+   "Nokia.com/phones",
+   "www.nokia.com/phones",
+   "amazon.in",
+   "www.airtel.in/4gphone",
+   "bit.ly/2pg0R2f",
+   "http://bit.ly/Servify811"
+  ]
+ },
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "headline",
+   "why": "suspicious"
+  }
+ ]
+}

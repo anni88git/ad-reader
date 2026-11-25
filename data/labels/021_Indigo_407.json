@@ -1,0 +1,48 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser",
+  "product"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": "IndiGo",
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "manufacturer"
+  ]
+ },
+ "category": "Travel & Hospitality",
+ "headline": "IndiGo to Prayagraj",
+ "sub_headline": {
+  "any_of": [
+   "Now flying daily non-stop from Delhi to Prayagraj, starting at ₹2499.",
+   null
+  ]
+ },
+ "price": 2499,
+ "phones": [],
+ "websites": [
+  "goIndiGo.in"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

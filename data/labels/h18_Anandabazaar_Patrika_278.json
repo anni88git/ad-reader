@@ -1,0 +1,76 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "holdout20",
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Bengali",
+    "English"
+   ],
+   [
+    "Bengali"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Raja",
+   "Raja Biscuits"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Raja Sugar Free Cream Cracker",
+   "Sugar Free Cream Cracker",
+   "Sugar Free Cream Cracker Biscuits",
+   "Raja Sugar Free",
+   "Sugar Free"
+  ]
+ },
+ "model_variant": null,
+ "advertiser": {
+  "any_of": [
+   "Raja Udyog Pvt. Ltd.",
+   "Raja Udyog",
+   null
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "FMCG > Food & Beverages",
+   "FMCG",
+   "Food Delivery & Restaurants"
+  ]
+ },
+ "headline": "স্বাস্থ্য ও সম্পদের যুগলবন্দী",
+ "sub_headline": {
+  "any_of": [
+   "এসে গেল রাজা সুগার ফ্রী সোনা চাঁদি অফার",
+   "সোনা চাঁদি অফার",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

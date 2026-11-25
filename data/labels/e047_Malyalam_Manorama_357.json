@@ -1,0 +1,77 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "websites",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Manorama Online",
+   "Malayala Manorama"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "other"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Media & Entertainment"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "വളരെ സ്പെഷലായ വിവാഹ ദിവസം അണിയുന്ന വസ്ത്രവും വളരെ സ്പെഷലാണ്!"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "language": {
+  "any_of": [
+   [
+    "Malayalam",
+    "English"
+   ],
+   [
+    "Malayalam"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "ad_type",
+   "why": "drafter unsure"
+  },
+  {
+   "field": "headline",
+   "why": "drafter unsure"
+  }
+ ],
+ "_drafter_note": "advertorial strip"
+}

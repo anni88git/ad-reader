@@ -1,0 +1,2159 @@
+{
+ "image": "d110_Amar_Ujala_10.jpg",
+ "fields": {
+  "brand": {
+   "value": "Subharti University",
+   "evidence": "SUBHARTI UNIVERSITY",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no exact record; closest: Amity University, Chandigarh University, Lovely Professional University"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 41,
+     "name": "Amity University",
+     "score": 72.9
+    },
+    {
+     "id": 43,
+     "name": "Chandigarh University",
+     "score": 68.4
+    },
+    {
+     "id": 42,
+     "name": "Lovely Professional University",
+     "score": 65.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Subharti University",
+   "evidence": "SUBHARTI UNIVERSITY",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ADMISSION OPEN 2023-24",
+   "evidence": "ADMISSION OPEN 2023-24",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: SPECIAL SCHOLARSHIP SCHEMES for Meritorious Students"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "APPLY NOW at www.subharti.org",
+   "evidence": "APPLY NOW at www.subharti.org",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 74% similar) - check spelling",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "SPECIAL SCHOLARSHIP SCHEMES for Meritorious Students",
+   "evidence": "SPECIAL SCHOLARSHIP SCHEMES for Meritorious Students",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "APPLY NOW at www.subharti.org",
+   "evidence": "APPLY NOW at www.subharti.org",
+   "english": "Apply now at www.subharti.org",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": "SUBHARTI UNIVERSITY",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: recruitment"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": "SUBHARTI UNIVERSITY",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Subharti University admission open 2023-24",
+    "18 colleges, 220+ programmes, 250 acre campus",
+    "Special scholarship schemes for meritorious students",
+    "International academic collaborations listed",
+    "Programmes across Fine Arts, Engineering, Hotel Management, Journalism, Law, Naturopathy, Physical Education",
+    "Facilities include world class accommodation, personality development cell, industry oriented placement modules",
+    "Call for information: 9639222288/89/90/91/93/98"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Subharti University is open for admission 2023-24. Apply now at www.subharti.org. The university offers 220+ programmes across 18 colleges on a 250 acre campus, with special scholarship schemes for meritorious students. Call 9639222288/89/90/91/93/98 for information.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9639222288",
+     "kind": "mobile",
+     "as_printed": "9639222288/89/90/91/93/98"
+    },
+    "evidence": "9639222288/89/90/91/93/98",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8126266666",
+     "kind": "mobile",
+     "as_printed": "8126266666, 8126244444"
+    },
+    "evidence": "Call: 8126266666, 8126244444",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "7617585561",
+     "kind": "mobile",
+     "as_printed": "7617585561, 8194007624"
+    },
+    "evidence": "CALL: 7617585561, 8194007624",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.subharti.org",
+    "evidence": "www.subharti.org",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.rbbsu.edu.in",
+    "evidence": "www.rbbsu.edu.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "www.beehivecollege.com",
+    "evidence": "www.beehivecollege.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "SUBHARTIPURAM, NH-58, DELHI-HARIDWAR BYPASS ROAD, MEERUT, NCR REGION, U.P., INDIA.",
+    "evidence": "SUBHARTIPURAM, NH-58, DELHI-HARIDWAR BYPASS ROAD, MEERUT, NCR REGION, U.P., INDIA.",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "18 COLLEGES",
+    "evidence": "18 COLLEGES",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "220+ PROGRAMMES",
+    "evidence": "220+ PROGRAMMES",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "250 ACRE CAMPUS",
+    "evidence": "250 ACRE CAMPUS",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Approved by UGC",
+    "evidence": "Approved by UGC",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "NAAC Accredited with A Grade",
+    "evidence": "ACCREDITED WITH 'A' GRADE NAAC",
+    "english": null,
+    "confidence": 0.4,
+    "status": "missing",
+    "reasons": [
+     "evidence NOT found in OCR text (50%) - possible misreading or invention",
+     "too uncertain to fill - shown as a suggestion only"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Excellent classrooms and lecture theatres",
+    "evidence": "• Excellent classrooms and lecture theatres",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Modern Library with 50,000+ books",
+    "evidence": "• Modern Library with 50,000+ books",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Wi-fi campus/internet Labs",
+    "evidence": "• Wi-fi campus/internet Labs",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Modern I.T Labs",
+    "evidence": "• Modern I.T Labs",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Training & Placement Cell",
+    "evidence": "• Training & Placement Cell",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Medicare & Denticare Facilities",
+    "evidence": "• Medicare & Denticare Facilities",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Over 250+ acres of lush green campus",
+    "evidence": "• Over 250+ acres of lush green campus",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Aprx. 2500- capacity acoustically designed auditorium",
+    "evidence": "• Aprx. 2500- capacity acoustically designed auditorium",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Multi Cuisine, Food court, cafeteria and Central mess",
+    "evidence": "• Multi Cuisine, Food court, cafeteria and Central mess",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "In campus mini supermarket",
+    "evidence": "• In campus mini supermarket",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "In campus bank and ATM",
+    "evidence": "• In campus bank and ATM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "Gymnasium, playground & sports facilities for Healthy lifestyle",
+    "evidence": "• Gymnasium, playground & sports facilities for Healthy lifestyle",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "SPECIAL SCHOLARSHIP SCHEMES for Meritorious Students",
+    "evidence": "SPECIAL SCHOLARSHIP SCHEMES for Meritorious Students",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Subharti University",
+   "evidence": "SUBHARTI UNIVERSITY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "MANAGEMENT • SCIENCE • PARAMEDICAL • HOME SCIENCE • NURSING • PHYSIOTHERAPY • POLYTECHNIC • PHARMACY • EDUCATION • LIBRARY SCIENCE • BUDDHIST STUDIES • POLITICAL SCIENCE & SOCIOLOGY",
+   "evidence": "•MANAGEMENT • SCIENCE ·PARAMEDICAL •HOMESCIENCE •NURSING •PHYSIOTHERAPY•POLYTECHNIC •PHARMACY •EDUCATION •LIBRARY SCIENCE •BUDDHIST STUDIES •POLITICAL SCIENCE & SOCIOLOGY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "admission_dates": {
+   "value": "2023-24",
+   "evidence": "ADMISSION OPEN 2023-24",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "scholarship": {
+   "value": "SPECIAL SCHOLARSHIP SCHEMES for Meritorious Students",
+   "evidence": "SPECIAL SCHOLARSHIP SCHEMES for Meritorious Students",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Subharti University admission open 2023-24",
+  "18 colleges, 220+ programmes, 250 acre campus",
+  "Special scholarship schemes for meritorious students",
+  "International academic collaborations listed",
+  "Programmes across Fine Arts, Engineering, Hotel Management, Journalism, Law, Naturopathy, Physical Education",
+  "Facilities include world class accommodation, personality development cell, industry oriented placement modules",
+  "Call for information: 9639222288/89/90/91/93/98"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "SUBHARTi",
+   "score": 0.9597,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "ADMISSION OPEN 2023-24",
+   "score": 0.9686,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "TM",
+   "score": 0.9913,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "A",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "VERSITY",
+   "score": 0.998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "APPLY NOW",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "NAAC",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "Approved by UGC",
+   "score": 0.9739,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Where Education is a Passion...",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "at",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "SPECIAL SCHOLARSHIP SCHEMES",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "www.subharti.org",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "for Meritorious Students",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "INTERNATIONAL ACADEMIC COLLABORATIONS",
+   "score": 0.9925,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "18",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 16,
+   "text": "220+",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "250",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "•Dhammachai International Research Institute - Australia / New Zealand•Shu-Te University -Taiwan",
+   "score": 0.975,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 19,
+   "text": "COLLEGES",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "PROGRAMMES",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "ACRE CAMPUS",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "•National Chung Cheng University (CCu) - Taiwan",
+   "score": 0.97,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "•Lincoln University College -Malaysia",
+   "score": 0.9871,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "•Lumbini Buddhist University, Lumbini - Nepal",
+   "score": 0.9677,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 25,
+   "text": "•Asia University - Taiwan",
+   "score": 0.9702,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "•Yeongdeok Culture and Tourism Foundation - South Korea",
+   "score": 0.9788,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "•Synergy University, Moscow -Russia",
+   "score": 0.9904,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 28,
+   "text": "•Gyeongsangbuk-do Korean Medicine Association - South Korea",
+   "score": 0.9901,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "·NECl-Uzbekistan",
+   "score": 0.9528,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "FINE ARTS & FASHION DESIGN",
+   "score": 0.9961,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "•MOU-National Reserach University Higher School of Economics",
+   "score": 0.9981,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "•NECI Uzbekistan Study Abroad",
+   "score": 0.9905,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 33,
+   "text": "-St. Petersburg - Russia",
+   "score": 0.9921,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 34,
+   "text": "•Daegu Haany University -South Korea",
+   "score": 0.9941,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 35,
+   "text": "• DFA: Painting, Fashion Design, Textile, Sculpture",
+   "score": 0.9833,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 36,
+   "text": "• Diploma: Animation, Classical Dance (Kathak), Music – Vocal,",
+   "score": 0.98,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "•MOU-Tashkent Institute of Textile and Light Industry -Uzbekistan",
+   "score": 0.9668,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "•Teaching University Geomedi LLC Georgia",
+   "score": 0.9828,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "Sitar, Guitar, Jewellery Design",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 40,
+   "text": "• B.Voc.:Diploma/ Advance Diploma/ Degree in Jewellery Designing",
+   "score": 0.9865,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 41,
+   "text": "LIFE AT SUBHARTIUNIVERSITY",
+   "score": 0.9914,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "• BFA: Foundation programme (Common for all),Painting, Sculpture,",
+   "score": 0.99,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 43,
+   "text": "Applied Arts, Fashion Designing, Animation",
+   "score": 0.997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 44,
+   "text": "Academic",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 45,
+   "text": "Infrastructure",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 46,
+   "text": "• BPA : in Classical Dance (Kathak), Music - Vocal, Sitar, Guitar",
+   "score": 0.9784,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 47,
+   "text": "• B.Sc.: in Animation, Interior Design, Textile Design",
+   "score": 0.9922,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 48,
+   "text": "• Excellent classrooms and lecture theatres • Over 250+ acres of lush green campus",
+   "score": 0.9895,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 49,
+   "text": "• B. Design in Fashion Design, Design Communication, Jewellery",
+   "score": 0.9958,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 50,
+   "text": "• Modern Library with 50,000+ books",
+   "score": 0.9968,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "• Aprx. 2500- capacity acoustically designed auditorium",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "Design, Luxury Brand Management",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "• Wi-fi campus/internet Labs",
+   "score": 0.9913,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "• Multi Cuisine, Food court, cafeteria and Central mess",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "• MFA: Painting, Sculpture, Applied Arts",
+   "score": 0.9856,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "• M.Sc.: in Animation, Interior Design",
+   "score": 0.9834,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 57,
+   "text": "• Modern I.T Labs",
+   "score": 0.9853,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "• In campus mini supermarket",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "• MPA: in Classical Dance (Kathak) Music – Vocal, Sitar, Guitar",
+   "score": 0.9941,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 60,
+   "text": "• Training & Placement Cell",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 61,
+   "text": "• In campus bank and ATM",
+   "score": 0.9805,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "• M. Design in Fashion Design, Design Communication, Jewellery",
+   "score": 0.9885,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 63,
+   "text": "• Medicare & Denticare Facilities",
+   "score": 0.9789,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 64,
+   "text": "• Gymnasium, playground & sports facilities",
+   "score": 0.9858,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 65,
+   "text": "Design, Luxury Brand Management",
+   "score": 0.9952,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 66,
+   "text": "for Healthy lifestyle",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 67,
+   "text": "• MFD: Master of Fashion Designing",
+   "score": 0.9891,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 68,
+   "text": "+ many more.....",
+   "score": 0.8631,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 69,
+   "text": "+ many more....",
+   "score": 0.8899,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 70,
+   "text": "ENGINEERING",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 71,
+   "text": "• B.Tech.: (CSE, IT, ECE, EEE, ME, CE, Food Tech.",
+   "score": 0.9816,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 72,
+   "text": "Aerospace Engg./ Lateral Entry also)",
+   "score": 0.9899,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 73,
+   "text": "• B.Tech. (Hons.): CSE with Specialization in",
+   "score": 0.9903,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 74,
+   "text": "1. Big Data Analytics 2. Cloud Computing",
+   "score": 0.9868,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 75,
+   "text": "3. Internet of Things and Intelligent System",
+   "score": 0.991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 76,
+   "text": "• B.Tech.: in CSE with Specialization in Artificial Intelligence and",
+   "score": 0.9876,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 77,
+   "text": "Machine Learning (AI & ML)",
+   "score": 0.9667,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 78,
+   "text": "• M.Tech (CSE, Cyber Security, RF & Microwave Engg. Power Electronics",
+   "score": 0.9948,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 79,
+   "text": "& Drive, Production Engg. Enviornmental Engg. & Management,",
+   "score": 0.9917,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 80,
+   "text": "Structure Engg., Defence Technology Engg.)",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 81,
+   "text": "\"The First University of Northern India for offering M.Tech",
+   "score": 0.9932,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 82,
+   "text": "Programme in Defence Technology in Association with DRDO\"",
+   "score": 0.9963,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 83,
+   "text": "• Certificate in Bio Medical Instrumentation & 3D-Printing",
+   "score": 0.9914,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 84,
+   "text": "HOTEL MANAGEMENT",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 85,
+   "text": "· BHMCT ·BTTM ·MHMCT",
+   "score": 0.9322,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 86,
+   "text": "• BSc.CA – Bachelor of Science in Culinary Arts",
+   "score": 0.9903,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 87,
+   "text": "• DFPB - Diploma in Food Production & Bakery",
+   "score": 0.9789,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 88,
+   "text": "• DFBS – Diploma in Food and Beverage Service",
+   "score": 0.9713,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 89,
+   "text": "• Bachelor of Vocational Programme - Hospitality & Tourism",
+   "score": 0.981,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 90,
+   "text": "JOURNALISM & MASS COMM.",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 91,
+   "text": "BAJMC",
+   "score": 0.9733,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 92,
+   "text": "• MJMC/ (Lateral entry also)",
+   "score": 0.9755,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 93,
+   "text": "• MAFTP – Master of Art in Film & Television",
+   "score": 0.9786,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 94,
+   "text": "अआदह्परमत",
+   "score": 0.5502,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 95,
+   "text": "Presented by",
+   "score": 0.9993,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 96,
+   "text": "Production",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 97,
+   "text": "Facilities",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "Hon'ble Minister of",
+   "score": 0.9989,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 99,
+   "text": "• MAPRAD- Master of Art in public relations & advertising",
+   "score": 0.9869,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 100,
+   "text": "Education and Tourism",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 101,
+   "text": "• PG Diploma in Radio Broadcast, Event Management",
+   "score": 0.9912,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 102,
+   "text": "• ANTI RAGGING CELL",
+   "score": 0.9607,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 103,
+   "text": "• WORLD CLASS ACCOMMODATION",
+   "score": 0.9879,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 104,
+   "text": "Nagaland",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 105,
+   "text": "• Certificate Course in Radio Jocky, Video Editing & TV Anchoring",
+   "score": 0.9925,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 106,
+   "text": "• BANKING SERVICES",
+   "score": 0.9814,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 107,
+   "text": "• PERSONALITY DEVELOPMENT CELL",
+   "score": 0.9899,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 108,
+   "text": "LAW",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 109,
+   "text": "• CANTEEN & CAFETERIAS",
+   "score": 0.973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 110,
+   "text": "• INDUSTRY ORIENTED PLACEMENT MODULES",
+   "score": 0.9764,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 111,
+   "text": "THE ECONOMIC TIMES",
+   "score": 0.9174,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 112,
+   "text": "• STATIONERY & GROCERY SHOPS",
+   "score": 0.9951,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 113,
+   "text": "• TO -AND-FRO TRANSPORTATION FROM THE CITY",
+   "score": 0.9729,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 114,
+   "text": "• B.A.LL.B.",
+   "score": 0.944,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 115,
+   "text": "• LL.M.: Full time Regular (Open to Law graduates) offering dual",
+   "score": 0.9957,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 116,
+   "text": "• MEDICARE & DENTICARE FACILITIES",
+   "score": 0.9718,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 117,
+   "text": "• COUNSELING SESSIONS WITH EXPERT COUNSELORS",
+   "score": 0.9825,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 118,
+   "text": "specializations in:",
+   "score": 0.9983,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 119,
+   "text": "• 24X7 POWER BACKUP",
+   "score": 0.9798,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 120,
+   "text": "• WIDE RANGE OF SPORTS & RECREATIONAL ACTIVITIES",
+   "score": 0.9926,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 121,
+   "text": "•Criminal Law",
+   "score": 0.9685,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 122,
+   "text": "• Constitutional Law",
+   "score": 0.992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 123,
+   "text": "• LEGAL ADVISORY COMMITTEE",
+   "score": 0.9747,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 124,
+   "text": "• HIGH END SECURITY SERVICES",
+   "score": 0.9969,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 125,
+   "text": "E",
+   "score": 0.9957,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 126,
+   "text": "• Corporate Law • Human Rights Law",
+   "score": 0.9642,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 127,
+   "text": "• TELECOM FACILITIES",
+   "score": 0.9799,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 128,
+   "text": "• WELLNESS CENTER",
+   "score": 0.9773,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 129,
+   "text": "• Executive LL.M.",
+   "score": 0.9759,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 130,
+   "text": "• INDOOR & OUTDOOR SPORTS",
+   "score": 0.9685,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 131,
+   "text": "• ENTREPRENEURSHIP DEVELOPMENT CELL",
+   "score": 0.9882,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 132,
+   "text": "• P.G. Diploma: Human Rights Law, Media Law, Labour Law,",
+   "score": 0.9947,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 133,
+   "text": "BEST",
+   "score": 1.0,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 134,
+   "text": "Intellectual Property Rights, Patent Practices",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 135,
+   "text": "• AIR CONDITIONED LIBRARIES",
+   "score": 0.9667,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 136,
+   "text": "• CAREER COUNSELING CELL",
+   "score": 0.9748,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 137,
+   "text": "EDUCATION",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 138,
+   "text": "• STATE OF THE ART AUDITORIUM",
+   "score": 0.9705,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 139,
+   "text": "• STUDENT COUNCIL COMMITTEE",
+   "score": 0.9853,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 140,
+   "text": "BRANDS",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 141,
+   "text": "NATUROPATHY & YOGA",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 142,
+   "text": "2023",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 143,
+   "text": "SVSU CAMPUS",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 144,
+   "text": "• B.N.Y.S",
+   "score": 0.99,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 145,
+   "text": "• M.D. - Naturopathy, Yoga, Nutrition & Dietetics",
+   "score": 0.9845,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 146,
+   "text": "6th Edition",
+   "score": 0.9812,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 147,
+   "text": "PHYSICAL EDUCATION",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 148,
+   "text": "• B.P.E.S Bachelor of Physical Education & Sports",
+   "score": 0.9968,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 149,
+   "text": "• B.P.Ed. Bachelor of Physical Education",
+   "score": 0.9971,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 150,
+   "text": "• M.P.Ed. Master of Physical Education",
+   "score": 0.9891,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 151,
+   "text": "• M.A. Yoga",
+   "score": 0.9909,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 152,
+   "text": "PROGRAMMES",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 153,
+   "text": "•MANAGEMENT • SCIENCE ·PARAMEDICAL •HOMESCIENCE •NURSING •PHYSIOTHERAPY•POLYTECHNIC •PHARMACY",
+   "score": 0.9681,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 154,
+   "text": "•EDUCATION •LIBRARY SCIENCE •BUDDHIST STUDIES •POLITICAL SCIENCE & SOCIOLOGY",
+   "score": 0.9606,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 155,
+   "text": "OUR ASSOCIATED RECRUITERS",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 156,
+   "text": "SWIGGY",
+   "score": 0.9996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 157,
+   "text": "Tehindre",
+   "score": 0.7017,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 158,
+   "text": "multiplier",
+   "score": 0.998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 159,
+   "text": "girnarsOFT",
+   "score": 0.9351,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 160,
+   "text": "Infosys",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 161,
+   "text": "Fitelo",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 162,
+   "text": "NCloven",
+   "score": 0.8249,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 163,
+   "text": "ana.ee",
+   "score": 0.91,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 164,
+   "text": "Qvans cure",
+   "score": 0.9304,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 165,
+   "text": "CarDekho",
+   "score": 0.9985,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 166,
+   "text": "SKS",
+   "score": 0.9872,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 167,
+   "text": "policy bazaar",
+   "score": 0.9489,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 168,
+   "text": "Optum",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 169,
+   "text": "MAX",
+   "score": 0.9813,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 170,
+   "text": "Piramal",
+   "score": 0.9303,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 171,
+   "text": "entb",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 172,
+   "text": "elenjical",
+   "score": 0.9903,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 173,
+   "text": "47Loans4wish",
+   "score": 0.9298,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 174,
+   "text": "CONCENTRIX",
+   "score": 0.8841,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 175,
+   "text": "Ondgs",
+   "score": 0.6122,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 176,
+   "text": "STS",
+   "score": 0.9108,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 177,
+   "text": "A",
+   "score": 0.9272,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 178,
+   "text": "girnarsoFT",
+   "score": 0.9223,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 179,
+   "text": "Chetu",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 180,
+   "text": "Mobiloitte",
+   "score": 0.9944,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 181,
+   "text": "LawSikho",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 182,
+   "text": "PSR",
+   "score": 0.9998,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 183,
+   "text": "PLANeT",
+   "score": 0.8232,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 184,
+   "text": "WC",
+   "score": 0.916,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 185,
+   "text": "LawSikho",
+   "score": 0.9972,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 186,
+   "text": "JBM",
+   "score": 0.9986,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 187,
+   "text": "TuringMinds",
+   "score": 0.9553,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 188,
+   "text": "CoolBoots",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 189,
+   "text": "FinoFY",
+   "score": 0.9533,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 190,
+   "text": "SPARK",
+   "score": 0.9654,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 191,
+   "text": "CALL FOR INFORMATION",
+   "score": 0.992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 192,
+   "text": "ACADEMIC COLLABORATIONS",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 193,
+   "text": "9639222288/89/90/91/93/98",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 194,
+   "text": "RAS BIHARI BOSE",
+   "score": 0.9939,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 195,
+   "text": "Beehive",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 196,
+   "text": "SUBHARTIPURAM, NH-58,",
+   "score": 0.9878,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 197,
+   "text": "SUBHARTI UNIVERSITY",
+   "score": 0.9775,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 198,
+   "text": "College· Dehradun",
+   "score": 0.9614,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 199,
+   "text": "DELHI-HARIDWAR BYPASS ROAD, MEERUT, NCR REGION, U.P., INDIA.",
+   "score": 0.9903,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 200,
+   "text": "Call:8126266666,8126244444",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 201,
+   "text": "CALL: 7617585561, 8194007624, www.rbbsu.edu.in",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 202,
+   "text": "www.beehivecollege.com",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "142 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 58.76,
+  "extract": 20.34
+ }
+}

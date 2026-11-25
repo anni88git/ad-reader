@@ -1,0 +1,69 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Bodyline",
+   "Body Line",
+   "Bodyline Sports"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Gym equipment",
+   "Fitness equipment"
+  ]
+ },
+ "ad_type": "retailer",
+ "category": {
+  "any_of": [
+   "Retail & Consumer Electronics",
+   "Furniture & Home",
+   "Healthcare"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Make your Fitolution come true with Bodyline"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "websites": [
+  "bodylinesports.co.in"
+ ],
+ "emails": [
+  "bodylinesports@gmail.com"
+ ],
+ "_uncertain_fields": [
+  {
+   "field": "category",
+   "why": "drafter unsure"
+  }
+ ]
+}

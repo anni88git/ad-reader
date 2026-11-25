@@ -1,0 +1,749 @@
+{
+ "image": "042_Prajavani_61.jpg",
+ "fields": {
+  "brand": {
+   "value": "Vibez estates",
+   "evidence": "Vibez estates",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: Vibez",
+    "no exact record; closest: Prestige Group"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 30,
+     "name": "Prestige Group",
+     "score": 66.7
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": "Vibez farm plots",
+   "evidence": "Vibez farm plots",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Vibez estates",
+   "evidence": "Vibez estates",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ಒಡೆತನ ಸಮೃದು ದುಡಿಮೆ ಸಮೃದು",
+   "evidence": "ಒಡೆತನ ಸಮೃದು ದುಡಿಮೆ ಸಮೃದು",
+   "english": "Prosperity of land, prosperity of earnings",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (71%)",
+    "second model disagrees - suggestion: ಒದತನ ನಿಮ್ಮದು ಮಡಿಮ ನಮ್ಮದು"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "ಈ ಫಾರಂ ಸಮೃದಬೆಟ್ಗಿ ಹೊಂಡಕೆಯಾಗರುತದೆ. ಇದು ದೀರ್ಘಾವಧಿಯ ಸಮೃದ ಹೂಡಕೆಗೆ ಉತ್ತಮ ಆದಾಯವನ್ನು ನೀಡುತ್ತದೆ ಸುಂದರವಾದ ಕೃಷಿ ಪಾಟ್ಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸಹಜವಾಗಿ ನಮೂದ ಲೆ ಇಗ್ರತರ ಪೊಜೆಕ್ಗಳು ಸಹಲಭವಾಗಿ ಚನಪಟಣ ಗೌಂಬದನೂರು ಮೂಲಕ ಸಯಖುತ ಆದಾಯವನ್ನು ಗಳಿಸಬಹುದು",
+   "evidence": "ಈ ಫಾರಂ ಸಮೃದಬೆಟ್ಗಿ ಹೊಂಡಕೆಯಾಗರುತದೆ. ಇದು ದೀರ್ಘಾವಧಿಯ ಸಮೃದ ಹೂಡಕೆಗೆ ಉತ್ತಮ ಆದಾಯವನ್ನು ನೀಡುತ್ತದೆ ಸುಂದರವಾದ ಕೃಷಿ ಪಾಟ್ಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸಹಜವಾಗಿ ನಮೂದ ಲೆ ಇಗ್ರತರ ಪೊಜೆಕ್ಗಳು ಸಹಲಭವಾಗಿ ಚನಪಟಣ ಗೌಂಬದನೂರು ಮೂಲಕ ಸಯಖುತ ಆದಾಯವನ್ನು ಗಳಿಸಬಹುದು",
+   "english": "This farm plot is a prosperous investment. It is a good long-term investment giving good income. Beautiful agricultural plots are naturally available. Vibez projects are easily accessible. Channapatna Gombinadu can earn joint income through",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (64%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "real_estate_developer",
+   "evidence": "Vibez estates",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Real Estate",
+   "evidence": "Vibez farm plots",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #5"
+   ],
+   "matched_id": 5,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 5,
+     "name": "Real Estate",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Kannada",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 2150000,
+   "evidence": "₹ 21.5 ಲಕ್ಷ",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (71%)",
+    "short number '215' found in OCR but without a ₹/price marker",
+    "several prices: confirm which is the current price / old (struck-out) price",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Vibez farm plots",
+    "Price Rs 21.5 lakh for 6500 sqft",
+    "Limited offer",
+    "Long-term investment with good income",
+    "Beautiful agricultural plots",
+    "Projects easily accessible",
+    "Channapatna Gombinadu joint income",
+    "All basic facilities available",
+    "Phone 8152-883388",
+    "Website www.vibezestates.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Vibez estates is selling farm plots at Rs 21.5 lakh for 6500 sqft on a limited offer. The plots are in Channapatna and Gombinadu, offer long-term investment returns, and all basic facilities are available. Call 8152-883388 or visit www.vibezestates.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "8152883388",
+     "kind": "mobile",
+     "as_printed": "8152-883388"
+    },
+    "evidence": "8152-883388",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 2150000,
+     "currency": "INR",
+     "kind": "price",
+     "label": "ಕೇವಲ",
+     "item": "for 6500 sqft",
+     "as_printed": "₹ 21.5 ಲಕ್ಷ"
+    },
+    "evidence": "₹ 21.5 ಲಕ್ಷ",
+    "english": null,
+    "confidence": 0.6,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (71%)",
+     "short number '215' found in OCR but without a ₹/price marker",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "amount": 6500,
+     "currency": "INR",
+     "kind": "price",
+     "label": null,
+     "item": "farm plot",
+     "as_printed": "for 6500 sqft"
+    },
+    "evidence": "for 6500 sqft",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "amount digits match OCR (6,500)",
+     "no currency symbol",
+     "several prices: confirm which is the current price / old (struck-out) price"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.vibezestates.com",
+    "evidence": "www.vibezestates.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "ಚನಪಟಣ",
+    "evidence": "ಚನಪಟಣ",
+    "english": "Channapatna",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (80%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ಗೌಂಬದನೂರು",
+    "evidence": "ಗೌಂಬದನೂರು",
+    "english": "Gombinadu",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ಎಲ್ಲಾ ಮೂಲಭೂತ ಸೌಕರ್ಯಗಳು ಲಭ್ಯವಾಗಿವೆ",
+    "evidence": "ಎಲ್ಲಾ ಮೂಲಭೂತ ಸೌಕರ್ಯಗಳು ಲಭ್ಯವಾಗಿವೆ",
+    "english": "All basic facilities available",
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (67%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "LIMITED OFFER",
+    "evidence": "LIMITED OFFER",
+    "english": "Limited offer",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (92%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {
+  "project_name": {
+   "value": "Vibez farm plots",
+   "evidence": "Vibez farm plots",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "location": {
+   "value": "ಚನಪಟಣ ಗೌಂಬದನೂರು",
+   "evidence": "ಚನಪಟಣ ಗೌಂಬದನೂರು",
+   "english": "Channapatna Gombinadu",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (71%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "carpet_area": {
+   "value": "6500 sqft",
+   "evidence": "for 6500 sqft",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "amenities": {
+   "value": "ಎಲ್ಲಾ ಮೂಲಭೂತ ಸೌಕರ್ಯಗಳು ಲಭ್ಯವಾಗಿವೆ",
+   "evidence": "ಎಲ್ಲಾ ಮೂಲಭೂತ ಸೌಕರ್ಯಗಳು ಲಭ್ಯವಾಗಿವೆ",
+   "english": "All basic facilities available",
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (67%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Vibez farm plots",
+  "Price Rs 21.5 lakh for 6500 sqft",
+  "Limited offer",
+  "Long-term investment with good income",
+  "Beautiful agricultural plots",
+  "Projects easily accessible",
+  "Channapatna Gombinadu joint income",
+  "All basic facilities available",
+  "Phone 8152-883388",
+  "Website www.vibezestates.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "ಸಕಲೇಶಪುರದಲ ಏಕೆ ಹೋಟೆಲ್ಬುಕ್ಮಾಡುತರಾ...?",
+   "score": 0.9352,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "ಕಾಫಿಎಸೇಟ್ನಲೆಪಾಟ್ಖರದ ಮಾಡುವುದುಸುಲಭಏರುವಾಗ",
+   "score": 0.9503,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "ಅಲೈಸಮಯ ಕಳೆಯಲು ಏಕ ಹೋಟೆಲ್ ಬುಕ್ ಮಾಡುೇರಾ...?",
+   "score": 0.9344,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 4,
+   "text": "ಅದುೃತವಾದಪಠಿಮಘಟಗಳಂದಆವೃತವಾದವೋಡದಪವ9ತಗಳು",
+   "score": 0.9257,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 5,
+   "text": "ನಮೈಕುಟುಂಬಕಾಗಶಾಟ್9ಅಸ್.ಮಾಡಲಾದ ಫಾಮ್9 ಪಾಟ್",
+   "score": 0.9191,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "ನಮೃಗಮೃಸಾನದಮನಯನುೃವಾಖಾ.ಅಸುವಸಳ!",
+   "score": 0.9128,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "ನಮೃಸಂತ ತೋಟದ ಮನೆಯಲ ಸಮೃವಾರಾಂತೃದ ಮಲೆನಾಡು ಪವಾಸಗಳನುೃಆನಂದನ.",
+   "score": 0.9047,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 8,
+   "text": "ಒಡೆತನೃಸಮೃದು",
+   "score": 0.9123,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Vibzz",
+   "score": 0.9187,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "ದುಡಮನಮೈದು",
+   "score": 0.9193,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 11,
+   "text": "e states",
+   "score": 0.9393,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "Promoting Reral Entrepreneusship",
+   "score": 0.9123,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "ಕೇವಲ",
+   "score": 0.9981,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "ऱ",
+   "score": 0.5282,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 15,
+   "text": "21.5",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "ಲಕ",
+   "score": 0.992,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 17,
+   "text": "for 6500 sqft",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "ಈಫಾಮ್9ಸಮೃಬಬೆಟ್ಗಿಹೊಂದಕೆಯಾಗರುತದೆ.",
+   "score": 0.9273,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "LIMITED OFFFR",
+   "score": 0.9036,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "ಇದು ದಘಾ9ವಧಯಲಸಮ.ಹೂಡಕೆಗೆ",
+   "score": 0.9003,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "Vibez farm plots",
+   "score": 0.9987,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "ಉತಮಆದಾಯವನುೃಸಡುತದ",
+   "score": 0.9195,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "ಸುಂದರವಾದಕೃಪ ಪಾಟ್ಗಳನುೃ ಸಂಪೂಣ9ವಾಗ ಸವ9ಹಸಲಾಗದ",
+   "score": 0.9231,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "ನಮೃಲ.ಇಗೃತರಪೊಜೆಕ್ಗಳುಸಹಲಭೃಬದ",
+   "score": 0.9418,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "ಚನೃಪಟಣ",
+   "score": 0.9811,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "ತೋಟದ ಮನೆಯನುೃಬಾಡಗೆಗೆಙಡುವ",
+   "score": 0.9369,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "E3",
+   "score": 0.7285,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 28,
+   "text": "ಮೂಲಕ ಸಯಖುತಆದಾಯವನುೃಗಳನ",
+   "score": 0.8463,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "ಚಕೃಬಳಾೃಪುರ",
+   "score": 0.9673,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "ಗೌಂಬದನೂರು",
+   "score": 0.9541,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "8152-883388",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "www.vibezestates.com",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "ಎಲಾಮೂಲಭೂತಸೌಕಯ9ಗಳನುೃಒದnಸಲಾಗದ",
+   "score": 0.9646,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [
+  "low resolution (911x703); small print may be unreadable"
+ ],
+ "record_flags": [
+  "15 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 33.3,
+  "extract": 20.81
+ }
+}

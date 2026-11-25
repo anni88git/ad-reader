@@ -1,0 +1,66 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "product",
+  "advertiser",
+  "price",
+  "sub_headline"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Telugu"
+   ],
+   [
+    "Telugu",
+    "English"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Kalyana Lakshmi Shopping Mall",
+   "Kalyanalakshmi",
+   "Kalyana Lakshmi",
+   "Kalyanalakshmi Shopping Mall"
+  ]
+ },
+ "model_variant": null,
+ "ad_type": "retailer",
+ "category": "Fashion & Apparel",
+ "headline": {
+  "any_of": [
+   "గొప్ప పునః ప్రారంభం !",
+   "ఈరోజు గొప్ప పునః ప్రారంభం !",
+   "గొప్ప పునః ప్రారంభం"
+  ]
+ },
+ "phones": [],
+ "websites": [],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": [
+  {
+   "field": "ad_type",
+   "why": "ambiguous"
+  },
+  {
+   "field": "language",
+   "why": "ambiguous"
+  }
+ ]
+}

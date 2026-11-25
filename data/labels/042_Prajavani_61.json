@@ -1,0 +1,81 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Kannada",
+    "English"
+   ],
+   [
+    "Kannada"
+   ]
+  ]
+ },
+ "brand": {
+  "any_of": [
+   "Vibez Estates",
+   "Vibez"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Vibez farm plots",
+   "Farm plots",
+   "Farm plot",
+   null
+  ]
+ },
+ "model_variant": {
+  "any_of": [
+   null,
+   "6500 sqft"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "real_estate_developer",
+   "other"
+  ]
+ },
+ "category": "Real Estate",
+ "headline": {
+  "any_of": [
+   "ಒಡೆತನ ನಿಮ್ಮದು ದುಡಿಮೆ ನಮ್ಮದು",
+   "ಸಕಲೇಶಪುರದಲ್ಲಿ ಏಕೆ ಹೋಟೆಲ್ ಬುಕ್ ಮಾಡುತ್ತೀರಾ...?"
+  ]
+ },
+ "sub_headline": {
+  "any_of": [
+   null,
+   "ಸಕಲೇಶಪುರದಲ್ಲಿ ಏಕೆ ಹೋಟೆಲ್ ಬುಕ್ ಮಾಡುತ್ತೀರಾ...?",
+   "Vibez farm plots"
+  ]
+ },
+ "price": 2150000,
+ "phones": [
+  "8152883388"
+ ],
+ "websites": [
+  "www.vibezestates.com"
+ ],
+ "emails": [],
+ "qr_code_present": false,
+ "_uncertain_fields": []
+}

@@ -1,0 +1,61 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "advertiser",
+  "language"
+ ],
+ "brand": "Tata Motors",
+ "product": "Safari",
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": "Automobile > Cars",
+ "headline": "Rule The Roads. Reclaim Your Life.",
+ "sub_headline": null,
+ "price": 1499000,
+ "websites": {
+  "required": [],
+  "optional": [
+   "cars.tatamotors.com/suv/safari",
+   "cars.tatamotors.com"
+  ]
+ },
+ "emails": [],
+ "qr_code_present": true,
+ "category_attributes": {
+  "fuel_type": {
+   "any_of": [
+    [
+     "Diesel"
+    ],
+    null
+   ]
+  },
+  "ev_type": {
+   "any_of": [
+    "Non-EV",
+    null
+   ]
+  }
+ },
+ "_uncertain_fields": []
+}

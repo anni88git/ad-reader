@@ -1,0 +1,825 @@
+{
+ "image": "043_Vijaya_Karnataka_350.jpg",
+ "fields": {
+  "brand": {
+   "value": "Fashion Factory",
+   "evidence": "FASHION FACTORY",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Reliance",
+   "evidence": "Reliance",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "partial match only - confirm: Reliance Digital"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 15,
+     "name": "Reliance Digital",
+     "score": 96.0
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "FASHION FACTORY BRANDS FOR LESS",
+   "evidence": "FASHION FACTORY BRANDS FOR LESS",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "a larger printed line exists ('FREE', 3.1x the headline size) - check which line is the main headline",
+    "second model disagrees - suggestion: FASHION FACTORY BRANDS FOR LESS",
+    "headline looks like a fragment; second model's longer headline contains it and is printed in the ad (OCR)",
+    "v4: switched value - kept in review"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Growth is Life",
+   "evidence": "Growth is Life",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: TILL 21ST MAY"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Scan for store location",
+   "evidence": "Scan for store location",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "retailer",
+   "evidence": "FASHION FACTORY BRANDS FOR LESS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Fashion & Apparel",
+   "evidence": "FASHION FACTORY BRANDS FOR LESS",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #17"
+   ],
+   "matched_id": 17,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 17,
+     "name": "Fashion & Apparel",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://relff.com/F50print?r=qr)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://relff.com/F50print?r=qr",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Buy 2 Get 3 Free on almost everything",
+    "Offer valid till 21st May",
+    "Brands include Pepe Jeans, Levi's, Lee, Wrangler, Raymond, John Players Jeans, Killer, Twills, Avaasa, TGC Indian Garage",
+    "Stores in Bengaluru listed with addresses",
+    "Store manager contact numbers provided"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Fashion Factory is offering Buy 2 Get 3 Free on almost everything till 21st May. The store stocks brands like Pepe Jeans, Levi's, Lee, Wrangler, Raymond, John Players Jeans, Killer, Twills, Avaasa, and TGC Indian Garage. Multiple Bengaluru store locations and store manager phone numbers are provided.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "6360605247",
+     "kind": "mobile",
+     "as_printed": "6360605247 / 8104917753"
+    },
+    "evidence": "STORE MANAGER: 6360605247 / 8104917753",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8104917753",
+     "kind": "mobile",
+     "as_printed": "8104917753"
+    },
+    "evidence": "Scan for store location sTORE MANAGER:6360605247 / 8104917753",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [
+   {
+    "value": "@rel_fashionfactory",
+    "evidence": "@rel_fashionfactory",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "@FashionF_IND",
+    "evidence": "@FashionF_IND",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "addresses": [
+   {
+    "value": "STORES IN BENGALURU: BANNERGHATTA ROAD: OPP. NAGARJUNA HOTEL | BANSHANKARI: 3RD STAGE, 100 FT ROAD | ELECTRONIC CITY: PHASE I, NEELADRI ROAD, NEXT TO KARNATAKA BANK | HOSUR ROAD: BESIDES RNS MOTORS | HSR LAYOUT: SECTOR 7, 17TH CROSS, NEXT TO CANARA BANK | KANAKPURA ROAD: OPP A2B RESTAURANT | MALLESHWARAM: 5TH CROSS, BESIDE BBMP OFFICE | ROCKLINE MALL: JALAHALLI CROSS | RR NAGAR: GOPALAN ARCADE MALL, MYSORE ROAD SARJAPURA ROAD: BELOW BARBEQUE NATION | WHITE FIELD: MAHADEVAPURA, OPP DECATHLON",
+    "evidence": "STORES IN BENGALURU: BANNERGHATTA ROAD: OPP. NAGARJUNA HOTEL | BANSHANKARI: 3RD STAGE, 100 FT ROAD | ELECTRONIC CITY: PHASE I, NEELADRI ROAD, NEXT TO KARNATAKA BANK | HOSUR ROAD: BESIDES RNS MOTORS | HSR LAYOUT: SECTOR 7, 17TH CROSS, NEXT TO CANARA BANK | KANAKPURA ROAD: OPP A2B RESTAURANT | MALLESHWARAM: 5TH CROSS, BESIDE BBMP OFFICE | ROCKLINE MALL: JALAHALLI CROSS | RR NAGAR: GOPALAN ARCADE MALL, MYSORE ROAD SARJAPURA ROAD: BELOW BARBEQUE NATION | WHITE FIELD: MAHADEVAPURA, OPP DECATHLON",
+    "english": "Stores in Bengaluru: Bannerghatta Road, Banshankari, Electronic City, Hosur Road, HSR Layout, Kanakpura Road, Malleshwaram, Rockline Mall, RR Nagar, Sarjapura Road, White Field",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (98%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [
+   {
+    "value": "BUY 2 GET 3 FREE",
+    "evidence": "BUY 2 GET 3 FREE",
+    "english": "Buy 2 Get 3 Free",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "ON ALMOST EVERYTHING",
+    "evidence": "ON ALMOST EVERYTHING",
+    "english": "On Almost Everything",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "TILL 21ST MAY",
+    "evidence": "TILL 21ST MAY",
+    "english": "Till 21st May",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": [
+   {
+    "value": {
+     "name": "Fashion Factory",
+     "area": "Multiple locations in Bengaluru",
+     "city": "Bengaluru",
+     "phones": [
+      "6360605247"
+     ],
+     "advertiser_id": null,
+     "advertiser_candidates": [],
+     "suggested_city_id": 3,
+     "city_id": null
+    },
+    "evidence": "FASHION FACTORY BRANDS FOR LESS | STORES IN BENGALURU: BANNERGHATTA ROAD: OPP. NAGARJUNA HOTEL | BANSHANKARI: 3RD STAGE, 100 FT ROAD | ELECTRONIC CITY: PHASE I, NEELADRI ROAD, NEXT TO KARNATAKA BANK | HOSUR ROAD: BESIDES RNS MOTORS | HSR LAYOUT: SECTOR 7, 17TH CROSS, NEXT TO CANARA BANK | KANAKPURA ROAD: OPP A2B RESTAURANT | MALLESHWARAM: 5TH CROSS, BESIDE BBMP OFFICE | ROCKLINE MALL: JALAHALLI CROSS | RR NAGAR: GOPALAN ARCADE MALL, MYSORE ROAD SARJAPURA ROAD: BELOW BARBEQUE NATION | WHITE FIELD: MAHADEVAPURA, OPP DECATHLON | STORE MANAGER: 6360605247 / 8104917753",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (99%)",
+     "dealer: no existing record matches; city: exact match to existing record 'Bengaluru' (#3)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ]
+ },
+ "category_attributes": {
+  "store_name": {
+   "value": "Fashion Factory",
+   "evidence": "FASHION FACTORY",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "products_on_offer": {
+   "value": "Pepe Jeans, Levi's, Lee, Le Coq, Wrangler, Raymond, John Players Jeans, Killer, Twills, Avaasa, TGC Indian Garage",
+   "evidence": "Pepe Jeans, Levi's, Lee, Le Coq, Wrangler, Raymond, John Players Jeans, Killer, Twills, Avaasa, TGC Indian Garage",
+   "english": null,
+   "confidence": 0.72,
+   "status": "review",
+   "reasons": [
+    "evidence partly matches OCR (87%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "discount": {
+   "value": "BUY 2 GET 3 FREE",
+   "evidence": "BUY 2 GET 3 FREE",
+   "english": "Buy 2 Get 3 Free",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sale_period": {
+   "value": "TILL 21ST MAY",
+   "evidence": "TILL 21ST MAY",
+   "english": "Till 21st May",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "Buy 2 Get 3 Free on almost everything",
+  "Offer valid till 21st May",
+  "Brands include Pepe Jeans, Levi's, Lee, Wrangler, Raymond, John Players Jeans, Killer, Twills, Avaasa, TGC Indian Garage",
+  "Stores in Bengaluru listed with addresses",
+  "Store manager contact numbers provided"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "Reliance",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "Growth is Life",
+   "score": 0.9889,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "FASHION FACTORY",
+   "score": 0.9676,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "BRANDS FOR LESS",
+   "score": 0.9637,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 5,
+   "text": "pUmA",
+   "score": 0.5426,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "-06",
+   "score": 0.9984,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 7,
+   "text": "FASHION",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "FASHION",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "FACTORY",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "a",
+   "score": 0.8405,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 11,
+   "text": "FACTORY",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "BRANDS FOR LESS",
+   "score": 0.974,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "BRANDS FOR LESS",
+   "score": 0.9918,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "TILL 2IS MAY",
+   "score": 0.9842,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 15,
+   "text": "BUY2",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "GET",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "FREE",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "PepeJeamo.",
+   "score": 0.8723,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 19,
+   "text": "Levrs",
+   "score": 0.9536,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "Lee",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "LeCoopex",
+   "score": 0.7001,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 22,
+   "text": "Wrangler",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "R raymond",
+   "score": 0.9474,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "johnplayers.jeans",
+   "score": 0.9631,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "KILLER>K",
+   "score": 0.9615,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 26,
+   "text": "P",
+   "score": 0.6097,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "TWILLS",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "avaasa",
+   "score": 0.9989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "TIGC",
+   "score": 0.9997,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 30,
+   "text": "INDIAN",
+   "score": 0.9018,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "GARAGE",
+   "score": 0.9809,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "ON ALMOSTEVERYTHING",
+   "score": 0.9831,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 33,
+   "text": "FASHION FACTORY",
+   "score": 0.9786,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 34,
+   "text": "BRANDS FOR LESS",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "STORES IN BENGALURU: BANNERGHATTA ROAD: OPP. NAGARJUNA HOTEL | BANSHANKARI: 3 STAGE, I00 FT ROAD | ELECTRONIC CITY: PHASE I, NEELADRI",
+   "score": 0.9612,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "ROAD, NEXT TO KARNATAKA BANK | HOSUR ROAD: BESIDES RNS MOTORS | HSR LAYOUT: SECTOR 7,I7™H CROSS, NEXT TO CANARA BANK | KANAKPURA ROAD: OPP",
+   "score": 0.9746,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "A2B RESTAURANT | MALLESHWARAM: 5H CROSS, BESIDE BBMP OFFICE | ROCKLINE MALL: JALAHALLI CROSS | RR NAGAR: GOPALAN ARCADE MALL, MYSORE ROAD",
+   "score": 0.9799,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "SARJAPURA ROAD: BELOW BARBEQUE NATION | WHITE FIELD: MAHADEVAPURA, OPP DECATHLON",
+   "score": 0.9764,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 39,
+   "text": "Scan for store location sTORE MANAGER:6360605247 / 8104917753",
+   "score": 0.9735,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "@rel_fashionfactory",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "@FashionF_IND",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 42,
+   "text": "@rel.fashionfactory",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "1 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "4 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 18.76,
+  "extract": 18.96
+ }
+}

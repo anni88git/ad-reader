@@ -1,0 +1,68 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only (not from any system output). Core fields only. Human audit pending unless _audited_by is set. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_skip": [
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "advertiser"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "English"
+   ],
+   [
+    "English",
+    "Hindi"
+   ]
+  ]
+ },
+ "brand": "ICICI Bank",
+ "product": {
+  "any_of": [
+   "iMobile Pay",
+   "ICICI Bank iMobile Pay"
+  ]
+ },
+ "model_variant": null,
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "manufacturer"
+  ]
+ },
+ "category": "Banking & Finance",
+ "headline": "Poore India Ka Payment App",
+ "sub_headline": {
+  "any_of": [
+   "Link Savings Account of Any Bank",
+   "Introducing iMobile Pay",
+   "Pay Anyone on Any Payment App",
+   null
+  ]
+ },
+ "price": null,
+ "phones": [],
+ "websites": [
+  "www.icicibank.com"
+ ],
+ "emails": [],
+ "qr_code_present": true,
+ "_uncertain_fields": [
+  {
+   "field": "price",
+   "why": "suspicious"
+  }
+ ]
+}

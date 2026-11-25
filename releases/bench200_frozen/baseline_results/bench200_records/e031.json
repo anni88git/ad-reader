@@ -1,0 +1,1307 @@
+{
+ "image": "e031_Anandabazaar_Patrika_637.jpg",
+ "fields": {
+  "brand": {
+   "value": "AFAIRS",
+   "evidence": "AFAIRS",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Admissions Fair 2023",
+   "evidence": "18th ADMISSIONS FAIR 2023",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: null",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "AFAIRS",
+   "evidence": "AFAIRS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "12 कोर्स EXAMS और पर सर्टिफिकेट कॉलेज में नौकरी",
+   "evidence": "12 कोर्स EXAMS और पर सर्टिफिकेट कॉलेज में नौकरी",
+   "english": "12 courses EXAMS and certificate college job",
+   "confidence": 0.55,
+   "status": "review",
+   "reasons": [
+    "evidence not confirmed by OCR (38%); devanagari text is hard for OCR",
+    "second model disagrees - suggestion: 12 ক্লাস EXAMS এর পর সার্টিক কলেজ বেছে নিন।"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "18th ADMISSIONS FAIR 2023",
+   "evidence": "18th ADMISSIONS FAIR 2023",
+   "english": "18th Admissions Fair 2023",
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 90% similar) - check spelling - suggestion: ADMISSIONS FAIR 2023",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "Give a head start to your career by meeting directly with the admission authorities of India's finest universities & colleges participating from across the country offering wide choice of UG & PG programmes.",
+   "evidence": "Give a head start to your career by meeting directly with the admission authorities of India's finest universities & colleges participating from across the country offering wide choice of UG & PG programmes.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (99%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "Register Now to visit!",
+   "evidence": "Register Now to visit!",
+   "english": "Register now to visit!",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "service_provider",
+   "evidence": "Your One-Stop Place to Explore The Best in Education After Class 12",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: recruitment"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Education > Universities & Colleges",
+   "evidence": "Alphabetical List Of Participating Institutions",
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #9"
+   ],
+   "matched_id": 9,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 9,
+     "name": "Education > Universities & Colleges",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model disagrees - suggestion: Bengali, English"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image (https://admissionsfair.in/)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_data": {
+   "value": "https://admissionsfair.in/",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "decoded from QR code"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "18th Admissions Fair 2023",
+    "22-23 April 2023",
+    "Ice Skating Rink, Beside Modern High School for Girls, Ballygunge, Kolkata - 19",
+    "11AM-7PM",
+    "40+ Universities/Colleges",
+    "200+ Bachelor's & Master's Programs",
+    "Seminar for students on 22-23 April at 4-5pm and 22 April at 5-6pm",
+    "Register Now to visit admissionsfair.in",
+    "For More Info, Call 96748 05912"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "The 18th Admissions Fair 2023 by AFAIRS is a one-stop place to explore the best in education after Class 12, where students can meet admission authorities of India's finest universities and colleges offering UG and PG programmes. The fair takes place on 22-23 April 2023 at Ice Skating Rink, Beside Modern High School for Girls, Ballygunge, Kolkata - 19, from 11AM-7PM, with 40+ universities/colleges and 200+ bachelor's and master's programs. Readers are asked to register now at admissionsfair.in or call 96748 05912 for more info.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "9674805912",
+     "kind": "mobile",
+     "as_printed": "96748 05912"
+    },
+    "evidence": "For More Info, Call 96748 05912",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "admissionsfair.in",
+    "evidence": "admissionsfair.in",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [
+   {
+    "value": "Ice Skating Rink Beside Modern High School for Girls, Ballygunge, Kolkata - 19",
+    "evidence": "Ice Skating Rink Beside Modern High School for Girls, Ballygunge, Kolkata - 19",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "features": [
+   {
+    "value": "40+ Universities/Colleges",
+    "evidence": "40+ Universities/Colleges",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "200+ Bachelor's & Master's Programs",
+    "evidence": "200+ Bachelor's & Master's Programs",
+    "english": null,
+    "confidence": 0.72,
+    "status": "review",
+    "reasons": [
+     "evidence partly matches OCR (82%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {
+  "institution": {
+   "value": "Acharya - Bangalore, Adamas University - Kolkata, AIMS Institutes - Bangalore, Amity University - Kolkata, Apeejay Stya University - Gurugram, BSE (Bombay Stock Exchange) Institute Limited - Kolkata, CMR University - Bangalore, Dayananda Sagar Institutions - Bangalore, Doon Business School - Dehradun, East Point Group of Institutions - Bengaluru, Footwear Design & Development Institute - Kolkata, Gopalan Group of Colleges - Bangalore, Heritage Group of Institutions - Kolkata, ICA Edu Skills - Kolkata, ICFAI University, IEM - UEM (Institute Of Engineering & Management) - Kolkata, iLead - Kolkata, Indian Institute of Hotel Management (IIHM) - Kolkata, Somaiya Vidyavihar University - Mumbai, Lexicon Institute of Hotel Management - Pune, Mahindra University - Hyderabad, Manav Rachna Educational Institutions - Delhi NCR, Manipal Academy of Higher Education - Manipal, MIT World Peace University (MIT WPU) - Pune, NITTE University - Mangalore, O. P. Jindal University - Raigarh, Parul University - Vadodara, Ramaiah University Of Applied Sciences - Bangalore, Sharda University - Delhi NCR, SRM University, AP - Andhra Pradesh, SRM University - Delhi NCR, Sonepat, SRM Institute of Science and Technology - Ramapuram, The Apollo University - Chittoor, Vinayaka Mission's Research Foundation (Deemed to be University) - Chennai, Whistling Woods International - Mumbai, Indian Army ... and many more",
+   "evidence": "Alphabetical List Of Participating Institutions",
+   "english": "Alphabetical List Of Participating Institutions",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "courses": {
+   "value": "UG & PG programmes",
+   "evidence": "offering wide choice of UG & PG programmes.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "admission_dates": {
+   "value": "22 23 APRIL 2023",
+   "evidence": "22 Sat 23 Sun APRIL 2023",
+   "english": "22 23 April 2023",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "body_copy_summary": [
+  "18th Admissions Fair 2023",
+  "22-23 April 2023",
+  "Ice Skating Rink, Beside Modern High School for Girls, Ballygunge, Kolkata - 19",
+  "11AM-7PM",
+  "40+ Universities/Colleges",
+  "200+ Bachelor's & Master's Programs",
+  "Seminar for students on 22-23 April at 4-5pm and 22 April at 5-6pm",
+  "Register Now to visit admissionsfair.in",
+  "For More Info, Call 96748 05912"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "#AaoCareerBanaye",
+   "score": 0.9998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "12 क्रम",
+   "score": 0.9176,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 3,
+   "text": "EXAMS",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "पन गन",
+   "score": 0.7899,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "मठिकु कटलछ लट निन।",
+   "score": 0.8301,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "4",
+   "score": 0.6569,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 7,
+   "text": "18th",
+   "score": 0.9885,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "AFAIRS",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "ADMISSIONS",
+   "score": 0.982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "FAIR 2023",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "22",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 12,
+   "text": "23",
+   "score": 1.0,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "Ice Skating Rink",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "Sat",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "Sun",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "Beside Modern High School for Girls,",
+   "score": 0.9973,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "APRIL 2023",
+   "score": 0.9993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Ballygunge, Kolkata- 19",
+   "score": 0.9765,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "11AM-7FM",
+   "score": 0.9832,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 20,
+   "text": "OPENS",
+   "score": 0.9958,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 21,
+   "text": "TOMORROW",
+   "score": 0.9952,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 22,
+   "text": "Register Now to visit!",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "admissionsfair.in",
+   "score": 0.9801,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Your One-Stop Place to Explore",
+   "score": 0.9966,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "The Best in Education After Class 12",
+   "score": 0.993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "Give a head start to your career by meeting directly with the",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 27,
+   "text": "admisslon authoritles of India's finest universities & colleges",
+   "score": 0.9647,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "participating from across the country offering wide choice of UG &",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "PG programmes.",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "Admissions Open 2023",
+   "score": 0.9987,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "Alphabetical List Of Participating Institutions",
+   "score": 0.9951,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "40+",
+   "score": 0.9994,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 33,
+   "text": "20C+",
+   "score": 0.9837,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 34,
+   "text": "Acharya-Bangalore",
+   "score": 0.9965,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 35,
+   "text": "Mahindra University-Hydcrabad",
+   "score": 0.9919,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "Adamas University- Kolkata",
+   "score": 0.9784,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 37,
+   "text": "Manav Rachna Educational",
+   "score": 0.9995,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 38,
+   "text": "Uriversitics/",
+   "score": 0.9403,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 39,
+   "text": "AIMS Institutes - Bangalore",
+   "score": 0.9544,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 40,
+   "text": "Institutions - Delhi NCR",
+   "score": 0.9643,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 41,
+   "text": "Bechelor's &",
+   "score": 0.9738,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 42,
+   "text": "Colleges",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 43,
+   "text": "Master's Programs",
+   "score": 0.9854,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 44,
+   "text": "Amity University-Kolkata",
+   "score": 0.9878,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 45,
+   "text": "Manipal Academy of Higher",
+   "score": 0.9935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 46,
+   "text": "Apeejay Stya University-Gurugram",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 47,
+   "text": "Education-Manipal",
+   "score": 0.9745,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 48,
+   "text": "BSE (Bombay Stock Exchange) Institute",
+   "score": 0.9909,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 49,
+   "text": "MIT World Peace University (MIT",
+   "score": 0.9936,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 50,
+   "text": "Limited - Kolkata",
+   "score": 0.9655,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 51,
+   "text": "WPU)-Pune",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 52,
+   "text": "SEMINAR",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 53,
+   "text": "CMR University - Bangalore",
+   "score": 0.9809,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 54,
+   "text": "NITTE University -Mangalore",
+   "score": 0.9872,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 55,
+   "text": "FOR STUDENTS",
+   "score": 0.9985,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 56,
+   "text": "Dayananda Sagar Institutions-",
+   "score": 0.9795,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 57,
+   "text": "O. P. Jindal University - Raigarh",
+   "score": 0.9533,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 58,
+   "text": "Bangalore",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 59,
+   "text": "Parul University - Vadodara",
+   "score": 0.9672,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 60,
+   "text": "22-23 April (Sat & Sun) at 4 - 5pm",
+   "score": 0.9626,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 61,
+   "text": "Doon Business School - Dehradun",
+   "score": 0.9637,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 62,
+   "text": "Ramaiah University Of Applied",
+   "score": 0.997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 63,
+   "text": "College & Career Planning:",
+   "score": 0.9882,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 64,
+   "text": "East Point Group of Institutions -",
+   "score": 0.9898,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 65,
+   "text": "Sciences - Bangalore",
+   "score": 0.9793,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 66,
+   "text": "Identifying your Strengths &",
+   "score": 0.9977,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 67,
+   "text": "Bengaluru",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 68,
+   "text": "Sharda University -Delhi NCR",
+   "score": 0.9761,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 69,
+   "text": "Footwear Design & Development",
+   "score": 0.9821,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 70,
+   "text": "SRM University, AP-Andhra Pradesh",
+   "score": 0.9926,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 71,
+   "text": "Personality for Better Career",
+   "score": 0.9957,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 72,
+   "text": "Institute-Kolkata",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 73,
+   "text": "SRM University - Delhi NCR, Sonepat",
+   "score": 0.9634,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 74,
+   "text": "Decision-Making",
+   "score": 0.9937,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 75,
+   "text": "Gopalan Group of Colleges - Bangalore",
+   "score": 0.9715,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 76,
+   "text": "SRM Institute of Science and",
+   "score": 0.9877,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 77,
+   "text": "Coach Ritesh Bhatia, India's leading Deep",
+   "score": 0.9933,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 78,
+   "text": "Heritage Group of Institutions - Kolkata",
+   "score": 0.9823,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 79,
+   "text": "Technology-Ramapuram",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 80,
+   "text": "Transformational Coach & Certified Career Coach",
+   "score": 0.9868,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 81,
+   "text": "ICA Edu Skills- Kolkata",
+   "score": 0.9514,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 82,
+   "text": "The Apollo University -Chittoor",
+   "score": 0.9802,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 83,
+   "text": "ICFAI University",
+   "score": 0.9856,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 84,
+   "text": "Vinayaka Misslon's Research",
+   "score": 0.9787,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 85,
+   "text": "22 April (Sat) at 5 - 6pm",
+   "score": 0.9552,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 86,
+   "text": "IEM - UEM (Institute Of Engineering &",
+   "score": 0.9716,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 87,
+   "text": "Foundation (Deemed to be",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 88,
+   "text": "Promising Career Options after",
+   "score": 0.9962,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 89,
+   "text": "Management) - Kolkata",
+   "score": 0.976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 90,
+   "text": "University)-Chennai",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 91,
+   "text": "Class 12th",
+   "score": 0.9904,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 92,
+   "text": "iLead-Kclkata",
+   "score": 0.9882,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 93,
+   "text": "Whistling Woods International-",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 94,
+   "text": "Indian Institute of Hotel Management",
+   "score": 0.9894,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 95,
+   "text": "Mumbai",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 96,
+   "text": "Prof. Urvi Shukla, Renowned Career Coach,",
+   "score": 0.9916,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 97,
+   "text": "(IIHM)- Kolkata",
+   "score": 0.9431,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 98,
+   "text": "Indian Army",
+   "score": 0.9977,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 99,
+   "text": "Educator & Autnor",
+   "score": 0.9869,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 100,
+   "text": "Somaiya Vidyavihar University -Mumbai",
+   "score": 0.9866,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 101,
+   "text": "... and many more",
+   "score": 0.9296,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 102,
+   "text": "Lexicon Institute of Hotel Management-",
+   "score": 0.9915,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 103,
+   "text": "Pune",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 104,
+   "text": "For More Info, Call 96748 05912",
+   "score": 0.9621,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 105,
+   "text": "SCAN & REGISTER",
+   "score": 0.9685,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 106,
+   "text": "PRESENTING PARTNER",
+   "score": 0.996,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 107,
+   "text": "KNOWLEDGE PARTNER",
+   "score": 0.998,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 108,
+   "text": "ASSOCIATE PARTNER",
+   "score": 0.992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 109,
+   "text": "UNIVERSITY PARTNER",
+   "score": 0.9994,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 110,
+   "text": "ORGANISED BY",
+   "score": 0.9637,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 111,
+   "text": "AMITY",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 112,
+   "text": "MANIPAL",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 113,
+   "text": "SRM",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 114,
+   "text": "MANAV",
+   "score": 0.9982,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 115,
+   "text": "0",
+   "score": 0.462,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 116,
+   "text": "A",
+   "score": 0.5269,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 117,
+   "text": "UNIVERSITY",
+   "score": 0.9963,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 118,
+   "text": "UINVERSITY",
+   "score": 0.9418,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 119,
+   "text": "RACHNA",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 120,
+   "text": "ADAMAS",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 121,
+   "text": "HOLKATA",
+   "score": 0.941,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 122,
+   "text": "UNIVIRSITY",
+   "score": 0.9797,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 123,
+   "text": "AFAIRS",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "29 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 23.09,
+  "extract": 25.86
+ }
+}

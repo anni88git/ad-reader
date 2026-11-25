@@ -1,0 +1,35 @@
+# ---- secrets & local environment (never commit) ----
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+kaggle.json
+.venv/
+venv/
+.vscode/
+.idea/
+
+# ---- Python / tooling caches & temp artifacts ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ---- data: everything ignored by default, then only small files the app and tests need are allowed ----
+# (local SQLite job history, uploads, job outputs, ad images, OCR caches, datasets and the embedding model stay local)
+data/*
+!data/labels/
+!data/db/
+data/db/*
+!data/db/master.sqlite
+!data/rag_index/
+data/rag_index/*
+!data/rag_index/index.json
+*.sqlite-shm
+*.sqlite-wal
+*.zip

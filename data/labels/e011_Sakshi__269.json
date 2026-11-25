@@ -1,0 +1,64 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "language": [
+  "English"
+ ],
+ "brand": {
+  "any_of": [
+   "Maruti Suzuki",
+   "Maruti Suzuki Arena"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Alto K10, S-Presso, Swift, Dzire, Celerio, Eeco"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "dealer",
+   "manufacturer"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Automobile > Cars",
+   "Automobile"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "Make new beginnings auspicious and prosperous!"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "websites": [
+  "marutisuzuki.com"
+ ],
+ "_uncertain_fields": []
+}

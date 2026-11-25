@@ -1,0 +1,72 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "Prayag",
+   "Prayag Pipes & Fittings"
+  ]
+ },
+ "product": {
+  "any_of": [
+   "Prayag Pipes",
+   "Prayag CPVC",
+   "Prayag Pipes & Fittings",
+   "Pipes & Fittings"
+  ]
+ },
+ "ad_type": "manufacturer",
+ "category": {
+  "any_of": [
+   "Furniture & Home"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "प्रयाग पाईप्स ही क्यूँ?"
+  ]
+ },
+ "price": null,
+ "qr_code_present": false,
+ "phones": [
+  "9311506415"
+ ],
+ "websites": [
+  "prayagindia.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Hindi",
+    "English"
+   ]
+  ]
+ },
+ "_uncertain_fields": [
+  {
+   "field": "category",
+   "why": "drafter unsure"
+  }
+ ]
+}

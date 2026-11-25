@@ -1,0 +1,719 @@
+{
+ "image": "007_toyota_417.jpg",
+ "fields": {
+  "brand": {
+   "value": "Toyota",
+   "evidence": "TOYOTA",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "exact match to existing record 'Toyota' (#6)"
+   ],
+   "matched_id": 6,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 6,
+     "name": "Toyota",
+     "score": 100.0
+    },
+    {
+     "id": 38,
+     "name": "Motion Education",
+     "score": 62.5
+    },
+    {
+     "id": 4,
+     "name": "Tata Motors",
+     "score": 60.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "product": {
+   "value": "Yaris",
+   "evidence": "YARIS",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Toyota",
+   "evidence": "TOYOTA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "ARRE WAAH THAT'S A TOYOTA!",
+   "evidence": "ARRE WAAH THAT'S A TOYOTA!",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 82% similar) - check spelling - suggestion: ARREWAAH THAT'S A",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "A CAR WITH A YEARLY SERVICE COST LOWER THAN A FULL TANK OF PETROL.",
+   "evidence": "A CAR WITH A YEARLY SERVICE COST LOWER THAN A FULL TANK OF PETROL.",
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "wording is not an exact match to the printed text (closest OCR reading 93% similar) - check spelling - suggestion: A CAR WITH A YEÁRLY SERVICE COST LOWER THAN TOYOTA! A FULL TANK OF PETROL.",
+    "second model disagrees - suggestion: SERVICE COST AT ₹3,500 A YEAR*"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "WHEN YOU OWN A TOYOTA, YOU'LL DISCOVER AN INCREDIBLE OWNERSHIP EXPERIENCE WITH PLENTY OF SURPRISING DELIGHTS ALONG THE WAY.",
+   "evidence": "WHEN YOU OWN A TOYOTA, YOU'LL DISCOVER AN INCREDIBLE OWNERSHIP EXPERIENCE WITH PLENTY OF SURPRISING DELIGHTS ALONG THE WAY.",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": "WARRANTY UP TO 3 YEARS / 100,000 km & EXTENDABLE UP TO 7 YEARS#*",
+   "evidence": "WARRANTY UP TO 3 YEARS / 100,000 km & EXTENDABLE UP TO 7 YEARS#*",
+   "english": "Warranty up to 3 years / 100,000 km & extendable up to 7 years",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Automobile > Cars",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #2"
+   ],
+   "matched_id": 2,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 2,
+     "name": "Automobile > Cars",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": 3500,
+   "evidence": "₹3,500",
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "amount digits match OCR (3,500)",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree (small print detected)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Toyota Yaris service cost at ₹3,500 a year",
+    "68% resale value after 5 years",
+    "1-hour express service",
+    "Warranty up to 3 years / 100,000 km & extendable up to 7 years"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Toyota Yaris offers a yearly service cost of ₹3,500, lower than a full tank of petrol, along with 68% resale value after 5 years, 1-hour express service, and warranty up to 3 years/100,000 km extendable to 7 years.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "18004250001",
+     "kind": "toll_free",
+     "as_printed": "1800-425-0001"
+    },
+    "evidence": "TOLL1800-425-0001",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": {
+     "number": "8066293001",
+     "kind": "mobile",
+     "as_printed": "+91-80-6629-3001"
+    },
+    "evidence": "DIRECT NO: +91-80-6629-3001",
+    "english": null,
+    "confidence": 0.7,
+    "status": "review",
+    "reasons": [
+     "found in the printed text by pattern; the model did not extract it - confirm"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [
+   {
+    "value": {
+     "amount": 3500,
+     "currency": "INR",
+     "kind": "price",
+     "label": "SERVICE COST AT",
+     "item": "a year",
+     "as_printed": "₹3,500"
+    },
+    "evidence": "₹3,500",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "amount digits match OCR (3,500)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "websites": [
+   {
+    "value": "www.toyotabharat.com",
+    "evidence": "WWW.TOYOTABHARAT.COM",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "1-HOUR EXPRESS SERVICE*",
+    "evidence": "1-HOUR EXPRESS SERVICE*",
+    "english": "1-hour express service",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "WARRANTY UP TO 3 YEARS / 100,000 km & EXTENDABLE UP TO 7 YEARS#*",
+    "evidence": "WARRANTY UP TO 3 YEARS / 100,000 km & EXTENDABLE UP TO 7 YEARS#*",
+    "english": "Warranty up to 3 years / 100,000 km & extendable up to 7 years",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [
+   {
+    "value": "dentsuindia/tol/02/19",
+    "evidence": "dentsuindia/tol/02/19",
+    "english": null,
+    "confidence": 0.75,
+    "status": "review",
+    "reasons": [
+     "evidence verified in OCR (100%)",
+     "contains look-alike characters (I/l/1, O/0, S/5, B/8) next to digits - check against the ad"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "offers": [
+   {
+    "value": "68% RESALE VALUE AFTER 5 YEARS**",
+    "evidence": "68% RESALE VALUE AFTER 5 YEARS**",
+    "english": "68% resale value after 5 years",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Toyota Yaris service cost at ₹3,500 a year",
+  "68% resale value after 5 years",
+  "1-hour express service",
+  "Warranty up to 3 years / 100,000 km & extendable up to 7 years"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "BUILT",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 2,
+   "text": "TOYOTA",
+   "score": 0.9992,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "WWW.TOYOTABHARAT.COM",
+   "score": 0.9944,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "QDR",
+   "score": 0.9999,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "Quality Revolution",
+   "score": 0.9992,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 6,
+   "text": "ARREWAAH",
+   "score": 0.999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "THAT'S A",
+   "score": 0.996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 8,
+   "text": "A CAR WITH A YEÁRLY",
+   "score": 0.9741,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "SERVICE COST LOWER THAN",
+   "score": 0.9949,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 10,
+   "text": "TOYOTA!",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "A FULL TANK OF PETROL.",
+   "score": 0.9991,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "SERVICE COST AT3,500 A YEAR*",
+   "score": 0.9688,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 13,
+   "text": "WHENYOU OWN ATOYOTA,YOU'LL DISCOVER AN INCREDIBLE OWNERSHIP EXPERIENCE",
+   "score": 0.9618,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 14,
+   "text": "WITH PLENTY OFSURPRISING DELIGHTS ALONG THE WAY.",
+   "score": 0.9546,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "68% RESALE VALUE AFTER 5 YEARS**",
+   "score": 0.9809,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "1-HOUR EXPRESS SERVICE*",
+   "score": 0.9798,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 17,
+   "text": "WARRANTY UP T0 3 YEARS/ 100,000 km",
+   "score": 0.9518,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "& EXTENDABLE UP TO 7 YEARS#*",
+   "score": 0.9525,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "YARIS",
+   "score": 0.9935,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "dentsuindia/tol/02/19",
+   "score": 0.9994,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "TOYOTA",
+   "score": 0.9887,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "TALK TO TOYOTA",
+   "score": 0.9973,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 23,
+   "text": "WE ARE SAFETY",
+   "score": 0.9533,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 24,
+   "text": "SERVICE",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 25,
+   "text": "TOYOTA",
+   "score": 0.993,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "EM60",
+   "score": 0.9046,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 27,
+   "text": "THE JOY OF OWNING A TOYOTA: LONG-LASTING DURABILITY• 24X7 ROADSIDE ASSISTANCE • A NETWORK OF 25O+ WORLD-CLASS SERVICE CENTRES",
+   "score": 0.981,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 28,
+   "text": "UTRUST",
+   "score": 0.9593,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 29,
+   "text": "TOLL1800-425-0001",
+   "score": 0.9877,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "LEADERS",
+   "score": 0.9991,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 31,
+   "text": "Connect",
+   "score": 0.9988,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 32,
+   "text": "24x7",
+   "score": 0.9846,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 33,
+   "text": "yearof regstation,k dven,uber of ower,inurance vaity.condtion of the cr and avaiabiltyo originl duments.\"Hgh Qualty Eres Mantenane n jt 60 minute.\"Waranys of 3 years/100.co akhk.wichever comes earer. RefertoWarranty Boket",
+   "score": 0.6914,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 34,
+   "text": "*Average cost of 3,500/ year including tax for a period of 5 Years / 50,000 km Perodlic Maintenance Service for Yaris. Cost of flig 45 litre petrol tank in Mumbai. ** On ex-showroom price for Innova VX (2014 model) in Kochi. Resale value is subject to market,",
+   "score": 0.9557,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 35,
+   "text": "DIRECT NO: +91-80-6629-3001",
+   "score": 0.9333,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 36,
+   "text": "besafetyleaders.in",
+   "score": 0.9999,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 37,
+   "text": "Qualty I Personalized",
+   "score": 0.8338,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 38,
+   "text": "handed over along with the Owner Manual of your vehice for details. Toyota Extended Warranty can be purchased as per your need. Please contact your nearest Toyota Dealer to know further details.Terms and condtions apply. For dtald T&C, please visit www.toyotabharat.com",
+   "score": 0.932,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 phone(s) and 0 ID(s) found by pattern that the model missed",
+  "11 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 20.19,
+  "extract": 23.8
+ }
+}

@@ -1,0 +1,429 @@
+{
+ "image": "e037_Ei_Samay_111.jpg",
+ "fields": {
+  "brand": {
+   "value": "UNPLASTIC INDIA",
+   "evidence": "UNPL\\<|unk|>STIC INDIA",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "value not in its evidence quote, but printed elsewhere in the ad",
+    "second model agrees",
+    "no exact record; closest: Namaste India, Kia, BYD"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 78,
+     "name": "Namaste India",
+     "score": 69.2
+    },
+    {
+     "id": 1,
+     "name": "Kia",
+     "score": 67.4
+    },
+    {
+     "id": 14,
+     "name": "BYD",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "UNPLASTIC INDIA",
+   "evidence": "UNPL\\<|unk|>STIC INDIA",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "value not in its evidence quote, but printed elsewhere in the ad",
+    "no exact record; closest: Kia India"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 1,
+     "name": "Kia India",
+     "score": 67.4
+    }
+   ],
+   "db_match": "near_miss"
+  },
+  "headline": {
+   "value": "এখনো প্লাস্টিকের* বোতল বাঁধবেন করেন ?",
+   "evidence": "এখনো প্লাস্টিকের* বোতল বাঁধবেন করেন ?",
+   "english": "Will you still tie plastic bottles?",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available",
+    "second model disagrees - suggestion: এখনও প্রাস্টিকের* বাঁচলবারথার করা হচ্ছে ?"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "একটি চিন্তা আর একটি ছোট উদ্যোগ",
+   "evidence": "একটি চিন্তা আর একটি ছোট উদ্যোগ",
+   "english": "One thought and one small initiative",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available",
+    "second model disagrees - suggestion: একটি চাইছেন অথক হিতহার চেষ্টা"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "'এক বার বাঁধারenga প্লাস্টিক বর্জন করুন সমাজ এসে। ১২ দিনের অনন্যপরিকল্পিত হাজি গালে-এ অনন্যপরিকল্পিত করুন পেয়ে নিন প্লাস্টিকের বিক্ষেপ, এক বাঁধামে আগামীর জন্ম।",
+   "evidence": "'এক বার বাঁধারenga প্লাস্টিক বর্জন করুন সমাজ এসে। ১২ দিনের অনন্যপরিকল্পিত হাজি গালে-এ অনন্যপরিকল্পিত করুন পেয়ে নিন প্লাস্টিকের বিক্ষেপ, এক বাঁধামে আগামীর জন্ম।",
+   "english": "Abandon plastic once tied, society comes. 12 days unique planned Hajj gale-unique planned do, get plastic waste, one tie future birth.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model disagrees - suggestion: public_notice"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Government & Public Notices",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #21"
+   ],
+   "matched_id": 21,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 21,
+     "name": "Government & Public Notices",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Bengali",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Bengali: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": true,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.97,
+   "status": "confirmed",
+   "reasons": [
+    "QR code detected in image"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "UNPLASTIC INDIA campaign",
+    "Question about tying plastic bottles",
+    "Website www.unplasticindia.com",
+    "QR code present"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "UNPLASTIC INDIA asks whether you will still tie plastic bottles, promoting one thought and one small initiative; visit www.unplasticindia.com or scan the QR code.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.unplasticindia.com",
+    "evidence": "www.unplasticindia.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "UNPLASTIC INDIA campaign",
+  "Question about tying plastic bottles",
+  "Website www.unplasticindia.com",
+  "QR code present"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "परजगर",
+   "score": 0.4948,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 2,
+   "text": "UNPL STIC INDIA",
+   "score": 0.9297,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "अकत जिनम अय शेख्ित डेल्ताश",
+   "score": 0.6267,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 4,
+   "text": "पशन7 ्ाम्ि(कन नाजन",
+   "score": 0.5321,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "बाबशन कब्नरन ?",
+   "score": 0.6954,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "क्रान कज",
+   "score": 0.8062,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 7,
+   "text": "1क वात बवशतवया आ्िक बर्जन कात मगर अटमटय।",
+   "score": 0.6544,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "\"नथ धरश",
+   "score": 0.5064,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "2> मिनत खानक्ानिक शछिस जान्-5 अरमधशष ककन",
+   "score": 0.7486,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "पमगर",
+   "score": 0.4865,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "ककन",
+   "score": 0.7814,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "，可",
+   "score": 0.8436,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 13,
+   "text": "www.unplasticindia.com",
+   "score": 1.0,
+   "category": "covered",
+   "why": "used by an extracted field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: The Bengali body text appears garbled in OCR; transcription is based on visual reading of the image.",
+  "model note: The brand logo in Bengali script at top left is stylised and not fully legible; brand value taken from English text 'UNPLASTIC INDIA'.",
+  "model note: Category chosen as Government & Public Notices because the ad is a public awareness campaign, not a commercial product advertisement.",
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 8.04,
+  "extract": 28.36
+ }
+}

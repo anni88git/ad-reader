@@ -1,0 +1,5 @@
+# Extra packages for the Kaggle GPU notebooks (model comparison / batch evaluation)
+-r requirements.txt
+paddlepaddle-gpu>=3.0.0
+paddleocr>=3.0.0
+vllm>=0.10

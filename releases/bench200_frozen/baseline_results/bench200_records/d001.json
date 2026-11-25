@@ -1,0 +1,618 @@
+{
+ "image": "d001_Navbharat_Times_1.jpg",
+ "fields": {
+  "brand": {
+   "value": "Dr. Ortho",
+   "evidence": "Dr.Ortho",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": "Strong Oil",
+   "evidence": "Strong Oil",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "product not linked: brand not matched"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "blocked"
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Dr. Juneja's",
+   "evidence": "Dr. Juneja's",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "बेफिक्र ज़िन्दगी के आगे दर्द क्या चीज़ है ?",
+   "evidence": "बेफिक्र ज़िन्दगी के आगे दर्द क्या चीज़ है ?",
+   "english": "Before a carefree life, what is pain?",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model disagrees - suggestion: बेफिक्र जिंदगी के आगे दर्द क्या चीज है ?"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "डा. ऑर्थों स्ट्रांग तेल",
+   "evidence": "डा. ऑर्थों स्ट्रांग तेल",
+   "english": "Dr. Ortho Strong Oil",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (84%)",
+    "wording is not an exact match to the printed text (closest OCR reading 69% similar) - check spelling",
+    "second model disagrees - suggestion: डा. आर्थो सडरंग तेल"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "10 गुणकारी आयुरवेदिक तेलों व सत्वों के योग से निर्मित डा. ऑर्थों स्ट्रांग तेल जोड़ों के अंदर तक समाकर दर्द को कम करने में विशेष सहायता करता है। मात्र 8-10ml तेल दिन में सिर्फ एक या दो बार हल्के हाथों से पीड़ित अंग पर मालिश करें आयुर्वेदिक होने के कारण इसका प्रभाव अल्पकालिक नहीं लम्बे समय तक बना रहता है।",
+   "evidence": "10 गुणकारी आयुरवेदिक तेलों व सत्वों के योग से निर्मित डा. ऑर्थों स्ट्रांग तेल जोड़ों के अंदर तक समाकर दर्द को कम करने में विशेष सहायता करता है। मात्र 8-10ml तेल दिन में सिर्फ एक या दो बार हल्के हाथों से पीड़ित अंग पर मालिश करें आयुर्वेदिक होने के कारण इसका प्रभाव अल्पकालिक नहीं लम्बे समय तक बना रहता है।",
+   "english": "Made from 10 potent Ayurvedic oils and extracts, Dr. Ortho Strong Oil penetrates deep into joints to help relieve pain. Just 8-10ml, massage lightly on the affected area once or twice daily. Being Ayurvedic, its effect lasts long, not temporary.",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (91%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": "24x7 Helpline: 78769 77777 | www.drorthooil.com",
+   "evidence": "24x7 Helpline: 78769 77777 | www.drorthooil.com",
+   "english": "Call 24x7 Helpline 78769 77777 or visit www.drorthooil.com",
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "evidence verified in OCR (100%)"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "Healthcare",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #14"
+   ],
+   "matched_id": 14,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 14,
+     "name": "Healthcare",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Hindi",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "matches scripts seen by OCR",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "model and OCR disagree about small print / T&C"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "Dr. Ortho Strong Oil for joint pain",
+    "10 Ayurvedic oils and extracts",
+    "8-10ml massage once or twice daily",
+    "24x7 Helpline: 78769 77777",
+    "www.drorthooil.com"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "Dr. Ortho Strong Oil is an Ayurvedic oil made from 10 potent oils and extracts that penetrates deep into joints to relieve pain. Massage 8-10ml once or twice daily on the affected area. Call 24x7 Helpline 78769 77777 or visit www.drorthooil.com.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [
+   {
+    "value": {
+     "number": "7876977777",
+     "kind": "mobile",
+     "as_printed": "78769 77777"
+    },
+    "evidence": "24x7 Helpline: 78769 77777",
+    "english": null,
+    "confidence": 0.95,
+    "status": "confirmed",
+    "reasons": [
+     "digits match OCR exactly (mobile)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "prices": [],
+  "websites": [
+   {
+    "value": "www.drorthooil.com",
+    "evidence": "www.drorthooil.com",
+    "english": null,
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [
+   {
+    "value": "घुटना दर्द",
+    "evidence": "घुटना दर्द",
+    "english": "Knee pain",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कमर दर्द",
+    "evidence": "कमर दर्द",
+    "english": "Back pain",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कलाई दर्द",
+    "evidence": "कलाई दर्द",
+    "english": "Wrist pain",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   },
+   {
+    "value": "कंधा दर्द",
+    "evidence": "कंधा दर्द",
+    "english": "Shoulder pain",
+    "confidence": 0.92,
+    "status": "confirmed",
+    "reasons": [
+     "evidence verified in OCR (100%)"
+    ],
+    "matched_id": null,
+    "suggested_id": null,
+    "candidates": [],
+    "db_match": null
+   }
+  ],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "Dr. Ortho Strong Oil for joint pain",
+  "10 Ayurvedic oils and extracts",
+  "8-10ml massage once or twice daily",
+  "24x7 Helpline: 78769 77777",
+  "www.drorthooil.com"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "बेफिक्र",
+   "score": 0.9988,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "ज़िन्दगी",
+   "score": 0.9241,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 3,
+   "text": "के आगे दर्द क्या चीज़ है ?",
+   "score": 0.9409,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "डा. आरथों",
+   "score": 0.8267,
+   "category": "decorative",
+   "why": "logo / badge / stray characters / brand repeat"
+  },
+  {
+   "line": 5,
+   "text": "स्टरांग",
+   "score": 0.9138,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 6,
+   "text": "तेल",
+   "score": 0.989,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "120ml",
+   "score": 0.9993,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 8,
+   "text": "Dr.Ortho",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 9,
+   "text": "Specialist",
+   "score": 0.9574,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  },
+  {
+   "line": 10,
+   "text": "Strong",
+   "score": 0.9999,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 11,
+   "text": "Oil",
+   "score": 0.9976,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 12,
+   "text": "An Ayurvede",
+   "score": 0.6334,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 13,
+   "text": "Medicine",
+   "score": 0.9262,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 14,
+   "text": "la Painful",
+   "score": 0.936,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 15,
+   "text": "Helpful",
+   "score": 0.9821,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 16,
+   "text": "Conditions",
+   "score": 0.9756,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 17,
+   "text": "घुटना दर्द",
+   "score": 0.9828,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 18,
+   "text": "Dr.Ortho",
+   "score": 0.9996,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 19,
+   "text": "कमर दर्द",
+   "score": 0.9998,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 20,
+   "text": "कलाई दर्द",
+   "score": 0.9997,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 21,
+   "text": "कंधा दर्द",
+   "score": 0.9731,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 22,
+   "text": "10 गुणकारी आयुरवेदिक तेलोंव सत्वोंके योग से निर्मित",
+   "score": 0.9408,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 23,
+   "text": "डा. ऑरथं स्टरांग तेल जोड़ो के अंदर तक समाकर दर्द को",
+   "score": 0.9154,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 24,
+   "text": "Helpful in PAINFUL CONDITIONS",
+   "score": 0.9353,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 25,
+   "text": "कम करने में विशेष सहायता करता है। मात्र 8-10ml",
+   "score": 0.9643,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 26,
+   "text": "डा.आथीं",
+   "score": 0.744,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 27,
+   "text": "तेल दिन में सि्फ एक या दो बार हल्के हाथों से पीड़ित",
+   "score": 0.9775,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 28,
+   "text": "Dr. Juneja's",
+   "score": 0.9985,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 29,
+   "text": "अंग पर मालिश करें आयर्वेदिक होने के कारण इसका",
+   "score": 0.9537,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 30,
+   "text": "प्रभाव अल्पकालिक नहींलम्बे समय तक बनारहताहै।",
+   "score": 0.948,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 31,
+   "text": "24x7 Helpline: 78769 77777 | www.drorthooil.com",
+   "score": 0.9865,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 32,
+   "text": "Ayurvedic Oil, Capsules, Spray & Ointment",
+   "score": 0.9911,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "2 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 12.95,
+  "extract": 9.03
+ }
+}

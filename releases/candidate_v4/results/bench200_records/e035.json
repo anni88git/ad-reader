@@ -1,0 +1,422 @@
+{
+ "image": "e035_Anandabazaar_Patrika_33.jpg",
+ "fields": {
+  "brand": {
+   "value": "NESCAFÉ",
+   "evidence": "NESCAFÉ",
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "product": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "model_variant": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "advertiser": {
+   "value": "Nestlé",
+   "evidence": "Nestlé.",
+   "english": null,
+   "confidence": 0.75,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (91%)",
+    "no existing record matches"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": "unknown"
+  },
+  "headline": {
+   "value": "বার বার বর্ষার দিনের জনা, NESCAFÉ শায়ে য়া আৰু আনা।",
+   "evidence": "বার বার বর্ষার দিনের জনা,\nNESCAFÉ শায়ে য়া আৰু আনা।",
+   "english": "Again and again, for rainy days, NESCAFÉ shade and rain.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available",
+    "a larger printed line exists ('NESCAE', 2.6x the headline size) - check which line is the main headline",
+    "second model disagrees - suggestion: বার বার বসোয়ার দিনের জন্য, NESCAFÉ পাওয় হ্য আয়ৰ 3 জননা।"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "sub_headline": {
+   "value": "Make your world",
+   "evidence": "Make your world",
+   "english": null,
+   "confidence": 0.8,
+   "status": "review",
+   "reasons": [
+    "evidence verified in OCR (100%)",
+    "second model agrees",
+    "sub-headline choice is subjective - always confirmed by the reviewer"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "description": {
+   "value": "কাব্য দিনে সেবা চক - চক আও বৃষ্টি - (কাজা মেঘসামি) বৃষ্টি। এন সুখ মুখান তখনি কা পা, যান মসিন শায়ে NESCAFÉ-এ নিপুণত (করচি) কান্দি ও মসিন আও (কান্দি) যান তাই বর। শায়ে কান NESCAFÉ নিরে আপনাম কা বুজ, আও বরন আপনামা বরিদি যান।",
+   "evidence": "কাব্য দিনে সেবা চক - চক আও বৃষ্টি - (কাজা মেঘসামি) বৃষ্টি। এন সুখ মুখান তখনি কা পা, যান মসিন শায়ে NESCAFÉ-এ নিপুণত (করচি) কান্দি ও মসিন আও (কান্দি) যান তাই বর। শায়ে কান NESCAFÉ নিরে আপনাম কা বুজ, আও বরন আপনামা বরিদি যান।",
+   "english": "Poetic day, drizzle - drizzle and rain - (cloudy rainy season) rain. This happiness at that time, rain shade NESCAFÉ- in skilled (doing) rain and rain (rain) rain that is shade. Shade ear NESCAFÉ in your own understand, rain color your own rain person rain.",
+   "confidence": 0.6,
+   "status": "review",
+   "reasons": [
+    "bengali script: no OCR cross-check available"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "warranty": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "call_to_action": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "not found in the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_type": {
+   "value": "manufacturer",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "classified by model from ad layout",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "category": {
+   "value": "FMCG > Food & Beverages",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "category chosen from master list",
+    "second model agrees",
+    "category #24"
+   ],
+   "matched_id": 24,
+   "suggested_id": null,
+   "candidates": [
+    {
+     "id": 24,
+     "name": "FMCG > Food & Beverages",
+     "score": 100.0
+    }
+   ],
+   "db_match": "matched"
+  },
+  "language": {
+   "value": [
+    "Bengali",
+    "English"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.88,
+   "status": "confirmed",
+   "reasons": [
+    "Bengali: script not covered by OCR, not cross-checked",
+    "second model agrees"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "price": {
+   "value": null,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.0,
+   "status": "missing",
+   "reasons": [
+    "no price printed"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "qr_code_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.9,
+   "status": "confirmed",
+   "reasons": [
+    "no QR code found by model or detector"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "disclaimer_present": {
+   "value": false,
+   "evidence": null,
+   "english": null,
+   "confidence": 0.92,
+   "status": "confirmed",
+   "reasons": [
+    "model and OCR agree"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "body_copy": {
+   "value": [
+    "NESCAFÉ coffee advertisement in Bengali",
+    "Woman holding red NESCAFÉ mug",
+    "Product jar shown at bottom left",
+    "Tagline: Make your world"
+   ],
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "summary written by the model (not verbatim) - confirm it describes the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  },
+  "ad_message": {
+   "value": "NESCAFÉ coffee is advertised with a Bengali headline about rainy days and shade. A woman enjoys coffee from a red NESCAFÉ mug. The product jar is shown. The tagline is Make your world.",
+   "evidence": null,
+   "english": null,
+   "confidence": 0.7,
+   "status": "review",
+   "reasons": [
+    "interpretation written by the model (not printed text) - confirm it matches the ad"
+   ],
+   "matched_id": null,
+   "suggested_id": null,
+   "candidates": [],
+   "db_match": null
+  }
+ },
+ "lists": {
+  "phones": [],
+  "prices": [],
+  "websites": [],
+  "emails": [],
+  "social_handles": [],
+  "addresses": [],
+  "features": [],
+  "reference_numbers": [],
+  "offers": [],
+  "dealers": []
+ },
+ "category_attributes": {},
+ "body_copy_summary": [
+  "NESCAFÉ coffee advertisement in Bengali",
+  "Woman holding red NESCAFÉ mug",
+  "Product jar shown at bottom left",
+  "Tagline: Make your world"
+ ],
+ "ocr_lines_review": [
+  {
+   "line": 1,
+   "text": "NESCAFE",
+   "score": 0.9986,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 2,
+   "text": "तत तत तगान",
+   "score": 0.5647,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 3,
+   "text": "NESCAFÉ",
+   "score": 0.8172,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 4,
+   "text": "जातछ चतना",
+   "score": 0.6199,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 5,
+   "text": "PB MA (H",
+   "score": 0.4861,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 6,
+   "text": "NESCAE",
+   "score": 0.8776,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 7,
+   "text": "e- .",
+   "score": 0.5697,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 8,
+   "text": "घथन भ्रव् थाक NहSCहई-शत",
+   "score": 0.6711,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 9,
+   "text": "A",
+   "score": 0.5907,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 10,
+   "text": "पक जात जातारला श",
+   "score": 0.5342,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 11,
+   "text": "...o",
+   "score": 0.6011,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 12,
+   "text": "NESCAFEनिप्य छ्ापयम कत वभुन,",
+   "score": 0.647,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 13,
+   "text": "जातवतात जासाज शति्गाना",
+   "score": 0.532,
+   "category": "small_print",
+   "why": "low OCR confidence"
+  },
+  {
+   "line": 14,
+   "text": "Make your world",
+   "score": 0.9496,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 15,
+   "text": "NESCAFE.",
+   "score": 0.9839,
+   "category": "covered",
+   "why": "used by an extracted field"
+  },
+  {
+   "line": 16,
+   "text": "ative Visualsation",
+   "score": 0.9537,
+   "category": "small_print",
+   "why": "tiny or dense small print"
+  },
+  {
+   "line": 17,
+   "text": "Nestlē.",
+   "score": 0.9546,
+   "category": "ignored",
+   "why": "readable text not used by any field"
+  }
+ ],
+ "quality_warnings": [],
+ "record_flags": [
+  "model note: The Bengali body text is difficult to read precisely; transcription is a best-effort reading from the image.",
+  "model note: OCR transcript lines were low-confidence and did not match the image well; image was used as primary source.",
+  "model note: No price, offer, phone, website, or call-to-action is printed in this advertisement.",
+  "1 readable OCR line(s) not used by any field - check for missed information"
+ ],
+ "models_used": [
+  "nvidia/nemotron-3.5-super-vl-120b-a12b"
+ ],
+ "timings_s": {
+  "ocr": 7.32,
+  "extract": 28.18
+ }
+}

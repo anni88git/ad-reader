@@ -1,0 +1,72 @@
+{
+ "_label_source": "claude_independent_read",
+ "_note": "Drafted by Claude from the ad image only, before any system output was seen. PROVISIONAL - not human-verified. Core fields only. Format: data/labels/FORMAT.md",
+ "_verified_by": null,
+ "_set": "bench200",
+ "_skip": [
+  "model_variant",
+  "advertiser",
+  "sub_headline",
+  "description",
+  "body_copy",
+  "ad_message",
+  "features",
+  "offers",
+  "warranty",
+  "disclaimer_present",
+  "dealers",
+  "addresses",
+  "social_handles",
+  "prices",
+  "call_to_action",
+  "phones",
+  "emails",
+  "reference_numbers"
+ ],
+ "brand": {
+  "any_of": [
+   "ESAF",
+   "ESAF Small Finance Bank"
+  ]
+ },
+ "product": {
+  "any_of": [
+   null,
+   "Agency Banking",
+   "Customer Service Agent"
+  ]
+ },
+ "ad_type": {
+  "any_of": [
+   "service_provider",
+   "recruitment"
+  ]
+ },
+ "category": {
+  "any_of": [
+   "Banking & Finance"
+  ]
+ },
+ "headline": {
+  "any_of": [
+   "ಏಜನ್ಸಿ ಬ್ಯಾಂಕಿಂಗ್ ಸಂಬಂಧಿಸಿದಂತೆ ಇಸಾಫ್ ಅರ್ಜಿಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ"
+  ]
+ },
+ "price": null,
+ "qr_code_present": true,
+ "websites": [
+  "esafbank.com"
+ ],
+ "language": {
+  "any_of": [
+   [
+    "Kannada",
+    "English"
+   ],
+   [
+    "Kannada"
+   ]
+  ]
+ },
+ "_uncertain_fields": []
+}
