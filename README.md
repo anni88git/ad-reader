@@ -17,6 +17,8 @@ value against the printed text, links brands/products/advertisers to a master da
 ID**, and hands the result to a human reviewer who confirms and saves it. Saved records and machine extractions are
 then searchable with a hybrid RAG search whose AI answers are fact-checked claim by claim.
 
+**Live demo:** https://ad-reader-kejd8ymzrybmufjazbakbc.streamlit.app (Streamlit Community Cloud)
+
 ## Key features
 
 - **OCR with automatic Indian-script detection** - RapidOCR (PP-OCR models on ONNX Runtime). Latin + Devanagari by
@@ -28,8 +30,9 @@ then searchable with a hybrid RAG search whose AI answers are fact-checked claim
 - **Safe database matching** - IDs come only from existing master records (string matching, never the model);
   an ID is pre-filled only on a confirmed match; new brands/products are added only by a human reviewer.
 - **Human-in-the-loop review** - flagged fields must be checked before saving; every correction is recorded.
-- **Background job queue** - each ad is a persistent job with checkpoints, retries, a live processing card and a
-  "Process now in this session" fallback when no worker is running (as on Hugging Face Spaces).
+- **Background job queue** - each ad is a persistent job with checkpoints, retries and a live processing card
+  (stages + elapsed timer, Cancel / Retry). Locally a separate worker (`scripts/worker.py`) processes jobs; on hosts
+  without one (Streamlit Community Cloud) the same worker loop runs as a background thread inside the app.
 - **Hybrid Search & RAG** - BM25 + multilingual-e5-small embeddings fused with Reciprocal Rank Fusion, natural-language
   auto-filters, grounded answers with validated citations, and a mandatory judge model that verifies every claim.
 
@@ -48,6 +51,16 @@ then searchable with a hybrid RAG search whose AI answers are fact-checked claim
 > bench200 labels human-verified). candidate_v4 figures are a development retest on already-examined data, not
 > independent proof. Details: [MODEL_COMPARISON.md](MODEL_COMPARISON.md).
 
+## Performance
+
+| Case | Typical time |
+|---|---|
+| Demo samples with saved results (Kia, Horlicks, Namaste) | ~5-10 s - saved OCR + extraction are reused; only the verifier and checks run |
+| A new ad (upload) | ~40-60 s - OCR on CPU, then the cloud vision model (median ~22 s per call), verifier, checks |
+| First action after a cold start | a little longer while OCR / embedding models finish downloading (warmed up in the background at start) |
+
+Most of the time for a new ad is the cloud vision model's response time; progress is shown live on the processing card.
+
 ## Quickstart (local)
 
 ```bash
@@ -60,7 +73,7 @@ cp .env.example .env          # then put your NVIDIA_API_KEY in .env (never comm
 streamlit run app/streamlit_app.py
 ```
 
-Optional background worker (otherwise jobs run in the browser session):
+Optional separate background worker (otherwise the app runs one in-process automatically):
 
 ```bash
 python scripts/worker.py
@@ -72,27 +85,34 @@ Run the tests:
 pytest -q
 ```
 
-Tests that need the local benchmark images/caches (`data/eval`, not in this repository) skip themselves.
+Tests that need local evaluation caches that are not in this repository skip themselves.
 The OCR models and the e5 embedding model (~118 MB) download automatically on first use.
 
-## Deploying on Hugging Face Spaces
+## Deploying on Streamlit Community Cloud (live demo)
 
-This repository is a ready Space. Hugging Face runs Streamlit apps through the **Docker SDK** (see the YAML header
-above): the `Dockerfile` installs the Linux libraries from `packages.txt`, the Python requirements, and starts
-Streamlit on port 7860. In the Space **Settings → Variables and secrets** add:
+1. On https://share.streamlit.io choose **Create app → Deploy a public app from GitHub**.
+2. Repository `anni88git/ad-reader`, branch `main`, main file path **`app/streamlit_app.py`**.
+3. **Advanced settings:** Python **3.12**, and paste the secrets in TOML format:
 
-| Name | Type | Value |
-|---|---|---|
-| `NVIDIA_API_KEY` | **Secret** | your key from build.nvidia.com |
-| `NVIDIA_API_KEY_BACKUP` | Secret (optional) | second key, used automatically if the first is rate-limited |
-| `VLM_BACKEND` | Variable | `nvidia` |
-| `NVIDIA_MODEL` | Variable | `nvidia/nemotron-3.5-super-vl-120b-a12b` |
-| `NVIDIA_VERIFIER_MODEL` | Variable | `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning` |
+```toml
+VLM_BACKEND = "nvidia"
+NVIDIA_API_KEY = "nvapi-..."                 # your key from build.nvidia.com
+NVIDIA_API_KEY_BACKUP = "nvapi-..."          # optional second key, used if the first is rate-limited
+NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
+NVIDIA_MODEL = "nvidia/nemotron-3.5-super-vl-120b-a12b"
+NVIDIA_VERIFIER_MODEL = "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning"
+```
 
-Notes for the free CPU Space: there is no background worker, so use **▶ Process now in this session** on the
-processing card; the first OCR / embedding run downloads models; storage is not persistent across restarts, so saved
-records and jobs reset when the Space rebuilds. Sample ad images and evaluation data are not included - upload your
-own JPG/PNG to try it.
+Notes: the app starts its own background worker and warms up the models after each start; OCR models download into
+a writable cache (`~/.cache/adreader/rapidocr_models`, override with `ADREADER_OCR_MODEL_DIR`); storage is not
+persistent, so saved records and jobs reset when the app reboots. A public app spends your NVIDIA quota on every
+extraction - share the link with reviewers only.
+
+## Docker / Hugging Face Spaces
+
+The `Dockerfile` (Python 3.12-slim, Linux libraries from `packages.txt`, Streamlit on port 7860) runs the same app
+anywhere Docker does, including Hugging Face Docker Spaces (which currently require a paid plan for CPU hosting). Set
+the same variables as above as environment variables / Space secrets.
 
 ## Repository layout
 
@@ -103,6 +123,6 @@ own JPG/PNG to try it.
 | `scripts/` | worker, evaluation and reporting scripts |
 | `tests/` | pytest suite |
 | `releases/` | frozen benchmark snapshots with `SHA256SUMS` |
-| `data/` | master database, drafted labels and the search index (other data stays local) |
+| `data/` | master database, drafted labels, search index, sample ads, the images the search shows, the audit set and saved results for the 3 demo samples (job history, uploads and evaluation caches stay local) |
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) for how the pieces fit together.
