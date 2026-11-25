@@ -28,7 +28,7 @@ sys.path.insert(0, str(ROOT))
 # Set ADREADER_RULES_V4=0 before starting the app to use candidate_v3 behaviour.
 os.environ.setdefault("ADREADER_RULES_V4", "1")
 
-from adreader import db, db_link, jobs, master_data as md, ocr as ocr_mod, preprocess as pp, providers, review, usage  # noqa: E402
+from adreader import db, db_link, jobs, master_data as md, ocr as ocr_mod, opsdb, preprocess as pp, providers, review, usage  # noqa: E402
 from adreader.config import OUTPUTS_DIR, vlm_config  # noqa: E402
 from adreader.extract import CATEGORY_NAMES, extract  # noqa: E402
 from adreader.matcher import default_matcher, link_records  # noqa: E402
@@ -126,6 +126,55 @@ def job_result(jid: int) -> AdResult | None:
     return res
 
 
+# ------------------------------------------------------------------ embedded background worker
+@st.cache_resource(show_spinner=False)
+def _embedded_worker():
+    """The same loop as scripts/worker.py, in a daemon thread - one per server process. Hosts without a separate
+    worker process (Streamlit Community Cloud, Hugging Face) then behave like a local setup with a worker:
+    jobs start as soon as they are queued and the live card updates on its own."""
+    import socket
+    import threading
+    name = f"{socket.gethostname()}-{os.getpid()}-embedded"
+
+    def loop():
+        c = opsdb.connect()
+        while True:
+            try:
+                jobs.worker_seen(name, os.getpid(), c)
+                jobs.recover_stale(c)
+                j = jobs.process_next(name, conn=c)
+            except Exception:                        # never let the thread die on one bad job / DB hiccup
+                j = None
+                time.sleep(5)
+            if not j:
+                time.sleep(2)
+    t = threading.Thread(target=loop, daemon=True, name="adreader-embedded-worker")
+    t.start()
+    return t
+
+
+def ensure_worker() -> None:
+    """Start the embedded worker when no external worker is alive (not under pytest; ADREADER_EMBEDDED_WORKER=0 turns
+    it off). The cache makes this a no-op after the first call."""
+    if os.environ.get("PYTEST_CURRENT_TEST") or os.environ.get("ADREADER_EMBEDDED_WORKER", "1") == "0":
+        return
+    if not jobs.workers_alive():
+        _embedded_worker()
+
+
+def worker_running() -> bool:
+    """An external worker has a recent heartbeat, or this process's embedded worker thread is alive (its heartbeat
+    pauses while it processes a long job)."""
+    if jobs.workers_alive():
+        return True
+    if os.environ.get("PYTEST_CURRENT_TEST") or os.environ.get("ADREADER_EMBEDDED_WORKER", "1") == "0":
+        return False
+    try:
+        return _embedded_worker().is_alive()
+    except Exception:
+        return False
+
+
 def run_here(jids: list[int]):
     """No background worker running: process in this session, through the same persistent job."""
     for jid in jids:
@@ -220,7 +269,7 @@ def job_panel(jids: list[int], img: np.ndarray | None = None) -> bool:
         h, w = img.shape[:2]
         left.image(img, channels="BGR", width="stretch" if w >= 0.9 * h else 420)
     with target:
-        if jobs.workers_alive():
+        if worker_running():
             _live_status(jids)
             st.caption("Processing in the background - this card updates by itself. You can also close the page; "
                        "the job continues and stays on the **Jobs** page.")
@@ -1247,7 +1296,7 @@ def page_jobs():
     if refresh.button("🔄 Refresh", key="jobs_refresh", width="stretch"):
         st.rerun()
     rd = providers.readiness()
-    alive = jobs.workers_alive()
+    alive = jobs.workers_alive() or (["embedded"] if worker_running() else [])
 
     # ---- provider / worker status card + setup warnings
     with st.container(key="jobs_status"):
@@ -1468,6 +1517,7 @@ def main():
     import landing                                     # animated welcome screen (app/landing.py)
     if not landing.gate():
         return
+    ensure_worker()                                    # no separate worker process (cloud hosts)? run one in-process
     with st.container(key="theme_reset_js"):           # zero-size helper; see RESET_CACHED_THEME_JS
         components.html(RESET_CACHED_THEME_JS, height=0)
     st.session_state.setdefault("edits", {})
