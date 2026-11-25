@@ -1181,6 +1181,10 @@ def page_saved():
 def page_audit():
     from adreader import audit
     st.subheader("Audit the drafted correct answers (random sample of 10)")
+    if not (audit.SET_DIR / "manifest.csv").is_file():   # evaluation images/labels are not shipped with every deployment
+        st.info("Audit data is not included in this deployment (the evaluation ad images stay local). "
+                "Run the app from a full local checkout to audit the drafted answers.")
+        return
     st.caption("Claude drafted these answers by reading each ad image (not from the system's output). "
                "Check each field against the image and correct anything wrong. Alternatives are separated by "
                f"`{audit.ALT_SEP.strip()}`; `{audit.NOT_PRINTED}` means the ad does not print it. "
