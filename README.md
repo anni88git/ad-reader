@@ -3,10 +3,8 @@ title: Indycium Ad-Reader
 emoji: 📰
 colorFrom: gray
 colorTo: indigo
-sdk: streamlit
-sdk_version: 1.67.0
-python_version: "3.12"
-app_file: app/streamlit_app.py
+sdk: docker
+app_port: 7860
 pinned: false
 short_description: AI ad data entry - OCR, vision LLM, verifier, DB matching, RAG
 ---
@@ -79,8 +77,9 @@ The OCR models and the e5 embedding model (~118 MB) download automatically on fi
 
 ## Deploying on Hugging Face Spaces
 
-This repository is a ready Streamlit Space (see the YAML header above; `packages.txt` adds the Linux libraries
-OpenCV needs). In the Space **Settings → Variables and secrets** add:
+This repository is a ready Space. Hugging Face runs Streamlit apps through the **Docker SDK** (see the YAML header
+above): the `Dockerfile` installs the Linux libraries from `packages.txt`, the Python requirements, and starts
+Streamlit on port 7860. In the Space **Settings → Variables and secrets** add:
 
 | Name | Type | Value |
 |---|---|---|
