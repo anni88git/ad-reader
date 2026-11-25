@@ -88,13 +88,20 @@ def _model_root() -> str | None:
     from pathlib import Path
     override = os.getenv("ADREADER_OCR_MODEL_DIR")
     if not override:
-        try:
+        try:                                                 # really try to write there (permission bits can lie)
+            import tempfile
             import rapidocr
             default = Path(rapidocr.__file__).parent / "models"
-            if os.access(default, os.W_OK):
-                return None                                  # keep RapidOCR's default location
+            with tempfile.NamedTemporaryFile(dir=default, prefix=".adreader_write_test_"):
+                pass
+            return None                                      # writable: keep RapidOCR's default location
         except Exception:
             pass
+    return _cache_root(override)
+
+
+def _cache_root(override: str | None = None) -> str:
+    from pathlib import Path
     root = Path(override or (Path.home() / ".cache" / "adreader" / "rapidocr_models")).expanduser()
     root.mkdir(parents=True, exist_ok=True)
     return str(root)
@@ -106,22 +113,32 @@ def _engine(lang: str):
     from rapidocr.utils.typings import LangRec, ModelType, OCRVersion
 
     det = {"Det.limit_side_len": 1600, "Det.limit_type": "max", "Det.box_thresh": 0.5}
-    if (mroot := _model_root()) is not None:
-        det["Global.model_root_dir"] = mroot
-    if lang == "latin":
-        return RapidOCR(params=det)   # default PP-OCR rec handles Latin + digits very well
-    lang_enum = {"devanagari": LangRec.DEVANAGARI, "tamil": LangRec.TA,
-                 "telugu": LangRec.TE, "kannada": LangRec.KA}[lang]
-    last_err = None
-    for ver in (OCRVersion.PPOCRV5, OCRVersion.PPOCRV4):
-        try:
-            eng = RapidOCR(params={**det, "Rec.lang_type": lang_enum, "Rec.ocr_version": ver,
-                                   "Rec.model_type": ModelType.MOBILE})
-            eng.recognize_txt([np.full((48, 160, 3), 255, np.uint8)])  # force model load/validate
-            return eng
-        except Exception as e:  # model combo not available -> try older version
-            last_err = e
-    raise RuntimeError(f"No OCR model available for {lang}: {last_err}")
+    mroot = _model_root()
+
+    def build(root: str | None):
+        p = dict(det, **({"Global.model_root_dir": root} if root else {}))
+        if lang == "latin":
+            return RapidOCR(params=p)   # default PP-OCR rec handles Latin + digits very well
+        lang_enum = {"devanagari": LangRec.DEVANAGARI, "tamil": LangRec.TA,
+                     "telugu": LangRec.TE, "kannada": LangRec.KA}[lang]
+        last_err = None
+        for ver in (OCRVersion.PPOCRV5, OCRVersion.PPOCRV4):
+            try:
+                eng = RapidOCR(params={**p, "Rec.lang_type": lang_enum, "Rec.ocr_version": ver,
+                                       "Rec.model_type": ModelType.MOBILE})
+                eng.recognize_txt([np.full((48, 160, 3), 255, np.uint8)])  # force model load/validate
+                return eng
+            except Exception as e:  # model combo not available -> try older version
+                last_err = e
+        raise RuntimeError(f"No OCR model available for {lang}: {last_err}")
+
+    try:
+        return build(mroot)
+    except Exception as e:
+        # read-only package folder on a cloud host: download the models into a writable cache instead
+        if mroot is None and ("Permission denied" in str(e) or isinstance(e, PermissionError)):
+            return build(_cache_root())
+        raise
 
 
 def _detect(img: np.ndarray) -> list[np.ndarray]:
